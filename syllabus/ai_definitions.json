@@ -8,7 +8,7 @@
         "topics": [
           {
             "topic": "Quadratic Equations",
-            "definition": "A quadratic equation is an equation of the form $$ax^2 + bx + c = 0$$ where a, b, and c are real numbers and a ≠ 0. The solutions to a quadratic equation are the values of x that make the equation equal to zero"
+            "definition": "**Quadratic Equations**\nA quadratic equation is an equation of the form $$ax^2 + bx + c = 0$$ where $$a, b, \\text{ and } c$$ are constants. Solving a quadratic equation involves finding the roots, which are the solutions to the equation.\n**Roots** are the values of $$x$$ that make the equation equal to zero. The roots of a quadratic equation can be found using various methods, such as factoring, square root property, and the quadratic formula: $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n**Important Properties of Quadratic Equations:**\n- A quadratic equation always has two distinct roots.\n- The value of $$a$$ determines the nature of the roots. If $$a > 0$$, the roots are real and distinct. If $$a < 0$$, the roots are complex conjugates.\n- The product of the roots is equal to the constant term $c$.\n- The sum of the roots is equal to the coefficient of the $x^2$ term $b$.\n**Examples:**\n- $$x^2 - 4x + 4 = 0$$ has two distinct real roots, which are 2 and 2.\n- $$x^2 - 3x + 2 = 0$$ has two complex conjugate roots, which are 1 and 2.\n- $$x^2 + 9 = 0$$ has only one real root, which is -3"
           }
         ]
       },
@@ -17,7 +17,7 @@
         "topics": [
           {
             "topic": "Integration",
-            "definition": "Integration is a mathematical concept that deals with finding the total or accumulated value of a function over a given interval. It allows us to determine the area, the length, or the total of various shapes and curves by summing up their individual infinitesimal contributions"
+            "definition": "**Integration** is the process of finding a function's **antiderivative**. An **antiderivative** is a function that, when differentiated, gives the original function.\n**Formal Definition:**\nIntegration is the inverse operation of differentiation. It is a process of adding a constant to a function to find another function that is equal to the original function after integration.\n**Examples:**\n* **Finding the antiderivative of f(x) = x^2 is F(x) = (1/3)x^3 + C**, where C is the constant of integration.\n* **Finding the antiderivative of f(x) = 1/x is F(x) = ln(x) + C**, where C is the constant of integration.\n* **Finding the antiderivative of f(x) = 3x^2 - 2x is F(x) = (2x^3) - x^2 + C**, where C is the constant of integration.\n**Key Concepts:**\n* **Riemann sums:** Riemann sums are a method for approximating the definite integral by adding up the areas of rectangles under the curve.\n* **Fundamental theorem of calculus:** The fundamental theorem of calculus states that the definite integral of a function is equal to the area under the curve of that function.\n* **Substitution:** Substitution is a method for finding the antiderivative of a function by replacing a part of the function with a variable.\n* **Integration by parts:** Integration by parts is a method for finding the antiderivative of a product of two functions"
           }
         ]
       }

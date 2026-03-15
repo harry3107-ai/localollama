@@ -37,9 +37,39 @@ def clean_response_text(text, topic=None):
     raw = text.strip()
     out = raw.replace('```json', '').replace('```', '').strip()
 
-    # Remove simple leading phrases from prompt.
+    # Remove simple leading phrases from prompt without regex.
     lower_out = out.lower()
-    
+    prefixes = [
+        "sure, here's a concise definition for you:",
+        "sure here's a concise definition for you:",
+        "sure, here is a concise definition for you:",
+        "sure here is a concise definition for you:",
+        "here's the definition of",
+        "here is the definition of",
+        "a concise definition for you:",
+        "a concise definition is:",
+        "definition:",
+        "definition -",
+        "please define",
+        "please provide a definition of"
+    ]
+    for prefix in prefixes:
+        if lower_out.startswith(prefix):
+            out = out[len(prefix):].strip()
+            lower_out = out.lower()
+            break
+
+    # If still starts with 'sure' or 'here', trim up to first sentence or colon.
+    if lower_out.startswith('sure') or lower_out.startswith("here"):
+        idx_colon = out.find(':')
+        if idx_colon >= 0 and idx_colon < 120:
+            out = out[idx_colon + 1:].strip()
+            lower_out = out.lower()
+        elif '.' in out:
+            idx_period = out.find('.')
+            out = out[idx_period + 1:].strip() if idx_period >= 0 else out
+            lower_out = out.lower()
+
     # Remove explicit subject/chapter metadata using simple keyword ops (no regex).
     for token in ['subject:', 'chapter:']:
         idx = lower_out.find(token)
@@ -51,9 +81,11 @@ def clean_response_text(text, topic=None):
             lower_out = out.lower()
             idx = lower_out.find(token)
 
-    # Collapse line breaks and spaces
-    out = out.replace('\n', ' ').replace('\r', ' ')
-    out = ' '.join(out.split())
+    # Collapse line breaks and spaces but preserve paragraph breaks
+    out = out.replace('\r', '')
+    out = re.sub(r'\n\s*\n', '\n\n', out)  # keep paragraph separations
+    out = re.sub(r'[ \t]+', ' ', out)            # normalize intra-line spaces
+    out = re.sub(r'\n\s+', '\n', out)          # trim spaces after newline
 
     # If trimmed output is empty, fallback to raw sentence extraction
     if not out:
@@ -71,18 +103,20 @@ def clean_response_text(text, topic=None):
 
 def generate_definition(subject, chapter, topic):
     prompt = (
-        f"Provide a concise, formal definition of the topic '{topic}' for learners. "
+        f"Provide a detailed, formal explanation of the topic '{topic}' for students. "
         f"Subject: {subject}. Chapter: {chapter}. "
-        "Write exactly one paragraph in plain text."
-        "Do not provide examples, bullet points, code, or any extras."
-        "Focus solely on a clear, accurate definition suitable for a textbook."
-        "Do not include sure or here's in the response. Just the definition."
+        "Use clear prose with at least 3 sentences, and include examples only as plain text explanations (no code). "
+        "Avoid starting with 'Sure', 'Here's', or other meta commentary."
+        "Produce varied wording each call so the response does not look repetitive."
     )
 
     payload = {
         "model": MODEL,
         "prompt": prompt,
-        "stream": False
+        "stream": False,
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "max_tokens": 450
     }
 
     response = requests.post(API_URL, json=payload, timeout=300)
@@ -93,10 +127,9 @@ def generate_definition(subject, chapter, topic):
 
 
 def save_output(data):
-    temp_file = OUTPUT_FILE + ".tmp"
-    with open(temp_file, "w", encoding="utf-8") as f:
+    # Write directly to ai_definitions.json without using a temporary file.
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    os.replace(temp_file, OUTPUT_FILE)
 
 
 # Build output structure with definitions only
