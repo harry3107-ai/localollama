@@ -8,7 +8,7 @@
         "topics": [
           {
             "topic": "Quadratic Equations",
-            "definition": "A quadratic equation is an equation of the form of $$ax^2 + bx + c = 0$$ where a, b, and c are constants. Solving a quadratic equation involves finding the values of x that make the equation equal to zero"
+            "definition": "A quadratic equation is an equation of the form $$ax^2 + bx + c = 0$$ where a, b, and c are real numbers and a ≠ 0. The solutions to a quadratic equation are the values of x that make the equation equal to zero"
           }
         ]
       },
@@ -17,7 +17,7 @@
         "topics": [
           {
             "topic": "Integration",
-            "definition": "Integration is a process of finding the area under a curve. It involves breaking the curve into smaller parts and summing their areas to get the total area"
+            "definition": "Integration is a mathematical concept that deals with finding the total or accumulated value of a function over a given interval. It allows us to determine the area, the length, or the total of various shapes and curves by summing up their individual infinitesimal contributions"
           }
         ]
       }

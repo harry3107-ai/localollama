@@ -35,56 +35,48 @@ def clean_response_text(text, topic=None):
         return ""
 
     raw = text.strip()
-    out = re.sub(r"```(?:json)?", "", raw).strip()
+    out = raw.replace('```json', '').replace('```', '').strip()
 
-    # Remove common leading prompt/chat fragments.
-    out = re.sub(r"^\s*(sure[,\s]*)?(here(?:'s| is)?\s+the\s+definition\s+of\s+[^\.]+\.)", "", out, flags=re.IGNORECASE).strip()
-    out = re.sub(r"^\s*Definition[:\-]?\s*", "", out, flags=re.IGNORECASE).strip()
+    # Remove simple leading phrases from prompt.
+    lower_out = out.lower()
+    
+    # Remove explicit subject/chapter metadata using simple keyword ops (no regex).
+    for token in ['subject:', 'chapter:']:
+        idx = lower_out.find(token)
+        while idx != -1:
+            end = lower_out.find('.', idx)
+            if end == -1:
+                end = len(out)
+            out = (out[:idx] + out[end + 1:]).strip()
+            lower_out = out.lower()
+            idx = lower_out.find(token)
 
-    # Remove explicit subject/chapter metadata.
-    out = re.sub(r"Subject\s*:\s*[^,;\.]+[;,\.]?", "", out, flags=re.IGNORECASE).strip()
+    # Collapse line breaks and spaces
+    out = out.replace('\n', ' ').replace('\r', ' ')
+    out = ' '.join(out.split())
 
-    # If format is Chapter: X: definition, capture after second colon.
-    m = re.search(r"Chapter\s*:\s*[^:]+:\s*(.*)$", out, flags=re.IGNORECASE)
-    if m:
-        out = m.group(1).strip()
-
-    out = out.replace("\n", " ").replace("\r", " ")
-    out = re.sub(r"\s+", " ", out).strip()
-
-    # Remove repeated labels/phrases (e.g., "Subject: ... Chapter: ...")
-    out = re.sub(r"(Subject\s*:\s*[^,;\.]+[;,\.]?)+", "", out, flags=re.IGNORECASE).strip()
-    out = re.sub(r"(Chapter\s*:\s*[^:]+[;,\.]?)+", "", out, flags=re.IGNORECASE).strip()
-
-    out = out.strip(' .')
-
-    # Fallback if empty: pick sentence with topic or first sentence from raw text.
+    # If trimmed output is empty, fallback to raw sentence extraction
     if not out:
-        sentences = re.split(r"(?<=[.!?])\s+", raw)
-        found = ""
+        sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', raw) if s.strip()]
         if topic:
             for s in sentences:
                 if topic.lower() in s.lower():
-                    found = s.strip()
+                    out = s
                     break
-        if not found and sentences:
-            found = sentences[0].strip()
-        out = found
+        if not out and sentences:
+            out = sentences[0]
 
-    out = re.sub(r"\s+", " ", out).strip()
-
-    # Strip trailing period.
-    if out.endswith('.'):
-        out = out[:-1].strip()
+    out = out.strip(' .')
     return out
 
-
-def generate_definition(subject, chapter, topic, grade="6 to B.Tech"):
+def generate_definition(subject, chapter, topic):
     prompt = (
-        f"Provide a concise, formal definition of the topic '{topic}' for learners from class {grade}. "
+        f"Provide a concise, formal definition of the topic '{topic}' for learners. "
         f"Subject: {subject}. Chapter: {chapter}. "
-        "Write exactly one paragraph (1-2 sentences) in plain text."
-        " Do not provide examples, bullet points, code, or any extras."
+        "Write exactly one paragraph in plain text."
+        "Do not provide examples, bullet points, code, or any extras."
+        "Focus solely on a clear, accurate definition suitable for a textbook."
+        "Do not include sure or here's in the response. Just the definition."
     )
 
     payload = {
