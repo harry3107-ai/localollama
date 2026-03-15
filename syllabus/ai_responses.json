@@ -1,0 +1,38 @@
+[
+  {
+    "subject": "Mathematics",
+    "chapter": "Algebra",
+    "topic": "Quadratic Equations",
+    "response": "ax^2 + bx + c = 0\n\nx^2 - 4x + 4 = 0\n\n(x - 2)(x - 2) = 0\n\nx - 2 = 0\nx - 2 = 0\n\nx = 2\nx = 2\n\nimport sympy\n\n# Define the quadratic equation\nequation = sympy.Eq(x**2 - 4*x + 4, 0)\n\n# Solve the equation\nsolutions = sympy.solve(equation)\n\n# Print the solutions\nprint(solutions)\n\n[(2, 2)]"
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Algebra",
+    "topic": "Linear Equations",
+    "response": "ax + b = c\n\nx + 3 = 10\n\nx + 3 - 3 = 10 - 3\nx = 7\n\nx - 4 = 12\n\nx - 4 + 4 = 12 + 4\nx = 16\n\n# Example 1\nprint(x + 3 == 10)\n\n# Example 2\nprint(x - 4 == 12)"
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Calculus",
+    "topic": "Differentiation",
+    "response": "d/dx (2x^2 + 1) = 4x\n\nd/dx [(x^2 + 1)^3] = 6(x^2 + 1)^2\n\nd/dx sin(x) = cos(x)\n\ndef derivative(f):\n  \"\"\"\n  Finds the derivative of a function.\n\n  Args:\n    f: A function.\n\n  Returns:\n    The derivative of the function.\n  \"\"\"\n  return d/dx(f)\n\n\n# Example usage\nderivative(lambda x: x**2)"
+  },
+  {
+    "subject": "Mathematics",
+    "chapter": "Calculus",
+    "topic": "Integration",
+    "response": "Area = \u222b_0^1 x^2 dx\n\nArea = [1/3]x^3 |_0^1 = 1/3\n\n# Define the function\ndef f(x):\n    return x**2\n\n# Evaluate the definite integral\narea = integral(f, 0, 1)\n\n# Print the area\nprint(\"Area:\", area)"
+  },
+  {
+    "subject": "Computer Science",
+    "chapter": "Python",
+    "topic": "Functions",
+    "response": "def sum(a, b):\n  \"\"\"\n  This function calculates the sum of two numbers.\n  \"\"\"\n  return a + b\n\nprint(sum(5, 10))\n\n15"
+  },
+  {
+    "subject": "Computer Science",
+    "chapter": "Python",
+    "topic": "Classes",
+    "response": "class Person:\n  def __init__(self, name, age):\n    self.name = name\n    self.age = age\n\n  def introduce(self):\n    print(\"Hello, my name is\", self.name)\n\n# Create an object\njohn = Person(\"John Doe\", 30)\n\n# Call the introduce method\njohn.introduce()"
+  }
+]

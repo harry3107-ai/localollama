@@ -21,6 +21,8 @@ services:
     restart: unless-stopped
     ports:
       - "3000:8080"
+    mem_limit: 1g
+    memswap_limit: 1g
     environment:
       - OLLAMA_BASE_URL=http://ollama:11434
     depends_on:

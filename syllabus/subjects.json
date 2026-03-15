@@ -1,0 +1,35 @@
+{
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "chapters": [
+        {
+          "name": "Algebra",
+          "topics": [
+            "Quadratic Equations",
+            "Linear Equations"
+          ]
+        },
+        {
+          "name": "Calculus",
+          "topics": [
+            "Differentiation",
+            "Integration"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "chapters": [
+        {
+          "name": "Python",
+          "topics": [
+            "Functions",
+            "Classes"
+          ]
+        }
+      ]
+    }
+  ]
+}

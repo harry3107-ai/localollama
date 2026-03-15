@@ -244,7 +244,8 @@ docker images
 docker exec -it ollama ollama list
 docker exec -it ollama ollama pull deepseek-coder:1.3b
 docker exec -it ollama ollama run deepseek-coder:1.3b
-docker exec -it ollama ollama pull santacoder:1.1b
+docker exec -it ollama ollama pull gemma:2b
+docker exec -it ollama ollama run gemma:2b
 ```
 
 Remove a model:
