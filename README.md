@@ -1,8 +1,16 @@
+Below is an **updated version of your README** optimized for **~4 GB available RAM** and using **DeepSeek Coder 1.3B**, which works well with **Ollama** inside **Docker**.
+
+I also fixed a few mistakes (your README mentioned **6.7B while downloading 1.3B**).
+
+---
+
 # AI Dev Workspace
 
-Local AI development environment using **Docker** and **Ollama** to run coding models like **DeepSeek-Coder** locally.
+Local AI development environment using **Docker** and **Ollama** to run lightweight coding models like **DeepSeek Coder 1.3B** locally.
 
-This setup allows you to run an AI coding assistant completely offline and connect it to your code editor.
+This setup allows you to run an AI coding assistant **offline** and connect it to your code editor.
+
+Optimized for **low-memory systems (~4 GB available RAM)**.
 
 ---
 
@@ -27,25 +35,37 @@ ai-dev-workspace/
 
 # Requirements
 
+Minimum setup:
+
 * Docker installed
 * Docker Compose
-* 16 GB RAM recommended
-* Internet connection (only needed for first model download)
+* **4 GB RAM available**
+* Internet connection (only required for first model download)
+
+Recommended:
+
+* 8–16 GB RAM for larger models
 
 ---
 
 # Start AI Server
 
-Navigate to docker folder:
+Navigate to the docker folder:
 
 ```sh
 cd docker
 ```
 
-Start container:
+Start containers:
 
 ```sh
 docker compose up -d
+```
+
+This starts **Ollama** locally on:
+
+```
+http://localhost:11434
 ```
 
 ---
@@ -56,12 +76,10 @@ docker compose up -d
 docker ps
 ```
 
----
+Expected container:
 
-# List Docker Images
-
-```sh
-docker images
+```
+ollama
 ```
 
 ---
@@ -74,14 +92,30 @@ docker exec -it ollama ollama list
 
 ---
 
-# Download Coding Model
+# Download Lightweight Coding Models
+
+For **4 GB RAM systems**, use small models.
+
+Recommended coding model:
 
 ```sh
 docker exec -it ollama ollama pull deepseek-coder:1.3b
-docker exec -it ollama ollama pull codellama:7b-code-q4_1
-docker exec -it ollama ollama pull santacoder:1.1b
 ```
-This downloads the **DeepSeek coding model (~3.8GB)**.
+
+Optional additional lightweight models:
+
+```sh
+docker exec -it ollama ollama pull santacoder:1.1b
+docker exec -it ollama ollama pull phi3:mini
+```
+
+Approximate memory usage:
+
+| Model               | RAM Required | Use Case           |
+| ------------------- | ------------ | ------------------ |
+| deepseek-coder:1.3b | ~2–3 GB      | coding             |
+| santacoder:1.1b     | ~2 GB        | lightweight coding |
+| phi3:mini           | ~3–4 GB      | reasoning + coding |
 
 ---
 
@@ -91,19 +125,21 @@ This downloads the **DeepSeek coding model (~3.8GB)**.
 docker exec -it ollama ollama list
 ```
 
-Expected output:
+Example output:
 
 ```
-NAME                 SIZE
-deepseek-coder:6.7b  ~3.8GB
+NAME                     SIZE
+deepseek-coder:1.3b      ~2.3GB
 ```
 
 ---
 
-# Run the Model
+# Run the Coding Model
+
+Start an interactive session:
 
 ```sh
-docker exec -it ollama ollama run deepseek-coder
+docker exec -it ollama ollama run deepseek-coder:1.3b
 ```
 
 Example prompt:
@@ -133,7 +169,7 @@ Example API request:
 ```sh
 curl http://localhost:11434/api/generate \
 -d '{
-"model":"deepseek-coder:6.7b",
+"model":"deepseek-coder:1.3b",
 "prompt":"write a python fibonacci function"
 }'
 ```
@@ -150,13 +186,13 @@ docker compose down
 
 # Useful Docker Commands
 
-Start container
+Start containers
 
 ```sh
 docker compose up -d
 ```
 
-Stop container
+Stop containers
 
 ```sh
 docker compose down
@@ -198,41 +234,55 @@ Invoke-History 2
 
 ---
 
-# Installed Commands History (Example)
+# Example Setup History
 
 Example commands used during setup:
 
 ```sh
 docker compose up -d
-docker manifest inspect ollama/ollama:0.3.12
 docker images
 docker exec -it ollama ollama list
-docker exec -it ollama ollama pull deepseek-coder:6.7b
-docker exec -it ollama ollama run deepseek-coder
+docker exec -it ollama ollama pull deepseek-coder:1.3b
+docker exec -it ollama ollama run deepseek-coder:1.3b
+docker exec -it ollama ollama pull santacoder:1.1b
+```
 
+Remove a model:
 
-docker exec -it ollama ollama rm codellama:7b-code-q4_1
+```sh
+docker exec -it ollama ollama rm santacoder:1.1b
 ```
 
 ---
 
 # Future Improvements
 
-Possible extensions for this project:
+Possible extensions:
 
-* Add web interface for AI chat
+* Add web interface for AI chat (OpenWebUI)
 * Add multiple AI models
-* Connect to code editor AI extension
+* Connect to code editor AI extensions
 * Add document search (RAG)
 * Enable GPU acceleration
+* Add automatic model selection
 
 ---
 
 # Notes
 
-* Models are stored in Docker volume.
+* Models are stored inside a Docker volume.
 * First download may take several minutes.
 * Requires several GB of disk space.
-* Works completely offline after models are downloaded.
+* Works completely **offline after models are downloaded**.
+* For low-RAM systems, keep **only one model loaded at a time**.
 
 ---
+
+✅ If you want, I can also give you a **much better version of this project** that includes:
+
+* **Open WebUI chat interface
+* **VS Code AI integration**
+* **local RAG document search**
+* optimized **Docker setup for 4 GB RAM**
+
+It becomes a **full local Copilot replacement**.
