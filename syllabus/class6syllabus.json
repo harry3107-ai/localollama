@@ -1,0 +1,748 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Knowing Our Numbers",
+        "topics": [
+          "Introduction",
+          "Large Numbers In Practice",
+          "Using Brackets",
+          "Roman Numerals",
+          "Estimation"
+        ]
+      },
+      {
+        "chapter": "Whole Numbers",
+        "topics": [
+          "Introduction",
+          "Whole Numbers",
+          "The Number Line",
+          "Properties of Whole Numbers"
+        ]
+      },
+      {
+        "chapter": "Playing with Numbers",
+        "topics": [
+          "Introduction",
+          "Factors and Multiples",
+          "Prime and Composite Numbers",
+          "Tests for Divisibility of Numbers",
+          "Common Factors and Common Multiples",
+          "Some More Divisibility Rules",
+          "Prime Factorisation"
+        ]
+      },
+      {
+        "chapter": "Basic Geometrical Ideas",
+        "topics": [
+          "Introduction",
+          "Points",
+          "A Line Segment",
+          "A Line",
+          "Intersecting Lines",
+          "Parallel Lines"
+        ]
+      },
+      {
+        "chapter": "Understanding Elementary Shapes",
+        "topics": [
+          "Introduction",
+          "Measuring Line Segments",
+          "Angles - 'Right' and 'Straight'",
+          "Angles - 'Acute', 'Obtuse' and 'Reflex'",
+          "Measuring Angles",
+          "Perpendicular Lines",
+          "Classification of Triangles",
+          "Quadrilaterals"
+        ]
+      },
+      {
+        "chapter": "Integers",
+        "topics": [
+          "Introduction",
+          "Integers",
+          "Addition of Integers",
+          "Subtraction of Integers with the help of a Number Line"
+        ]
+      },
+      {
+        "chapter": "Fractions",
+        "topics": [
+          "Introduction",
+          "A Fraction",
+          "Fraction on the Number Line",
+          "Proper Fractions",
+          "Improper and Mixed Fractions",
+          "Equivalent Fractions"
+        ]
+      },
+      {
+        "chapter": "Decimals",
+        "topics": [
+          "Introduction",
+          "Tenths",
+          "Hundredths",
+          "Comparing Decimals",
+          "Using Decimals"
+        ]
+      },
+      {
+        "chapter": "Data Handling",
+        "topics": [
+          "Introduction",
+          "Recording Data",
+          "Organization of Data",
+          "Pictograph"
+        ]
+      },
+      {
+        "chapter": "Mensuration",
+        "topics": [
+          "Introduction",
+          "Perimeter",
+          "Area",
+          "Area of a Rectangle"
+        ]
+      },
+      {
+        "chapter": "Algebra",
+        "topics": [
+          "Introduction",
+          "Matchstick Patterns",
+          "The Idea of a Variable",
+          "More Matchstick Patterns",
+          "More Examples of Variables"
+        ]
+      },
+      {
+        "chapter": "Ratio and Proportion",
+        "topics": [
+          "Introduction",
+          "Ratio",
+          "Proportion"
+        ]
+      },
+      {
+        "chapter": "Symmetry",
+        "topics": [
+          "Introduction",
+          "Making Symmetric Figures: Ink-blot Devils",
+          "Figures with Two Lines of Symmetry"
+        ]
+      },
+      {
+        "chapter": "Practical Geometry",
+        "topics": [
+          "Introduction",
+          "The Circle",
+          "A Line Segment",
+          "Perpendiculars",
+          "Angles",
+          "Construction of Angles of Special Measures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Components of Food",
+        "topics": [
+          "What Do Different Food Items Contain?",
+          "What Do Various Nutrients Do for Our Body?",
+          "Balanced Diet",
+          "Deficiency Diseases"
+        ]
+      },
+      {
+        "chapter": "Sorting Materials into Groups",
+        "topics": [
+          "Objects Around Us",
+          "Properties of Materials",
+          "Appearance"
+        ]
+      },
+      {
+        "chapter": "Separation of Substances",
+        "topics": [
+          "Methods of Separation",
+          "Handpicking",
+          "Threshing",
+          "Winnowing"
+        ]
+      },
+      {
+        "chapter": "Getting to Know Plants",
+        "topics": [
+          "Herbs, Shrubs and Trees",
+          "Stem",
+          "Leaf",
+          "Root",
+          "Flower",
+          "Structure of a Flower"
+        ]
+      },
+      {
+        "chapter": "Body Movements",
+        "topics": [
+          "Human Body and Its Movements",
+          "Joints",
+          "Ball and Socket Joints",
+          "Pivotal Joint",
+          "Hinge Joints"
+        ]
+      },
+      {
+        "chapter": "The Living Organisms and Their Surroundings",
+        "topics": [
+          "Organisms and the Surroundings where They Live",
+          "Habitat and Adaptation",
+          "A Journey Through Different Habitats",
+          "Some Terrestrial Habitats",
+          "Some Aquatic Habitats"
+        ]
+      },
+      {
+        "chapter": "Motion and Measurement of Distances",
+        "topics": [
+          "Story of Transport",
+          "How Wide is this Desk?",
+          "Some Measurements",
+          "Standard Units of Measurements"
+        ]
+      },
+      {
+        "chapter": "Light, Shadows and Reflections",
+        "topics": [
+          "Transparent, Opaque and Translucent Objects",
+          "What Exactly are Shadows?",
+          "A Pinhole Camera",
+          "Mirrors and Reflections"
+        ]
+      },
+      {
+        "chapter": "Electricity and Circuits",
+        "topics": [
+          "Electric Cell",
+          "A Bulb Connected to an Electric Cell",
+          "An Electric Circuit",
+          "Electric Switches"
+        ]
+      },
+      {
+        "chapter": "Fun with Magnets",
+        "topics": [
+          "Magnetic and Non-Magnetic Materials",
+          "Poles of Magnet",
+          "Finding Directions",
+          "Make Your Own Magnet"
+        ]
+      },
+      {
+        "chapter": "Air Around Us",
+        "topics": [
+          "Is Air Present Everywhere Around Us?",
+          "What is Air Made Up of?",
+          "How is Oxygen Replaced in Nature?"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - History (Our Pasts - I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "What, Where, How and When?",
+        "topics": [
+          "What Can We Know About the Past?",
+          "Where Did People Live?",
+          "Names of the Land",
+          "Finding Out About the Past"
+        ]
+      },
+      {
+        "chapter": "From Hunting-Gathering to Growing Food",
+        "topics": [
+          "The Earliest People: Why Were They on the Move?",
+          "How Do We Know About These People?",
+          "Choosing a Place to Live In",
+          "Making Stone Tools",
+          "Finding Out About Fire"
+        ]
+      },
+      {
+        "chapter": "In the Earliest Cities",
+        "topics": [
+          "The Story of Harappa",
+          "What Was Special About These Cities?",
+          "Houses, Drains and Streets",
+          "Life in the City",
+          "New Crafts in the City"
+        ]
+      },
+      {
+        "chapter": "What Books and Burials Tell Us",
+        "topics": [
+          "One of the Oldest Books in the World",
+          "How Historians Study the Rigveda",
+          "Cattle, Horses and Chariots",
+          "Words to Describe People"
+        ]
+      },
+      {
+        "chapter": "Kingdoms, Kings and an Early Republic",
+        "topics": [
+          "How Some Men Became Rulers",
+          "Varnas",
+          "Janapadas",
+          "Mahajanapadas",
+          "Taxes"
+        ]
+      },
+      {
+        "chapter": "New Questions and Ideas",
+        "topics": [
+          "The Story of the Buddha",
+          "Upanishads",
+          "Jainism",
+          "The Sangha",
+          "Monasteries"
+        ]
+      },
+      {
+        "chapter": "Ashoka, The Emperor Who Gave Up War",
+        "topics": [
+          "A Very Big Kingdom = An Empire",
+          "How Are Empires Different from Kingdoms?",
+          "Ruling the Empire",
+          "The Emperor and the Capital City"
+        ]
+      },
+      {
+        "chapter": "Vital Villages, Thriving Towns",
+        "topics": [
+          "Iron Tools and Agriculture",
+          "Other Steps to Increase Production: Irrigation",
+          "Who Lived in the Villages?",
+          "Findings About Cities: Stories, Travellers, Sculpture and Archaeology",
+          "Coins"
+        ]
+      },
+      {
+        "chapter": "Traders, Kings and Pilgrims",
+        "topics": [
+          "How to Find Out About Trade and Traders",
+          "New Kingdoms Along the Coasts",
+          "The Story of the Silk Route",
+          "The Spread of Buddhism"
+        ]
+      },
+      {
+        "chapter": "New Empires and Kingdoms",
+        "topics": [
+          "Prashastis and What They Tell Us",
+          "Samudragupta's Prashasti",
+          "Genealogies",
+          "Harshavardhana and the Harshacharita",
+          "The Pallavas, Chalukyas and Pulakeshin's Prashasti"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - Geography (The Earth Our Habitat)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Earth in the Solar System",
+        "topics": [
+          "The Solar System",
+          "The Sun",
+          "Planets",
+          "The Earth",
+          "The Moon"
+        ]
+      },
+      {
+        "chapter": "Globe: Latitudes and Longitudes",
+        "topics": [
+          "Equator",
+          "Parallels of Latitudes",
+          "Important Parallels of Latitudes",
+          "Heat Zones of the Earth"
+        ]
+      },
+      {
+        "chapter": "Motions of the Earth",
+        "topics": [
+          "Rotation",
+          "Revolution",
+          "Seasons"
+        ]
+      },
+      {
+        "chapter": "Maps",
+        "topics": [
+          "Physical Maps",
+          "Political Maps",
+          "Thematic Maps",
+          "Components of Maps"
+        ]
+      },
+      {
+        "chapter": "Major Domains of the Earth",
+        "topics": [
+          "Lithosphere",
+          "Continents",
+          "Hydrosphere",
+          "Oceans",
+          "Atmosphere"
+        ]
+      },
+      {
+        "chapter": "Major Landforms of the Earth",
+        "topics": [
+          "Mountains",
+          "Plateaus",
+          "Plains",
+          "Landforms and the People"
+        ]
+      },
+      {
+        "chapter": "Our Country - India",
+        "topics": [
+          "Locational Setting",
+          "India's Neighbours",
+          "Political and Administrative Divisions",
+          "Physical Divisions",
+          "Peninsular Plateau"
+        ]
+      },
+      {
+        "chapter": "India: Climate, Vegetation and Wildlife",
+        "topics": [
+          "Weather and Climate",
+          "Natural Vegetation",
+          "Why are Forests Necessary?",
+          "Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - Civics (Social and Political Life - I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Understanding Diversity",
+        "topics": [
+          "Making Friends",
+          "What Does Diversity Add to Our Lives?",
+          "Diversity in India",
+          "How Do We Explain Diversity?"
+        ]
+      },
+      {
+        "chapter": "Diversity and Discrimination",
+        "topics": [
+          "Difference and Prejudice",
+          "Creating Stereotypes",
+          "Inequality and Discrimination",
+          "On Being Discriminated Against"
+        ]
+      },
+      {
+        "chapter": "What is Government?",
+        "topics": [
+          "Levels of Government",
+          "Laws and the Government",
+          "Types of Government",
+          "Democratic Governments"
+        ]
+      },
+      {
+        "chapter": "Key Elements of a Democratic Government",
+        "topics": [
+          "Participation",
+          "Other Ways of Participating",
+          "Need to Resolve Conflict",
+          "Equality and Justice"
+        ]
+      },
+      {
+        "chapter": "Panchayati Raj",
+        "topics": [
+          "Gram Sabha",
+          "The Gram Panchayat",
+          "Three Levels of Panchayats",
+          "Zila Parishad"
+        ]
+      },
+      {
+        "chapter": "Rural Administration",
+        "topics": [
+          "A Quarrel in the Village",
+          "Area of the Police Station",
+          "The Work at the Police Station"
+        ]
+      },
+      {
+        "chapter": "Urban Administration",
+        "topics": [
+          "The Ward Councillor and Administrative Staff",
+          "How Does the Municipal Corporation Get Its Money?",
+          "A Community Protest"
+        ]
+      },
+      {
+        "chapter": "Rural Livelihoods",
+        "topics": [
+          "Kalpattu Village",
+          "Thulasi",
+          "Sekar"
+        ]
+      },
+      {
+        "chapter": "Urban Livelihoods",
+        "topics": [
+          "Working on the Street",
+          "In the Market",
+          "In the Factory-Workshop Area"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Who Did Patrick's Homework?",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary building",
+          "Grammar - Noun functioning as Adjective",
+          "Writing task"
+        ]
+      },
+      {
+        "chapter": "How the Dog Found Himself a New Master!",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Synonyms",
+          "Grammar - Collective Nouns",
+          "Writing related to animals"
+        ]
+      },
+      {
+        "chapter": "Taro's Reward",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary words in context",
+          "Grammar - Adjectives and Adverbs",
+          "Speech writing"
+        ]
+      },
+      {
+        "chapter": "An Indian - American Woman in Space",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Phrasal Verbs",
+          "Grammar - Punctuation",
+          "Writing a report"
+        ]
+      },
+      {
+        "chapter": "A Different Kind of School",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary matching",
+          "Grammar - Verbs and Tenses",
+          "Letter writing"
+        ]
+      },
+      {
+        "chapter": "Who I Am",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Describing words",
+          "Grammar - Pronouns",
+          "Self Descriptive Writing"
+        ]
+      },
+      {
+        "chapter": "Fair Play",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary from context",
+          "Grammar - Subject-Verb Agreement",
+          "Writing about justice"
+        ]
+      },
+      {
+        "chapter": "A Game of Chance",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary exercises",
+          "Grammar - Direct and Indirect Speech",
+          "Creative Writing"
+        ]
+      },
+      {
+        "chapter": "Desert Animals",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Words related to habitats",
+          "Grammar - Prepositions",
+          "Writing about nature"
+        ]
+      },
+      {
+        "chapter": "The Banyan Tree",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Opposite words",
+          "Grammar - Conjunctions",
+          "Story Writing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Wah Chidiya Jo",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Grammar Concept"
+        ]
+      },
+      {
+        "chapter": "Bachpan",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Word Meaning"
+        ]
+      },
+      {
+        "chapter": "Nadaan Dost",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Creative Writing"
+        ]
+      },
+      {
+        "chapter": "Chaand Se Thodi Si Gappe",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Poetry Appreciation"
+        ]
+      },
+      {
+        "chapter": "Aksharon Ka Mahatva",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Essay Writing"
+        ]
+      },
+      {
+        "chapter": "Paar Nazar Ke",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Sci-Fi context"
+        ]
+      },
+      {
+        "chapter": "Saathi Haath Badhana",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Teamwork Essay"
+        ]
+      },
+      {
+        "chapter": "Aise-Aise",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Drama Practice"
+        ]
+      },
+      {
+        "chapter": "Ticket Album",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Hobby Writing"
+        ]
+      },
+      {
+        "chapter": "Jhansi Ki Rani",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Historical context"
+        ]
+      },
+      {
+        "chapter": "Jo Dekhkar Bhi Nahi Dekhte",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Empathy topics"
+        ]
+      },
+      {
+        "chapter": "Sansar Pustak Hai",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Letter formats"
+        ]
+      },
+      {
+        "chapter": "Main Sabse Chhoti Houn",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Poem reading"
+        ]
+      },
+      {
+        "chapter": "Lokgeet",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Cultural discussion"
+        ]
+      }
+    ]
+  }
+]
