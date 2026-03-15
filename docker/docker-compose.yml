@@ -25,6 +25,17 @@ services:
     memswap_limit: 1g
     environment:
       - OLLAMA_BASE_URL=http://ollama:11434
+      - CORS_ALLOW_ORIGIN=http://localhost:3000;https://q99q7gf9-3000.inc1.devtunnels.ms
+      - FORWARDED_ALLOW_IPS='*'
+      - OPENWEBUI_LOG_LEVEL=info
+      - OPENWEBUI_SESSION_SECRET=supersecretkey
+      - OPENWEBUI_RBAC_ENABLED=true
+      - OPENWEBUI_AUTH_PROVIDER=local
+      - OPENWEBUI_DEFAULT_ADMIN_USERNAME=admin
+      - OPENWEBUI_DEFAULT_ADMIN_PASSWORD=ChangeMe123!
+      - OPENWEBUI_SESSION_COOKIE_SAMESITE=None
+      - OPENWEBUI_SESSION_COOKIE_SECURE=true
+      - OPENWEBUI_SITE_URL=https://q99q7gf9-3000.inc1.devtunnels.ms
     depends_on:
       - ollama
     volumes:
