@@ -212,6 +212,38 @@ docker images
 
 ---
 
+# Run topic definition generator
+
+Use `run_loop_definitions.py` to generate incremental definitions into `syllabus/ai_definitions.json`.
+
+From project root:
+
+```sh
+python syllabus/run_loop_definitions.py
+```
+
+Options:
+
+```sh
+python syllabus/run_loop_definitions.py \
+  --start-subject "Algebra" \
+  --start-chapter "Equations" \
+  --start-topic "Quadratic Equations"
+```
+
+This starts processing from the matching subject/chapter/topic (inclusive), while preserving existing definitions in `syllabus/ai_definitions.json`.
+
+# Create a new Markdown file in the same directory
+
+To add a new `.md` in the current directory:
+
+```sh
+cd syllabus
+copy NUL new-file.md   # Windows
+# OR
+touch new-file.md      # Unix-like shells
+```
+
 # PowerShell Command History
 
 Show command history:

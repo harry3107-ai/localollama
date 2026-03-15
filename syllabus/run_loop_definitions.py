@@ -1,3 +1,4 @@
+import argparse
 import requests
 import json
 import time
@@ -17,6 +18,13 @@ with open(INPUT_FILE, "r", encoding="utf-8") as f:
 
 # Ensure we use a list of subjects
 subjects = syllabus_data if isinstance(syllabus_data, list) else [syllabus_data]
+
+# Parse CLI arguments for resume/start options
+parser = argparse.ArgumentParser(description='Generate AI definitions for topics.')
+parser.add_argument('--start-subject', type=str, default=None, help='Subject name from which to start (inclusive)')
+parser.add_argument('--start-chapter', type=str, default=None, help='Chapter name from which to start (inclusive)')
+parser.add_argument('--start-topic', type=str, default=None, help='Topic name from which to start (inclusive)')
+args = parser.parse_args()
 
 # Normalize subject structure
 for subject in subjects:
@@ -127,49 +135,127 @@ def generate_definition(subject, chapter, topic):
 
 
 def save_output(data):
-    # Write directly to ai_definitions.json without using a temporary file.
+    # Write in place to ai_definitions.json in full after each incremental update.
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-# Build output structure with definitions only
+def find_subject(out_list, subject_name, year_value):
+    for item in out_list:
+        if item.get("subject") == subject_name and item.get("year") == year_value:
+            return item
+    return None
+
+
+def find_chapter(chapters_list, chapter_name):
+    for item in chapters_list:
+        if item.get("chapter") == chapter_name:
+            return item
+    return None
+
+
+def find_topic(topics_list, topic_name):
+    for item in topics_list:
+        if item.get("topic") == topic_name:
+            return item
+    return None
+
+
+# Build output structure with definitions only (resume from existing file if present)
 output = []
+if os.path.exists(OUTPUT_FILE):
+    try:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+            existing_output = json.load(f)
+            if isinstance(existing_output, list):
+                output = existing_output
+    except Exception as e:
+        print(f"[WARNING] Could not read existing output file: {e}")
+
+subject_started = args.start_subject is None
+chapter_started = args.start_chapter is None
+topic_started = args.start_topic is None
 
 for subject in subjects:
-    subj_out = {
-        "subject": subject.get("subject", ""),
-        "year": subject.get("year", ""),
-        "chapters": []
-    }
+    subject_name = subject.get("subject", "")
+    subject_year = subject.get("year", "")
+
+    if not subject_started:
+        if args.start_subject and subject_name == args.start_subject:
+            subject_started = True
+            # restart chapter/topic control when arriving at target subject
+            chapter_started = args.start_chapter is None
+            topic_started = args.start_topic is None
+        else:
+            continue
+
+    subj_out = find_subject(output, subject_name, subject_year)
+    if not subj_out:
+        subj_out = {
+            "subject": subject_name,
+            "year": subject_year,
+            "chapters": []
+        }
+        output.append(subj_out)
+
+    # keep subject metadata current
+    subj_out["subject"] = subject_name
+    subj_out["year"] = subject_year
 
     for chapter in subject.get("chapters", []):
-        chap_out = {
-            "chapter": chapter.get("chapter", ""),
-            "topics": []
-        }
+        chapter_name = chapter.get("chapter", "")
+
+        if not chapter_started:
+            if args.start_chapter and chapter_name == args.start_chapter:
+                chapter_started = True
+                topic_started = args.start_topic is None
+            else:
+                continue
+
+        chap_out = find_chapter(subj_out["chapters"], chapter_name)
+        if not chap_out:
+            chap_out = {
+                "chapter": chapter_name,
+                "topics": []
+            }
+            subj_out["chapters"].append(chap_out)
 
         for t in chapter.get("topics", []):
             topic_name = t.get("topic") if isinstance(t, dict) else None
             if not topic_name:
                 continue
 
-            print(f"[GENERATING] {subj_out['subject']} > {chap_out['chapter']} > {topic_name}")
+            if not topic_started:
+                if args.start_topic and topic_name == args.start_topic:
+                    topic_started = True
+                else:
+                    continue
+
+            existing_topic = find_topic(chap_out["topics"], topic_name)
+            if existing_topic and existing_topic.get("definition"):
+                print(f"[SKIP] Already exists: {subject_name} > {chapter_name} > {topic_name}")
+                continue
+
+            print(f"[GENERATING] {subject_name} > {chapter_name} > {topic_name}")
             try:
-                definition = generate_definition(subj_out["subject"], chap_out["chapter"], topic_name)
+                definition = generate_definition(subject_name, chapter_name, topic_name)
             except Exception as e:
                 print(f"[ERROR] {topic_name}: {e}")
                 definition = ""
             definition = clean_response_text(definition, topic_name)
 
-            chap_out["topics"].append({
-                "topic": topic_name,
-                "definition": definition
-            })
+            if existing_topic:
+                existing_topic["definition"] = definition
+            else:
+                chap_out["topics"].append({
+                    "topic": topic_name,
+                    "definition": definition
+                })
+
+            # Save immediately after each topic is generated for incremental updates
+            save_output(output)
 
             time.sleep(DELAY)
-
-        subj_out["chapters"].append(chap_out)
-    output.append(subj_out)
 
 save_output(output)
 print(f"Definitions written to {OUTPUT_FILE}")
