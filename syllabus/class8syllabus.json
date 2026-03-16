@@ -1,0 +1,1011 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Rational Numbers",
+        "topics": [
+          "Introduction",
+          "Properties of Rational Numbers",
+          "Representation of Rational Numbers on the Number Line",
+          "Rational Numbers between Two Rational Numbers"
+        ]
+      },
+      {
+        "chapter": "Linear Equations in One Variable",
+        "topics": [
+          "Introduction",
+          "Solving Equations which have Linear Expressions on one Side and Numbers on the other Side",
+          "Some Applications",
+          "Solving Equations having the Variable on both Sides",
+          "Some More Applications",
+          "Reducing Equations to Simpler Form",
+          "Equations Reducible to the Linear Form"
+        ]
+      },
+      {
+        "chapter": "Understanding Quadrilaterals",
+        "topics": [
+          "Introduction",
+          "Polygons",
+          "Sum of the Measures of the Exterior Angles of a Polygon",
+          "Kinds of Quadrilaterals",
+          "Some Special Parallelograms"
+        ]
+      },
+      {
+        "chapter": "Practical Geometry",
+        "topics": [
+          "Introduction",
+          "Constructing a Quadrilateral",
+          "Some Special Cases"
+        ]
+      },
+      {
+        "chapter": "Data Handling",
+        "topics": [
+          "Looking for Information",
+          "Organising Data",
+          "Grouping Data",
+          "Circle Graph or Pie Chart",
+          "Chance and Probability"
+        ]
+      },
+      {
+        "chapter": "Squares and Square Roots",
+        "topics": [
+          "Introduction",
+          "Properties of Square Numbers",
+          "Some More Interesting Patterns",
+          "Finding the Square of a Number",
+          "Square Roots",
+          "Square Roots of Decimals",
+          "Estimating Square Root"
+        ]
+      },
+      {
+        "chapter": "Cubes and Cube Roots",
+        "topics": ["Introduction", "Cubes", "Cube Roots"]
+      },
+      {
+        "chapter": "Comparing Quantities",
+        "topics": [
+          "Recalling Ratios and Percentages",
+          "Finding the Increase or Decrease Per cent",
+          "Finding Discounts",
+          "Prices Related to Buying and Selling (Profit and Loss)",
+          "Sales Tax/Value Added Tax/Goods and Services Tax",
+          "Compound Interest",
+          "Deducing a Formula for Compound Interest",
+          "Rate Compounded Annually or Half Yearly",
+          "Applications of Compound Interest Formula"
+        ]
+      },
+      {
+        "chapter": "Algebraic Expressions and Identities",
+        "topics": [
+          "What are Expressions?",
+          "Terms, Factors and Coefficients",
+          "Monomials, Binomials and Polynomials",
+          "Like and Unlike Terms",
+          "Addition and Subtraction of Algebraic Expressions",
+          "Multiplication of Algebraic Expressions",
+          "Multiplying a Monomial by a Monomial",
+          "Multiplying a Monomial by a Polynomial",
+          "Multiplying a Polynomial by a Polynomial",
+          "What is an Identity?",
+          "Standard Identities",
+          "Applying Identities"
+        ]
+      },
+      {
+        "chapter": "Visualising Solid Shapes",
+        "topics": [
+          "Introduction",
+          "Views of 3D-Shapes",
+          "Mapping Space Around Us",
+          "Faces, Edges and Vertices"
+        ]
+      },
+      {
+        "chapter": "Mensuration",
+        "topics": [
+          "Introduction",
+          "Let us Recall",
+          "Area of Trapezium",
+          "Area of a General Quadrilateral",
+          "Area of a Polygon",
+          "Solid Shapes",
+          "Surface Area of Cube, Cuboid and Cylinder",
+          "Volume of Cube, Cuboid and Cylinder",
+          "Volume and Capacity"
+        ]
+      },
+      {
+        "chapter": "Exponents and Powers",
+        "topics": [
+          "Introduction",
+          "Powers with Negative Exponents",
+          "Laws of Exponents",
+          "Use of Exponents to Express Small Numbers in Standard Form"
+        ]
+      },
+      {
+        "chapter": "Direct and Inverse Proportions",
+        "topics": ["Introduction", "Direct Proportion", "Inverse Proportion"]
+      },
+      {
+        "chapter": "Factorisation",
+        "topics": [
+          "Introduction",
+          "What is Factorisation?",
+          "Method of Common Factors",
+          "Factorisation by Regrouping Terms",
+          "Factorisation using Identities",
+          "Division of Algebraic Expressions",
+          "Division of a Polynomial by a Monomial",
+          "Division of Polynomial by Polynomial",
+          "Can You Find the Error?"
+        ]
+      },
+      {
+        "chapter": "Introduction to Graphs",
+        "topics": [
+          "Introduction",
+          "A Bar Graph",
+          "A Pie Graph",
+          "A Histogram",
+          "A Line Graph",
+          "Linear Graphs",
+          "Some Applications"
+        ]
+      },
+      {
+        "chapter": "Playing with Numbers",
+        "topics": [
+          "Introduction",
+          "Numbers in General Form",
+          "Games with Numbers",
+          "Letters for Digits",
+          "Tests of Divisibility"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Crop Production and Management",
+        "topics": [
+          "Agricultural Practices",
+          "Basic Practices of Crop Production",
+          "Preparation of Soil",
+          "Sowing",
+          "Adding Manure and Fertilisers",
+          "Irrigation",
+          "Protection from Weeds",
+          "Harvesting",
+          "Storage",
+          "Food from Animals"
+        ]
+      },
+      {
+        "chapter": "Microorganisms: Friend and Foe",
+        "topics": [
+          "Microorganisms",
+          "Where do Microorganisms Live?",
+          "Microorganisms and Us",
+          "Harmful Microorganisms",
+          "Food Preservation",
+          "Nitrogen Fixation",
+          "Nitrogen Cycle"
+        ]
+      },
+      {
+        "chapter": "Synthetic Fibres and Plastics",
+        "topics": [
+          "What are Synthetic Fibres?",
+          "Types of Synthetic Fibres",
+          "Characteristics of Synthetic Fibres",
+          "Plastics",
+          "Plastics as Materials of Choice",
+          "Plastics and the Environment"
+        ]
+      },
+      {
+        "chapter": "Materials: Metals and Non-Metals",
+        "topics": [
+          "Physical Properties of Metals and Non-metals",
+          "Chemical Properties of Metals and Non-metals",
+          "Uses of Metals and Non-metals"
+        ]
+      },
+      {
+        "chapter": "Coal and Petroleum",
+        "topics": [
+          "Coal",
+          "Petroleum",
+          "Natural Gas",
+          "Some Natural Resources are Limited"
+        ]
+      },
+      {
+        "chapter": "Combustion and Flame",
+        "topics": [
+          "What is Combustion?",
+          "How Do We Control Fire?",
+          "Types of Combustion",
+          "Flame",
+          "Structure of a Flame",
+          "What is a Fuel?",
+          "Fuel Efficiency"
+        ]
+      },
+      {
+        "chapter": "Conservation of Plants and Animals",
+        "topics": [
+          "Deforestation and Its Causes",
+          "Consequences of Deforestation",
+          "Conservation of Forest and Wildlife",
+          "Biosphere Reserve",
+          "Flora and Fauna",
+          "Endemic Species",
+          "Wildlife Sanctuary",
+          "National Park",
+          "Red Data Book",
+          "Migration",
+          "Recycling of Paper",
+          "Reforestation"
+        ]
+      },
+      {
+        "chapter": "Cell - Structure and Functions",
+        "topics": [
+          "Discovery of the Cell",
+          "The Cell",
+          "Organisms show Variety in Cell Number, Shape and Size",
+          "Cell Structure and Function",
+          "Parts of the Cell",
+          "Comparison of Plant and Animal Cells"
+        ]
+      },
+      {
+        "chapter": "Reproduction in Animals",
+        "topics": [
+          "Modes of Reproduction",
+          "Sexual Reproduction",
+          "Asexual Reproduction"
+        ]
+      },
+      {
+        "chapter": "Reaching the Age of Adolescence",
+        "topics": [
+          "Adolescence and Puberty",
+          "Changes at Puberty",
+          "Secondary Sexual Characters",
+          "Role of Hormones in Initiating Reproductive Function",
+          "Reproductive Phase of Life in Humans",
+          "How is the Sex of the Baby Determined?",
+          "Hormones other than Sex Hormones",
+          "Role of Hormones in Completing the Life History of Insects and Frogs",
+          "Reproductive Health"
+        ]
+      },
+      {
+        "chapter": "Force and Pressure",
+        "topics": [
+          "Force: A Push or a Pull",
+          "Forces are due to an Interaction",
+          "Exploring Forces",
+          "A Force can Change the State of Motion",
+          "Force can Change the Shape of an Object",
+          "Contact Forces",
+          "Non-contact Forces",
+          "Pressure",
+          "Pressure Exerted by Liquids and Gases",
+          "Atmospheric Pressure"
+        ]
+      },
+      {
+        "chapter": "Friction",
+        "topics": [
+          "Force of Friction",
+          "Factors affecting Friction",
+          "Friction: A Necessary Evil",
+          "Increasing and Reducing Friction",
+          "Wheels Reduce Friction",
+          "Fluid Friction"
+        ]
+      },
+      {
+        "chapter": "Sound",
+        "topics": [
+          "Sound is Produced by a Vibrating Body",
+          "Sound Produced by Humans",
+          "Sound Needs a Medium for Propagation",
+          "We Hear Sound through Our Ears",
+          "Amplitude, Time Period and Frequency of a Vibration",
+          "Audible and Inaudible Sounds",
+          "Noise and Music",
+          "Noise Pollution"
+        ]
+      },
+      {
+        "chapter": "Chemical Effects of Electric Current",
+        "topics": [
+          "Do Liquids Conduct Electricity?",
+          "Chemical Effects of Electric Current",
+          "Electroplating"
+        ]
+      },
+      {
+        "chapter": "Some Natural Phenomena",
+        "topics": [
+          "Lightning",
+          "Charging by Rubbing",
+          "Types of Charges and Their Interaction",
+          "Transfer of Charge",
+          "The Story of Lightning",
+          "Lightning Safety",
+          "Earthquakes"
+        ]
+      },
+      {
+        "chapter": "Light",
+        "topics": [
+          "What makes Things Visible?",
+          "Laws of Reflection",
+          "Regular and Diffused Reflection",
+          "Reflected Light Can be Reflected Again",
+          "Multiple Images",
+          "Sunlight - White or Coloured",
+          "What is inside Our Eyes?",
+          "Care of the Eyes",
+          "Visually Impaired Persons Can Read and Write",
+          "What is the Braille System?"
+        ]
+      },
+      {
+        "chapter": "Stars and the Solar System",
+        "topics": [
+          "The Moon",
+          "The Stars",
+          "Constellations",
+          "The Solar System",
+          "Some Other Members of the Solar System"
+        ]
+      },
+      {
+        "chapter": "Pollution of Air and Water",
+        "topics": [
+          "Air Pollution",
+          "How does Air Get Polluted?",
+          "Case Study: The Taj Mahal",
+          "Greenhouse Effect",
+          "What can be done?",
+          "Water Pollution",
+          "How does Water Get Polluted?",
+          "What is Potable Water and How is Water Purified?",
+          "What can be done?"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - History (Our Pasts - III)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "How, When and Where",
+        "topics": [
+          "How Important are Dates?",
+          "Which dates?",
+          "How do we periodise?",
+          "What is colonial?",
+          "How do We Know?",
+          "Administration produces records",
+          "Surveys become important",
+          "What official records do not tell"
+        ]
+      },
+      {
+        "chapter": "From Trade to Territory: The Company Establishes Power",
+        "topics": [
+          "East India Company Comes East",
+          "East India Company begins trade in Bengal",
+          "How trade led to battles",
+          "The Battle of Plassey",
+          "Company officials become 'nabobs'",
+          "Company Rule Expands",
+          "Tipu Sultan - The 'Tiger of Mysore'",
+          "War with the Marathas",
+          "The claim to paramountcy",
+          "The doctrine of lapse",
+          "Setting up a New Administration",
+          "The Company army"
+        ]
+      },
+      {
+        "chapter": "Ruling the Countryside",
+        "topics": [
+          "The Company Becomes the Diwan",
+          "Revenue for the Company",
+          "The need to improve agriculture",
+          "The problem",
+          "A new system is devised",
+          "Crops for Europe",
+          "Does colour have a history?",
+          "Why the demand for Indian indigo?",
+          "How was indigo cultivated?",
+          "The 'Blue Rebellion' and After"
+        ]
+      },
+      {
+        "chapter": "Tribals, Dikus and the Vision of a Golden Age",
+        "topics": [
+          "How Did Tribal Groups Live?",
+          "Some were jhum cultivators",
+          "Some were hunters and gatherers",
+          "Some herded animals",
+          "Some took to settled cultivation",
+          "How Did Colonial Rule Affect Tribal Lives?",
+          "What happened to tribal chiefs?",
+          "What happened to the shifting cultivators?",
+          "Forest laws and their impact",
+          "The problem with trade",
+          "The search for work",
+          "A Closer Look",
+          "Birsa Munda"
+        ]
+      },
+      {
+        "chapter": "When People Rebel (1857 and After)",
+        "topics": [
+          "Policies and the People",
+          "Nawabs lose their power",
+          "The peasants and the sepoys",
+          "Responses to reforms",
+          "Through the Eyes of the People",
+          "A Mutiny Becomes a Popular Rebellion",
+          "From Meerut to Delhi",
+          "The rebellion spreads",
+          "The Company Fights Back",
+          "Aftermath"
+        ]
+      },
+      {
+        "chapter": "Weavers, Iron Smelters and Factory Owners",
+        "topics": [
+          "Indian Textiles and the World Market",
+          "Words tell us histories",
+          "Indian textiles in European markets",
+          "Who were the weavers?",
+          "The decline of Indian textiles",
+          "Cotton mills come up",
+          "The sword of Tipu Sultan and Wootz steel",
+          "Abandoned furnaces in villages",
+          "Iron and steel factories come up in India"
+        ]
+      },
+      {
+        "chapter": "Civilising the 'Native', Educating the Nation",
+        "topics": [
+          "How the British saw Education",
+          "The tradition of Orientalism",
+          "Grave errors of the East",
+          "Education for commerce",
+          "What Happened to the Local Schools?",
+          "The report of William Adam",
+          "New routines, new rules",
+          "The Agenda for a National Education",
+          "English education has enslaved us",
+          "Tagore's abode of peace"
+        ]
+      },
+      {
+        "chapter": "Women, Caste and Reform",
+        "topics": [
+          "Working Towards Change",
+          "Changing the lives of widows",
+          "Girls begin going to school",
+          "Women write about women",
+          "Caste and Social Reform",
+          "Demands for equality and justice",
+          "Gulamgiri",
+          "Who could enter temples?",
+          "The Non-Brahman movement"
+        ]
+      },
+      {
+        "chapter": "The Making of the National Movement: 1870s - 1947",
+        "topics": [
+          "The Emergence of Nationalism",
+          "A nation in the making",
+          "Freedom is our birthright",
+          "The Growth of Mass Nationalism",
+          "The advent of Mahatma Gandhi",
+          "The Rowlatt Satyagraha",
+          "Khilafat agitation and the Non-Cooperation Movement",
+          "The happenings of 1922-1929",
+          "The March to Dandi",
+          "Quit India and Later",
+          "Towards Independence and Partition"
+        ]
+      },
+      {
+        "chapter": "India After Independence",
+        "topics": [
+          "A New and Divided Nation",
+          "A Constitution is Written",
+          "How were States to be Formed?",
+          "Planning for Development",
+          "The Nation, Sixty Years On"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - Geography (Resource and Development)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Resources",
+        "topics": [
+          "Types of Resources",
+          "Natural Resources",
+          "Human Made Resources",
+          "Human Resources",
+          "Conserving Resources"
+        ]
+      },
+      {
+        "chapter": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+        "topics": [
+          "Land",
+          "Land Use",
+          "Conservation of Land Resource",
+          "Soil",
+          "Factors of Soil Formation",
+          "Degradation of Soil and Conservation Measures",
+          "Water",
+          "Problems of Water Availability",
+          "Conservation of Water Resources",
+          "Natural Vegetation and Wildlife",
+          "Distribution of Natural Vegetation",
+          "Conservation of Natural Vegetation and Wildlife"
+        ]
+      },
+      {
+        "chapter": "Mineral and Power Resources",
+        "topics": [
+          "Types of Minerals",
+          "Extraction of Minerals",
+          "Distribution of Minerals",
+          "Uses of Minerals",
+          "Conservation of Minerals",
+          "Power Resources",
+          "Conventional Sources",
+          "Non-Conventional Sources of Energy"
+        ]
+      },
+      {
+        "chapter": "Agriculture",
+        "topics": [
+          "Farm System",
+          "Types of Farming",
+          "Subsistence Farming",
+          "Commercial Farming",
+          "Major Crops",
+          "Agricultural Development"
+        ]
+      },
+      {
+        "chapter": "Industries",
+        "topics": [
+          "Classification of Industries",
+          "Raw Materials",
+          "Size",
+          "Ownership",
+          "Factors Affecting Location of Industries",
+          "Industrial System",
+          "Industrial Regions",
+          "Distribution of Major Industries",
+          "Iron and Steel Industry",
+          "Cotton Textile Industry",
+          "Information Technology"
+        ]
+      },
+      {
+        "chapter": "Human Resources",
+        "topics": [
+          "Distribution of Population",
+          "Density of Population",
+          "Factors Affecting Distribution of Population",
+          "Population Change",
+          "Patterns of Population Change",
+          "Population Composition"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - Civics (Social and Political Life - III)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Indian Constitution",
+        "topics": [
+          "Why Does a Country Need a Constitution?",
+          "The Indian Constitution: Key Features",
+          "Federalism",
+          "Parliamentary Form of Government",
+          "Separation of Powers",
+          "Fundamental Rights",
+          "Secularism"
+        ]
+      },
+      {
+        "chapter": "Understanding Secularism",
+        "topics": [
+          "What is Secularism?",
+          "Why is it Important to Separate Religion from the State?",
+          "What is Indian Secularism?"
+        ]
+      },
+      {
+        "chapter": "Why Do We Need a Parliament?",
+        "topics": [
+          "Why Should People Decide?",
+          "People and Their Representatives",
+          "The Role of the Parliament",
+          "Who are the People in Parliament?"
+        ]
+      },
+      {
+        "chapter": "Understanding Laws",
+        "topics": [
+          "Do Laws Apply to All?",
+          "How Do New Laws Come About?",
+          "Unpopular and Controversial Laws"
+        ]
+      },
+      {
+        "chapter": "Judiciary",
+        "topics": [
+          "What is the Role of the Judiciary?",
+          "What is an Independent Judiciary?",
+          "What is the Structure of Courts in India?",
+          "What are the Different Branches of the Legal System?",
+          "Does Everyone Have Access to the Courts?"
+        ]
+      },
+      {
+        "chapter": "Understanding Our Criminal Justice System",
+        "topics": [
+          "What is the Role of the Police in Investigating a Crime?",
+          "What is the Role of the Public Prosecutor?",
+          "What is the Role of the Judge?",
+          "What is a Fair Trial?"
+        ]
+      },
+      {
+        "chapter": "Understanding Marginalisation",
+        "topics": [
+          "What Does it Mean to be Socially Marginalised?",
+          "Who are Adivasis?",
+          "Adivasis and Stereotyping",
+          "Adivasis and Development",
+          "Minorities and Marginalisation",
+          "Muslims and Marginalisation"
+        ]
+      },
+      {
+        "chapter": "Confronting Marginalisation",
+        "topics": [
+          "Invoking Fundamental Rights",
+          "Laws for the Marginalised",
+          "Protecting the Rights of Dalits and Adivasis",
+          "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+          "The Demands of Adivasis and the 1989 Act"
+        ]
+      },
+      {
+        "chapter": "Public Facilities",
+        "topics": [
+          "Water and the People of Chennai",
+          "Water as Part of the Fundamental Right to Life",
+          "Public Facilities",
+          "The Government's Role",
+          "Water Supply to Chennai: Is it Available to All?",
+          "In Search of Alternatives"
+        ]
+      },
+      {
+        "chapter": "Law and Social Justice",
+        "topics": [
+          "What is a Worker's Worth?",
+          "Enforcement of Safety Laws",
+          "New Laws to Protect the Environment",
+          "Environment as a Public Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Best Christmas Present in the World",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - War related terms",
+          "Grammar - Noun Phrases",
+          "Writing a Letter"
+        ]
+      },
+      {
+        "chapter": "The Tsunami",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Natural Disasters",
+          "Grammar - Past Tense",
+          "Writing a Report"
+        ]
+      },
+      {
+        "chapter": "Glimpses of the Past",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Historical Terms",
+          "Grammar - Reported Speech",
+          "Writing an Essay"
+        ]
+      },
+      {
+        "chapter": "Bepin Choudhury's Lapse of Memory",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Idioms",
+          "Grammar - Clauses",
+          "Writing a Diary Entry"
+        ]
+      },
+      {
+        "chapter": "The Summit Within",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Prepositions",
+          "Grammar - Articles",
+          "Writing an Article"
+        ]
+      },
+      {
+        "chapter": "This is Jody's Fawn",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Animals",
+          "Grammar - Verbs",
+          "Writing a Story"
+        ]
+      },
+      {
+        "chapter": "A Visit to Cambridge",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Expressions",
+          "Grammar - Pronouns",
+          "Writing an Interview"
+        ]
+      },
+      {
+        "chapter": "A Short Monsoon Diary",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Nature",
+          "Grammar - Adjectives",
+          "Writing a Diary Entry"
+        ]
+      },
+      {
+        "chapter": "The Great Stone Face - I",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Adverbs",
+          "Grammar - Conjunctions",
+          "Writing a Summary"
+        ]
+      },
+      {
+        "chapter": "The Great Stone Face - II",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary - Synonyms",
+          "Grammar - Prepositions",
+          "Writing a Character Sketch"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Dhwani",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Poetry Context",
+          "Theme of Awakening"
+        ]
+      },
+      {
+        "chapter": "Lakh Ki Churiyan",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Traditional Crafts vs Modernization"
+        ]
+      },
+      {
+        "chapter": "Bus Ki Yatra",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Humor and Satire",
+          "Travelogue Writing"
+        ]
+      },
+      {
+        "chapter": "Deewanon Ki Hasti",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Patriotism Theme"
+        ]
+      },
+      {
+        "chapter": "Chitthiyon Ki Anoothi Duniya",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "History of Letters",
+          "Modern Communication"
+        ]
+      },
+      {
+        "chapter": "Bhagwan Ke Dakiye",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Nature's Message"
+        ]
+      },
+      {
+        "chapter": "Kya Nirash Hua Jaye",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Optimism vs Pessimism",
+          "Social Issues"
+        ]
+      },
+      {
+        "chapter": "Yeh Sabse Kathin Samay Nahi",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Hope and Resilience"
+        ]
+      },
+      {
+        "chapter": "Kabeer Ki Saakhiyan",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Moral Values",
+          "Dohe Recitation"
+        ]
+      },
+      {
+        "chapter": "Kaamchor",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Humorous Story",
+          "Responsibility"
+        ]
+      },
+      {
+        "chapter": "Jab Cinema Ne Bolna Seekha",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "History of Indian Cinema"
+        ]
+      },
+      {
+        "chapter": "Sudama Charit",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Friendship Theme",
+          "Mythological Context"
+        ]
+      },
+      {
+        "chapter": "Jahan Pahiya Hai",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Women Empowerment",
+          "Social Change"
+        ]
+      },
+      {
+        "chapter": "Akbari Lota",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Humorous Fiction"
+        ]
+      },
+      {
+        "chapter": "Surdas Ke Pad",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Devotion to Krishna"
+        ]
+      },
+      {
+        "chapter": "Paani Ki Kahani",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Water Cycle",
+          "Science in Hindi"
+        ]
+      },
+      {
+        "chapter": "Baaj Aur Saanp",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Freedom and Courage"
+        ]
+      },
+      {
+        "chapter": "Topi",
+        "topics": [
+          "Reading & Meaning",
+          "Interpretation",
+          "Exercise",
+          "Folk Tale",
+          "Dignity of Labour"
+        ]
+      }
+    ]
+  }
+]
