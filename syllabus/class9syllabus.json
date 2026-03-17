@@ -1,0 +1,678 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Number Systems",
+        "topics": [
+          "Introduction",
+          "Irrational Numbers",
+          "Real Numbers and their Decimal Expansions",
+          "Representing Real Numbers on the Number Line",
+          "Operations on Real Numbers",
+          "Laws of Exponents for Real Numbers"
+        ]
+      },
+      {
+        "chapter": "Polynomials",
+        "topics": [
+          "Introduction",
+          "Polynomials in One Variable",
+          "Zeroes of a Polynomial",
+          "Remainder Theorem",
+          "Factorisation of Polynomials",
+          "Algebraic Identities"
+        ]
+      },
+      {
+        "chapter": "Coordinate Geometry",
+        "topics": [
+          "Introduction",
+          "Cartesian System",
+          "Plotting a Point in the Plane if its Coordinates are Given"
+        ]
+      },
+      {
+        "chapter": "Linear Equations in Two Variables",
+        "topics": [
+          "Introduction",
+          "Linear Equations",
+          "Solution of a Linear Equation",
+          "Graph of a Linear Equation in Two Variables",
+          "Equations of Lines Parallel to the x-axis and y-axis"
+        ]
+      },
+      {
+        "chapter": "Introduction to Euclid's Geometry",
+        "topics": [
+          "Introduction",
+          "Euclid's Definitions, Axioms and Postulates",
+          "Equivalent Versions of Euclid's Fifth Postulate"
+        ]
+      },
+      {
+        "chapter": "Lines and Angles",
+        "topics": [
+          "Introduction",
+          "Basic Terms and Definitions",
+          "Intersecting Lines and Non-intersecting Lines",
+          "Pairs of Angles",
+          "Parallel Lines and a Transversal",
+          "Lines Parallel to the Same Line",
+          "Angle Sum Property of a Triangle"
+        ]
+      },
+      {
+        "chapter": "Triangles",
+        "topics": [
+          "Introduction",
+          "Congruence of Triangles",
+          "Criteria for Congruence of Triangles",
+          "Some Properties of a Triangle",
+          "Some More Criteria for Congruence of Triangles",
+          "Inequalities in a Triangle"
+        ]
+      },
+      {
+        "chapter": "Quadrilaterals",
+        "topics": [
+          "Introduction",
+          "Angle Sum Property of a Quadrilateral",
+          "Types of Quadrilaterals",
+          "Properties of a Parallelogram",
+          "Another Condition for a Quadrilateral to be a Parallelogram",
+          "The Mid-point Theorem"
+        ]
+      },
+      {
+        "chapter": "Areas of Parallelograms and Triangles",
+        "topics": [
+          "Introduction",
+          "Figures on the Same Base and Between the Same Parallels",
+          "Parallelograms on the Same Base and Between the Same Parallels",
+          "Triangles on the Same Base and Between the Same Parallels"
+        ]
+      },
+      {
+        "chapter": "Circles",
+        "topics": [
+          "Introduction",
+          "Circles and Its Related Terms: A Review",
+          "Angle Subtended by a Chord at a Point",
+          "Perpendicular from the Centre to a Chord",
+          "Circle through Three Points",
+          "Equal Chords and their Distances from the Centre",
+          "Angle Subtended by an Arc of a Circle",
+          "Cyclic Quadrilaterals"
+        ]
+      },
+      {
+        "chapter": "Constructions",
+        "topics": [
+          "Introduction",
+          "Basic Constructions",
+          "Some Constructions of Triangles"
+        ]
+      },
+      {
+        "chapter": "Heron's Formula",
+        "topics": [
+          "Introduction",
+          "Area of a Triangle - by Heron's Formula",
+          "Application of Heron's Formula in Finding Areas of Quadrilaterals"
+        ]
+      },
+      {
+        "chapter": "Surface Areas and Volumes",
+        "topics": [
+          "Introduction",
+          "Surface Area of a Cuboid and a Cube",
+          "Surface Area of a Right Circular Cylinder",
+          "Surface Area of a Right Circular Cone",
+          "Surface Area of a Sphere",
+          "Volume of a Cuboid",
+          "Volume of a Cylinder",
+          "Volume of a Right Circular Cone",
+          "Volume of a Sphere"
+        ]
+      },
+      {
+        "chapter": "Statistics",
+        "topics": [
+          "Introduction",
+          "Collection of Data",
+          "Presentation of Data",
+          "Graphical Representation of Data",
+          "Measures of Central Tendency"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": ["Introduction", "Probability - an Experimental Approach"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Matter In Our Surroundings",
+        "topics": [
+          "Physical Nature of Matter",
+          "Characteristics of Particles of Matter",
+          "States of Matter",
+          "Can Matter Change its State?",
+          "Evaporation"
+        ]
+      },
+      {
+        "chapter": "Is Matter Around Us Pure",
+        "topics": [
+          "What is a Mixture?",
+          "What is a Solution?",
+          "Separating the Components of a Mixture",
+          "Physical and Chemical Changes",
+          "What are the Types of Pure Substances?"
+        ]
+      },
+      {
+        "chapter": "Atoms and Molecules",
+        "topics": [
+          "Laws of Chemical Combination",
+          "What is an Atom?",
+          "What is a Molecule?",
+          "Writing Chemical Formulae",
+          "Molecular Mass and Mole Concept"
+        ]
+      },
+      {
+        "chapter": "Structure Of The Atom",
+        "topics": [
+          "Charged Particles in Matter",
+          "The Structure of an Atom",
+          "How are Electrons Distributed in Different Orbits (Shells)?",
+          "Valency",
+          "Atomic Number and Mass Number",
+          "Isotopes"
+        ]
+      },
+      {
+        "chapter": "The Fundamental Unit Of Life",
+        "topics": [
+          "What are Living Organisms Made Up of?",
+          "What is a Cell Made Up of? What is the Structural Organisation of a Cell?"
+        ]
+      },
+      {
+        "chapter": "Tissues",
+        "topics": [
+          "Are Plants and Animals Made of Same Types of Tissues?",
+          "Plant Tissues",
+          "Animal Tissues"
+        ]
+      },
+      {
+        "chapter": "Diversity In Living Organisms",
+        "topics": [
+          "What is the Basis of Classification?",
+          "Classification and Evolution",
+          "The Hierarchy of Classification - Groups",
+          "Plantae",
+          "Animalia",
+          "Nomenclature"
+        ]
+      },
+      {
+        "chapter": "Motion",
+        "topics": [
+          "Describing Motion",
+          "Measuring the Rate of Motion",
+          "Rate of Change of Velocity",
+          "Graphical Representation of Motion",
+          "Equations of Motion by Graphical Method",
+          "Uniform Circular Motion"
+        ]
+      },
+      {
+        "chapter": "Force And Laws Of Motion",
+        "topics": [
+          "Balanced and Unbalanced Forces",
+          "First Law of Motion",
+          "Inertia and Mass",
+          "Second Law of Motion",
+          "Third Law of Motion",
+          "Conservation of Momentum"
+        ]
+      },
+      {
+        "chapter": "Gravitation",
+        "topics": [
+          "Gravitation",
+          "Universal Law of Gravitation",
+          "Free Fall",
+          "Mass and Weight",
+          "Thrust and Pressure",
+          "Archimedes' Principle",
+          "Relative Density"
+        ]
+      },
+      {
+        "chapter": "Work And Energy",
+        "topics": ["Work", "Energy", "Rate of Doing Work"]
+      },
+      {
+        "chapter": "Sound",
+        "topics": [
+          "Production of Sound",
+          "Propagation of Sound",
+          "Reflection of Sound",
+          "Range of Hearing",
+          "Applications of Ultrasound",
+          "Structure of Human Ear"
+        ]
+      },
+      {
+        "chapter": "Why Do We Fall Ill",
+        "topics": [
+          "Health and Its Failure",
+          "Disease and Its Causes",
+          "Infectious Diseases"
+        ]
+      },
+      {
+        "chapter": "Natural Resources",
+        "topics": [
+          "The Breath of Life: Air",
+          "Water: A Wonder Liquid",
+          "Mineral Riches in the Soil",
+          "Biogeochemical Cycles",
+          "Ozone Layer"
+        ]
+      },
+      {
+        "chapter": "Improvement In Food Resources",
+        "topics": ["Improvement in Crop Yields", "Animal Husbandry"]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - History (India and the Contemporary World - I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The French Revolution",
+        "topics": [
+          "French Society During the Late Eighteenth Century",
+          "The Outbreak of the Revolution",
+          "France Abolishes Monarchy and Becomes a Republic",
+          "Did Women have a Revolution?",
+          "The Abolition of Slavery",
+          "The Revolution and Everyday Life"
+        ]
+      },
+      {
+        "chapter": "Socialism in Europe and the Russian Revolution",
+        "topics": [
+          "The Age of Social Change",
+          "The Russian Revolution",
+          "The February Revolution in Petrograd",
+          "What Changed after October?",
+          "The Global Influence of the Russian Revolution and the USSR"
+        ]
+      },
+      {
+        "chapter": "Nazism and the Rise of Hitler",
+        "topics": [
+          "Birth of the Weimar Republic",
+          "Hitler's Rise to Power",
+          "The Nazi Worldview",
+          "Youth in Nazi Germany",
+          "Ordinary People and the Crimes Against Humanity"
+        ]
+      },
+      {
+        "chapter": "Forest Society and Colonialism",
+        "topics": [
+          "Why Deforestation?",
+          "The Rise of Commercial Forestry",
+          "Rebellion in the Forest",
+          "Forest Transformations in Java"
+        ]
+      },
+      {
+        "chapter": "Pastoralists in the Modern World",
+        "topics": [
+          "Pastoral Nomads and their Movements",
+          "Colonial Rule and Pastoral Life",
+          "Pastoralism in Africa"
+        ]
+      },
+      {
+        "chapter": "Peasants and Farmers",
+        "topics": [
+          "The Coming of Modern Agriculture in England",
+          "Bread Basket and Dust Bowl",
+          "The Indian Farmer and Opium Production"
+        ]
+      },
+      {
+        "chapter": "History and Sport: The Story of Cricket",
+        "topics": [
+          "The Historical Development of Cricket as a Game in England",
+          "The Spread of Cricket",
+          "The Modern Transformation of the Game",
+          "Commerce, Media and Cricket Today"
+        ]
+      },
+      {
+        "chapter": "Clothing: A Social History",
+        "topics": [
+          "Sumptuary Laws and Social Hierarchy",
+          "Clothing and the Ideas of Beauty",
+          "New Times, New Materials",
+          "Transformations in Colonial India",
+          "Designing the National Dress"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - Geography (Contemporary India - I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "India - Size and Location",
+        "topics": [
+          "Location",
+          "Size",
+          "India and the World",
+          "India's Neighbours"
+        ]
+      },
+      {
+        "chapter": "Physical Features of India",
+        "topics": [
+          "Major Physiographic Divisions",
+          "The Himalayan Mountains",
+          "The Northern Plain",
+          "The Peninsular Plateau",
+          "The Indian Desert",
+          "The Coastal Plains",
+          "The Islands"
+        ]
+      },
+      {
+        "chapter": "Drainage",
+        "topics": [
+          "Drainage Systems in India",
+          "The Himalayan Rivers",
+          "The Peninsular Rivers",
+          "Lakes",
+          "Role of Rivers in the Economy",
+          "River Pollution"
+        ]
+      },
+      {
+        "chapter": "Climate",
+        "topics": [
+          "Climatic Controls",
+          "Factors Affecting India's Climate",
+          "The Indian Monsoon",
+          "The Onset of the Monsoon and Withdrawal",
+          "The Seasons",
+          "Distribution of Rainfall",
+          "Monsoon as a Unifying Bond"
+        ]
+      },
+      {
+        "chapter": "Natural Vegetation and Wildlife",
+        "topics": [
+          "Relief",
+          "Climate",
+          "Ecosystem",
+          "Types of Vegetation",
+          "Wildlife",
+          "Conservation of Flora and Fauna"
+        ]
+      },
+      {
+        "chapter": "Population",
+        "topics": [
+          "Population Size and Distribution",
+          "Population Growth and Processes of Population Change",
+          "Characteristics or Qualities of the Population",
+          "National Population Policy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - Political Science (Democratic Politics - I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "What is Democracy? Why Democracy?",
+        "topics": [
+          "What is Democracy?",
+          "Features of Democracy",
+          "Why Democracy?",
+          "Broader Meanings of Democracy"
+        ]
+      },
+      {
+        "chapter": "Constitutional Design",
+        "topics": [
+          "Democratic Constitution in South Africa",
+          "Why do we need a Constitution?",
+          "Making of the Indian Constitution",
+          "Guiding Values of the Indian Constitution"
+        ]
+      },
+      {
+        "chapter": "Electoral Politics",
+        "topics": [
+          "Why Elections?",
+          "What is our System of Elections?",
+          "What makes Elections in India Democratic?"
+        ]
+      },
+      {
+        "chapter": "Working of Institutions",
+        "topics": [
+          "How is a major Policy Decision taken?",
+          "Parliament",
+          "Political Executive",
+          "The Judiciary"
+        ]
+      },
+      {
+        "chapter": "Democratic Rights",
+        "topics": [
+          "Life without Rights",
+          "Rights in a Democracy",
+          "Rights in the Indian Constitution",
+          "Expanding Scope of Rights"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Science - Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Story of Village Palampur",
+        "topics": [
+          "Overview",
+          "Organization of Production",
+          "Farming in Palampur",
+          "Non-Farm Activities in Palampur"
+        ]
+      },
+      {
+        "chapter": "People as Resource",
+        "topics": [
+          "Overview",
+          "Economic Activities by Men and Women",
+          "Quality of Population",
+          "Health",
+          "Unemployment"
+        ]
+      },
+      {
+        "chapter": "Poverty as a Challenge",
+        "topics": [
+          "Overview",
+          "Two Typical Cases of Poverty",
+          "Poverty as seen by Social Scientists",
+          "Poverty Estimates",
+          "Vulnerable Groups",
+          "Inter-State Disparities",
+          "Global Poverty Scenario",
+          "Causes of Poverty",
+          "Anti-Poverty Measures",
+          "The Challenges Ahead"
+        ]
+      },
+      {
+        "chapter": "Food Security in India",
+        "topics": [
+          "Overview",
+          "What is Food Security?",
+          "Why Food Security?",
+          "Who are Food Insecure?",
+          "Food Security in India",
+          "What is Buffer Stock?",
+          "What is the Public Distribution System?",
+          "Current Status of Public Distribution System",
+          "Role of Cooperatives in Food Security"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language and Literature",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Beehive - Prose",
+        "topics": [
+          "The Fun They Had",
+          "The Sound of Music",
+          "The Little Girl",
+          "A Truly Beautiful Mind",
+          "The Snake and the Mirror",
+          "My Childhood",
+          "Packing",
+          "Reach for the Top",
+          "The Bond of Love",
+          "Kathmandu",
+          "If I Were You"
+        ]
+      },
+      {
+        "chapter": "Beehive - Poetry",
+        "topics": [
+          "The Road Not Taken",
+          "Wind",
+          "Rain on the Roof",
+          "The Lake Isle of Innisfree",
+          "A Legend of the Northland",
+          "No Men Are Foreign",
+          "The Duck and the Kangaroo",
+          "On Killing a Tree",
+          "The Snake Trying",
+          "A Slumber Did My Spirit Seal"
+        ]
+      },
+      {
+        "chapter": "Moments",
+        "topics": [
+          "The Lost Child",
+          "The Adventures of Toto",
+          "Iswaran the Storyteller",
+          "In the Kingdom of Fools",
+          "The Happy Prince",
+          "Weathering the Storm in Ersama",
+          "The Last Leaf",
+          "A House is Not a Home",
+          "The Accidental Tourist",
+          "The Beggar"
+        ]
+      },
+      {
+        "chapter": "Grammar and Writing",
+        "topics": [
+          "Tenses",
+          "Modals",
+          "Use of Passive Voice",
+          "Subject-Verb Concord",
+          "Reporting (Commands/Requests, Statements, Questions)",
+          "Clauses (Noun, Adverb, Relative)",
+          "Determiners",
+          "Prepositions",
+          "Descriptive Paragraph Writing",
+          "Short Story Writing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi Course A",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Kshitij - Prose",
+        "topics": [
+          "Do Bailon Ki Katha",
+          "Lhasa ki Ore",
+          "Upbhoktavad Ki Sanskriti",
+          "Sanwale Sapnon Ki Yaad",
+          "Nana Saheb Ki Putri Maina Ko Bhasm Kar Diya Gaya",
+          "Premchand ke Phate Jootey",
+          "Mere Bachpan ke Din",
+          "Ek Kutta Aur Ek Maina"
+        ]
+      },
+      {
+        "chapter": "Kshitij - Poetry",
+        "topics": [
+          "Saakhiyan wa Sabad",
+          "Vaakh",
+          "Raskhan ke Savaiye",
+          "Kaidi Aur Kokila",
+          "Gram Shree",
+          "Chandra Gahna Se Lautti Ber",
+          "Megh Aaye",
+          "Yamraj ki Disha",
+          "Bachche Kaam Par Ja Rahe Hain"
+        ]
+      },
+      {
+        "chapter": "Kritika",
+        "topics": [
+          "Is Jal Pralay Mein",
+          "Mere Sang Ki Auratein",
+          "Reedh Ki Haddi",
+          "Mati Wali",
+          "Kis Tarah Aakhirkar Main Hindi Mein Aaya"
+        ]
+      },
+      {
+        "chapter": "Grammar and Writing",
+        "topics": [
+          "Upasarg aur Pratyay",
+          "Samas",
+          "Arth Ke Aadhar Par Vakya Bhed",
+          "Alankar",
+          "Anuchchhed Lekhan",
+          "Patra Lekhan",
+          "Samvad Lekhan",
+          "Laghu Katha Lekhan"
+        ]
+      }
+    ]
+  }
+]
