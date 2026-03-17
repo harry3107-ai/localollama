@@ -8,8 +8,8 @@ import re
 # Configuration
 API_URL = "http://localhost:11434/api/generate"
 MODEL = "gemma:2b"
-INPUT_FILE = "class10syllabus.json"
-OUTPUT_FILE = "class10syllabus-topic.json"
+INPUT_FILE = "class11syllabus.json"
+OUTPUT_FILE = "class11syllabus-topic.json"
 DELAY = 1  # seconds between requests
 
 # Load syllabus JSON

@@ -1,0 +1,416 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sets and Functions",
+        "topics": ["Sets", "Relations and Functions", "Trigonometric Functions"]
+      },
+      {
+        "chapter": "Algebra",
+        "topics": [
+          "Complex Numbers and Quadratic Equations",
+          "Linear Inequalities",
+          "Permutations and Combinations",
+          "Binomial Theorem",
+          "Sequence and Series"
+        ]
+      },
+      {
+        "chapter": "Coordinate Geometry",
+        "topics": [
+          "Straight Lines",
+          "Conic Sections",
+          "Introduction to Three-dimensional Geometry"
+        ]
+      },
+      {
+        "chapter": "Calculus",
+        "topics": ["Limits and Derivatives"]
+      },
+      {
+        "chapter": "Statistics and Probability",
+        "topics": ["Statistics", "Probability"]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Physical World and Measurement",
+        "topics": ["Physical World", "Units and Measurements"]
+      },
+      {
+        "chapter": "Kinematics",
+        "topics": ["Motion in a Straight Line", "Motion in a Plane"]
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topics": ["Laws of Motion"]
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topics": ["Work, Energy and Power"]
+      },
+      {
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "topics": ["System of Particles and Rotational Motion"]
+      },
+      {
+        "chapter": "Gravitation",
+        "topics": ["Gravitation"]
+      },
+      {
+        "chapter": "Properties of Bulk Matter",
+        "topics": [
+          "Mechanical Properties of Solids",
+          "Mechanical Properties of Fluids",
+          "Thermal Properties of Matter"
+        ]
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topics": ["Thermodynamics"]
+      },
+      {
+        "chapter": "Behaviour of Perfect Gases and Kinetic Theory of Gases",
+        "topics": ["Kinetic Theory"]
+      },
+      {
+        "chapter": "Oscillations and Waves",
+        "topics": ["Oscillations", "Waves"]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Some Basic Concepts of Chemistry",
+        "topics": [
+          "General Introduction",
+          "Nature of Matter",
+          "Laws of Chemical Combination",
+          "Dalton's Atomic Theory",
+          "Mole Concept and Molar Masses",
+          "Stoichiometry and Stoichiometric Calculations"
+        ]
+      },
+      {
+        "chapter": "Structure of Atom",
+        "topics": [
+          "Discovery of Electron, Proton and Neutron",
+          "Atomic Number, Isotopes and Isobars",
+          "Thomson's Model and its Limitations",
+          "Rutherford's Model and its Limitations",
+          "Bohr's Model and its Limitations",
+          "Concept of Shells and Subshells",
+          "Dual Nature of Matter and Light",
+          "de Broglie's Relationship",
+          "Heisenberg Uncertainty Principle",
+          "Concept of Orbital, Quantum Numbers",
+          "Shapes of s, p, and d Orbitals",
+          "Rules for Filling Electrons in Orbitals",
+          "Electronic Configuration of Atoms"
+        ]
+      },
+      {
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "topics": [
+          "Significance of Classification",
+          "Brief History of the Development of Periodic Table",
+          "Modern Periodic Law and the present form of Periodic Table",
+          "Periodic Trends in Properties of Elements"
+        ]
+      },
+      {
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topics": [
+          "Valence Electrons",
+          "Ionic Bond, Covalent Bond",
+          "Bond Parameters",
+          "Lewis Structure",
+          "Polar Character of Covalent Bond",
+          "Covalent Character of Ionic Bond",
+          "Valence Bond Theory",
+          "Resonance",
+          "Geometry of Covalent Molecules",
+          "VSEPR Theory",
+          "Concept of Hybridization",
+          "Molecular Orbital Theory of Homonuclear Diatomic Molecules",
+          "Hydrogen Bond"
+        ]
+      },
+      {
+        "chapter": "Chemical Thermodynamics",
+        "topics": [
+          "Concepts of System and Types of Systems",
+          "Surroundings, Work, Heat, Energy, Extensive and Intensive Properties, State Functions",
+          "First Law of Thermodynamics -Internal Energy and Enthalpy",
+          "Heat Capacity and Specific Heat",
+          "Measurement of ΔU and ΔH",
+          "Hess's Law of Constant Heat Summation",
+          "Enthalpies of Bond Dissociation, Combustion, Formation, Atomization, Sublimation, Phase Transition, Ionization, Solution and Dilution",
+          "Second Law of Thermodynamics (brief introduction)",
+          "Introduction of Entropy as a State Function",
+          "Gibb's Energy Change for Spontaneous and Non-spontaneous Processes",
+          "Third Law of Thermodynamics (brief introduction)"
+        ]
+      },
+      {
+        "chapter": "Equilibrium",
+        "topics": [
+          "Equilibrium in Physical and Chemical Processes",
+          "Dynamic Nature of Equilibrium",
+          "Law of Mass Action",
+          "Equilibrium Constant",
+          "Factors Affecting Equilibrium - Le Chatelier's Principle",
+          "Ionic Equilibrium - Ionization of Acids and Bases",
+          "Strong and Weak Electrolytes, Degree of Ionization",
+          "Ionization of Polybasic Acids",
+          "Acid Strength, Concept of pH",
+          "Hydrolysis of Salts (elementary idea)",
+          "Buffer Solution",
+          "Henderson Equation",
+          "Solubility Product",
+          "Common Ion Effect (with illustrative examples)"
+        ]
+      },
+      {
+        "chapter": "Redox Reactions",
+        "topics": [
+          "Concept of Oxidation and Reduction",
+          "Redox Reactions",
+          "Oxidation Number",
+          "Balancing Redox Reactions, in terms of Loss and Gain of Electrons and Change in Oxidation Number",
+          "Applications of Redox Reactions"
+        ]
+      },
+      {
+        "chapter": "Organic Chemistry - Some Basic Principles and Techniques",
+        "topics": [
+          "General Introduction, Methods of Purification, Qualitative and Quantitative Analysis",
+          "Classification and IUPAC Nomenclature of Organic Compounds",
+          "Electronic Displacements in a Covalent Bond: Inductive Effect, Electromeric Effect, Resonance and Hyperconjugation",
+          "Homolytic and Heterolytic Fission of a Covalent Bond: Free Radicals, Carbocations, Carbanions, Electrophiles and Nucleophiles, Types of Organic Reactions"
+        ]
+      },
+      {
+        "chapter": "Hydrocarbons",
+        "topics": [
+          "Classification of Hydrocarbons",
+          "Alkanes",
+          "Alkenes",
+          "Alkynes",
+          "Aromatic Hydrocarbons"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Diversity of Living Organisms",
+        "topics": [
+          "The Living World",
+          "Biological Classification",
+          "Plant Kingdom",
+          "Animal Kingdom"
+        ]
+      },
+      {
+        "chapter": "Structural Organisation in Animals and Plants",
+        "topics": [
+          "Morphology of Flowering Plants",
+          "Anatomy of Flowering Plants",
+          "Structural Organisation in Animals"
+        ]
+      },
+      {
+        "chapter": "Cell: Structure and Function",
+        "topics": [
+          "Cell-The Unit of Life",
+          "Biomolecules",
+          "Cell Cycle and Cell Division"
+        ]
+      },
+      {
+        "chapter": "Plant Physiology",
+        "topics": [
+          "Photosynthesis in Higher Plants",
+          "Respiration in Plants",
+          "Plant - Growth and Development"
+        ]
+      },
+      {
+        "chapter": "Human Physiology",
+        "topics": [
+          "Breathing and Exchange of Gases",
+          "Body Fluids and Circulation",
+          "Excretory Products and Their Elimination",
+          "Locomotion and Movement",
+          "Neural Control and Coordination",
+          "Chemical Coordination and Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Accountancy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Theoretical Framework",
+        "topics": [
+          "Introduction to Accounting",
+          "Basic Accounting Terms",
+          "Theory Base of Accounting"
+        ]
+      },
+      {
+        "chapter": "Accounting Process",
+        "topics": [
+          "Recording of Business Transactions",
+          "Preparation of Bank Reconciliation Statement, Ledger and Trial Balance",
+          "Depreciation, Provisions and Reserves",
+          "Accounting for Bills of Exchange"
+        ]
+      },
+      {
+        "chapter": "Financial Statements of Sole Proprietorship",
+        "topics": [
+          "Financial Statements",
+          "Trading and Profit and Loss Account",
+          "Balance Sheet"
+        ]
+      },
+      {
+        "chapter": "Computers in Accounting",
+        "topics": [
+          "Introduction to Computer and Accounting Information System (AIS)",
+          "Applications of Computers in Accounting"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Business Studies",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of Business",
+        "topics": [
+          "Business, Trade and Commerce",
+          "Forms of Business Organisation",
+          "Private, Public and Global Enterprises",
+          "Business Services",
+          "Emerging Modes of Business",
+          "Social Responsibility of Business and Business Ethics"
+        ]
+      },
+      {
+        "chapter": "Finance and Trade",
+        "topics": [
+          "Sources of Business Finance",
+          "Small Business",
+          "Internal Trade",
+          "International Business"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Statistics for Economics",
+        "topics": [
+          "Introduction",
+          "Collection, Organisation and Presentation of Data",
+          "Statistical Tools and Interpretation (Measures of Central Tendency, Correlation, Index Numbers)"
+        ]
+      },
+      {
+        "chapter": "Microeconomics",
+        "topics": [
+          "Introduction",
+          "Consumer's Equilibrium and Demand",
+          "Producer Behaviour and Supply",
+          "Forms of Market and Price Determination under perfect competition with simple applications"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Core",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Hornbill - Prose",
+        "topics": [
+          "The Portrait of a Lady",
+          "We're Not Afraid to Die... if We Can All Be Together",
+          "Discovering Tut: the Saga Continues",
+          "Landscape of the Soul",
+          "The Ailing Planet: the Green Movement's Role",
+          "The Browning Version",
+          "The Adventure",
+          "Silk Road"
+        ]
+      },
+      {
+        "chapter": "Hornbill - Poetry",
+        "topics": [
+          "A Photograph",
+          "The Laburnum Top",
+          "The Voice of the Rain",
+          "Childhood",
+          "Father to Son"
+        ]
+      },
+      {
+        "chapter": "Snapshots",
+        "topics": [
+          "The Summer of the Beautiful White Horse",
+          "The Address",
+          "Ranga's Marriage",
+          "Albert Einstein at School",
+          "Mother's Day",
+          "The Ghat of the Only World",
+          "Birth",
+          "The Tale of Melon City"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension",
+        "topics": ["Unseen Passage", "Note Making and Summarization"]
+      },
+      {
+        "chapter": "Writing Skills",
+        "topics": [
+          "Notice Writing",
+          "Poster Making",
+          "Letter Writing (Business or Official Letters, Letters to the Editor)",
+          "Speech and Debate Writing"
+        ]
+      },
+      {
+        "chapter": "Grammar",
+        "topics": [
+          "Determiners",
+          "Tenses",
+          "Clauses",
+          "Modals",
+          "Change of Voice"
+        ]
+      }
+    ]
+  }
+]
