@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Legal Methods",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Law",
+        "topics": [
+          "Meaning and classification of laws",
+          "Functions and purposes of law",
+          "Law and morality",
+          "Primary and secondary sources of law",
+          "Custom as a source of law"
+        ]
+      },
+      {
+        "chapter": "Legal System and Institutions",
+        "topics": [
+          "Common Law vs. Civil Law systems",
+          "The Indian legal system and its history",
+          "Hierarchy of courts in India",
+          "Tribunals and Alternative Dispute Resolution (ADR)",
+          "Role of the legal profession"
+        ]
+      },
+      {
+        "chapter": "Legal Research and Materials",
+        "topics": [
+          "Primary, secondary, and tertiary legal sources",
+          "Statutes, ordinances, and delegated legislation",
+          "Judicial precedents and law reports",
+          "Using legal databases (SCC Online, Manupatra)",
+          "Citation formats and OSCOLA/Bluebook guidelines"
+        ]
+      },
+      {
+        "chapter": "Reading and Analyzing Judgments",
+        "topics": [
+          "Structure of a judicial decision",
+          "Ratio decidendi and Obiter dicta",
+          "Case briefing techniques",
+          "Dissenting opinions and their value",
+          "The doctrine of Stare Decisis in India"
+        ]
+      },
+      {
+        "chapter": "Statutory Interpretation",
+        "topics": [
+          "Literal, Golden, and Mischief rules",
+          "Harmonious construction",
+          "Internal and external aids to interpretation",
+          "Presumptions in statutory interpretation",
+          "Maxims of interpretation (Ejusdem Generis, Noscitur A Sociis)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Law of Contracts",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Formation of Contract",
+        "topics": [
+          "Proposal and Acceptance",
+          "Communication and revocation of proposals",
+          "Standard form contracts",
+          "Intention to create legal relations",
+          "E-contracts and digital signatures"
+        ]
+      },
+      {
+        "chapter": "Consideration and Capacity",
+        "topics": [
+          "Meaning and essentials of valid consideration",
+          "Privity of contract and exceptions",
+          "Minor's agreement and effects",
+          "Persons of unsound mind and disqualified persons",
+          "Contracts without consideration (Exceptions under Sec 25)"
+        ]
+      },
+      {
+        "chapter": "Free Consent",
+        "topics": [
+          "Coercion and Undue Influence",
+          "Fraud and Misrepresentation",
+          "Mistake of Fact and Mistake of Law",
+          "Effect of flaws in consent on the contract",
+          "Unconscionable bargains"
+        ]
+      },
+      {
+        "chapter": "Legality of Object and Void Agreements",
+        "topics": [
+          "Unlawful agreements and public policy",
+          "Agreements in restraint of marriage and trade",
+          "Agreements in restraint of legal proceedings",
+          "Wagering agreements and contingent contracts",
+          "Severability of unlawful parts"
+        ]
+      },
+      {
+        "chapter": "Discharge of Contract and Remedies",
+        "topics": [
+          "Discharge by performance, agreement, and operation of law",
+          "Doctrine of Frustration (Impossibility of performance)",
+          "Anticipatory and actual breach",
+          "Damages: Remoteness and measure (Hadley v. Baxendale)",
+          "Quasi-contracts and unjust enrichment"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Law of Torts and Consumer Protection",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Nature and Principles of Tort",
+        "topics": [
+          "Definition and nature of tort",
+          "Distinction between tort, crime, and breach of contract",
+          "Injuria sine damno and Damnum sine injuria",
+          "Mental elements: malice, intention, motive, and negligence",
+          "General defenses (Volenti non fit injuria, Act of God)"
+        ]
+      },
+      {
+        "chapter": "Specific Torts against Person and Property",
+        "topics": [
+          "Assault, battery, and false imprisonment",
+          "Malicious prosecution and nervous shock",
+          "Trespass to land and goods",
+          "Nuisance: Public and Private",
+          "Defamation: Libel, slander, and defenses"
+        ]
+      },
+      {
+        "chapter": "Negligence and Liability",
+        "topics": [
+          "Essentials of Negligence",
+          "Duty of care and breach",
+          "Res ipsa loquitur and contributory negligence",
+          "Strict liability (Rylands v. Fletcher)",
+          "Absolute liability (M.C. Mehta case)"
+        ]
+      },
+      {
+        "chapter": "Vicarious Liability and Remedies",
+        "topics": [
+          "Master and Servant relationship",
+          "Course of employment and independent contractors",
+          "State liability and sovereign immunity",
+          "Damages: Nominal, substantial, and exemplary",
+          "Injunctions and extra-judicial remedies"
+        ]
+      },
+      {
+        "chapter": "Consumer Protection Law",
+        "topics": [
+          "Consumer Protection Act, 2019: Objects and scope",
+          "Definition of Consumer, Defect, and Deficiency",
+          "Unfair trade practices and restrictive trade practices",
+          "Consumer Dispute Redressal Commissions",
+          "Product liability and penal provisions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Constitutional Law I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Historical Background and Preamble",
+        "topics": [
+          "Making of the Indian Constitution",
+          "Salient features of the Constitution",
+          "Significance and interpretation of the Preamble",
+          "Nature of the Indian Federalism",
+          "Citizenship: Constitutional provisions and Act"
+        ]
+      },
+      {
+        "chapter": "Fundamental Rights: Concept and State",
+        "topics": [
+          "Concept of Fundamental Rights",
+          "Definition of 'State' under Article 12",
+          "Laws inconsistent with Fundamental Rights (Article 13)",
+          "Doctrine of Eclipse, Severability, and Waiver",
+          "Judicial Review and Fundamental Rights"
+        ]
+      },
+      {
+        "chapter": "Right to Equality and Freedoms",
+        "topics": [
+          "Equality before law and equal protection of laws (Art 14)",
+          "Prohibition of discrimination and affirmative action (Art 15 & 16)",
+          "Abolition of untouchability and titles (Art 17 & 18)",
+          "Six freedoms under Article 19 and reasonable restrictions",
+          "Protection in respect of conviction for offences (Art 20)"
+        ]
+      },
+      {
+        "chapter": "Right to Life and Personal Liberty",
+        "topics": [
+          "Scope of Article 21 and Maneka Gandhi case",
+          "Right to Education (Article 21A)",
+          "Protection against arrest and preventive detention (Art 22)",
+          "Right against exploitation (Art 23 & 24)",
+          "Emerging dimensions of right to privacy"
+        ]
+      },
+      {
+        "chapter": "Religion, Minorities, and Remedies",
+        "topics": [
+          "Freedom of religion (Art 25-28) and Secularism",
+          "Cultural and educational rights of minorities (Art 29-30)",
+          "Right to Constitutional Remedies (Article 32 & 226)",
+          "Types of Writs: Habeas Corpus, Mandamus, Certiorari, Prohibition, Quo Warranto",
+          "Directive Principles of State Policy and Fundamental Duties"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Constitutional Law II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Union and State Executives",
+        "topics": [
+          "President of India: Election, powers, and position",
+          "Governor: Role and discretionary powers",
+          "Council of Ministers and Prime Minister/Chief Minister",
+          "Collective responsibility",
+          "Pardoning power and ordinance making power"
+        ]
+      },
+      {
+        "chapter": "The Parliament and State Legislatures",
+        "topics": [
+          "Composition of Parliament and State Legislatures",
+          "Qualifications and disqualifications of members (Anti-Defection Law)",
+          "Legislative procedure and types of bills",
+          "Parliamentary privileges and immunities",
+          "Role of the Speaker and Chairman"
+        ]
+      },
+      {
+        "chapter": "The Judiciary",
+        "topics": [
+          "Supreme Court: Composition and appointment (Collegium system)",
+          "Original, appellate, and advisory jurisdiction",
+          "High Courts and Subordinate Courts",
+          "Independence of the Judiciary",
+          "Judicial Activism and Public Interest Litigation (PIL)"
+        ]
+      },
+      {
+        "chapter": "Federalism and Centre-State Relations",
+        "topics": [
+          "Legislative relations and distribution of powers",
+          "Administrative relations and directions",
+          "Financial relations and Finance Commission",
+          "Freedom of trade, commerce, and intercourse",
+          "Cooperative federalism and Inter-State Council"
+        ]
+      },
+      {
+        "chapter": "Emergency Provisions and Amendment",
+        "topics": [
+          "National Emergency (Article 352) and its effects",
+          "State Emergency/President's Rule (Article 356)",
+          "Financial Emergency (Article 360)",
+          "Procedure for amending the Constitution (Article 368)",
+          "Basic Structure Doctrine (Kesavananda Bharati case)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Family Law I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Hindu and Muslim Law",
+        "topics": [
+          "Sources and schools of Hindu Law",
+          "Concept of Dharma",
+          "Sources and schools of Muslim Law",
+          "Custom as a source of family law",
+          "Application of Hindu and Muslim Law"
+        ]
+      },
+      {
+        "chapter": "Marriage under Hindu Law",
+        "topics": [
+          "Nature of Hindu marriage (Sacrament vs Contract)",
+          "Conditions of a valid marriage under HMA, 1955",
+          "Void and voidable marriages",
+          "Ceremonies and registration",
+          "Restitution of conjugal rights and judicial separation"
+        ]
+      },
+      {
+        "chapter": "Marriage under Muslim Law",
+        "topics": [
+          "Nature of Muslim marriage (Nikah)",
+          "Essentials of a valid marriage",
+          "Muta marriage and its legal incidents",
+          "Dower (Mahr): Concept, types, and enforcement",
+          "Iddat and its significance"
+        ]
+      },
+      {
+        "chapter": "Matrimonial Remedies and Divorce",
+        "topics": [
+          "Theories of divorce: Fault, breakdown, and mutual consent",
+          "Grounds for divorce under Hindu Marriage Act, 1955",
+          "Talaq under Muslim law and types of Talaq",
+          "Dissolution of Muslim Marriages Act, 1939",
+          "Maintenance pendente lite and permanent alimony"
+        ]
+      },
+      {
+        "chapter": "Adoption, Maintenance, and Guardianship",
+        "topics": [
+          "Hindu Adoptions and Maintenance Act, 1956",
+          "Requisites of a valid adoption",
+          "Maintenance of wife, children, and parents",
+          "Maintenance under CrPC Section 125 and Muslim Women Act, 1986",
+          "Hindu Minority and Guardianship Act, 1956 and Muslim Law of Guardianship (Hizanat)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Family Law II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Hindu Joint Family System",
+        "topics": [
+          "Mitakshara and Dayabhaga schools: Differences",
+          "Concept of Coparcenary and Joint Hindu Family",
+          "Coparcenary property versus separate property",
+          "Rights of Coparceners",
+          "Introduction of daughters as coparceners (2005 Amendment)"
+        ]
+      },
+      {
+        "chapter": "Karta and Alienation of Property",
+        "topics": [
+          "Position, powers, and duties of the Karta",
+          "Alienation of joint family property by Karta",
+          "Legal necessity and benefit of estate",
+          "Coparcener's power of alienation",
+          "Son's pious obligation and Antecedent Debt"
+        ]
+      },
+      {
+        "chapter": "Partition and Reunion",
+        "topics": [
+          "Meaning of Partition and subjects of Partition",
+          "Modes of effecting Partition",
+          "Persons entitled to demand Partition and receive share",
+          "Reopening of Partition",
+          "Reunion and its legal effects"
+        ]
+      },
+      {
+        "chapter": "Intestate Succession (Hindu Law)",
+        "topics": [
+          "Hindu Succession Act, 1956: General rules of succession",
+          "Devolution of interest in coparcenary property",
+          "Succession to the property of a Hindu male dying intestate",
+          "Succession to the property of a Hindu female dying intestate",
+          "General rules of succession and disqualifications"
+        ]
+      },
+      {
+        "chapter": "Intestate Succession (Muslim Law) and Gifts",
+        "topics": [
+          "General principles of inheritance in Muslim Law",
+          "Sunni and Shia Law of Inheritance",
+          "Concept of Hiba (Gift): Essentials and kinds",
+          "Revocation of Gifts",
+          "Wills (Wasiyat) and Pre-emption (Shufa)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Law of Crimes (Indian Penal Code)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Principles of Criminal Law",
+        "topics": [
+          "Elements of crime: Actus Reus and Mens Rea",
+          "Stages of crime: Intention, preparation, attempt, and commission",
+          "Strict liability and vicarious liability in criminal law",
+          "Territorial and extra-territorial jurisdiction of IPC",
+          "Joint liability and constructive liability (Sec 34 & 149)"
+        ]
+      },
+      {
+        "chapter": "General Exceptions",
+        "topics": [
+          "Mistake of fact and mistake of law",
+          "Judicial acts, accidents, and necessity",
+          "Infancy, insanity, and intoxication",
+          "Consent and trivial acts",
+          "Right of Private Defense of body and property"
+        ]
+      },
+      {
+        "chapter": "Offences Against the State and Public Tranquility",
+        "topics": [
+          "Waging war and sedition",
+          "Unlawful assembly and rioting",
+          "Affray and promoting enmity between groups",
+          "Offences related to religion",
+          "False evidence and offences against public justice"
+        ]
+      },
+      {
+        "chapter": "Offences Against the Human Body",
+        "topics": [
+          "Culpable homicide and murder",
+          "Exceptions reducing murder to culpable homicide",
+          "Hurt, grievous hurt, and wrongful restraint/confinement",
+          "Criminal force, assault, and kidnapping/abduction",
+          "Sexual offences and rape laws (Amendment Act 2013)"
+        ]
+      },
+      {
+        "chapter": "Offences Against Property and Women",
+        "topics": [
+          "Theft, extortion, robbery, and dacoity",
+          "Criminal misappropriation and breach of trust",
+          "Cheating, forgery, and mischief",
+          "Criminal trespass and housebreaking",
+          "Cruelty by husband or relatives (Sec 498A) and dowry death"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Jurisprudence",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Jurisprudence",
+        "topics": [
+          "Meaning, nature, and scope of Jurisprudence",
+          "Relationship of Jurisprudence with other social sciences",
+          "Natural Law Theory: Ancient, Medieval, and Modern",
+          "Revival of Natural Law",
+          "Analytical Positivism (Bentham and Austin)"
+        ]
+      },
+      {
+        "chapter": "Schools of Jurisprudential Thought",
+        "topics": [
+          "Pure Theory of Law (Hans Kelsen)",
+          "Historical School (Savigny and Maine)",
+          "Sociological School (Roscoe Pound's Social Engineering)",
+          "Realist School (American and Scandinavian)",
+          "Marxist approach to law"
+        ]
+      },
+      {
+        "chapter": "Sources of Law and Legal Concepts",
+        "topics": [
+          "Custom, Legislation, and Precedent",
+          "Concept of Rights and Duties (Hohfeld's Analysis)",
+          "Legal Personality: Corporate personality theories",
+          "Concept of Property",
+          "Concept of Ownership and Possession"
+        ]
+      },
+      {
+        "chapter": "Theories of Justice and Administration",
+        "topics": [
+          "Meaning and kinds of justice",
+          "Rawls' theory of justice",
+          "Administration of justice: Civil and Criminal",
+          "Theories of punishment (Deterrent, Retributive, Preventive, Reformative)",
+          "Law and morality (Hart-Fuller debate)"
+        ]
+      },
+      {
+        "chapter": "Modern Jurisprudential Trends",
+        "topics": [
+          "Feminist Jurisprudence",
+          "Critical Legal Studies",
+          "Postmodernism and Law",
+          "Law and Economics movement",
+          "Environmental Jurisprudence"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Code of Civil Procedure",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction and Jurisdiction",
+        "topics": [
+          "Decree, Order, and Judgment",
+          "Pecuniary, Territorial, and Subject-matter jurisdiction",
+          "Suits of civil nature (Section 9)",
+          "Res Sub Judice (Section 10)",
+          "Res Judicata (Section 11) and Constructive Res Judicata"
+        ]
+      },
+      {
+        "chapter": "Institution of Suits and Pleadings",
+        "topics": [
+          "Place of suing and institution of suit",
+          "Parties to suits: Joinder, misjoinder, and non-joinder",
+          "Frame of suit and representative suits",
+          "Pleadings: Plaint and Written Statement",
+          "Amendment of pleadings and set-off/counter-claim"
+        ]
+      },
+      {
+        "chapter": "Summons, Appearance, and Trial",
+        "topics": [
+          "Issue and service of summons",
+          "Appearance of parties and consequences of non-appearance",
+          "Ex-parte decree and its setting aside",
+          "Discovery, inspection, and admission",
+          "Settlement of issues and hearing of the suit"
+        ]
+      },
+      {
+        "chapter": "Execution of Decrees",
+        "topics": [
+          "Courts by which decrees may be executed",
+          "Modes of execution: Arrest, attachment, and sale",
+          "Precepts and Garnishee Order",
+          "Properties exempt from attachment",
+          "Questions to be determined by the executing court (Sec 47)"
+        ]
+      },
+      {
+        "chapter": "Appeals, Reference, Review, and Revision",
+        "topics": [
+          "First Appeals and Second Appeals",
+          "Appeals from Orders",
+          "Reference to High Court",
+          "Review of Judgments",
+          "Revision under Section 115 and Inherent powers (Section 151)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Code of Criminal Procedure",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction and Criminal Courts",
+        "topics": [
+          "Object and scope of CrPC",
+          "Bailable/Non-bailable, Cognizable/Non-cognizable offences",
+          "Classes and powers of Criminal Courts",
+          "Public Prosecutors and Defense Counsel",
+          "Rights of the arrested person"
+        ]
+      },
+      {
+        "chapter": "Arrest, Process, and Investigation",
+        "topics": [
+          "Arrest of persons with and without warrant",
+          "Summons, warrants, proclamation, and attachment",
+          "Information to the Police (FIR) and evidentiary value",
+          "Police investigation powers: Inquest, discovery of persons",
+          "Search warrants and seizure"
+        ]
+      },
+      {
+        "chapter": "Charge and Trial Proceedings",
+        "topics": [
+          "Framing and alteration of Charge",
+          "Joinder of Charges",
+          "Trial before a Court of Session",
+          "Trial of Warrant cases and Summons cases by Magistrates",
+          "Summary Trials"
+        ]
+      },
+      {
+        "chapter": "Bail and Pre-trial Disposal",
+        "topics": [
+          "Provisions as to Bail and Bonds",
+          "Anticipatory Bail and Cancellation of Bail",
+          "Plea Bargaining",
+          "Compounding of offences",
+          "Limitation for taking cognizance"
+        ]
+      },
+      {
+        "chapter": "Judgment, Appeals, and Revision",
+        "topics": [
+          "Form and contents of a Judgment",
+          "Appeals: From convictions and acquittals",
+          "Powers of the Appellate Court",
+          "Reference and Revision",
+          "Transfer of criminal cases and Execution of sentences"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Law of Evidence",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction and Relevancy of Facts",
+        "topics": [
+          "Nature, scope, and applicability of the Indian Evidence Act",
+          "Fact, Fact in issue, and Relevant fact",
+          "Presumptions: May presume, shall presume, conclusive proof",
+          "Res Gestae and facts forming part of the same transaction",
+          "Motive, preparation, previous and subsequent conduct"
+        ]
+      },
+      {
+        "chapter": "Admissions and Confessions",
+        "topics": [
+          "Definition and evidentiary value of Admission",
+          "Persons whose admissions are relevant",
+          "Confession to police and in police custody",
+          "Confession jointly tried (Section 30)",
+          "Dying Declaration and its admissibility"
+        ]
+      },
+      {
+        "chapter": "Proof, Expert Opinion, and Character",
+        "topics": [
+          "Facts which need not be proved (Judicial Notice)",
+          "Opinions of third persons (Expert testimony)",
+          "Relevancy of character in civil and criminal cases",
+          "Oral evidence and the rule of direct evidence",
+          "Documentary evidence: Primary and Secondary"
+        ]
+      },
+      {
+        "chapter": "Burden of Proof and Estoppel",
+        "topics": [
+          "General rules of burden of proof",
+          "Burden of proving exception and facts especially within knowledge",
+          "Presumption as to dowry death and rape",
+          "Doctrine of Estoppel and Promissory Estoppel",
+          "Exclusion of oral by documentary evidence"
+        ]
+      },
+      {
+        "chapter": "Witnesses and Examination",
+        "topics": [
+          "Competency of witnesses (Child, dumb, accomplice)",
+          "Privileged communications (Spousal, professional, official)",
+          "Examination-in-chief, cross-examination, and re-examination",
+          "Leading questions and impeaching credit of witness",
+          "Refreshing memory and hostile witness"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Public International Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction and Sources",
+        "topics": [
+          "Definition, nature, and basis of International Law",
+          "Is International Law true law?",
+          "Sources: Custom, Treaties, General Principles of Law",
+          "Judicial decisions and juristic writings",
+          "Relationship between International Law and Municipal Law"
+        ]
+      },
+      {
+        "chapter": "Subjects and Recognition",
+        "topics": [
+          "State as the primary subject of International Law",
+          "Individuals and International Organizations as subjects",
+          "State recognition: Theories (Constitutive and Declaratory)",
+          "De facto and De jure recognition",
+          "State Succession and its consequences"
+        ]
+      },
+      {
+        "chapter": "State Territory and Jurisdiction",
+        "topics": [
+          "Acquisition and loss of State territory",
+          "Law of the Sea: Territorial waters, EEZ, Continental Shelf",
+          "Air space and Outer Space Law",
+          "Principles of State Jurisdiction",
+          "Extradition and Asylum"
+        ]
+      },
+      {
+        "chapter": "Law of Treaties",
+        "topics": [
+          "Formation and ratification of treaties",
+          "Pacta Sunt Servanda and reservations",
+          "Invalidity, termination, and suspension of treaties",
+          "Rebus sic stantibus (Fundamental change of circumstances)",
+          "Vienna Convention on the Law of Treaties, 1969"
+        ]
+      },
+      {
+        "chapter": "International Organizations and Disputes",
+        "topics": [
+          "The United Nations Organization: Evolution and Organs",
+          "Role of the Security Council and General Assembly",
+          "International Court of Justice (ICJ): Jurisdiction",
+          "Peaceful settlement of international disputes",
+          "Use of force and Right of Self-Defense"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Environmental Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction and Principles",
+        "topics": [
+          "Meaning, ecology, and environment",
+          "Historical development of environmental law in India",
+          "Sustainable Development and Inter-generational equity",
+          "Precautionary Principle and Polluter Pays Principle",
+          "Public Trust Doctrine"
+        ]
+      },
+      {
+        "chapter": "Constitutional Provisions and Remedies",
+        "topics": [
+          "Right to wholesome environment (Article 21)",
+          "Directive Principles and Fundamental Duties concerning environment",
+          "Distribution of legislative powers",
+          "Public Interest Litigation (PIL) in environmental matters",
+          "Role of Judiciary in environmental protection"
+        ]
+      },
+      {
+        "chapter": "Pollution Control Legislations",
+        "topics": [
+          "The Water (Prevention and Control of Pollution) Act, 1974",
+          "The Air (Prevention and Control of Pollution) Act, 1981",
+          "Powers and functions of Central and State Boards",
+          "Environment (Protection) Act, 1986: Scope and objectives",
+          "Delegated legislation under EPA (EIA notifications)"
+        ]
+      },
+      {
+        "chapter": "Forest and Wildlife Protection",
+        "topics": [
+          "The Indian Forest Act, 1927 and Forest Conservation Act, 1980",
+          "Rights of forest dwellers and tribal communities",
+          "The Wildlife (Protection) Act, 1972",
+          "Sanctuaries, National Parks, and Biosphere Reserves",
+          "Prevention of cruelty to animals"
+        ]
+      },
+      {
+        "chapter": "International Environmental Law",
+        "topics": [
+          "Stockholm Declaration, 1972 and Rio Declaration, 1992",
+          "Kyoto Protocol and Climate Change Conventions",
+          "Biodiversity Convention",
+          "Transboundary pollution and state responsibility",
+          "Role of National Green Tribunal (NGT)"
+        ]
+      }
+    ]
+  }
+]

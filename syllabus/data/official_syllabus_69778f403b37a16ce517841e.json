@@ -1,0 +1,342 @@
+[
+  {
+    "subject": "Calculus",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Limits and Continuity",
+        "topics": ["Epsilon-delta definition of limits", "Continuity of functions", "Properties of continuous functions", "Intermediate value theorem", "Uniform continuity"]
+      },
+      {
+        "chapter": "Derivatives and Applications",
+        "topics": ["Concept of differentiability", "Rolle's Theorem", "Mean Value Theorem", "Taylor's and Maclaurin's series", "Indeterminate forms and L'Hopital's rule"]
+      },
+      {
+        "chapter": "Integration Techniques",
+        "topics": ["Fundamental Theorem of Calculus", "Integration by parts", "Partial fractions", "Improper integrals of first kind", "Improper integrals of second kind"]
+      },
+      {
+        "chapter": "Polar Coordinates and Parametric Equations",
+        "topics": ["Parametric equations representation", "Derivatives of parametric equations", "Arc length in parametric form", "Polar coordinate system", "Area and arc length in polar coordinates"]
+      }
+    ]
+  },
+  {
+    "subject": "Algebra",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Complex Numbers and De Moivre's Theorem",
+        "topics": ["Polar representation of complex numbers", "nth roots of unity", "De Moivre's theorem", "Applications to trigonometry", "Equations with complex coefficients"]
+      },
+      {
+        "chapter": "Equivalence Relations and Partitions",
+        "topics": ["Sets and relations", "Equivalence relations", "Equivalence classes", "Partitions of a set", "Fundamental theorem of equivalence relations"]
+      },
+      {
+        "chapter": "Systems of Linear Equations",
+        "topics": ["Matrix representation of systems", "Gaussian elimination method", "Row echelon form", "Rank of a matrix", "Consistency of linear systems"]
+      },
+      {
+        "chapter": "Eigenvalues and Eigenvectors",
+        "topics": ["Characteristic equation", "Computation of eigenvalues", "Computation of eigenvectors", "Cayley-Hamilton theorem", "Diagonalization of matrices"]
+      }
+    ]
+  },
+  {
+    "subject": "Real Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Real Number System and Completeness",
+        "topics": ["Algebraic and order properties of R", "Bounded and unbounded sets", "Supremum and infimum", "Completeness property of R", "Archimedean property"]
+      },
+      {
+        "chapter": "Sequences of Real Numbers",
+        "topics": ["Definition and convergence of sequences", "Limit theorems for sequences", "Monotone sequences", "Cauchy sequences", "Bolzano-Weierstrass theorem"]
+      },
+      {
+        "chapter": "Infinite Series and Convergence Tests",
+        "topics": ["Convergence of infinite series", "Comparison test", "Ratio and root tests", "Alternating series", "Absolute and conditional convergence"]
+      },
+      {
+        "chapter": "Limit and Continuity of Functions",
+        "topics": ["Epsilon-delta definition for functions", "Sequential criterion for limits", "Algebra of limits", "Continuous functions on intervals", "Properties of continuous functions on closed intervals"]
+      },
+      {
+        "chapter": "Uniform Continuity and Differentiability",
+        "topics": ["Uniform continuity definition", "Non-uniform continuity examples", "Continuous extensions", "Differentiability definitions", "Caratheodory's theorem"]
+      }
+    ]
+  },
+  {
+    "subject": "Differential Equations",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "First Order Exact Differential Equations",
+        "topics": ["Exact differential equations", "Integrating factors", "Linear first order equations", "Bernoulli's equation", "Applications to orthogonal trajectories"]
+      },
+      {
+        "chapter": "Linear Differential Equations of Higher Order",
+        "topics": ["Homogeneous equations with constant coefficients", "Non-homogeneous equations", "Method of undetermined coefficients", "Method of variation of parameters", "Cauchy-Euler equations"]
+      },
+      {
+        "chapter": "Systems of Linear Differential Equations",
+        "topics": ["Linear systems in normal form", "Homogeneous linear systems", "Fundamental matrix", "Non-homogeneous linear systems", "Matrix exponential method"]
+      },
+      {
+        "chapter": "Laplace Transforms and Applications",
+        "topics": ["Definition of Laplace transform", "Transforms of elementary functions", "Inverse Laplace transform", "Convolution theorem", "Solving IVPs using Laplace transforms"]
+      },
+      {
+        "chapter": "Power Series Solutions",
+        "topics": ["Review of power series", "Series solution near an ordinary point", "Regular singular points", "Frobenius method", "Bessel and Legendre equations overview"]
+      }
+    ]
+  },
+  {
+    "subject": "Theory of Real Functions",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Limits of Functions and Sequential Criterion",
+        "topics": ["Cluster points", "Definition of limit", "Sequential criterion for limits", "Divergence criteria", "Limit theorems"]
+      },
+      {
+        "chapter": "Continuous Functions and Properties",
+        "topics": ["Continuity at a point and on a set", "Algebra of continuous functions", "Continuous functions on intervals", "Boundedness theorem", "Maximum-minimum theorem"]
+      },
+      {
+        "chapter": "Differentiability and Taylor's Theorem",
+        "topics": ["Differentiability of real functions", "Chain rule and inverse functions", "Rolle's theorem and Mean value theorem", "Taylor's theorem with remainder", "Applications of Taylor's theorem"]
+      },
+      {
+        "chapter": "Convex Functions and Inequalities",
+        "topics": ["Convex and concave functions", "Properties of convex functions", "Jensen's inequality", "Applications to maxima and minima", "Young's and Holder's inequalities"]
+      }
+    ]
+  },
+  {
+    "subject": "Group Theory",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Symmetries and Dihedral Groups",
+        "topics": ["Symmetries of a square", "Definition of a group", "Dihedral groups properties", "Elementary properties of groups", "Examples of groups (Zn, U(n))"]
+      },
+      {
+        "chapter": "Subgroups and Cyclic Groups",
+        "topics": ["Subgroup tests", "Examples of subgroups", "Centralizer and normalizer", "Properties of cyclic groups", "Classification of subgroups of cyclic groups"]
+      },
+      {
+        "chapter": "Permutation Groups and Alternating Groups",
+        "topics": ["Properties of permutations", "Cycle notation", "Even and odd permutations", "The alternating group", "Cayley's theorem"]
+      },
+      {
+        "chapter": "Cosets and Lagrange's Theorem",
+        "topics": ["Properties of cosets", "Lagrange's theorem and consequences", "Index of a subgroup", "Fermat's little theorem", "Euler's phi function applications"]
+      },
+      {
+        "chapter": "Normal Subgroups and Isomorphism Theorems",
+        "topics": ["Normal subgroups tests", "Factor groups (Quotient groups)", "Group homomorphisms", "Kernel and image", "First, second, and third isomorphism theorems"]
+      }
+    ]
+  },
+  {
+    "subject": "Multivariate Calculus",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Functions of Several Variables",
+        "topics": ["Domain and range", "Limits and continuity in two variables", "Sequential criterion for continuity", "Level curves and surfaces", "Topology of R^n basics"]
+      },
+      {
+        "chapter": "Partial Derivatives and Differentiability",
+        "topics": ["Computation of partial derivatives", "Chain rule for several variables", "Directional derivatives and gradient", "Tangent planes and normal lines", "Extrema of functions of two variables (Hessian matrix)"]
+      },
+      {
+        "chapter": "Multiple Integrals (Double and Triple)",
+        "topics": ["Double integrals over rectangular/general regions", "Double integrals in polar coordinates", "Triple integrals in rectangular coordinates", "Triple integrals in cylindrical/spherical coordinates", "Change of variables in multiple integrals"]
+      },
+      {
+        "chapter": "Vector Calculus (Gradient, Divergence, Curl)",
+        "topics": ["Vector fields overview", "Line integrals of vector fields", "Fundamental theorem for line integrals", "Green's theorem", "Surface integrals, Stokes' and Divergence theorems"]
+      }
+    ]
+  },
+  {
+    "subject": "Partial Differential Equations",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "First Order Partial Differential Equations",
+        "topics": ["Linear and quasi-linear first order PDEs", "Method of characteristics", "Cauchy problem for first order PDEs", "Lagrange's method", "Charpit's method"]
+      },
+      {
+        "chapter": "Classification of Second Order PDEs",
+        "topics": ["Linear second order PDEs", "Classification into hyperbolic, parabolic, elliptic", "Reduction to canonical form", "Characteristics of second order PDEs", "Initial and boundary conditions"]
+      },
+      {
+        "chapter": "Wave equation and Heat equation",
+        "topics": ["Derivation of the 1D wave equation", "D'Alembert's solution", "Derivation of the 1D heat equation", "Solution by separation of variables (Wave)", "Solution by separation of variables (Heat)"]
+      },
+      {
+        "chapter": "Laplace Equation and Boundary Value Problems",
+        "topics": ["Derivation of Laplace equation", "Dirichlet and Neumann problems", "Solution of Laplace equation in a rectangle", "Solution of Laplace equation in a disk", "Maximum principle for Laplace equation"]
+      }
+    ]
+  },
+  {
+    "subject": "Riemann Integration and Series of Functions",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Riemann Integrability and Darboux Sums",
+        "topics": ["Upper and lower Darboux sums", "Darboux's theorem on integrals", "Riemann integrability criterion", "Integrability of continuous and monotonic functions", "Properties of the Riemann integral"]
+      },
+      {
+        "chapter": "Fundamental Theorem of Calculus",
+        "topics": ["First fundamental theorem of calculus", "Second fundamental theorem of calculus", "Integration by parts for Riemann integral", "Mean value theorems for integrals", "Change of variables"]
+      },
+      {
+        "chapter": "Sequences and Series of Functions",
+        "topics": ["Pointwise convergence", "Uniform convergence", "Cauchy criterion for uniform convergence", "Weierstrass M-test", "Properties of uniform convergence (continuity/integration)"]
+      },
+      {
+        "chapter": "Power Series and Radius of Convergence",
+        "topics": ["Definition of power series", "Radius and interval of convergence", "Cauchy-Hadamard theorem", "Differentiation and integration of power series", "Abel's theorem"]
+      }
+    ]
+  },
+  {
+    "subject": "Ring Theory and Linear Algebra I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Rings and Subrings",
+        "topics": ["Definition and examples of rings", "Properties of rings", "Subrings", "Integral domains", "Fields and their properties"]
+      },
+      {
+        "chapter": "Ideals and Quotient Rings",
+        "topics": ["Definition of ideals", "Prime and maximal ideals", "Quotient rings", "Ring homomorphisms", "Isomorphism theorems for rings"]
+      },
+      {
+        "chapter": "Vector Spaces and Subspaces",
+        "topics": ["Definition and examples of vector spaces", "Subspaces and criteria", "Linear combinations", "Span of a set", "Linear dependence and independence"]
+      },
+      {
+        "chapter": "Basis and Dimension",
+        "topics": ["Definition of basis", "Dimension of a vector space", "Extension to a basis", "Coordinates relative to a basis", "Change of basis"]
+      },
+      {
+        "chapter": "Linear Transformations and Matrices",
+        "topics": ["Definition of linear transformations", "Null space and range", "Rank-nullity theorem", "Matrix representation of a linear transformation", "Algebra of linear transformations"]
+      }
+    ]
+  },
+  {
+    "subject": "Metric Spaces and Complex Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Definition and Examples of Metric Spaces",
+        "topics": ["Definition of a metric", "Euclidean and discrete metrics", "Metric on sequences and functions", "Sub-metric spaces", "Diameter of a set"]
+      },
+      {
+        "chapter": "Open, Closed Sets, and Convergence",
+        "topics": ["Open balls and open sets", "Closed sets and limit points", "Interior, closure, and boundary", "Convergence of sequences in metric spaces", "Cauchy sequences in metric spaces"]
+      },
+      {
+        "chapter": "Completeness and Compactness",
+        "topics": ["Complete metric spaces", "Cantor's intersection theorem", "Baire category theorem", "Compactness in metric spaces", "Heine-Borel theorem in R^n"]
+      },
+      {
+        "chapter": "Complex Numbers and Analytic Functions",
+        "topics": ["Topology of the complex plane", "Functions of a complex variable", "Limits and continuity", "Differentiability of complex functions", "Analytic functions definition"]
+      },
+      {
+        "chapter": "Cauchy-Riemann Equations",
+        "topics": ["Derivation of Cauchy-Riemann equations", "Sufficient conditions for differentiability", "Harmonic functions", "Orthogonal trajectories", "Construction of analytic functions"]
+      },
+      {
+        "chapter": "Contour Integration and Cauchy's Theorem",
+        "topics": ["Contours and contour integrals", "Cauchy-Goursat theorem", "Cauchy integral formula", "Liouville's theorem", "Fundamental theorem of algebra"]
+      }
+    ]
+  },
+  {
+    "subject": "Ring Theory and Linear Algebra II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Polynomial Rings and Irreducibility",
+        "topics": ["Polynomial rings over fields", "Division algorithm", "Irreducible polynomials", "Eisenstein's criterion", "Roots of polynomials"]
+      },
+      {
+        "chapter": "Principal Ideal Domains and Unique Factorization Domains",
+        "topics": ["Euclidean domains", "Principal Ideal Domains (PIDs)", "Unique Factorization Domains (UFDs)", "PID implies UFD", "Polynomial rings over UFDs"]
+      },
+      {
+        "chapter": "Dual Spaces and Annihilators",
+        "topics": ["Dual space definition", "Dual basis", "Double dual", "Annihilator of a subspace", "Transpose of a linear transformation"]
+      },
+      {
+        "chapter": "Inner Product Spaces and Orthogonality",
+        "topics": ["Definition of inner product spaces", "Cauchy-Schwarz inequality", "Orthogonal geometry", "Gram-Schmidt orthogonalization process", "Orthogonal complements and projections"]
+      }
+    ]
+  },
+  {
+    "subject": "Probability and Statistics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Probability Spaces and Random Variables",
+        "topics": ["Axiomatic definition of probability", "Conditional probability and Bayes' theorem", "Discrete and continuous random variables", "Cumulative distribution function", "Probability mass and density functions"]
+      },
+      {
+        "chapter": "Discrete and Continuous Distributions",
+        "topics": ["Binomial and Poisson distributions", "Geometric and negative binomial", "Uniform and exponential distributions", "Normal distribution properties", "Gamma and Beta distributions"]
+      },
+      {
+        "chapter": "Joint Distributions and Covariance",
+        "topics": ["Joint probability distributions", "Marginal and conditional distributions", "Independent random variables", "Expectation and covariance", "Correlation coefficient"]
+      },
+      {
+        "chapter": "Limit Theorems (Law of Large Numbers, CLT)",
+        "topics": ["Markov and Chebyshev inequalities", "Weak law of large numbers", "Strong law of large numbers", "Central Limit Theorem statement", "Applications of CLT"]
+      },
+      {
+        "chapter": "Estimation and Hypothesis Testing",
+        "topics": ["Point and interval estimation", "Maximum likelihood estimation", "Null and alternative hypotheses", "Type I and Type II errors", "Neyman-Pearson lemma basics"]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Methods",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Solutions of Algebraic and Transcendental Equations",
+        "topics": ["Bisection method", "Secant method", "Regula Falsi method", "Newton-Raphson method", "Rate of convergence"]
+      },
+      {
+        "chapter": "Interpolation Techniques",
+        "topics": ["Finite differences", "Newton's forward and backward interpolation", "Lagrange's interpolation", "Newton's divided difference", "Cubic splines"]
+      },
+      {
+        "chapter": "Numerical Differentiation",
+        "topics": ["Derivatives using forward differences", "Derivatives using backward differences", "Derivatives using central differences", "Error analysis in differentiation", "Richardson extrapolation"]
+      },
+      {
+        "chapter": "Numerical Integration (Simpson's and Trapezoidal rules)",
+        "topics": ["Trapezoidal rule", "Simpson's 1/3 rule", "Simpson's 3/8 rule", "Error estimates for integration", "Gaussian quadrature"]
+      },
+      {
+        "chapter": "Numerical Solutions of ODEs (Euler and Runge-Kutta)",
+        "topics": ["Euler's method", "Modified Euler's method", "Runge-Kutta 2nd order", "Runge-Kutta 4th order", "Predictor-corrector methods"]
+      }
+    ]
+  }
+]

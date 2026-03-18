@@ -1,0 +1,378 @@
+[
+  {
+    "subject": "Mathematical Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Calculus and Vector Algebra",
+        "topics": ["Limits and continuity", "First-order differential equations", "Vector addition and multiplication", "Scalar and vector triple products", "Applications of vectors in physics"]
+      },
+      {
+        "chapter": "Orthogonal Curvilinear Coordinates",
+        "topics": ["Cylindrical coordinate system", "Spherical polar coordinates", "Scale factors and basis vectors", "Jacobians and transformation", "Applications in electromagnetism"]
+      },
+      {
+        "chapter": "Vector Calculus",
+        "topics": ["Gradient of a scalar field", "Divergence and curl of vectors", "Line, surface, and volume integrals", "Gauss's divergence theorem", "Stokes' theorem and applications"]
+      },
+      {
+        "chapter": "Ordinary Differential Equations",
+        "topics": ["Second-order linear ODEs", "Homogeneous with constant coefficients", "Non-homogeneous ODEs", "Wronskian", "Applications to harmonic oscillators"]
+      },
+      {
+        "chapter": "Partial Differential Equations",
+        "topics": ["Method of separation of variables", "Wave equation in 1D and 2D", "Heat equation", "Laplace equation basics", "Boundary value problems"]
+      },
+      {
+        "chapter": "Probabilities and Statistics",
+        "topics": ["Basic concepts of probability", "Random variables and expected value", "Binomial distribution", "Poisson distribution", "Normal (Gaussian) distribution"]
+      }
+    ]
+  },
+  {
+    "subject": "Mechanics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of Dynamics",
+        "topics": ["Newton's laws of motion", "Inertial frames and Galilean transformations", "Friction and constrained motion", "Momentum and its conservation", "Variable mass systems (rockets)"]
+      },
+      {
+        "chapter": "Work and Energy",
+        "topics": ["Work-energy theorem", "Conservative and non-conservative forces", "Potential energy curves", "Conservation of mechanical energy", "Power and efficiency"]
+      },
+      {
+        "chapter": "Collisions and Rotational Dynamics",
+        "topics": ["Elastic and inelastic collisions", "Center of mass frame", "Angular momentum and torque", "Moment of inertia of rigid bodies", "Parallel and perpendicular axis theorems"]
+      },
+      {
+        "chapter": "Elasticity and Fluid Mechanics",
+        "topics": ["Stress and strain", "Young's, bulk, and shear moduli", "Poisson's ratio", "Streamline and turbulent flow", "Bernoulli's principle and applications"]
+      },
+      {
+        "chapter": "Gravitation and Central Force Motion",
+        "topics": ["Newton's law of gravitation", "Gravitational potential and field", "Kepler's laws of planetary motion", "Satellite orbits and escape velocity", "Two-body problem reduction"]
+      },
+      {
+        "chapter": "Oscillations and Non-Inertial Systems",
+        "topics": ["Simple harmonic motion", "Damped oscillations", "Forced oscillations and resonance", "Accelerating frames of reference", "Coriolis force and Foucault pendulum"]
+      }
+    ]
+  },
+  {
+    "subject": "Electricity and Magnetism",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Electric Field and Electric Potential",
+        "topics": ["Coulomb's law", "Electric field of continuous charge distributions", "Gauss's law in electrostatics", "Electric potential and equipotential surfaces", "Capacitance and capacitors"]
+      },
+      {
+        "chapter": "Dielectric Properties of Matter",
+        "topics": ["Polarization of dielectrics", "Electric displacement vector (D)", "Gauss's law in dielectrics", "Susceptibility and permittivity", "Boundary conditions for E and D"]
+      },
+      {
+        "chapter": "Magnetic Field and Magnetic Force",
+        "topics": ["Lorentz force law", "Biot-Savart law and applications", "Ampere's circuital law", "Magnetic field of a solenoid", "Force between parallel currents"]
+      },
+      {
+        "chapter": "Magnetic Properties of Matter",
+        "topics": ["Magnetization vector (M)", "Magnetic intensity (H)", "Dia, Para, and Ferromagnetism", "B-H curve and hysteresis", "Boundary conditions for B and H"]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topics": ["Faraday's laws of induction", "Lenz's law", "Motional EMF", "Self and mutual inductance", "Energy stored in a magnetic field"]
+      },
+      {
+        "chapter": "Electrical Circuits and Network Theorems",
+        "topics": ["Kirchhoff's laws", "Thevenin's and Norton's theorems", "Maximum power transfer theorem", "RC and RL circuits transients", "AC circuits and resonance (LCR)"]
+      }
+    ]
+  },
+  {
+    "subject": "Waves and Optics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Wave Motion and Superposition",
+        "topics": ["Plane and spherical waves", "Transverse and longitudinal waves", "Phase and group velocity", "Superposition of collinear harmonic waves", "Lissajous figures"]
+      },
+      {
+        "chapter": "Velocity of Waves and Acoustic Characteristics",
+        "topics": ["Velocity of transverse waves on a string", "Velocity of longitudinal waves in a fluid", "Energy density and intensity of waves", "Doppler effect", "Reverberation time and Sabine's formula"]
+      },
+      {
+        "chapter": "Interference of Light",
+        "topics": ["Coherence and division of wavefront", "Young's double slit experiment", "Fresnel's biprism", "Newton's rings", "Michelson interferometer"]
+      },
+      {
+        "chapter": "Diffraction of Light",
+        "topics": ["Fresnel vs Fraunhofer diffraction", "Fraunhofer diffraction at a single slit", "Diffraction grating", "Resolving power of optical instruments", "Zone plate basics"]
+      },
+      {
+        "chapter": "Polarization of Light",
+        "topics": ["Plane, circular, and elliptical polarization", "Malus's law and Brewster's law", "Double refraction and Nicol prism", "Quarter and half wave plates", "Optical activity and polarimeter"]
+      },
+      {
+        "chapter": "Optical Instruments and Fiber Optics",
+        "topics": ["Huygens and Ramsden eyepieces", "Telescopes and microscopes", "Total internal reflection", "Step-index and graded-index fibers", "Numerical aperture and acceptance angle"]
+      }
+    ]
+  },
+  {
+    "subject": "Thermal Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Zeroth and First Law of Thermodynamics",
+        "topics": ["Thermodynamic equilibrium", "Temperature scales", "Work and heat", "Internal energy", "First law applications to ideal gases"]
+      },
+      {
+        "chapter": "Second Law of Thermodynamics and Entropy",
+        "topics": ["Kelvin-Planck and Clausius statements", "Carnot engine and refrigerator", "Carnot's theorem", "Clausius theorem and entropy", "Entropy changes in reversible/irreversible processes"]
+      },
+      {
+        "chapter": "Thermodynamic Potentials",
+        "topics": ["Enthalpy", "Helmholtz free energy", "Gibbs free energy", "Maxwell's thermodynamic relations", "Clausius-Clapeyron equation"]
+      },
+      {
+        "chapter": "Kinetic Theory of Gases",
+        "topics": ["Postulates of kinetic theory", "Maxwell-Boltzmann distribution of speeds", "Mean free path", "Transport phenomena: Viscosity", "Transport phenomena: Thermal conductivity"]
+      },
+      {
+        "chapter": "Real Gases and Equations of State",
+        "topics": ["Deviations from ideal gas behavior", "Van der Waals equation of state", "Critical constants", "Joule-Thomson effect", "Liquefaction of gases"]
+      },
+      {
+        "chapter": "Conduction and Radiation of Heat",
+        "topics": ["Fourier's law of heat conduction", "Thermal conductivity of solids", "Blackbody radiation", "Stefan-Boltzmann law", "Wien's displacement law"]
+      }
+    ]
+  },
+  {
+    "subject": "Digital Systems and Applications",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Number Systems and Boolean Algebra",
+        "topics": ["Binary, octal, and hexadecimal systems", "Base conversions", "De Morgan's theorems", "Logic expressions simplification", "Karnaugh maps (up to 4 variables)"]
+      },
+      {
+        "chapter": "Logic Gates and Combinational Circuits",
+        "topics": ["AND, OR, NOT, NAND, NOR gates", "XOR and XNOR gates", "Half and full adders", "Multiplexers and demultiplexers", "Decoders and encoders"]
+      },
+      {
+        "chapter": "Sequential Logic Circuits",
+        "topics": ["SR and D latches", "Edge-triggered flip-flops", "SR, D, JK, and T flip-flops", "Master-slave JK flip-flop", "State diagrams and equations"]
+      },
+      {
+        "chapter": "Timers and Counters",
+        "topics": ["IC 555 timer architecture", "Astable and monostable multivibrators", "Asynchronous (ripple) counters", "Synchronous counters", "Decade and ring counters"]
+      },
+      {
+        "chapter": "Registers and Memory Technologies",
+        "topics": ["Shift registers (SISO, SIPO, PISO, PIPO)", "ROM and RAM basics", "Static vs Dynamic RAM", "Programmable Logic Arrays", "Digital-to-Analog Converters (DAC)"]
+      }
+    ]
+  },
+  {
+    "subject": "Modern Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Planck's Quantum and Photoelectric Effect",
+        "topics": ["Failure of classical physics", "Planck's quantum hypothesis", "Photoelectric effect experiments", "Einstein's photoelectric equation", "Photons and their properties"]
+      },
+      {
+        "chapter": "Wave-Particle Duality and De Broglie Hypothesis",
+        "topics": ["De Broglie wavelength", "Davisson-Germer experiment", "Wave packets and phase velocity", "Heisenberg's uncertainty principle", "Applications of uncertainty principle"]
+      },
+      {
+        "chapter": "Atomic Structure and Spectra",
+        "topics": ["Bohr's model of hydrogen atom", "Energy levels and spectral series", "Sommerfeld's extension", "Vector atom model basics", "Stern-Gerlach experiment"]
+      },
+      {
+        "chapter": "X-rays and Compton Effect",
+        "topics": ["Production of X-rays", "Continuous and characteristic X-ray spectra", "Moseley's law", "Compton scattering derivation", "Experimental verification of Compton effect"]
+      },
+      {
+        "chapter": "Introduction to Nuclear Physics",
+        "topics": ["Size and mass of atomic nuclei", "Nuclear binding energy and mass defect", "Liquid drop model", "Semi-empirical mass formula", "Nuclear shell model overview"]
+      }
+    ]
+  },
+  {
+    "subject": "Solid State Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Crystal Structure and Lattice",
+        "topics": ["Bravais lattices", "Primitive and unit cells", "Miller indices", "Simple cubic, BCC, and FCC structures", "Diamond and NaCl structures"]
+      },
+      {
+        "chapter": "X-Ray Diffraction and Reciprocal Lattice",
+        "topics": ["Bragg's law", "Laue's equations", "Concept of reciprocal lattice", "Reciprocal lattice of SC, BCC, FCC", "Brillouin zones"]
+      },
+      {
+        "chapter": "Lattice Vibrations and Specific Heat",
+        "topics": ["Phonons concept", "Monoatomic linear lattice", "Diatomic linear chain", "Einstein's model of specific heat", "Debye's model of specific heat"]
+      },
+      {
+        "chapter": "Free Electron Theory of Metals",
+        "topics": ["Drude-Lorentz theory", "Electrical and thermal conductivity", "Wiedemann-Franz law", "Fermi-Dirac distribution in metals", "Fermi energy and Fermi level"]
+      },
+      {
+        "chapter": "Band Theory of Solids and Semiconductors",
+        "topics": ["Kronig-Penney model overview", "Energy bands classification", "Effective mass of an electron", "Intrinsic and extrinsic semiconductors", "Hall effect"]
+      }
+    ]
+  },
+  {
+    "subject": "Quantum Mechanics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Time Dependent Schrodinger Equation",
+        "topics": ["Time dependent wave equation", "Physical interpretation of wave function", "Probability current density", "Normalization of wave function", "Conservation of probability"]
+      },
+      {
+        "chapter": "Time Independent Schrodinger Equation",
+        "topics": ["Separation of variables", "Stationary states", "Properties of eigen functions", "Boundary conditions", "Degeneracy"]
+      },
+      {
+        "chapter": "Operators and Expectation Values",
+        "topics": ["Momentum and energy operators", "Hermitian operators", "Commutator relations", "Expectation values", "Ehrenfest's theorem"]
+      },
+      {
+        "chapter": "One Dimensional Potentials",
+        "topics": ["Particle in a 1D rigid box", "Finite potential well", "Potential step and reflection", "Quantum tunneling through a barrier", "Linear harmonic oscillator (algebraic)"]
+      },
+      {
+        "chapter": "Quantum Theory of Hydrogen Atom",
+        "topics": ["Schrodinger equation in spherical coordinates", "Separation into radial and angular parts", "Quantum numbers (n, l, m)", "Radial probability distribution", "Energy levels of Hydrogen"]
+      },
+      {
+        "chapter": "Angular Momentum and Spin",
+        "topics": ["Orbital angular momentum operators", "Commutation relations of angular momentum", "Eigenvalues of L^2 and L_z", "Electron spin hypothesis", "Pauli spin matrices"]
+      }
+    ]
+  },
+  {
+    "subject": "Analog Systems and Applications",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Semiconductor Diodes and Rectifiers",
+        "topics": ["PN junction diode characteristics", "Zener diode and voltage regulation", "Half wave and full wave rectifiers", "Bridge rectifier", "Filter circuits (C and pi)"]
+      },
+      {
+        "chapter": "Bipolar Junction Transistors",
+        "topics": ["NPN and PNP transistors action", "CB, CE, and CC configurations", "Input and output characteristics", "Transistor biasing and stability", "Load line and operating point"]
+      },
+      {
+        "chapter": "Field Effect Transistors",
+        "topics": ["JFET structure and working", "JFET characteristics", "MOSFET structure (Depletion and Enhancement)", "MOSFET characteristics", "CMOS technology basics"]
+      },
+      {
+        "chapter": "Amplifiers and Oscillators",
+        "topics": ["Single-stage CE amplifier", "Frequency response of amplifiers", "Concept of negative feedback", "Barkhausen criterion", "Hartley and Colpitts oscillators"]
+      },
+      {
+        "chapter": "Operational Amplifiers and its Applications",
+        "topics": ["Ideal Op-Amp characteristics", "Inverting and non-inverting amplifiers", "Adder and subtractor", "Differentiator and integrator", "Comparator circuits"]
+      }
+    ]
+  },
+  {
+    "subject": "Statistical Mechanics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Macro-states and Micro-states",
+        "topics": ["Phase space definition", "Ensembles (microcanonical, canonical, grand canonical)", "Thermodynamic probability", "Entropy and probability relation", "Partition function introduction"]
+      },
+      {
+        "chapter": "Maxwell-Boltzmann Statistics",
+        "topics": ["Maxwell-Boltzmann distribution law", "Application to ideal gas", "Equipartition of energy", "Partition function of an ideal gas", "Thermodynamic properties from partition function"]
+      },
+      {
+        "chapter": "Bose-Einstein Statistics",
+        "topics": ["Indistinguishability and symmetric wave functions", "Bose-Einstein distribution law", "Bose-Einstein condensation", "Photon gas and Planck's law analysis", "Specific heat of solids (Debye model connection)"]
+      },
+      {
+        "chapter": "Fermi-Dirac Statistics",
+        "topics": ["Antisymmetric wave functions and Pauli principle", "Fermi-Dirac distribution law", "Fermi energy at absolute zero", "Degenerate Fermi gas", "Electron gas in metals heat capacity"]
+      }
+    ]
+  },
+  {
+    "subject": "Electromagnetic Theory",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Maxwell's Equations and Displacement Current",
+        "topics": ["Review of Maxwell's equations in free space", "Equations in linear isotropic media", "Continuity equation", "Displacement current density", "Vector and scalar potentials"]
+      },
+      {
+        "chapter": "Electromagnetic Wave Propagation",
+        "topics": ["EM waves in free space", "EM waves in dielectric media", "EM waves in conducting media", "Skin depth", "Impedance of free space"]
+      },
+      {
+        "chapter": "Polarization and Poynting Vector",
+        "topics": ["Energy density in EM waves", "Poynting theorem", "Momentum transported by EM waves", "Radiation pressure", "Polarization states of EM waves"]
+      },
+      {
+        "chapter": "Reflection and Refraction of EM Waves",
+        "topics": ["Boundary conditions at interfaces", "Laws of reflection and refraction", "Fresnel's equations for normal incidence", "Fresnel's equations for oblique incidence", "Total internal reflection interpretation"]
+      },
+      {
+        "chapter": "Waveguides and Transmission Lines",
+        "topics": ["Propagation of waves between parallel conducting plates", "TE, TM, and TEM modes", "Rectangular waveguides", "Cut-off frequency", "Optical fibers as dielectric waveguides"]
+      }
+    ]
+  },
+  {
+    "subject": "Nuclear and Particle Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Nuclear Properties and Models",
+        "topics": ["Nuclear radius and density", "Nuclear spin and magnetic moment", "Electric quadrupole moment", "Nuclear forces characteristics", "Magic numbers and shell model"]
+      },
+      {
+        "chapter": "Radioactivity and Decay Processes",
+        "topics": ["Radioactive decay law", "Alpha decay and quantum tunneling", "Beta decay and neutrino hypothesis", "Gamma decay and internal conversion", "Radioactive dating methods"]
+      },
+      {
+        "chapter": "Nuclear Reactions and Accelerators",
+        "topics": ["Types of nuclear reactions", "Q-value of a reaction", "Nuclear fission and fusion reactors", "Linear accelerators", "Cyclotron principle"]
+      },
+      {
+        "chapter": "Elementary Particles Basics",
+        "topics": ["Classification of elementary particles", "Fundamental interactions", "Conservation laws (charge, baryon number, lepton number)", "Strangeness and isospin", "Quark model introduction"]
+      }
+    ]
+  },
+  {
+    "subject": "Classical Dynamics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Lagrangian Formulation",
+        "topics": ["Degrees of freedom", "Generalized coordinates", "D'Alembert's principle", "Euler-Lagrange equations", "Applications of Lagrangian method"]
+      },
+      {
+        "chapter": "Hamiltonian Formulation",
+        "topics": ["Generalized momenta", "Hamilton's principle", "Hamilton's canonical equations", "Derivation of Hamilton's equations", "Phase space behavior"]
+      },
+      {
+        "chapter": "Central Force Motion and Scattering",
+        "topics": ["Reduction to one-body problem", "Equation of motion for central force", "Effective potential", "Artificial satellites dynamics", "Rutherford scattering cross-section"]
+      },
+      {
+        "chapter": "Special Theory of Relativity",
+        "topics": ["Michelson-Morley experiment", "Lorentz transformations", "Length contraction and time dilation", "Addition of velocities", "Relativistic momentum and energy"]
+      }
+    ]
+  }
+]

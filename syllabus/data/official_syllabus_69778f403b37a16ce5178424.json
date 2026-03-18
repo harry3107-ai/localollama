@@ -1,0 +1,796 @@
+[
+  {
+    "subject": "Introductory Microeconomics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Exploring the Subject Matter of Economics",
+        "topics": [
+          "Why study economics? Scope and method of economics",
+          "The economic problem: scarcity and choice",
+          "The question of what to produce, how to produce and how to distribute output",
+          "Science of economics; the basic competitive model",
+          "Prices, property rights and profits; incentives and information",
+          "Rationing; opportunity sets; economic systems"
+        ]
+      },
+      {
+        "chapter": "Supply and Demand: How Markets Work, Markets and Welfare",
+        "topics": [
+          "Markets and competition; determinants of individual demand/supply",
+          "Demand and supply schedules and curves",
+          "Market versus individual demand/supply",
+          "Shifts in the demand/supply curve",
+          "Price and resource allocation",
+          "Elasticity and its application",
+          "Controls on prices; taxes and the costs of taxation",
+          "Consumer surplus and producer surplus"
+        ]
+      },
+      {
+        "chapter": "The Households",
+        "topics": [
+          "The consumption decision - budget constraint",
+          "Consumption and income/price changes",
+          "Demand for all other goods and price changes",
+          "Description of preferences (representing preferences with indifference curves)",
+          "Properties of indifference curves; consumer's optimum choice",
+          "Income and substitution effects",
+          "Labour supply and savings decision - choice between leisure and consumption"
+        ]
+      },
+      {
+        "chapter": "The Firm and Perfect Market Structure",
+        "topics": [
+          "Behaviour of profit maximizing firms and the production process",
+          "Short run costs and output decisions",
+          "Costs and output in the long run",
+          "The long run supply curve",
+          "Equilibrium in perfectly competitive markets",
+          "Profit maximization in competitive markets"
+        ]
+      },
+      {
+        "chapter": "Imperfect Market Structure",
+        "topics": [
+          "Monopoly and anti-trust policy",
+          "Monopolistic competition",
+          "Government policies towards competition",
+          "Imperfect competition",
+          "Oligopoly theory overview",
+          "Different market structures in comparison to perfect competition"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematical Methods for Economics I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Preliminaries",
+        "topics": [
+          "Logic and proof techniques; sets and set operations",
+          "Relations and their properties; functions and their properties",
+          "Number systems",
+          "Sequences and series; convergence",
+          "Convex sets and convex functions"
+        ]
+      },
+      {
+        "chapter": "Functions of One Real Variable",
+        "topics": [
+          "Graphs of functions",
+          "Elementary types of functions: quadratic, polynomial, power, exponential, logarithmic",
+          "Limits and continuity of functions",
+          "Continuous functions and their properties"
+        ]
+      },
+      {
+        "chapter": "Single-Variable Optimization",
+        "topics": [
+          "Derivatives and rates of change",
+          "Rules of differentiation",
+          "Higher order derivatives",
+          "Local and global extrema: geometric characterizations",
+          "First and second-order conditions for optimization",
+          "Applications to economic problems"
+        ]
+      },
+      {
+        "chapter": "Integration of Functions",
+        "topics": [
+          "Indefinite integrals and rules of integration",
+          "Definite integrals and properties",
+          "The fundamental theorem of calculus",
+          "Applications of integration in economics",
+          "Consumer and producer surplus"
+        ]
+      },
+      {
+        "chapter": "Difference Equations",
+        "topics": [
+          "First order difference equations",
+          "The cobweb model",
+          "Market models with inventory",
+          "Economic cycles and steady states",
+          "Stability analysis of discrete dynamical systems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Introductory Macroeconomics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Macroeconomics and National Income Accounting",
+        "topics": [
+          "Basic issues studied in macroeconomics",
+          "Measurement of gross domestic product (GDP)",
+          "Income, expenditure and the circular flow",
+          "Real versus nominal GDP",
+          "Price indices and national income accounting for an open economy",
+          "Balance of payments: current and capital accounts"
+        ]
+      },
+      {
+        "chapter": "Money",
+        "topics": [
+          "Functions of money and its role",
+          "Quantity theory of money",
+          "Determination of money supply and demand",
+          "Credit creation and the banking system",
+          "Tools of monetary policy"
+        ]
+      },
+      {
+        "chapter": "Inflation",
+        "topics": [
+          "Causes and effects of inflation",
+          "Social costs of inflation",
+          "Hyperinflation",
+          "Inflation and interest rates",
+          "Fisher effect and inflation tax"
+        ]
+      },
+      {
+        "chapter": "The Closed Economy in the Short Run",
+        "topics": [
+          "Classical and Keynesian systems of macroeconomics",
+          "Simple Keynesian model of income determination",
+          "IS-LM model: goods market and money market equilibrium",
+          "Multiplier and its variations",
+          "Fiscal and monetary multipliers"
+        ]
+      },
+      {
+        "chapter": "The Open Economy",
+        "topics": [
+          "Exchange rates: nominal and real",
+          "Purchasing power parity",
+          "Interest rate parity",
+          "Mundell-Fleming model",
+          "Macroeconomic policy in an open economy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematical Methods for Economics II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "First-order differential equations",
+          "Qualitative theory and stability analysis",
+          "Phase diagrams",
+          "Applications to continuous time economic models",
+          "Solow growth model and its dynamics"
+        ]
+      },
+      {
+        "chapter": "Linear Algebra",
+        "topics": [
+          "Vector spaces: algebraic and geometric properties",
+          "Matrix operations and properties",
+          "Determinants and their properties",
+          "Systems of linear equations",
+          "Eigenvalues and eigenvectors"
+        ]
+      },
+      {
+        "chapter": "Functions of Several Real Variables",
+        "topics": [
+          "Geometric representations: graphs and level curves",
+          "Partial derivatives and directional derivatives",
+          "Differentiability and the total derivative",
+          "Implicit function theorem and comparative statics",
+          "Homogeneous and homothetic functions"
+        ]
+      },
+      {
+        "chapter": "Multi-Variable Optimization",
+        "topics": [
+          "Unconstrained optimization: local and global extrema",
+          "First and second-order conditions in multivariable analysis",
+          "Constrained optimization with equality constraints",
+          "Lagrange multipliers and envelope theorem",
+          "Optimization with inequality constraints (Kuhn-Tucker conditions)"
+        ]
+      },
+      {
+        "chapter": "Dynamics and Economic Applications",
+        "topics": [
+          "Systems of differential equations",
+          "General phase plane analysis",
+          "Stability of equilibrium states",
+          "Economic application to multi-market models",
+          "Intertemporal optimization in economics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Intermediate Microeconomics I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Consumer Theory",
+        "topics": [
+          "Preference and utility functions",
+          "Budget sets and utility maximization",
+          "Demand functions and comparative statics",
+          "Slutsky equation and the substitution effect",
+          "Revealed preference theory",
+          "Choices under uncertainty and expected utility"
+        ]
+      },
+      {
+        "chapter": "Production and Costs",
+        "topics": [
+          "Production functions and marginal productivity",
+          "Isoquants and returns to scale",
+          "Cost minimization and the cost function",
+          "Short-run and long-run costs",
+          "Profit maximization and supply functions"
+        ]
+      },
+      {
+        "chapter": "Perfect Competition",
+        "topics": [
+          "Market supply and short-run equilibrium",
+          "Long-run equilibrium and zero profit condition",
+          "Economic rent and producer surplus",
+          "Competitive market applications: taxation and subsidies",
+          "Welfare theorems in a partial equilibrium framework"
+        ]
+      },
+      {
+        "chapter": "Monopoly",
+        "topics": [
+          "Profit maximization under monopoly",
+          "Markup pricing and price elasticity",
+          "Welfare costs of monopoly",
+          "Price discrimination: first, second, and third degree",
+          "Natural monopoly and regulation"
+        ]
+      },
+      {
+        "chapter": "Monopolistic Competition",
+        "topics": [
+          "Product differentiation and demand",
+          "Short-run and long-run equilibrium in monopolistic competition",
+          "Excess capacity theorem",
+          "Advertising and non-price competition",
+          "Location models (Hotelling's linear city)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Intermediate Macroeconomics I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The IS-LM Model",
+        "topics": [
+          "Derivation of the IS curve",
+          "Derivation of the LM curve",
+          "Equilibrium in the IS-LM model",
+          "Fiscal and monetary policy multipliers",
+          "Liquidity trap and policy effectiveness"
+        ]
+      },
+      {
+        "chapter": "Aggregate Demand and Aggregate Supply",
+        "topics": [
+          "Derivation of aggregate demand from IS-LM",
+          "Short-run and long-run aggregate supply",
+          "Equilibrium in the AD-AS model",
+          "Supply shocks and stagflation",
+          "The Phillips curve and the tradeoff between inflation and unemployment"
+        ]
+      },
+      {
+        "chapter": "Inflation, Unemployment, and Expectations",
+        "topics": [
+          "Adaptive and rational expectations",
+          "The expectations-augmented Phillips curve",
+          "The NAIRU and the natural rate of unemployment",
+          "Costs of inflation and optimal inflation rate",
+          "Sacrifice ratio and disinflation policies"
+        ]
+      },
+      {
+        "chapter": "Open Economy Macroeconomics",
+        "topics": [
+          "The Mundell-Fleming model with fixed exchange rates",
+          "The Mundell-Fleming model with floating exchange rates",
+          "Capital mobility and policy trilemma",
+          "Interest rate differentials and exchange rate expectations",
+          "Currency crises and speculative attacks"
+        ]
+      },
+      {
+        "chapter": "Macroeconomic Policy",
+        "topics": [
+          "Active versus passive policy",
+          "Rules versus discretion in policy making",
+          "Time inconsistency of optimal policy",
+          "Central bank independence and inflation targeting",
+          "Government debt and the Ricardian equivalence"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Statistical Methods for Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Descriptive Statistics",
+        "topics": [
+          "Types of data and their presentation",
+          "Measures of central tendency: mean, median, mode",
+          "Measures of dispersion: variance and standard deviation",
+          "Skewness and kurtosis",
+          "Correlation and simple regression analysis"
+        ]
+      },
+      {
+        "chapter": "Probability Theory",
+        "topics": [
+          "Concepts of probability and sample spaces",
+          "Axioms of probability",
+          "Conditional probability and independence",
+          "Bayes' theorem and its applications",
+          "Combinatorics and counting rules"
+        ]
+      },
+      {
+        "chapter": "Random Variables and Probability Distributions",
+        "topics": [
+          "Discrete and continuous random variables",
+          "Probability mass and density functions",
+          "Mathematical expectation and variance",
+          "Jointly distributed random variables",
+          "Covariance and correlation"
+        ]
+      },
+      {
+        "chapter": "Sampling and Estimation",
+        "topics": [
+          "Populations and samples",
+          "Sampling distributions and the central limit theorem",
+          "Point estimation and properties of estimators (unbiasedness, efficiency)",
+          "Methods of estimation: maximum likelihood and moments",
+          "Interval estimation and confidence intervals"
+        ]
+      },
+      {
+        "chapter": "Hypothesis Testing",
+        "topics": [
+          "Null and alternative hypotheses",
+          "Type I and Type II errors and the power of a test",
+          "One-tailed and two-tailed tests",
+          "Testing hypotheses about means and proportions",
+          "P-values and statistical significance"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Intermediate Microeconomics II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Oligopoly",
+        "topics": [
+          "Cournot model of quantity competition",
+          "Bertrand model of price competition",
+          "Stackelberg model of leadership",
+          "Collusion and cartels",
+          "Game theoretic applications to oligopoly"
+        ]
+      },
+      {
+        "chapter": "General Equilibrium and Economic Efficiency",
+        "topics": [
+          "Edgeworth box and exchange economy",
+          "Pareto efficiency and contract curve",
+          "General equilibrium with production",
+          "First and second fundamental theorems of welfare economics",
+          "Walras' Law and market clearing"
+        ]
+      },
+      {
+        "chapter": "Market Failure: Externalities and Public Goods",
+        "topics": [
+          "Positive and negative externalities",
+          "Pigouvian taxes and subsidies",
+          "Coase theorem and property rights",
+          "Public goods and the free rider problem",
+          "Lindahl equilibrium and provision of public goods"
+        ]
+      },
+      {
+        "chapter": "Asymmetric Information",
+        "topics": [
+          "Adverse selection and the market for lemons",
+          "Moral hazard and principal-agent problems",
+          "Signaling and screening in labor markets",
+          "Insurance markets and asymmetric information",
+          "Mechanism design and incentives"
+        ]
+      },
+      {
+        "chapter": "Game Theory and Applications",
+        "topics": [
+          "Normal form games and Nash equilibrium",
+          "Extensive form games and backward induction",
+          "Subgame perfect Nash equilibrium",
+          "Repeated games and folk theorem",
+          "Applications to bargaining and auctions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Intermediate Macroeconomics II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Economic Growth: Solow Model",
+        "topics": [
+          "The basic Solow-Swan model",
+          "Capital accumulation and steady-state equilibrium",
+          "Golden rule level of capital",
+          "Population growth and technological progress",
+          "Convergence: absolute and conditional"
+        ]
+      },
+      {
+        "chapter": "Endogenous Growth Theory",
+        "topics": [
+          "Limitations of the Solow model",
+          "AK model and constant returns to capital",
+          "Human capital and economic growth",
+          "Research and development (R&D) models",
+          "Schumpeterian growth and creative destruction"
+        ]
+      },
+      {
+        "chapter": "Consumption and Investment",
+        "topics": [
+          "Keynesian consumption function",
+          "Life-cycle and permanent income hypotheses",
+          "Random walk hypothesis of consumption",
+          "Neoclassical theory of investment",
+          "Tobin's q and accelerator models"
+        ]
+      },
+      {
+        "chapter": "Money and Banking Growth",
+        "topics": [
+          "Money supply processes and the money multiplier",
+          "Baumol-Tobin model of money demand",
+          "Financial intermediation and macroeconomic stability",
+          "Bank runs and the Diamond-Dybvig model",
+          "Role of the central bank in financial crises"
+        ]
+      },
+      {
+        "chapter": "Fiscal and Monetary Policy Frameworks",
+        "topics": [
+          "Government budget constraints and debt dynamics",
+          "Optimal taxation and tax smoothing",
+          "Taylor rules and monetary policy frameworks",
+          "Quantitative easing and unconventional monetary policy",
+          "Macroprudential policies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Introductory Econometrics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Nature and Scope of Econometrics",
+        "topics": [
+          "Definition and methodology of econometrics",
+          "Economic models versus econometric models",
+          "Types of data: cross-sectional, time series, panel",
+          "Roles of computer software in econometrics",
+          "Ethical considerations in empirical research"
+        ]
+      },
+      {
+        "chapter": "Simple Linear Regression Model",
+        "topics": [
+          "Specification of the two-variable regression model",
+          "Ordinary Least Squares (OLS) estimation",
+          "Assumptions of the classical linear regression model",
+          "Properties of OLS estimators (Gauss-Markov Theorem)",
+          "Goodness of fit (R-squared) and hypothesis testing"
+        ]
+      },
+      {
+        "chapter": "Multiple Linear Regression Model",
+        "topics": [
+          "Estimation in models with multiple explanatory variables",
+          "Interpretation of partial regression coefficients",
+          "Adjusted R-squared and model selection criteria",
+          "Joint hypothesis testing using the F-test",
+          "Omitted variable bias and inclusion of irrelevant variables"
+        ]
+      },
+      {
+        "chapter": "Violations of Classical Assumptions",
+        "topics": [
+          "Heteroscedasticity: consequences, detection, and remedies",
+          "Autocorrelation: nature, tests, and generalized least squares",
+          "Multicollinearity: causes, consequences, and solutions",
+          "Specification errors and functional form misspecification",
+          "Measurement errors and instrumental variables"
+        ]
+      },
+      {
+        "chapter": "Dummy Variable Regression Models",
+        "topics": [
+          "Nature of qualitative variables",
+          "Use of dummy variables for categorical attributes",
+          "Interaction effects and slope dummies",
+          "Chow test for structural stability",
+          "Linear Probability Model for binary outcomes"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Economy I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Economic Development since Independence",
+        "topics": [
+          "Major features of the economy at independence",
+          "Growth and structural change over the decades",
+          "Planning era: objectives and strategies",
+          "Economic reforms of 1991 and liberalization",
+          "Current macroeconomic indicators and challenges"
+        ]
+      },
+      {
+        "chapter": "Population and Human Development",
+        "topics": [
+          "Demographic trends and demographic dividend",
+          "Health and education sectors in India",
+          "Human Development Index and inter-state variations",
+          "Policies for human capital formation",
+          "Gender disparities in education and employment"
+        ]
+      },
+      {
+        "chapter": "Growth and Distribution",
+        "topics": [
+          "Trends and policies in poverty alleviation",
+          "Measurement and estimation of poverty in India",
+          "Income and wealth inequality",
+          "Employment and unemployment: trends and policies",
+          "Informal sector and labor market regulations"
+        ]
+      },
+      {
+        "chapter": "Agriculture Sector",
+        "topics": [
+          "Role of agriculture in economic development",
+          "Land reforms and their impact",
+          "Green Revolution and technological changes",
+          "Agricultural pricing, marketing, and subsidies",
+          "Food security and public distribution system"
+        ]
+      },
+      {
+        "chapter": "Industry and Services Sector",
+        "topics": [
+          "Industrial policy and structural changes",
+          "Public sector enterprises and privatization",
+          "Role of micro, small, and medium enterprises (MSMEs)",
+          "Growth of the services sector and IT industry",
+          "Foreign trade and export promotion policies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Development Economics I",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Conceptions of Development",
+        "topics": [
+          "Economic growth versus economic development",
+          "Capabilities approach to development (Sen)",
+          "Measurement of development (HDI, PQLI)",
+          "Characteristics of developing nations",
+          "Historical perspectives on development processes"
+        ]
+      },
+      {
+        "chapter": "Growth Models and Empirics",
+        "topics": [
+          "Harrod-Domar growth model",
+          "Lewis model of structural change",
+          "Rostow's stages of economic growth",
+          "Big push theory and balanced versus unbalanced growth",
+          "Empirical evidence on growth and convergence"
+        ]
+      },
+      {
+        "chapter": "Poverty and Inequality",
+        "topics": [
+          "Concepts and measurement of inequality (Lorenz curve, Gini coefficient)",
+          "Measures of poverty (Headcount ratio, Poverty gap)",
+          "Kuznets inverted-U hypothesis",
+          "Poverty traps and vicious circles of poverty",
+          "Impact of inequality on economic growth"
+        ]
+      },
+      {
+        "chapter": "Political Institutions and Economic Development",
+        "topics": [
+          "Role of institutions in economic performance",
+          "Property rights and transaction costs",
+          "Democracy versus authoritarianism in development",
+          "Corruption, rent-seeking, and economic growth",
+          "State capacity and public good provision"
+        ]
+      },
+      {
+        "chapter": "State and the Market",
+        "topics": [
+          "Market failures and the rationale for state intervention",
+          "Government failures and bureaucratic inefficiency",
+          "Privatization and deregulation",
+          "Industrial policy and infant industry protection",
+          "Role of non-governmental organizations (NGOs)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Economy II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Macroeconomic Policies and Their Impact",
+        "topics": [
+          "Fiscal policy: deficits, public debt, and FRBM Act",
+          "Monetary policy: RBI, inflation targeting, and liquidity management",
+          "Tax reforms: Goods and Services Tax (GST) and direct taxes",
+          "Federal finance and Finance Commission recommendations",
+          "Macroeconomic stabilization measures"
+        ]
+      },
+      {
+        "chapter": "Financial Sector Reforms",
+        "topics": [
+          "Banking sector reforms and non-performing assets (NPAs)",
+          "Financial inclusion and microfinance",
+          "Development of capital markets and SEBI regulations",
+          "Insurance and pension sector reforms",
+          "Digital finance and payment systems in India"
+        ]
+      },
+      {
+        "chapter": "External Sector Reforms and Trade",
+        "topics": [
+          "Balance of payments crisis of 1991 and aftermath",
+          "Trade policy reforms and tariff reductions",
+          "Exchange rate management and convertibility",
+          "Special Economic Zones (SEZs) and export performance",
+          "India's role in WTO and regional trade agreements"
+        ]
+      },
+      {
+        "chapter": "Foreign Direct Investment (FDI) and Global Integration",
+        "topics": [
+          "Trends and policies regarding FDI and FII in India",
+          "Impact of foreign investment on growth and technology",
+          "Multinational corporations and spillover effects",
+          "Outward foreign direct investment by Indian firms",
+          "Global value chains and Indian manufacturing"
+        ]
+      },
+      {
+        "chapter": "Environment and Sustainable Development",
+        "topics": [
+          "Environmental challenges in India (pollution, deforestation)",
+          "Climate change and its impact on the Indian economy",
+          "Renewable energy policies and targets",
+          "Sustainable agriculture practices",
+          "Environmental regulations and compliance"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Development Economics II",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Demography and Development",
+        "topics": [
+          "Theory of demographic transition",
+          "Population growth and economic development",
+          "Microeconomic theory of fertility",
+          "Health, nutrition, and labor productivity",
+          "Policy approaches to population and family planning"
+        ]
+      },
+      {
+        "chapter": "Land and Labor Markets in Agriculture",
+        "topics": [
+          "Sharecropping and tenancy contracts",
+          "Interlinked markets in agrarian economies",
+          "Rural credit markets and informal lending",
+          "Risk, crop insurance, and coping strategies",
+          "Agrarian relations and institutional change"
+        ]
+      },
+      {
+        "chapter": "Migration and Urbanization",
+        "topics": [
+          "Harris-Todaro model of rural-urban migration",
+          "Causes and consequences of urbanization",
+          "The informal urban sector",
+          "Remittances and their impact on rural development",
+          "Policies for urban development and slum upgrading"
+        ]
+      },
+      {
+        "chapter": "Environment and Development",
+        "topics": [
+          "Environment-development trade-offs",
+          "Environmental Kuznets curve",
+          "Common property resources and the tragedy of the commons",
+          "Sustainable development goals (SDGs)",
+          "Climate change adaptation and mitigation in developing countries"
+        ]
+      },
+      {
+        "chapter": "Globalization and Developing Countries",
+        "topics": [
+          "Trade orientation: import substitution vs export promotion",
+          "Terms of trade and the Prebisch-Singer hypothesis",
+          "Role of international financial institutions (IMF, World Bank)",
+          "Foreign aid, conditionality, and debt relief",
+          "Global economic crises and vulnerability of developing nations"
+        ]
+      }
+    ]
+  }
+]

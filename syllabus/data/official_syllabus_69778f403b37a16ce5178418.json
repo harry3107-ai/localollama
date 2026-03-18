@@ -1,0 +1,1324 @@
+[
+  {
+    "subject": "General Human Anatomy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Anatomy",
+        "topics": [
+          "Anatomical terminology",
+          "Basic tissues of the body",
+          "Skeletal system overview",
+          "Muscular system overview",
+          "Nervous system basics"
+        ]
+      },
+      {
+        "chapter": "Osteology of Head and Neck",
+        "topics": [
+          "Skull bones",
+          "Mandible anatomy",
+          "Cervical vertebrae",
+          "Hyoid bone",
+          "Temporomandibular joint"
+        ]
+      },
+      {
+        "chapter": "Scalp, Face, and Triangles of Neck",
+        "topics": [
+          "Layers of scalp",
+          "Facial muscles",
+          "Blood supply of face",
+          "Anterior triangle of neck",
+          "Posterior triangle of neck"
+        ]
+      },
+      {
+        "chapter": "Cranial Cavity and Brain",
+        "topics": [
+          "Meninges",
+          "Dural venous sinuses",
+          "Cranial nerves overview",
+          "Brainstem anatomy",
+          "Cerebral circulation"
+        ]
+      },
+      {
+        "chapter": "Oral Cavity, Pharynx, and Larynx",
+        "topics": [
+          "Anatomy of tongue",
+          "Palate anatomy",
+          "Muscles of pharynx",
+          "Anatomy of larynx",
+          "Tonsils"
+        ]
+      },
+      {
+        "chapter": "Salivary Glands and Thyroid",
+        "topics": [
+          "Parotid gland",
+          "Submandibular gland",
+          "Sublingual gland",
+          "Thyroid gland anatomy",
+          "Parathyroid glands"
+        ]
+      },
+      {
+        "chapter": "General Embryology",
+        "topics": [
+          "Gametogenesis",
+          "Fertilization and cleavage",
+          "Germ layer formation",
+          "Fetal membranes",
+          "Placenta"
+        ]
+      },
+      {
+        "chapter": "Development of Face and Branchial Arches",
+        "topics": [
+          "Pharyngeal arches",
+          "Development of face",
+          "Development of palate",
+          "Development of tongue",
+          "Congenital anomalies of face"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Physiology & Biochemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Physiology",
+        "topics": [
+          "Cell membrane transport",
+          "Action potential in nerve cells",
+          "Neuromuscular junction",
+          "Excitation-contraction coupling",
+          "Homeostatic mechanisms"
+        ]
+      },
+      {
+        "chapter": "Blood and Immune System",
+        "topics": [
+          "Erythropoiesis",
+          "Hemoglobin functions",
+          "Blood groups",
+          "Hemostasis",
+          "Immune response mechanisms"
+        ]
+      },
+      {
+        "chapter": "Cardiovascular System",
+        "topics": [
+          "Cardiac cycle events",
+          "Electrocardiogram basics",
+          "Cardiac output regulation",
+          "Blood pressure control",
+          "Microcirculation"
+        ]
+      },
+      {
+        "chapter": "Respiratory System",
+        "topics": [
+          "Mechanics of respiration",
+          "Lung volumes and capacities",
+          "Oxygen transport",
+          "Carbon dioxide transport",
+          "Regulation of breathing"
+        ]
+      },
+      {
+        "chapter": "Gastrointestinal System",
+        "topics": [
+          "Salivary secretion and regulation",
+          "Gastric juice functions",
+          "Pancreatic secretion",
+          "Digestion of macronutrients",
+          "Absorption mechanisms"
+        ]
+      },
+      {
+        "chapter": "Central Nervous System",
+        "topics": [
+          "Synaptic transmission",
+          "Sensory receptors",
+          "Reflex arc",
+          "Pain pathways",
+          "Autonomic nervous system functions"
+        ]
+      },
+      {
+        "chapter": "Carbohydrate and Lipid Metabolism",
+        "topics": [
+          "Glycolysis pathway",
+          "TCA cycle",
+          "Gluconeogenesis",
+          "Beta-oxidation of fatty acids",
+          "Cholesterol synthesis"
+        ]
+      },
+      {
+        "chapter": "Protein and Amino Acid Metabolism",
+        "topics": [
+          "Amino acid classification",
+          "Urea cycle",
+          "Transamination and deamination",
+          "Metabolism of essential amino acids",
+          "Specialized products from amino acids"
+        ]
+      },
+      {
+        "chapter": "Vitamins and Minerals",
+        "topics": [
+          "Fat-soluble vitamins",
+          "Water-soluble vitamins",
+          "Calcium and phosphorus metabolism",
+          "Iron metabolism",
+          "Trace elements in dentistry"
+        ]
+      },
+      {
+        "chapter": "Nutrition and Dietetics in Dentistry",
+        "topics": [
+          "Basal metabolic rate",
+          "Balanced diet components",
+          "Role of diet in dental caries",
+          "Nutritional counseling",
+          "Fluoride metabolism"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Dental Anatomy, Embryology & Oral Histology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Dental Anatomy",
+        "topics": [
+          "Tooth numbering systems",
+          "Dental terminology",
+          "Eruption sequence",
+          "Primary vs permanent teeth",
+          "Anatomical landmarks"
+        ]
+      },
+      {
+        "chapter": "Morphology of Permanent Dentition",
+        "topics": [
+          "Permanent incisors overview",
+          "Permanent canines anatomy",
+          "Permanent premolars",
+          "Permanent molars",
+          "Pulp cavity morphology"
+        ]
+      },
+      {
+        "chapter": "Morphology of Deciduous Dentition",
+        "topics": [
+          "Deciduous incisors",
+          "Deciduous canines",
+          "Deciduous molars",
+          "Differences between primary and permanent teeth",
+          "Clinical significance of primary teeth"
+        ]
+      },
+      {
+        "chapter": "Development of Tooth and Supporting Structures",
+        "topics": [
+          "Bud, cap, bell stages of tooth development",
+          "Dentinogenesis",
+          "Amelogenesis",
+          "Root formation",
+          "Eruption mechanisms"
+        ]
+      },
+      {
+        "chapter": "Enamel, Dentin, and Pulp Histology",
+        "topics": [
+          "Ameloblasts and enamel structure",
+          "Odontoblasts and dentin types",
+          "Pulp zones and functions",
+          "Age changes in dental tissues",
+          "Sensory innervation of pulp"
+        ]
+      },
+      {
+        "chapter": "Periodontium and Oral Mucosa",
+        "topics": [
+          "Cementum structure",
+          "Periodontal ligament fibers",
+          "Alveolar bone basics",
+          "Classifications of oral mucosa",
+          "Histology of gingiva and tongue"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Pathology & Microbiology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cell Injury and Inflammation",
+        "topics": [
+          "Mechanisms of cell injury",
+          "Apoptosis vs necrosis",
+          "Acute inflammatory events",
+          "Chemical mediators of inflammation",
+          "Chronic inflammation"
+        ]
+      },
+      {
+        "chapter": "Hemodynamic Disorders and Neoplasia",
+        "topics": [
+          "Thrombosis and embolism",
+          "Shock pathophysiology",
+          "Benign vs malignant tumors",
+          "Carcinogenesis basics",
+          "Tumor metastasis"
+        ]
+      },
+      {
+        "chapter": "Hematopoietic System Disorders",
+        "topics": [
+          "Iron deficiency anemia",
+          "Megaloblastic anemia",
+          "Leukemia basics",
+          "Hemophilia",
+          "Coagulation disorders"
+        ]
+      },
+      {
+        "chapter": "Systemic Pathology Overview",
+        "topics": [
+          "Atherosclerosis pathophysiology",
+          "Rheumatic heart disease",
+          "Peptic ulcer disease",
+          "Tuberculosis pathology",
+          "Diabetes mellitus complications"
+        ]
+      },
+      {
+        "chapter": "General Bacteriology",
+        "topics": [
+          "Bacterial cell structure",
+          "Sterilization and disinfection",
+          "Culture media types",
+          "Bacterial growth curve",
+          "Antibiotic resistance mechanisms"
+        ]
+      },
+      {
+        "chapter": "Systemic Bacteriology",
+        "topics": [
+          "Staphylococci",
+          "Streptococci",
+          "Mycobacterium tuberculosis",
+          "Treponema pallidum",
+          "Cariogenic bacteria"
+        ]
+      },
+      {
+        "chapter": "Virology and Mycology",
+        "topics": [
+          "General properties of viruses",
+          "Hepatitis viruses",
+          "HIV structure and pathogenesis",
+          "Candida infections",
+          "Dermatophytes"
+        ]
+      },
+      {
+        "chapter": "Oral Microbiology and Immunology",
+        "topics": [
+          "Normal oral flora",
+          "Microbiology of dental caries",
+          "Microbiology of periodontal disease",
+          "Innate oral immunity",
+          "Vaccination principles"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General and Dental Pharmacology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Pharmacology",
+        "topics": [
+          "Routes of drug administration",
+          "Pharmacokinetics principles",
+          "Pharmacodynamics theory",
+          "Adverse drug reactions",
+          "Drug interactions in dentistry"
+        ]
+      },
+      {
+        "chapter": "Drugs Acting on CNS",
+        "topics": [
+          "Sedatives and hypnotics",
+          "Opioid analgesics",
+          "Non-steroidal anti-inflammatory drugs",
+          "Antiepileptics",
+          "Antidepressants overview"
+        ]
+      },
+      {
+        "chapter": "Drugs Acting on ANS",
+        "topics": [
+          "Cholinergic agonists",
+          "Anticholinergics use in dentistry",
+          "Adrenergic agonists",
+          "Alpha and beta blockers",
+          "Skeletal muscle relaxants"
+        ]
+      },
+      {
+        "chapter": "Cardiovascular and Respiratory Drugs",
+        "topics": [
+          "Antihypertensives",
+          "Antianginal drugs",
+          "Anticoagulants and antiplatelets",
+          "Bronchodilators",
+          "Antitussives and expectorants"
+        ]
+      },
+      {
+        "chapter": "Endocrine and GI Pharmacology",
+        "topics": [
+          "Corticosteroids",
+          "Insulin and oral hypoglycemics",
+          "Drugs for peptic ulcer",
+          "Antiemetics",
+          "Thyroid hormones"
+        ]
+      },
+      {
+        "chapter": "Antimicrobial Drugs",
+        "topics": [
+          "Penicillins and cephalosporins",
+          "Macrolides",
+          "Tetracyclines",
+          "Antifungal agents",
+          "Antiviral drugs"
+        ]
+      },
+      {
+        "chapter": "Local and General Anesthetics",
+        "topics": [
+          "Mechanism of action of local anesthetics",
+          "Lignocaine and adrenaline",
+          "Complications of local anesthesia",
+          "Stages of general anesthesia",
+          "Inhalational anesthetics"
+        ]
+      },
+      {
+        "chapter": "Dental Pharmacology and Emergencies",
+        "topics": [
+          "Astringents and hemostatics",
+          "Obtundents and mummifying agents",
+          "Antiseptics and disinfectants",
+          "Management of anaphylactic shock",
+          "Emergency drug kit in dental office"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Dental Materials",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Properties of Dental Materials",
+        "topics": [
+          "Physical properties",
+          "Mechanical properties",
+          "Biocompatibility basics",
+          "Standardization of materials",
+          "Adhesion in dentistry"
+        ]
+      },
+      {
+        "chapter": "Impression Materials",
+        "topics": [
+          "Classification of impression materials",
+          "Alginate hydrocolloid",
+          "Elastomeric impression materials",
+          "Zinc oxide eugenol paste",
+          "Impression compound"
+        ]
+      },
+      {
+        "chapter": "Gypsum Products and Waxes",
+        "topics": [
+          "Types of dental plaster and stone",
+          "Setting reaction of gypsum",
+          "Inlay casting waxes",
+          "Baseplate wax",
+          "Manipulation of waxes"
+        ]
+      },
+      {
+        "chapter": "Restorative Resins and Cements",
+        "topics": [
+          "Composite resins chemistry",
+          "Glass ionomer cement",
+          "Zinc phosphate cement",
+          "Polycarboxylate cement",
+          "Bonding agents"
+        ]
+      },
+      {
+        "chapter": "Dental Amalgam and Cast Alloys",
+        "topics": [
+          "Amalgam alloy composition",
+          "Trituration and condensation",
+          "Properties of set amalgam",
+          "Gold alloys",
+          "Base metal alloys"
+        ]
+      },
+      {
+        "chapter": "Dental Ceramics and Implants Materials",
+        "topics": [
+          "Metal-ceramic restorations",
+          "All-ceramic systems",
+          "Titanium and its alloys",
+          "Surface treatments of implants",
+          "Zirconia in dentistry"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Medicine",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cardiovascular Diseases",
+        "topics": [
+          "Hypertension management",
+          "Ischemic heart disease",
+          "Infective endocarditis prophylaxis",
+          "Heart failure",
+          "Arrhythmias"
+        ]
+      },
+      {
+        "chapter": "Respiratory Diseases",
+        "topics": [
+          "Bronchial asthma",
+          "Chronic obstructive pulmonary disease",
+          "Pneumonia",
+          "Pulmonary tuberculosis",
+          "Obstructive sleep apnea"
+        ]
+      },
+      {
+        "chapter": "Gastrointestinal and Liver Diseases",
+        "topics": [
+          "Peptic ulcer disease",
+          "Inflammatory bowel disease",
+          "Viral hepatitis",
+          "Liver cirrhosis",
+          "Gastroesophageal reflux disease"
+        ]
+      },
+      {
+        "chapter": "Hematological Disorders",
+        "topics": [
+          "Anemias types and diagnosis",
+          "Leukemias overview",
+          "Bleeding disorders management",
+          "Thrombocytopenia",
+          "Anticoagulant therapy indications"
+        ]
+      },
+      {
+        "chapter": "Endocrine and Metabolic Disorders",
+        "topics": [
+          "Diabetes mellitus",
+          "Thyroid disorders",
+          "Adrenal insufficiency",
+          "Pituitary disorders",
+          "Bone mineral disorders"
+        ]
+      },
+      {
+        "chapter": "Infectious Diseases",
+        "topics": [
+          "HIV and AIDS",
+          "Syphilis",
+          "Malaria",
+          "Dengue fever",
+          "COVID-19 protocols"
+        ]
+      },
+      {
+        "chapter": "Neurological Disorders",
+        "topics": [
+          "Epilepsy management",
+          "Cerebrovascular accident",
+          "Cranial nerve palsies",
+          "Trigeminal neuralgia",
+          "Parkinson's disease"
+        ]
+      },
+      {
+        "chapter": "Medical Emergencies in Dental Practice",
+        "topics": [
+          "Syncope management",
+          "Anaphylaxis",
+          "Hypoglycemic coma",
+          "Status asthmaticus",
+          "Cardiopulmonary resuscitation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Wound Healing and Surgical Infections",
+        "topics": [
+          "Phases of wound healing",
+          "Factors affecting healing",
+          "Abscess and cellulitis",
+          "Tetanus prophylaxis",
+          "Gas gangrene"
+        ]
+      },
+      {
+        "chapter": "Shock and Hemorrhage",
+        "topics": [
+          "Types of shock",
+          "Pathophysiology of shock",
+          "Management of hypovolemic shock",
+          "Types of hemorrhage",
+          "Hemostasis techniques in surgery"
+        ]
+      },
+      {
+        "chapter": "Burns and Trauma Management",
+        "topics": [
+          "Classification of burns",
+          "Fluid resuscitation in burns",
+          "Initial assessment of trauma patient",
+          "Tracheostomy indications",
+          "Management of soft tissue injuries"
+        ]
+      },
+      {
+        "chapter": "Diseases of Thyroid and Parathyroid",
+        "topics": [
+          "Goiter classification",
+          "Thyrotoxicosis",
+          "Thyroid malignancies",
+          "Hyperparathyroidism",
+          "Hypoparathyroidism"
+        ]
+      },
+      {
+        "chapter": "Salivary Gland Diseases",
+        "topics": [
+          "Sialadenitis",
+          "Pleomorphic adenoma",
+          "Warthin's tumor",
+          "Malignant salivary tumors",
+          "Sialolithiasis Management"
+        ]
+      },
+      {
+        "chapter": "Oral and Maxillofacial Swellings",
+        "topics": [
+          "Differential diagnosis of neck swellings",
+          "Branchial cyst",
+          "Thyroglossal cyst",
+          "Lymphadenopathy",
+          "Ludwig's angina causes"
+        ]
+      },
+      {
+        "chapter": "Cysts and Tumors of Face and Neck",
+        "topics": [
+          "Dermoid cyst",
+          "Sebaceous cyst",
+          "Lipoma and fibroma",
+          "Basal cell carcinoma",
+          "Squamous cell carcinoma"
+        ]
+      },
+      {
+        "chapter": "Principles of Oncology and Radiotherapy",
+        "topics": [
+          "Biopsy principles",
+          "Staging of tumors",
+          "Surgical oncology principles",
+          "Radiotherapy side effects",
+          "Chemotherapy in head and neck cancer"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Oral Pathology & Microbiology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Developmental Disturbances of Oral Region",
+        "topics": [
+          "Cleft lip and palate",
+          "Developmental jaw anomalies",
+          "Amelogenesis imperfecta",
+          "Dentinogenesis imperfecta",
+          "Developmental anomalies of tongue"
+        ]
+      },
+      {
+        "chapter": "Dental Caries and Pulpal Diseases",
+        "topics": [
+          "Theories of dental caries",
+          "Histopathology of caries",
+          "Pulpitis types",
+          "Periapical abscess",
+          "Pulp necrosis"
+        ]
+      },
+      {
+        "chapter": "Diseases of Periodontium",
+        "topics": [
+          "Dental plaque composition",
+          "Calculus formation",
+          "Histopathology of gingivitis",
+          "Periodontitis pathogenesis",
+          "Gingival enlargement"
+        ]
+      },
+      {
+        "chapter": "Odontogenic Cysts and Tumors",
+        "topics": [
+          "Radicular cyst",
+          "Dentigerous cyst",
+          "Ameloblastoma",
+          "Odontoma",
+          "Adenomatoid odontogenic tumor"
+        ]
+      },
+      {
+        "chapter": "Benign and Malignant Non-Odontogenic Tumors",
+        "topics": [
+          "Papilloma",
+          "Fibroma and lipoma",
+          "Oral squamous cell carcinoma",
+          "Verrucous carcinoma",
+          "Malignant melanoma"
+        ]
+      },
+      {
+        "chapter": "Oral Manifestations of Systemic Diseases",
+        "topics": [
+          "Vitamins deficiency manifestations",
+          "Oral signs in blood dyscrasias",
+          "Oral lesions in metabolic disorders",
+          "Syphilis and TB oral lesions",
+          "HIV associated oral lesions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Public Health Dentistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Public Health",
+        "topics": [
+          "Concepts of health and disease",
+          "Principles of primary health care",
+          "Levels of prevention in dentistry",
+          "Health care delivery system in India",
+          "Role of WHO and FDI"
+        ]
+      },
+      {
+        "chapter": "Epidemiology of Dental Diseases",
+        "topics": [
+          "Epidemiology of dental caries",
+          "Epidemiology of periodontal diseases",
+          "Epidemiology of oral cancer",
+          "Descriptive epidemiological studies",
+          "Analytical studies"
+        ]
+      },
+      {
+        "chapter": "Preventive Dentistry and Fluorides",
+        "topics": [
+          "Systemic fluorides",
+          "Topical fluorides",
+          "Defluoridation",
+          "Pit and fissure sealants",
+          "Atraumatic restorative treatment (ART)"
+        ]
+      },
+      {
+        "chapter": "Dental Indices and Surveying",
+        "topics": [
+          "DMFT and def indices",
+          "CPITN and CPI indices",
+          "OHI-S index",
+          "Steps in conducting a dental survey",
+          "WHO oral health assessment form"
+        ]
+      },
+      {
+        "chapter": "Health Education and Promotion",
+        "topics": [
+          "Principles of health education",
+          "Methods of health communication",
+          "Dietary counseling",
+          "Tobacco cessation interventions",
+          "School dental health programs"
+        ]
+      },
+      {
+        "chapter": "Dental Practice Management and Ethics",
+        "topics": [
+          "Dental Council of India regulations",
+          "Consumer Protection Act in dentistry",
+          "Setup of a dental clinic",
+          "Ergonomics in dentistry",
+          "Bio-medical waste management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Periodontology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Normal Periodontium Anatomy",
+        "topics": [
+          "Gingiva structure",
+          "Periodontal ligament",
+          "Root cementum",
+          "Alveolar bone",
+          "Blood supply and nerve supply of periodontium"
+        ]
+      },
+      {
+        "chapter": "Etiology of Periodontal Diseases",
+        "topics": [
+          "Role of dental plaque",
+          "Microbiology of periodontitis",
+          "Calculus and its role",
+          "Host response mechanisms",
+          "Smoking and periodontal disease"
+        ]
+      },
+      {
+        "chapter": "Plaque and Calculus",
+        "topics": [
+          "Formation of pellicle",
+          "Plaque maturation",
+          "Calculus composition",
+          "Mechanism of mineralization",
+          "Plaque retentive factors"
+        ]
+      },
+      {
+        "chapter": "Gingival Diseases",
+        "topics": [
+          "Plaque-induced gingivitis",
+          "Non-plaque-induced gingival lesions",
+          "Acute necrotizing ulcerative gingivitis",
+          "Gingival enlargement evaluation",
+          "Desquamative gingivitis"
+        ]
+      },
+      {
+        "chapter": "Periodontal Diseases and Diagnosis",
+        "topics": [
+          "Chronic periodontitis",
+          "Aggressive periodontitis",
+          "Periodontal pockets",
+          "Bone loss patterns",
+          "Clinical periodontal examination"
+        ]
+      },
+      {
+        "chapter": "Non-Surgical and Surgical Periodontal Therapy",
+        "topics": [
+          "Scaling and root planing",
+          "Periodontal instruments",
+          "Principles of periodontal surgery",
+          "Gingivectomy",
+          "Flap surgery techniques"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Oral Medicine and Radiology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Oral Diagnosis and Treatment Planning",
+        "topics": [
+          "Case history taking",
+          "Clinical examination of oral cavity",
+          "Vitality testing",
+          "Biopsy methods",
+          "Formulation of treatment plan"
+        ]
+      },
+      {
+        "chapter": "Red and White Lesions",
+        "topics": [
+          "Leukoplakia",
+          "Erythroplakia",
+          "Oral Lichen Planus",
+          "Oral Candidiasis",
+          "Linea Alba and Leukoedema"
+        ]
+      },
+      {
+        "chapter": "Vesiculobullous and Ulcerative Lesions",
+        "topics": [
+          "Recurrent aphthous stomatitis",
+          "Herpes simplex infections",
+          "Pemphigus vulgaris",
+          "Mucous membrane pemphigoid",
+          "Erythema multiforme"
+        ]
+      },
+      {
+        "chapter": "Basics of Radiation Physics and Biology",
+        "topics": [
+          "Production of X-rays",
+          "Properties of X-rays",
+          "Interaction of X-rays with matter",
+          "Biological effects of radiation",
+          "Radiation protection guidelines"
+        ]
+      },
+      {
+        "chapter": "Intraoral Radiographic Techniques",
+        "topics": [
+          "Bisecting angle technique",
+          "Paralleling technique",
+          "Bite-wing radiography",
+          "Occlusal radiography",
+          "Faulty radiographs"
+        ]
+      },
+      {
+        "chapter": "Extraoral Radiography and Advanced Imaging",
+        "topics": [
+          "Orthopantomography (OPG)",
+          "Cephalometry basics",
+          "Cone Beam Computed Tomography (CBCT)",
+          "MRI uses in dentistry",
+          "Sialography"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Orthodontics & Dentofacial Orthopaedics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Normal Occlusion and Malocclusion",
+        "topics": [
+          "Development of occlusion",
+          "Andrews' six keys to normal occlusion",
+          "Angle's classification",
+          "Skeletal malocclusion classes",
+          "Soft tissue paradigm"
+        ]
+      },
+      {
+        "chapter": "Etiology of Malocclusion",
+        "topics": [
+          "Genetic factors",
+          "Environmental factors",
+          "Oral habits (Thumb sucking, Tongue thrusting)",
+          "Premature loss of primary teeth",
+          "Role of airway and posture"
+        ]
+      },
+      {
+        "chapter": "Diagnostic Aids in Orthodontics",
+        "topics": [
+          "Clinical examination in orthodontics",
+          "Study models analysis",
+          "Radiographs in orthodontics",
+          "Cephalometric landmarks",
+          "Photographic analysis"
+        ]
+      },
+      {
+        "chapter": "Biomechanics and Tooth Movement",
+        "topics": [
+          "Types of tooth movement",
+          "Optimum orthodontic force",
+          "Bone remodeling theories",
+          "Anchorage in orthodontics",
+          "Root resorption"
+        ]
+      },
+      {
+        "chapter": "Removable Orthodontic Appliances",
+        "topics": [
+          "Components of removable appliances",
+          "Adam's clasp design",
+          "Active plates and springs",
+          "Bite planes",
+          "Functional appliances overview"
+        ]
+      },
+      {
+        "chapter": "Fixed Appliances and Retention",
+        "topics": [
+          "Brackets and bands",
+          "Archwires materials",
+          "Stages of fixed appliance therapy",
+          "Relapse in orthodontics",
+          "Types of retainers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Oral & Maxillofacial Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basics of Exodontia",
+        "topics": [
+          "Indications for extraction",
+          "Contraindications for extraction",
+          "Extraction forceps and elevators",
+          "Intra-alveolar extraction technique",
+          "Complications of exodontia"
+        ]
+      },
+      {
+        "chapter": "Impacted Teeth Management",
+        "topics": [
+          "Classification of impacted third molars",
+          "Winter's WAR lines",
+          "Surgical removal techniques",
+          "Complications of third molar surgery",
+          "Impacted canines management"
+        ]
+      },
+      {
+        "chapter": "Odontogenic Infections",
+        "topics": [
+          "Fascial spaces of head and neck",
+          "Spread of odontogenic infections",
+          "Principles of incision and drainage",
+          "Osteomyelitis of jaws",
+          "Ludwig's angina management"
+        ]
+      },
+      {
+        "chapter": "Maxillofacial Trauma Basics",
+        "topics": [
+          "Initial evaluation of trauma patient",
+          "Airway management",
+          "Soft tissue injuries management",
+          "Principles of fracture reduction and fixation",
+          "Wiring techniques"
+        ]
+      },
+      {
+        "chapter": "Mandibular Fractures",
+        "topics": [
+          "Classification of mandibular fractures",
+          "Clinical features of mandibular fractures",
+          "Condylar fractures",
+          "Angle and symphysis fractures",
+          "Management principles"
+        ]
+      },
+      {
+        "chapter": "Midface Fractures",
+        "topics": [
+          "Le Fort I, II, III fractures",
+          "Zygomaticomaxillary complex fractures",
+          "Orbital blow-out fractures",
+          "Nasal bone fractures",
+          "CSF rhinorrhea management"
+        ]
+      },
+      {
+        "chapter": "Orthognathic Surgery and TMJ Disorders",
+        "topics": [
+          "Mandibular prognathism surgery",
+          "Maxillary hypoplasia surgery",
+          "TMJ ankylosis",
+          "Internal derangement of TMJ",
+          "Myofascial pain dysfunction syndrome"
+        ]
+      },
+      {
+        "chapter": "Dental Implants and Tissue Engineering",
+        "topics": [
+          "Osseointegration concepts",
+          "Patient selection for implants",
+          "Surgical placement of implants",
+          "Bone grafting materials",
+          "Sinus lift procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Conservative Dentistry & Endodontics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Operative Dentistry",
+        "topics": [
+          "Black's classification of cavities",
+          "Tooth nomenclature",
+          "Ergonomics in operative dentistry",
+          "Infection control",
+          "Patient positioning"
+        ]
+      },
+      {
+        "chapter": "Instruments and Isolation",
+        "topics": [
+          "Hand instruments nomenclature",
+          "Rotary instruments and burs",
+          "Rubber dam isolation",
+          "Cotton roles and suction",
+          "Matrices and wedges"
+        ]
+      },
+      {
+        "chapter": "Principles of Cavity Preparation",
+        "topics": [
+          "Outline form and initial depth",
+          "Primary resistance and retention forms",
+          "Convenience form",
+          "Removal of remaining carious dentin",
+          "Finishing enamel walls"
+        ]
+      },
+      {
+        "chapter": "Amalgam and Composite Restorations",
+        "topics": [
+          "Class II amalgam cavity preparation",
+          "Amalgam condensation techniques",
+          "Acid etching techniques",
+          "Composite resin placement",
+          "Light curing concepts"
+        ]
+      },
+      {
+        "chapter": "Diagnosis in Endodontics",
+        "topics": [
+          "Clinical examination of pulp",
+          "Thermal testing",
+          "Electric pulp testing",
+          "Radiographic diagnosis in endodontics",
+          "Cracked tooth syndrome"
+        ]
+      },
+      {
+        "chapter": "Access Cavity Preparation and Canal Shaping",
+        "topics": [
+          "Endodontic access in anterior teeth",
+          "Endodontic access in molars",
+          "Working length determination",
+          "Step-back technique",
+          "Crown-down technique"
+        ]
+      },
+      {
+        "chapter": "Cleaning, Shaping, and Obturation",
+        "topics": [
+          "Irrigants in endodontics",
+          "Intracanal medicaments",
+          "Gutta-percha properties",
+          "Lateral condensation technique",
+          "Vertical condensation technique"
+        ]
+      },
+      {
+        "chapter": "Endodontic Surgery and Retreatment",
+        "topics": [
+          "Indications for apicoectomy",
+          "Retrograde filling materials",
+          "Causes of endodontic failure",
+          "Removal of gutta-percha",
+          "Management of separated instruments"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Prosthodontics and Crown & Bridge",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Complete Dentures: Diagnosis and Impressions",
+        "topics": [
+          "Diagnosis and treatment planning",
+          "Anatomical landmarks of edentulous maxilla",
+          "Anatomical landmarks of edentulous mandible",
+          "Primary impressions",
+          "Custom trays and final impressions"
+        ]
+      },
+      {
+        "chapter": "Complete Dentures: Jaw Relations and Insertion",
+        "topics": [
+          "Vertical dimension determination",
+          "Centric relation recording",
+          "Teeth selection",
+          "Try-in procedures",
+          "Denture insertion and post-insertion instructions"
+        ]
+      },
+      {
+        "chapter": "Removable Partial Dentures: Components",
+        "topics": [
+          "Kennedy's classification",
+          "Major connectors",
+          "Minor connectors",
+          "Direct retainers and clasps",
+          "Rests and rest seats"
+        ]
+      },
+      {
+        "chapter": "Removable Partial Dentures: Design and Fabrication",
+        "topics": [
+          "Principles of RPD design",
+          "Surveying procedure",
+          "Mouth preparation for RPD",
+          "Altered cast technique",
+          "Framework trial"
+        ]
+      },
+      {
+        "chapter": "Fixed Partial Dentures: Principles and Retainers",
+        "topics": [
+          "Biomechanics of FPD",
+          "Principles of tooth preparation",
+          "Full metal crown preparation",
+          "Porcelain fused to metal preparation",
+          "All-ceramic crowns"
+        ]
+      },
+      {
+        "chapter": "Fixed Partial Dentures: Pontics and Cementation",
+        "topics": [
+          "Pontic designs",
+          "Connectors in FPD",
+          "Gingival retraction techniques",
+          "Elastomeric impressions for FPD",
+          "Luting cements and cementation procedures"
+        ]
+      },
+      {
+        "chapter": "Maxillofacial Prosthetics",
+        "topics": [
+          "Obturators",
+          "Mandibular resection prostheses",
+          "Extraoral prostheses overview",
+          "Materials for maxillofacial prosthetics",
+          "Cleft palate management"
+        ]
+      },
+      {
+        "chapter": "Implant Prosthodontics",
+        "topics": [
+          "Implant-supported overdentures",
+          "Single tooth implant crowns",
+          "Biomechanics of dental implants",
+          "Impression techniques for implants",
+          "Failures in implant prosthodontics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Pediatric & Preventive Dentistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Child Psychology and Behavior Management",
+        "topics": [
+          "Theories of child psychology",
+          "Non-pharmacological behavior management",
+          "Tell-Show-Do technique",
+          "Conscious sedation",
+          "General anesthesia in pediatric dentistry"
+        ]
+      },
+      {
+        "chapter": "Preventive Dentistry and Dental Caries in Children",
+        "topics": [
+          "Early childhood caries",
+          "Diet counseling for children",
+          "Topical fluoride applications",
+          "Pit and fissure sealants",
+          "Preventive resin restorations"
+        ]
+      },
+      {
+        "chapter": "Pediatric Operative Dentistry",
+        "topics": [
+          "Morphological differences of primary teeth",
+          "Cavity preparation principles for primary teeth",
+          "Stainless steel crowns",
+          "Strip crowns",
+          "Glass ionomer restorations in children"
+        ]
+      },
+      {
+        "chapter": "Pediatric Endodontics",
+        "topics": [
+          "Indirect pulp capping",
+          "Direct pulp capping",
+          "Pulpotomy forms and techniques",
+          "Pulpectomy in primary teeth",
+          "Apexogenesis and Apexification"
+        ]
+      },
+      {
+        "chapter": "Traumatic Injuries in Children",
+        "topics": [
+          "Ellis and Davey classification",
+          "Management of uncomplicated crown fractures",
+          "Complicated crown fractures",
+          "Avulsion of permanent teeth",
+          "Trauma to primary dentition"
+        ]
+      },
+      {
+        "chapter": "Interceptive Orthodontics and Space Management",
+        "topics": [
+          "Space maintainers classification",
+          "Band and loop space maintainer",
+          "Lingual arch and Nance appliance",
+          "Management of oral habits",
+          "Serial extraction basics"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Advanced Solid Mechanics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Analysis of Stress and Strain",
+        "topics": [
+          "Concept of stress and strain at a point",
+          "Stress and strain tensors",
+          "Principal stresses and strains, invariants",
+          "Mohr's circle for 3D stress and strain",
+          "Equations of equilibrium and compatibility conditions"
+        ]
+      },
+      {
+        "chapter": "Constitutive Relations",
+        "topics": [
+          "Generalized Hooke's Law",
+          "Elastic symmetry and material properties",
+          "Isotropic, orthotropic, and anisotropic materials",
+          "Strain energy density function",
+          "Theories of failure and yield criteria"
+        ]
+      },
+      {
+        "chapter": "Two-Dimensional Problems in Elasticity",
+        "topics": [
+          "Plane stress and plane strain conditions",
+          "Airy's stress function",
+          "Polynomial solutions for 2D problems",
+          "Thick cylinders and rotating disks",
+          "Stress concentration around holes"
+        ]
+      },
+      {
+        "chapter": "Torsion of Non-Circular Shafts",
+        "topics": [
+          "St. Venant's torsion theory",
+          "Prandtl's stress function approach",
+          "Torsion of elliptical and rectangular bars",
+          "Membrane analogy",
+          "Torsion of thin-walled multi-cell sections"
+        ]
+      },
+      {
+        "chapter": "Bending of Curved Beams and Plates",
+        "topics": [
+          "Winkler-Bach formula for curved beams",
+          "Stresses in crane hooks and rings",
+          "Symmetrical bending of thin rectangular plates",
+          "Navier's and Levy's solutions for plates",
+          "Membrane theory of thin shells"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Structural Dynamics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Single Degree of Freedom Systems",
+        "topics": [
+          "Undamped and damped free vibrations",
+          "Logarithmic decrement and critical damping",
+          "Forced harmonic vibrations and resonance",
+          "Response to periodic and arbitrary excitations",
+          "Duhamel's integral formulation"
+        ]
+      },
+      {
+        "chapter": "Multi-Degree of Freedom Systems",
+        "topics": [
+          "Equations of motion for MDOF systems",
+          "Evaluation of mass, stiffness, and damping matrices",
+          "Free vibration analysis and eigenvalue problems",
+          "Orthogonality of mode shapes",
+          "Mode superposition method for dynamic response"
+        ]
+      },
+      {
+        "chapter": "Continuous Systems",
+        "topics": [
+          "Vibration of strings and cables",
+          "Longitudinal and torsional vibration of bars",
+          "Transverse vibration of beams",
+          "Rayleigh-Ritz and Galerkin methods",
+          "Effect of rotary inertia and shear deformation"
+        ]
+      },
+      {
+        "chapter": "Numerical Evaluation of Dynamic Response",
+        "topics": [
+          "Time-stepping methods overview",
+          "Central difference method",
+          "Newmark's beta method",
+          "Wilson-theta method",
+          "Stability and accuracy analysis of numerical methods"
+        ]
+      },
+      {
+        "chapter": "Vibration Control and Applications",
+        "topics": [
+          "Principles of vibration isolation",
+          "Tuned mass dampers (TMDs)",
+          "Base isolation techniques",
+          "Dynamic testing of structures",
+          "Aeroelastic and hydrodynamic dynamic effects"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Structural Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Matrix Methods of Structural Analysis",
+        "topics": [
+          "Review of basic structural theorems",
+          "Flexibility and stiffness matrices for elements",
+          "Transformations of coordinates",
+          "Global stiffness matrix assembly",
+          "Treatment of boundary conditions and joint loads"
+        ]
+      },
+      {
+        "chapter": "Analysis of Skeletal Structures",
+        "topics": [
+          "Stiffness method for continuous beams",
+          "Analysis of 2D and 3D pin-jointed trusses",
+          "Analysis of rigid-jointed plane frames",
+          "Analysis of space frames",
+          "Grid structures and grillage analysis"
+        ]
+      },
+      {
+        "chapter": "Advanced Topics in Matrix Analysis",
+        "topics": [
+          "Static condensation techniques",
+          "Sub-structuring method",
+          "Symmetry and anti-symmetry considerations",
+          "Analysis of structures with internal hinges",
+          "Temperature effects and lack of fit"
+        ]
+      },
+      {
+        "chapter": "Nonlinear Structural Analysis",
+        "topics": [
+          "Sources of nonlinearity (geometric and material)",
+          "P-Delta effect and stability analysis",
+          "Incremental and iterative solution strategies",
+          "Newton-Raphson method for nonlinear problems",
+          "Elasto-plastic analysis of frames"
+        ]
+      },
+      {
+        "chapter": "Influence Lines for Indeterminate Structures",
+        "topics": [
+          "Muller-Breslau principle applications",
+          "Influence lines for continuous beams",
+          "Influence lines for rigid frames",
+          "Effect of moving loads on indeterminate trusses",
+          "Use of commercial software for moving loads"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Theory of Elasticity and Plasticity",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "3D Elasticity Formulations",
+        "topics": [
+          "Displacement formulations (Navier's equations)",
+          "Stress formulations (Beltrami-Michell equations)",
+          "Boundary value problems in elasticity",
+          "Uniqueness theorem and St. Venant's principle",
+          "Papkovich-Neuber and Galerkin vector solutions"
+        ]
+      },
+      {
+        "chapter": "Energy Methods in Elasticity",
+        "topics": [
+          "Principle of virtual work and potential energy",
+          "Castigliano's theorems",
+          "Theorem of minimum complementary energy",
+          "Rayleigh-Ritz and Galerkin techniques",
+          "Applications to torsion and bending problems"
+        ]
+      },
+      {
+        "chapter": "Fundamentals of Plasticity",
+        "topics": [
+          "Physical foundations of plastic deformation",
+          "Yield criteria: Tresca and Von Mises",
+          "Experimental verification of yield criteria",
+          "Flow rules and normality principle",
+          "Isotropic and kinematic hardening models"
+        ]
+      },
+      {
+        "chapter": "Constitutive Equations in Plasticity",
+        "topics": [
+          "Prandtl-Reuss equations",
+          "Levy-Mises equations",
+          "Stress-strain relations in plastic range",
+          "Deformation theory of plasticity (Hencky theory)",
+          "Elasto-plastic bending and torsion"
+        ]
+      },
+      {
+        "chapter": "Limit Analysis and Plastic Design",
+        "topics": [
+          "Upper and lower bound theorems",
+          "Calculation of plastic hinge and plastic moment capacity",
+          "Collapse load analysis of beams and frames",
+          "Mechanism method and statical method",
+          "Shakedown analysis and repeated loading"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Finite Element Method",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction and Principles",
+        "topics": [
+          "Basic concept and steps of FEM",
+          "Calculus of variations and Rayleigh-Ritz method",
+          "Weak formulation and Galerkin's weighted residual method",
+          "Element shapes, nodes, and degrees of freedom",
+          "Convergence requirements for displacement fields"
+        ]
+      },
+      {
+        "chapter": "1D and 2D Elements",
+        "topics": [
+          "Bar and beam elements formulation",
+          "Constant Strain Triangle (CST) and Linear Strain Triangle (LST)",
+          "Rectangular elements and bilinear interpolation",
+          "Shape functions using natural coordinates",
+          "Assembly of global matrices and boundary conditions"
+        ]
+      },
+      {
+        "chapter": "Isoparametric Elements",
+        "topics": [
+          "Concept of isoparametric, subparametric, and superparametric elements",
+          "Quadrilateral elements and numerical integration",
+          "Gauss quadrature rules",
+          "Jacobian matrix and coordinate transformation",
+          "Evaluation of element stiffness and force vectors"
+        ]
+      },
+      {
+        "chapter": "Plates, Shells, and 3D Elements",
+        "topics": [
+          "Mindlin-Reissner and Kirchhoff plate elements",
+          "Shear locking phenomenon and reduced integration",
+          "Formulation of flat shell elements",
+          "Tetrahedral and hexahedral 3D solid elements",
+          "Degenerated shell elements"
+        ]
+      },
+      {
+        "chapter": "Advanced FEM Applications",
+        "topics": [
+          "Dynamic analysis using FEM (Mass matrices)",
+          "Buckling analysis and geometric stiffness matrix",
+          "Heat transfer and steady-state thermal analysis",
+          "Nonlinear FEA basics (material and geometric)",
+          "Error estimation and adaptive mesh refinement"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Concrete Technology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Microstructure and Hydration of Cement",
+        "topics": [
+          "Bogue's compounds and their significance",
+          "Hydration process and heat of hydration",
+          "Microstructure of cement paste (C-S-H gel)",
+          "Interfacial Transition Zone (ITZ) in concrete",
+          "Chemical and mineral admixtures mechanisms"
+        ]
+      },
+      {
+        "chapter": "Rheology and Properties of Fresh Concrete",
+        "topics": [
+          "Workability, bleeding, and segregation",
+          "Rheological models (Bingham model) for concrete",
+          "Self-Compacting Concrete (SCC) mix design and testing",
+          "Pumpable concrete and shotcrete",
+          "Factors affecting early-age behavior of concrete"
+        ]
+      },
+      {
+        "chapter": "Strength and Mechanical Properties",
+        "topics": [
+          "Compressive, tensile, and flexural strength relationships",
+          "Modulus of elasticity and Poisson's ratio",
+          "Fracture mechanics of concrete",
+          "Creep and shrinkage mechanisms and prediction models",
+          "Behavior of concrete under multi-axial stress states"
+        ]
+      },
+      {
+        "chapter": "Durability of Concrete",
+        "topics": [
+          "Permeability and transport mechanisms (diffusion, capillary suction)",
+          "Carbonation and chloride-induced corrosion",
+          "Sulfate attack and Alkali-Silica Reaction (ASR)",
+          "Freeze-thaw resistance and air entrainment",
+          "Service life prediction models"
+        ]
+      },
+      {
+        "chapter": "Special Concretes and Advanced Materials",
+        "topics": [
+          "High-Performance Concrete (HPC) and Ultra-High Performance Concrete (UHPC)",
+          "Fiber Reinforced Concrete (FRC) toughness and toughness index",
+          "Geopolymer concrete and sustainable alternatives",
+          "Lightweight and heavyweight concretes",
+          "Pervious, translucent, and self-healing concretes"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Design of Advanced Concrete Structures",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Design of Yield Line and Strip Methods",
+        "topics": [
+          "Yield line theory for slabs",
+          "Virtual work and equilibrium methods for slab analysis",
+          "Hillerborg's strip method for slab design",
+          "Advanced design of two-way slabs and flat slabs",
+          "Punching shear considerations in flat slabs"
+        ]
+      },
+      {
+        "chapter": "Design of Deep Beams and Corbels",
+        "topics": [
+          "Behavior and design of deep beams",
+          "Strut-and-tie models (STM) concepts",
+          "Design of corbels and brackets",
+          "Nodes, struts, and ties dimensioning",
+          "Detailing requirements for D-regions"
+        ]
+      },
+      {
+        "chapter": "Analysis and Design of Retaining Structures",
+        "topics": [
+          "Earth pressure theories review",
+          "Design of cantilever retaining walls",
+          "Design of counterfort retaining walls",
+          "Design of deep foundations (pile foundations)",
+          "Raft and combined footings design"
+        ]
+      },
+      {
+        "chapter": "Liquid Retaining Structures",
+        "topics": [
+          "IS: 3370 code provisions for water tanks",
+          "Design of rectangular and circular water tanks",
+          "Design of Intze type overhead water tanks",
+          "Crack width calculations and watertightness",
+          "Base slab and staging design"
+        ]
+      },
+      {
+        "chapter": "Design of Special Concrete Structures",
+        "topics": [
+          "Design of concrete silos and bunkers (Janssen's and Airy's theory)",
+          "Design of RC shear walls",
+          "Design of multi-storey frames for gravity and lateral loads",
+          "Ductile detailing of RC structures (IS 13920)",
+          "Grid floor systems design"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Design of Steel Structures",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Advanced Connections and Beam-Columns",
+        "topics": [
+          "Design of eccentric and seated connections",
+          "Moment-resisting connections (welded and bolted)",
+          "Behavior and design of beam-columns",
+          "Interaction equations for combined axial and bending forces",
+          "Column bases: slab bases and gusseted bases"
+        ]
+      },
+      {
+        "chapter": "Plate Girders and Gantry Girders",
+        "topics": [
+          "Proportioning of web and flanges for plate girders",
+          "Design of intermediate and bearing stiffeners",
+          "Web buckling and tension field action",
+          "Loads on gantry girders and design process",
+          "Fatigue considerations in crane, moving loads"
+        ]
+      },
+      {
+        "chapter": "Cold-Formed Steel Structures",
+        "topics": [
+          "Properties and sections of cold-formed steel",
+          "Local buckling and effective width concept",
+          "Design of compression members (stiffened and unstiffened)",
+          "Design of flexural members and web crippling",
+          "Connections in cold-formed steel construction"
+        ]
+      },
+      {
+        "chapter": "Industrial Buildings and Frames",
+        "topics": [
+          "Structural framing of industrial buildings",
+          "Design of roof trusses and purlins",
+          "Wind load calculations dynamically and statically",
+          "Design of portal frames and gable frames",
+          "Bracing systems for industrial sheds"
+        ]
+      },
+      {
+        "chapter": "Tubular Structures and Composite Design",
+        "topics": [
+          "Advantages and design of tubular truss members",
+          "Welded tubular joints and joint strength",
+          "Composite beams: steel-concrete interactions",
+          "Shear connectors design and partial shear connection",
+          "Composite columns (concrete-filled tubes and encased sections)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Earthquake Resistant Design of Structures",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Seismology and Ground Motion",
+        "topics": [
+          "Causes of earthquakes and fault mechanisms",
+          "Seismic waves and measurement of earthquakes",
+          "Magnitude and intensity scales",
+          "Characteristics of strong ground motion",
+          "Response spectra and design response spectrum"
+        ]
+      },
+      {
+        "chapter": "Seismic Analysis Methods",
+        "topics": [
+          "Equivalent static lateral force method",
+          "Response spectrum analysis for buildings",
+          "Time-history analysis concepts",
+          "Concept of center of mass and center of rigidity",
+          "Torsion in buildings and accidental eccentricity"
+        ]
+      },
+      {
+        "chapter": "Behavior of RC Structures under Earthquakes",
+        "topics": [
+          "Performance of buildings in past earthquakes",
+          "P-Delta effects and soft story phenomenon",
+          "Concept of ductility and capacity design",
+          "Strong column-weak beam philosophy",
+          "Response reduction factors (R-factor) derivation"
+        ]
+      },
+      {
+        "chapter": "Ductile Detailing and Design Practices",
+        "topics": [
+          "Seismic design codes (IS 1893 and IS 13920)",
+          "Ductile detailing of RC beams and columns",
+          "Design and detailing of beam-colum joints",
+          "Design of RC shear walls with boundary elements",
+          "Retrofitting and strengthening techniques for seismic resilience"
+        ]
+      },
+      {
+        "chapter": "Seismic Design of Steel and Masonry Structures",
+        "topics": [
+          "Seismic behavior of unreinforced masonry structures",
+          "Provisions for reinforced masonry construction",
+          "Behavior of steel moment resisting frames",
+          "Concentric and eccentric braced frames",
+          "Performance-based seismic design (PBSD) overview"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Bridge Engineering",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction and Bridge Loads",
+        "topics": [
+          "Classification of bridges and choice of bridge type",
+          "Site selection and hydraulic design considerations",
+          "IRC loadings (Class AA, A, B, 70R)",
+          "Impact factors, wind loads, and seismic forces on bridges",
+          "Load combinations for bridge design"
+        ]
+      },
+      {
+        "chapter": "Design of RC Bridges",
+        "topics": [
+          "Design of solid slab bridges",
+          "Courbon's method for load distribution",
+          "Design of T-beam and slab deck bridges",
+          "Design of balanced cantilever bridges",
+          "Design of box culverts"
+        ]
+      },
+      {
+        "chapter": "Prestressed Concrete and Steel Bridges",
+        "topics": [
+          "Design of post-tensioned PSC box girder bridges",
+          "Cable profiles and loss of prestress",
+          "Design principles for steel truss bridges",
+          "Design of plate girder bridges for highways",
+          "Composite deck slabs and shear connectors"
+        ]
+      },
+      {
+        "chapter": "Advanced Bridge Types",
+        "topics": [
+          "Cable-stayed bridges: configurations and behavior",
+          "Suspension bridges: analysis and design features",
+          "Extradosed bridges",
+          "Arch bridges of concrete and steel",
+          "Aerodynamic stability of long-span bridges"
+        ]
+      },
+      {
+        "chapter": "Substructures, Bearings, and Maintenance",
+        "topics": [
+          "Design of piers, abutments, and wing walls",
+          "Design of well and pile foundations for bridges",
+          "Types and design of bridge bearings (Elastomeric, POT)",
+          "Expansion joints definition and types",
+          "Bridge inspection, maintenance, and load rating"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Pre-stressed Concrete Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Materials and Prestressing Systems",
+        "topics": [
+          "High-strength concrete and high-tensile steel properties",
+          "Pre-tensioning and post-tensioning methods",
+          "Anchorage systems and tendon layouts",
+          "Concept of load balancing and stress transfer",
+          "Losses of prestress: immediate and time-dependent"
+        ]
+      },
+      {
+        "chapter": "Analysis and Design for Flexure",
+        "topics": [
+          "Analysis of sections for flexure (stress concept, strength concept)",
+          "Design of sections for flexure to limit states",
+          "Choice of cable profile and magnitude of prestress",
+          "Kern points and pressure line",
+          "Cracking moment and deflection calculations"
+        ]
+      },
+      {
+        "chapter": "Shear, Torsion, and Anchorage Zones",
+        "topics": [
+          "Principal stresses and shear resistance mechanisms",
+          "Design of shear reinforcements in PSC members",
+          "Design for combined bending, shear, and torsion",
+          "Stress distribution in post-tensioned end blocks",
+          "Design of anchorage zone reinforcements (Magnel/Guyon methods)"
+        ]
+      },
+      {
+        "chapter": "Continuous and Composite Construction",
+        "topics": [
+          "Analysis of continuous beams and primary/secondary moments",
+          "Concordant cable profiles and linear transformations",
+          "Design of continuous PSC members",
+          "Composite construction: precast and cast-in-situ elements",
+          "Propped and unpropped composite sections behavior"
+        ]
+      },
+      {
+        "chapter": "Special PSC Structures",
+        "topics": [
+          "Design of circular prestressing (tanks and pipes)",
+          "Design of PSC railway sleepers",
+          "Design of prestressed concrete poles and piles",
+          "Partial prestressing concepts",
+          "Ductility of prestressed concrete structures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Structural Health Monitoring and Rehabilitation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Condition Assessment and NDT",
+        "topics": [
+          "Causes of deterioration in concrete and steel structures",
+          "Visual inspection and condition rating",
+          "Non-Destructive Testing (Rebound hammer, UPV, Half-cell potential)",
+          "Core sampling and destructive testing",
+          "Radiography and Ground Penetrating Radar (GPR)"
+        ]
+      },
+      {
+        "chapter": "Structural Health Monitoring (SHM)",
+        "topics": [
+          "Principles and architecture of SHM systems",
+          "Sensors and data acquisition strategies (Strain gauges, Accelerometers)",
+          "Fiber Optic Sensors and smart materials",
+          "Data processing and damage identification algorithms",
+          "Cloud-based SHM and digital twins concepts"
+        ]
+      },
+      {
+        "chapter": "Repair Materials and Techniques",
+        "topics": [
+          "Polymers and epoxy resins in repair",
+          "Micro-concrete, shotcrete, and grout injection",
+          "Corrosion protection methods (Cathodic protection)",
+          "Surface coatings and sealers",
+          "Preparation of substrates and compatibility of materials"
+        ]
+      },
+      {
+        "chapter": "Retrofitting of Concrete Structures",
+        "topics": [
+          "Jacketing of columns and beams (Concrete and Steel)",
+          "FRP wrapping for flexural and shear strengthening",
+          "External post-tensioning techniques",
+          "Adding shear walls and cross bracings",
+          "Seismic retrofitting strategies for existing buildings"
+        ]
+      },
+      {
+        "chapter": "Rehabilitation Case Studies",
+        "topics": [
+          "Rehabilitation of heritage and masonry structures",
+          "Fire-damaged structures assessment and repair",
+          "Rehabilitation of bridges and marine structures",
+          "Decision-making models and life-cycle cost analysis",
+          "Standard codes and guidelines for repair and retrofitting"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Tall Buildings",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Structural Systems for Tall Buildings",
+        "topics": [
+          "Evolution of tall buildings and structural concepts",
+          "Rigid frames, shear walls, and dual systems",
+          "Framed-tube, tube-in-tube, and bundled tube systems",
+          "Outrigger and belt truss systems",
+          "Diagrid and space truss structures"
+        ]
+      },
+      {
+        "chapter": "Loads on Tall Buildings",
+        "topics": [
+          "Gravity loads mapping and live load reduction",
+          "Wind loading: Static and dynamic approaches",
+          "Wind tunnel testing basics and aerodynamic modifications",
+          "Seismic loads and P-Delta effects in high-rises",
+          "Temperature effects and differential shortening"
+        ]
+      },
+      {
+        "chapter": "Analysis Modeling and Assumptions",
+        "topics": [
+          "Analytical models for 3D analysis of frames and walls",
+          "Floor diaphragms: rigid vs flexible assumptions",
+          "Modelling of soil-structure interaction",
+          "Approximate methods (Portal and Cantilever methods for preliminary design)",
+          "Substructuring techniques for tall buildings computations"
+        ]
+      },
+      {
+        "chapter": "Design of Shear Walls and Core Structures",
+        "topics": [
+          "Behavior of solid shear walls and coupled shear walls",
+          "Continuous medium method for coupled walls",
+          "Design of coupling beams",
+          "Core-wall behavior under torsion and bending",
+          "Wall-frame interaction analysis"
+        ]
+      },
+      {
+        "chapter": "Performance and Serviceability",
+        "topics": [
+          "Drift limits and human comfort criteria (acceleration)",
+          "Use of damping systems (Viscous dampers, TMDs)",
+          "Creep, shrinkage, and temperature effects on columns",
+          "Construction sequences and staged analysis",
+          "Fire safety and evacuation strategies in tall buildings"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reliability Analysis of Structures",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Probability and Statistics Foundations",
+        "topics": [
+          "Random variables, probability density and distribution functions",
+          "Common distributions (Normal, Lognormal, Gumbel, Weibull)",
+          "Jointly distributed random variables and correlation",
+          "Extreme value distributions",
+          "Statistical inference and parameter estimation"
+        ]
+      },
+      {
+        "chapter": "Concepts of Structural Reliability",
+        "topics": [
+          "Deterministic versus probabilistic design approaches",
+          "Limit state functions (safety margin)",
+          "Basic reliability problem (interference theory)",
+          "Reliability index (Cornell and Hasofer-Lind reliability indices)",
+          "Evaluation of probability of failure"
+        ]
+      },
+      {
+        "chapter": "Reliability Methods",
+        "topics": [
+          "First-Order Second-Moment (FOSM) method",
+          "First-Order Reliability Method (FORM)",
+          "Second-Order Reliability Method (SORM)",
+          "Monte Carlo Simulation techniques",
+          "Variance reduction techniques (Importance sampling)"
+        ]
+      },
+      {
+        "chapter": "System Reliability",
+        "topics": [
+          "Series systems (weakest link) and parallel systems",
+          "Redundancy and failure pathways",
+          "Bounds on system reliability (Ditlevsen bounds)",
+          "Fault tree and event tree analysis",
+          "Reliability of structures with multiple failure modes"
+        ]
+      },
+      {
+        "chapter": "Reliability-Based Design Codes",
+        "topics": [
+          "Development of partial safety factors",
+          "Target reliability index selection",
+          "Calibration of design codes to target reliability",
+          "Load and Resistance Factor Design (LRFD) format",
+          "Life-cycle cost and reliability-based optimization"
+        ]
+      }
+    ]
+  }
+]

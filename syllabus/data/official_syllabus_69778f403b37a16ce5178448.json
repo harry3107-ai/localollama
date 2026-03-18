@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Entrepreneurship Fundamentals",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Entrepreneurship",
+        "topics": [
+          "Concept, nature, and evolution of entrepreneurship",
+          "Types of entrepreneurs (Innovators, Imitators, Fabians, Drones)",
+          "Myths and realities of entrepreneurship",
+          "Role of entrepreneurship in economic development",
+          "The entrepreneurial mindset and characteristics"
+        ]
+      },
+      {
+        "chapter": "Opportunity Recognition",
+        "topics": [
+          "Idea generation techniques (Brainstorming, Focus groups, Mind mapping)",
+          "Sources of new ideas (Internal and External)",
+          "Evaluating business opportunities (Macro and Micro trends)",
+          "Window of opportunity and timing",
+          "Differences between an idea and an opportunity"
+        ]
+      },
+      {
+        "chapter": "The Entrepreneurial Profile",
+        "topics": [
+          "Traits and skills of successful entrepreneurs",
+          "Risk tolerance and ambiguity navigation",
+          "Need for Achievement, Power, and Affiliation (McClelland's theory)",
+          "Entrepreneurial motivation and tenacity",
+          "Overcoming the fear of failure"
+        ]
+      },
+      {
+        "chapter": "The Entrepreneurial Ecosystem",
+        "topics": [
+          "Components of the ecosystem (Government, Capital, Markets, Human Capital)",
+          "Role of incubators and accelerators",
+          "Networking and mentoring",
+          "University and industry linkages",
+          "Global entrepreneurial hubs (Silicon Valley, Tel Aviv, Bangalore)"
+        ]
+      },
+      {
+        "chapter": "Women and Minority Entrepreneurship",
+        "topics": [
+          "Challenges faced by women entrepreneurs",
+          "Support systems and specific government schemes",
+          "Role of microfinance (e.g., Grameen Bank model)",
+          "Minority and immigrant entrepreneurship trends",
+          "Impact of diversity on innovation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "New Venture Creation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ideation to Conception",
+        "topics": [
+          "The Lean Startup methodology basics",
+          "Build-Measure-Learn feedback loop",
+          "Minimum Viable Product (MVP) development",
+          "Pivoting: Types and when to pivot",
+          "Customer discovery and validation process"
+        ]
+      },
+      {
+        "chapter": "Feasibility Analysis",
+        "topics": [
+          "Product/Service feasibility analysis",
+          "Industry and Market feasibility analysis",
+          "Organizational feasibility analysis",
+          "Financial feasibility analysis",
+          "Using primary and secondary research for feasibility"
+        ]
+      },
+      {
+        "chapter": "Business Models",
+        "topics": [
+          "Definition and importance of a business model",
+          "The Business Model Canvas (Osterwalder and Pigneur)",
+          "Key components: Value proposition, Customer segments, Revenue streams",
+          "Freemium, Subscription, and Multi-sided platform models",
+          "Disruptive business models"
+        ]
+      },
+      {
+        "chapter": "Building the Founding Team",
+        "topics": [
+          "Solo founder vs Founding team dynamics",
+          "Complementary skills and roles in a startup team",
+          "Equity distribution among founders (Vesting schedules)",
+          "Advisory boards and Board of Directors",
+          "Hiring the first employees and culture fit"
+        ]
+      },
+      {
+        "chapter": "Registration and Launch",
+        "topics": [
+          "Steps for legally registering a business",
+          "Choosing the business name and domain",
+          "Obtaining necessary licenses and permits",
+          "Soft launch vs Hard launch strategies",
+          "Managing early customer traction and feedback"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Entrepreneurial Finance",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Financial Fundamentals for Startups",
+        "topics": [
+          "Understanding the income statement, balance sheet, and cash flow statement",
+          "Cash burn rate and runway calculation",
+          "Difference between cash and profit",
+          "Break-even analysis and unit economics",
+          "Estimating initial capital requirements"
+        ]
+      },
+      {
+        "chapter": "Bootstrapping and Alternative Financing",
+        "topics": [
+          "Pros and cons of bootstrapping",
+          "Personal savings, credit cards, and family/friends (FFF)",
+          "Crowdfunding models (Reward, Donation, Equity-based)",
+          "Factoring, leasing, and trade credit",
+          "Grants, incubators, and university funds"
+        ]
+      },
+      {
+        "chapter": "Angel Investors and Venture Capital",
+        "topics": [
+          "Angel investors: Profile, motivations, and networks",
+          "The Venture Capital (VC) industry structure and fund dynamics",
+          "Stages of VC funding (Seed, Series A, B, C)",
+          "The pitch deck and presenting to investors",
+          "Due diligence process of VCs"
+        ]
+      },
+      {
+        "chapter": "Valuation Methods for Startups",
+        "topics": [
+          "Challenges of valuing early-stage companies",
+          "Berkus method and Scorecard valuation",
+          "Venture Capital method of valuation",
+          "Discounted Cash Flow (DCF) for startups",
+          "Pre-money and post-money valuation calculations"
+        ]
+      },
+      {
+        "chapter": "Term Sheets and Structuring Deals",
+        "topics": [
+          "Anatomy of a term sheet (Economic and Control terms)",
+          "Convertible notes and SAFE agreements (Simple Agreement for Future Equity)",
+          "Liquidation preferences, anti-dilution, and participation rights",
+          "Board seats, protective provisions, and voting rights",
+          "Negotiating with investors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Innovation and Design Thinking",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Understanding Innovation",
+        "topics": [
+          "Invention vs Innovation",
+          "Types of innovation (Incremental, Radical, Architectural, Disruptive)",
+          "The Innovation Matrix",
+          "Open vs Closed innovation models",
+          "The innovator's dilemma (Clayton Christensen)"
+        ]
+      },
+      {
+        "chapter": "Design Thinking Framework",
+        "topics": [
+          "Origins and phases of Design Thinking (Empathize, Define, Ideate, Prototype, Test)",
+          "Human-centered design principles",
+          "Empathy mapping and user journey maps",
+          "Creating problem statements (How Might We)",
+          "Divergent and convergent thinking techniques"
+        ]
+      },
+      {
+        "chapter": "Prototyping and Testing",
+        "topics": [
+          "Low-fidelity vs High-fidelity prototypes",
+          "Rapid prototyping methods (Wireframes, Storyboarding, 3D printing)",
+          "A/B testing and split testing",
+          "Gathering and analyzing user feedback",
+          "Iterative design process"
+        ]
+      },
+      {
+        "chapter": "Managing Innovation in Startups",
+        "topics": [
+          "Creating an innovative culture",
+          "Fostering psychological safety for experimentation",
+          "Metrics for measuring innovation success",
+          "Managing intellectual property as an innovation output",
+          "Overcoming resistance to new ideas"
+        ]
+      },
+      {
+        "chapter": "Technology and Future Trends",
+        "topics": [
+          "Role of emerging technologies (AI, IoT, Blockchain) in innovation",
+          "Agile development and its synergy with design thinking",
+          "Sustainable and eco-innovation",
+          "Frugal innovation (Jugaad) in emerging markets",
+          "Forecasting technological trends"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Marketing for Entrepreneurs",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Entrepreneurial Marketing Concepts",
+        "topics": [
+          "Differences between traditional and entrepreneurial marketing",
+          "Guerilla marketing tactics and characteristics",
+          "Resource constraints and creative marketing",
+          "The Chasm in technology adoption lifecycle",
+          "Building a unique value proposition (UVP)"
+        ]
+      },
+      {
+        "chapter": "Market Research on a Budget",
+        "topics": [
+          "Cost-effective primary research methods (Surveys, Interviews)",
+          "Utilizing social media and forums for customer insights",
+          "Competitor analysis tools (SimilarWeb, SEMrush)",
+          "Analyzing search trends (Google Trends)",
+          "Validating demand through landing pages and pre-sales"
+        ]
+      },
+      {
+        "chapter": "Digital Marketing and Growth Hacking",
+        "topics": [
+          "The AARRR Pirate Metrics funnel (Acquisition, Activation, Retention, Referral, Revenue)",
+          "SEO and Content Marketing strategies for startups",
+          "Viral loops and referral programs",
+          "Social media organic and paid strategies (Facebook/Instagram/LinkedIn Ads)",
+          "Email marketing and automation basics"
+        ]
+      },
+      {
+        "chapter": "Branding and Public Relations",
+        "topics": [
+          "Establishing a brand identity and voice",
+          "Storytelling for startups (The Founder's Journey)",
+          "DIY Public Relations and press releases",
+          "Reaching out to journalists and bloggers",
+          "Managing brand reputation online"
+        ]
+      },
+      {
+        "chapter": "Pricing Strategies for New Products",
+        "topics": [
+          "Cost-plus vs Value-based pricing",
+          "Penetration vs Skimming strategies",
+          "Freemium and tiered pricing models",
+          "Psychological pricing",
+          "Testing and adjusting prices post-launch"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Developing a Business Plan",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Purpose and Audience",
+        "topics": [
+          "Why write a business plan? (Planning vs Fundraising)",
+          "Tailoring the plan to different audiences (Investors, Banks, Partners)",
+          "Types of business plans (Mini-plan, Working plan, Presentation plan)",
+          "The Business Plan vs The Business Model Canvas",
+          "Common mistakes in business planning"
+        ]
+      },
+      {
+        "chapter": "Structure of the Business Plan: Part 1",
+        "topics": [
+          "Executive Summary form and function",
+          "Company Overview (Mission, Vision, Legal structure)",
+          "Industry, Target Market, and Competitor Analysis sections",
+          "Product or Service description and USP",
+          "Intellectual property and regulatory status overview"
+        ]
+      },
+      {
+        "chapter": "Structure of the Business Plan: Part 2",
+        "topics": [
+          "Marketing and Sales Strategy section",
+          "Operations Plan (Facilities, Production, Supply chain)",
+          "Management Team and Key Personnel section",
+          "Risk analysis and mitigation strategies",
+          "Milestones and implementation schedule"
+        ]
+      },
+      {
+        "chapter": "The Financial Plan",
+        "topics": [
+          "Creating projected Income Statements (3-5 years)",
+          "Creating projected Cash Flow Statements",
+          "Creating projected Balance Sheets",
+          "Stating underlying financial assumptions",
+          "Conducting sensitivity analysis"
+        ]
+      },
+      {
+        "chapter": "Presenting the Plan (The Pitch)",
+        "topics": [
+          "The Elevator Pitch",
+          "Structure of a 10-slide Investor Pitch Deck (Guy Kawasaki rules)",
+          "Presentation skills for entrepreneurs",
+          "Handling Q&A and investor objections",
+          "Following up after the pitch"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Managing Growth and Expansion",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Lifecycle of a Venture",
+        "topics": [
+          "Stages of growth (Seed, Startup, Survival, Rapid Growth, Maturity)",
+          "The Valley of Death in startup lifecycles",
+          "Identifying when a startup is ready to scale",
+          "Premature scaling and its risks",
+          "Greiner's model of organizational growth and crises"
+        ]
+      },
+      {
+        "chapter": "Strategies for Business Growth",
+        "topics": [
+          "Ansoff Matrix applications (Market penetration, Product development)",
+          "Geographic expansion and internationalization",
+          "Vertical integration and horizontal expansion",
+          "Strategic alliances, Joint ventures, and M&A for startups",
+          "Franchising/Licensing as a growth model"
+        ]
+      },
+      {
+        "chapter": "Organizational and HR Challenges of Growth",
+        "topics": [
+          "Transitioning from founder to CEO",
+          "Building out the middle management layer",
+          "Delegation and letting go of control",
+          "Maintaining company culture during rapid growth",
+          "Hiring and retaining top talent as the company scales"
+        ]
+      },
+      {
+        "chapter": "Operations and Systems Scaling",
+        "topics": [
+          "Upgrading IT systems, ERP, and CRM",
+          "Standardizing processes and implementing quality controls",
+          "Managing working capital deficits during growth",
+          "Supply chain constraints and scaling production",
+          "Outsourcing non-core activities"
+        ]
+      },
+      {
+        "chapter": "Financial Management During Growth",
+        "topics": [
+          "Series B, C, and late-stage funding rounds",
+          "Debt financing vs Equity financing for growth",
+          "Managing accounts receivable and payable",
+          "Financial dashboards and advanced KPIs",
+          "Dealing with cash flow crunches"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Corporate Entrepreneurship (Intrapreneurship)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Concepts of Intrapreneurship",
+        "topics": [
+          "Definition and need for corporate entrepreneurship",
+          "Differences between entrepreneurship and intrapreneurship",
+          "Dimensions of corporate entrepreneurship (Innovativeness, Proactiveness, Risk-taking)",
+          "The role of the intrapreneur in a mature organization",
+          "Barriers to corporate entrepreneurship"
+        ]
+      },
+      {
+        "chapter": "Designing the Intrapreneurial Organization",
+        "topics": [
+          "Creating an entrepreneurial culture in large firms",
+          "Skunkworks and autonomous innovation units",
+          "Corporate venturing and corporate venture capital (CVC)",
+          "Resource allocation for internal projects",
+          "Compensation and reward structures for intrapreneurs"
+        ]
+      },
+      {
+        "chapter": "Managing Intrapreneurial Projects",
+        "topics": [
+          "Ideation processes within corporations (Hackathons, Idea challenges)",
+          "Stage-gate process for internal evaluation",
+          "Lean startup applications inside large enterprises",
+          "Sponsorship and securing executive buy-in",
+          "Managing the interface between the new unit and the parent company"
+        ]
+      },
+      {
+        "chapter": "Strategic Renewal and Rejuvenation",
+        "topics": [
+          "Organizational transformation through innovation",
+          "Spin-offs and carve-outs",
+          "Overcoming organizational inertia",
+          "Open innovation partnerships with startups",
+          "Knowledge transfer and organizational learning"
+        ]
+      },
+      {
+        "chapter": "Case Studies in Corporate Innovation",
+        "topics": [
+          "Analysis of successful intrapreneurship (e.g., Google, 3M, Amazon)",
+          "Failures in corporate innovation (e.g., Kodak, Blockbuster)",
+          "Lessons learned from corporate incubators",
+          "The future of corporate venturing",
+          "Measuring ROI on corporate innovation programs"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Entrepreneurship",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Social Entrepreneurship",
+        "topics": [
+          "Defining Social Entrepreneurship vs NGOs vs CSR",
+          "The Triple Bottom Line (Social, Environmental, Financial)",
+          "Characteristics and motivations of social entrepreneurs",
+          "Evolution of the social enterprise sector",
+          "Tackling wicked problems (Poverty, Education, Healthcare)"
+        ]
+      },
+      {
+        "chapter": "Social Business Models",
+        "topics": [
+          "Cross-compensation and Buy-one-Give-one models",
+          "Employment models (Hiring marginalized populations)",
+          "Fee-for-service and product models",
+          "Cooperative and mutual organization models",
+          "Hybrid structures and B-Corps (Benefit Corporations)"
+        ]
+      },
+      {
+        "chapter": "Measuring Social Impact",
+        "topics": [
+          "Theory of Change and Logic Models",
+          "Social Return on Investment (SROI) framework",
+          "Acumen's Lean Data approach",
+          "Global Impact Investing Network (GIIN) and IRIS+ metrics",
+          "Challenges in quantifying social impact"
+        ]
+      },
+      {
+        "chapter": "Funding the Social Enterprise",
+        "topics": [
+          "Impact investing landscape",
+          "Philanthropy, grants, and foundation funding",
+          "Social Impact Bonds (Pay-for-Success models)",
+          "Crowdfunding for social causes",
+          "Patient capital and blended finance"
+        ]
+      },
+      {
+        "chapter": "Scaling Social Impact",
+        "topics": [
+          "Strategies for scaling: Dissemination, Branching, Affiliation",
+          "Social franchising models",
+          "Advocacy and policy change",
+          "Balancing mission drift with financial sustainability",
+          "Case studies of successful social enterprises (e.g., TOMS, Grameen, Aravind Eye Care)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Legal Aspects of Entrepreneurship",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Choosing a Legal Structure",
+        "topics": [
+          "Sole proprietorships and Partnerships (General and Limited)",
+          "Limited Liability Partnerships (LLPs)",
+          "Private Limited Companies and Public Limited Companies",
+          "One Person Company (OPC) framework in India/abroad",
+          "Tax implications and liability protection of different structures"
+        ]
+      },
+      {
+        "chapter": "Founders' Agreements and Contracts",
+        "topics": [
+          "Key clauses in a Founders' Agreement (Roles, Equity, Vesting, Deadlock)",
+          "Non-Disclosure Agreements (NDAs)",
+          "Non-Compete and Non-Solicit clauses",
+          "Employment contracts and ESOP structuring",
+          "Vendor, supplier, and customer contracts (SLA basics)"
+        ]
+      },
+      {
+        "chapter": "Intellectual Property (IP) Protection",
+        "topics": [
+          "Trademarks: Registration process, classes, and infringement",
+          "Patents: Utility vs Design patents, patentability criteria",
+          "Copyrights: Scope of protection (Software, Content)",
+          "Trade Secrets: Protection mechanisms without registration",
+          "International IP protection (PCT, Madrid protocol)"
+        ]
+      },
+      {
+        "chapter": "Regulatory Compliance",
+        "topics": [
+          "Labor laws and workplace regulations",
+          "Environmental regulations for manufacturing startups",
+          "Data privacy laws (GDPR, CCPA, local privacy acts)",
+          "E-commerce guidelines and consumer protection laws",
+          "Tax compliance (GST/VAT, Corporate taxes, TDS)"
+        ]
+      },
+      {
+        "chapter": "Legal Aspects of Investment",
+        "topics": [
+          "Securities laws and private placement exemptions",
+          "Due diligence process (Legal audit of the startup)",
+          "Shareholders' Agreements (SHA) and Share Subscription Agreements (SSA)",
+          "Representations and warranties in investment contracts",
+          "Exit clauses (Drag-along, Tag-along rights)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Tech Entrepreneurship and Commercialization",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The High-Tech Startup Landscape",
+        "topics": [
+          "Characteristics of technology-based ventures",
+          "Deep Tech vs SaaS vs Consumer Tech",
+          "The chasm in technology adoption (Geoffrey Moore)",
+          "Network effects and platform economics",
+          "University spin-offs and technology transfer offices (TTOs)"
+        ]
+      },
+      {
+        "chapter": "Technology Assessment and IP Commercialization",
+        "topics": [
+          "Assessing commercial readiness (Technology Readiness Levels - TRLs)",
+          "Evaluating technical feasibility vs Market viability",
+          "Licensing technology vs creating a startup vehicle",
+          "Valuation of early-stage IP and technology",
+          "Negotiating royalties and technology licensing agreements"
+        ]
+      },
+      {
+        "chapter": "Product Development in Tech",
+        "topics": [
+          "Agile software development and Scrum for startups",
+          "Hardware development challenges (Prototyping, Supply chain, Tooling)",
+          "SaaS metrics (MRR, ARR, CAC, LTV, Churn)",
+          "Managing technical debt",
+          "User Experience (UX) and User Interface (UI) design in product success"
+        ]
+      },
+      {
+        "chapter": "Go-to-Market for Tech Innovations",
+        "topics": [
+          "Crossing the chasm strategy (Targeting a beachhead market)",
+          "B2B vs B2C go-to-market strategies",
+          "Product-led growth (PLG) strategies",
+          "Establishing thought leadership and developer communities",
+          "Strategic partnerships for API integration and distribution"
+        ]
+      },
+      {
+        "chapter": "Emerging Tech Opportunities",
+        "topics": [
+          "Entrepreneurship in Artificial Intelligence and Generative AI",
+          "Blockchain, Web3, and decentralized finance (DeFi) startups",
+          "IoT and Hardware startups",
+          "HealthTech and EdTech regulatory landscapes",
+          "ClimateTech and clean energy innovations"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Family Business Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Dynamics of Family Businesses",
+        "topics": [
+          "Definition and economic impact of family businesses",
+          "The Three-Circle Model (Family, Business, Ownership)",
+          "Strengths of family businesses (Long-term view, Commitment)",
+          "Weaknesses (Nepotism, Emotional conflict, Resistance to change)",
+          "First-generation vs multi-generation business differences"
+        ]
+      },
+      {
+        "chapter": "Governance in Family Businesses",
+        "topics": [
+          "Family Councils and Family Assemblies",
+          "Drafting the Family Constitution/Charter",
+          "Role of the Board of Directors with independent directors",
+          "Managing conflict between family and non-family employees",
+          "Establishing employment policies for family members"
+        ]
+      },
+      {
+        "chapter": "Succession Planning",
+        "topics": [
+          "The succession dilemma and reasons for failure",
+          "Phases of the succession process",
+          "Selecting and training the successor",
+          "The role of the departing CEO and letting go",
+          "Women in family business succession"
+        ]
+      },
+      {
+        "chapter": "Professionalization and Innovation",
+        "topics": [
+          "Transitioning from family-managed to professionally-managed",
+          "Integrating external professional executives (Non-family talent)",
+          "Overcoming the 'founder's trap'",
+          "Fostering entrepreneurship in the next generation (Transgenerational entrepreneurship)",
+          "Allocating capital to new ventures outside the core business"
+        ]
+      },
+      {
+        "chapter": "Financial Wealth and Estate Planning",
+        "topics": [
+          "Family offices: Structure and purpose",
+          "Dividends policy vs Reinvestment in the business",
+          "Estate planning, trusts, and tax implications",
+          "Conflict resolution mechanisms for ownership disputes",
+          "Selling the family business vs Going public (IPO)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Franchising and Buying a Business",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Franchising",
+        "topics": [
+          "Definition, history, and models of franchising",
+          "Product distribution vs Business format franchising",
+          "Advantages and disadvantages for the Franchisor",
+          "Advantages and disadvantages for the Franchisee",
+          "The franchise relationship and psychological contract"
+        ]
+      },
+      {
+        "chapter": "Becoming a Franchisor",
+        "topics": [
+          "Evaluating if a business is franchisable",
+          "Developing the franchise operations manual",
+          "Franchise fee structures (Initial fee, Royalties, Advertising fees)",
+          "Legal requirements (Franchise Disclosure Document - FDD)",
+          "Recruiting and selecting franchisees"
+        ]
+      },
+      {
+        "chapter": "Becoming a Franchisee",
+        "topics": [
+          "Evaluating franchise opportunities",
+          "Understanding the FDD and Franchise Agreement",
+          "Site selection and territorial rights",
+          "Support provided by franchisors (Training, Marketing)",
+          "Financing the franchise purchase"
+        ]
+      },
+      {
+        "chapter": "Buying an Existing Business",
+        "topics": [
+          "Pros and cons of buying vs starting from scratch",
+          "Finding businesses for sale (Brokers, Networks)",
+          "The Due Diligence process (Financial, Legal, Operational)",
+          "Evaluating the seller's motives for exit",
+          "Asset purchase vs Stock purchase agreements"
+        ]
+      },
+      {
+        "chapter": "Valuation and Negotiation for Acquisition",
+        "topics": [
+          "Valuation methods for mature small businesses (Multiples, Asset-based)",
+          "Structuring the deal (Earn-outs, Seller financing)",
+          "Transitioning ownership and managing existing employees",
+          "Post-acquisition integration strategy",
+          "Retaining existing customers during transition"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Exiting and Harvesting Strategies",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Harvesting",
+        "topics": [
+          "Definition and importance of an exit strategy",
+          "When is the right time to exit?",
+          "Aligning the exit strategy with personal and investor goals",
+          "Psychological impact of exiting on the founder",
+          "Building a company 'Built to Sell'"
+        ]
+      },
+      {
+        "chapter": "Mergers and Acquisitions (M&A)",
+        "topics": [
+          "Strategic buyers vs Financial buyers (Private Equity)",
+          "The M&A process outline",
+          "Using investment bankers and M&A advisors",
+          "Preparing for buyer due diligence (Setting up a data room)",
+          "Integration challenges post-acquisition"
+        ]
+      },
+      {
+        "chapter": "Initial Public Offering (IPO)",
+        "topics": [
+          "Pros and cons of going public",
+          "The IPO process and timelines",
+          "Role of underwriters and the roadshow",
+          "Regulatory requirements and compliance costs (e.g., SOX)",
+          "Alternatives to traditional IPOs (SPACs, Direct Listings)"
+        ]
+      },
+      {
+        "chapter": "Management Buyouts and ESOPs",
+        "topics": [
+          "Management Buyout (MBO) mechanisms and financing",
+          "Employee Stock Ownership Plans (ESOPs) as an exit vehicle",
+          "Benefits of selling to internal management",
+          "Challenges of arranging leveraged buyouts (LBOs)",
+          "Family succession as a form of harvest"
+        ]
+      },
+      {
+        "chapter": "Liquidation and Bankruptcy",
+        "topics": [
+          "When liquidation is the only option",
+          "Order of distribution of assets in liquidation",
+          "Types of bankruptcy (Restructuring vs Liquidation)",
+          "Legal obligations and protecting personal assets",
+          "Learning from failure and starting over (Serial entrepreneurship)"
+        ]
+      }
+    ]
+  }
+]

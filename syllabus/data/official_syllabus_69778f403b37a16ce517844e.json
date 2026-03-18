@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Principles of Agri-Business Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Agri-Business",
+        "topics": [
+          "Definition, scope, and importance of agri-business",
+          "Distinctive features of agri-business vs general business",
+          "Structure of the agri-business sector (Input, Farm, Product)",
+          "Role of agriculture in the national economy",
+          "Emerging trends and challenges in global agri-business"
+        ]
+      },
+      {
+        "chapter": "Management Functions in Agri-Business",
+        "topics": [
+          "Planning and decision-making in agri-enterprises",
+          "Organizing resources for agricultural production",
+          "Directing and leading rural workforces",
+          "Control systems for quality and yield",
+          "Coordination between stakeholders in the value chain"
+        ]
+      },
+      {
+        "chapter": "Agri-Entrepreneurship",
+        "topics": [
+          "Characteristics of successful agri-entrepreneurs",
+          "Identifying and evaluating agri-business opportunities",
+          "Business incubation in agriculture",
+          "Startups in the AgTech space",
+          "Government support and schemes for agri-entrepreneurs"
+        ]
+      },
+      {
+        "chapter": "Organizational Structures in Agri-Business",
+        "topics": [
+          "Sole proprietorships and partnerships in farming",
+          "Agri-business corporations and MNCs",
+          "Cooperatives and Farmer Producer Organizations (FPOs)",
+          "Contract farming models and tripartite agreements",
+          "Public-Private Partnerships (PPP) in agriculture"
+        ]
+      },
+      {
+        "chapter": "Strategic Management for Agri-Enterprises",
+        "topics": [
+          "Environment scanning for agricultural ventures",
+          "SWOT analysis of the agri-sector",
+          "Developing competitive strategies for agri-products",
+          "Growth strategies: Diversification and Value addition",
+          "Sustainability and CSR in agri-business"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agricultural Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Nature and Scope of Agricultural Economics",
+        "topics": [
+          "Subject matter of agricultural economics",
+          "Agriculture as an industry vs a way of life",
+          "Production, consumption, and distribution in agriculture",
+          "Economic systems and their impact on farming",
+          "Role of agriculture in economic growth models"
+        ]
+      },
+      {
+        "chapter": "Production Economics and Farm Management",
+        "topics": [
+          "Law of variable proportions in crop production",
+          "Factor-product, factor-factor, and product-product relationships",
+          "Optimization of input use and resource allocation",
+          "Cost concepts and profit maximization in farming",
+          "Returns to scale and size of farm holdings"
+        ]
+      },
+      {
+        "chapter": "Demand and Supply of Agricultural Products",
+        "topics": [
+          "Determinants of demand for agricultural commodities",
+          "Price, income, and cross-elasticity of demand",
+          "Factors affecting supply of farm products",
+          "Supply response and Cobb-Douglas production function",
+          "Equilibrium price determination in agri-markets"
+        ]
+      },
+      {
+        "chapter": "Agricultural Marketing and Prices",
+        "topics": [
+          "Role of markets in agricultural development",
+          "Market structure and competition in agri-markets",
+          "Price discovery and price transmission mechanisms",
+          "Government intervention: MSP and buffer stocks",
+          "Impact of inflation on agricultural terms of trade"
+        ]
+      },
+      {
+        "chapter": "Macroeconomics and Agriculture",
+        "topics": [
+          "National income accounting and share of agriculture",
+          "Agricultural investment and capital formation",
+          "Agricultural taxation and subsidies debate",
+          "Impact of monetary and fiscal policies on the rural sector",
+          "International trade in agriculture (WTO and AoA)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agricultural Marketing and Price Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Marketing Functions and Channels",
+        "topics": [
+          "Marketing functions: Exchange, Physical, and Facilitating",
+          "Marketing channels for different commodity groups",
+          "Marketing margins and price spread analysis",
+          "Producer's share in the consumer's rupee",
+          "Marketing efficiency: Shepherd\\'s and Acharya\\'s formulas"
+        ]
+      },
+      {
+        "chapter": "Market Institutions and Infrastructure",
+        "topics": [
+          "Regulated markets (APMCs) and their reforms",
+          "Cooperative marketing societies and NAFED",
+          "State Trading Corporation and specialized boards",
+          "Warehousing, cold storage, and logistics infrastructure",
+          "Grades, standards, and certification (AGMARK)"
+        ]
+      },
+      {
+        "chapter": "Market Integration and Pricing",
+        "topics": [
+          "Vertical and horizontal market integration",
+          "Market intelligence and news services",
+          "Price discovery in spot and futures markets",
+          "Hedging and speculation in agri-commodities",
+          "Commodity exchanges (MCX, NCDEX) and their role"
+        ]
+      },
+      {
+        "chapter": "Price Analysis and Forecasting",
+        "topics": [
+          "Seasonal, cyclical, and secular trends in agri-prices",
+          "Price parity and terms of trade for agriculture",
+          "Methodologies for price forecasting in agri-business",
+          "Impact of global prices on domestic agri-markets",
+          "Price instability and stabilization measures"
+        ]
+      },
+      {
+        "chapter": "Commodity Value Chain Analysis",
+        "topics": [
+          "Mapping the value chain of key cereal crops",
+          "Value chain of horticultural and high-value crops",
+          "Bottlenecks and value leakages in the chain",
+          "Upgrading strategies for smallholders in the chain",
+          "Role of processors and retailers in value chains"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agri-Supply Chain Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of Agri-Supply Chain",
+        "topics": [
+          "Concept and importance of supply chain in agriculture",
+          "Components of the agri-supply chain",
+          "Agri-supply chain flows: Product, Information, and Cash",
+          "Supply chain drivers: Facility, Inventory, Transportation",
+          "Bullwhip effect in agricultural supply chains"
+        ]
+      },
+      {
+        "chapter": "Logistics and Transportation",
+        "topics": [
+          "Modes of transport for agricultural commodities",
+          "Containerization and multimodal transport in agri-business",
+          "Cold chain logistics: Design and management",
+          "Last-mile delivery challenges in rural areas",
+          "Logistics cost optimization for perishables"
+        ]
+      },
+      {
+        "chapter": "Inventory and Warehouse Management",
+        "topics": [
+          "Storage requirements for different agricultural products",
+          "Inventory control techniques (ABC, VED) in agri-business",
+          "Scientific storage and pest management in warehouses",
+          "Warehouse receipt financing and collateral management",
+          "Management of buffer stocks and strategic reserves"
+        ]
+      },
+      {
+        "chapter": "Sourcing and Procurement",
+        "topics": [
+          "Strategic sourcing models for agri-processors",
+          "Direct procurement from farmers and FPOs",
+          "Electronic procurement and e-NAM integration",
+          "Quality assessment and standardization at procurement",
+          "Contract farming as a procurement strategy"
+        ]
+      },
+      {
+        "chapter": "Technology and Coordination in SC",
+        "topics": [
+          "IT applications in agri-supply chain coordination",
+          "Traceability and blockchain in food supply chains",
+          "Agri-supply chain performance metrics and SCOR model",
+          "Collaborative planning and forecasting (CPFR) in agri-business",
+          "Risk mitigation and resilience in agri-supply chains"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Farm Business Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Farm Planning and Budgeting",
+        "topics": [
+          "Principles of farm planning and resource allocation",
+          "Preparation of farm plans and cropping patterns",
+          "Complete and partial budgeting techniques",
+          "Cash flow budgeting for seasonal farm operations",
+          "Linear programming applications in farm planning"
+        ]
+      },
+      {
+        "chapter": "Farm Record Keeping and Accounting",
+        "topics": [
+          "Importance and types of farm records",
+          "Double-entry bookkeeping for farm businesses",
+          "Analysis of farm financial statements",
+          "Measures of farm profit and efficiency",
+          "Computerized farm accounting and software"
+        ]
+      },
+      {
+        "chapter": "Resource Management on the Farm",
+        "topics": [
+          "Land management and soil health maintenance",
+          "Labor management and productivity on the farm",
+          "Capital and machinery management",
+          "Water management and irrigation scheduling",
+          "Seed, fertilizer, and chemical input management"
+        ]
+      },
+      {
+        "chapter": "Diverisification and Integrated Farming",
+        "topics": [
+          "Concept and benefits of crop diversification",
+          "Integrated Farming Systems (IFS) models",
+          "Livestock, poultry, and fishery management as farm ventures",
+          "Organic farming and its business viability",
+          "Agro-forestry and non-farm income activities"
+        ]
+      },
+      {
+        "chapter": "Farm Business Analysis and Growth",
+        "topics": [
+          "Comparative performance analysis of farms",
+          "Identifying bottlenecks in farm productivity",
+          "Scaling up: Large-scale vs smallholder farm management",
+          "Precision farming and technology adoption",
+          "Transitioning from subsistence to commercial farming"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agri-Finance and Microfinance",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Agricultural Credit Fundamentals",
+        "topics": [
+          "Need for and importance of agricultural credit",
+          "Classification of agri-credit (Tenure, Purpose, Security)",
+          "Sources of agri-finance: Institutional vs Non-institutional",
+          "Role of NABARD in agricultural development",
+          "The 3 R's and 5 C's of credit analysis"
+        ]
+      },
+      {
+        "chapter": "Institutional Finance for Agriculture",
+        "topics": [
+          "Commercial banks and Priority Sector Lending (PSL)",
+          "Regional Rural Banks (RRBs) and their mandate",
+          "Cooperative credit structure (PACS, DCCB, SCB)",
+          "Lead Bank Scheme and Service Area Approach",
+          "Kisan Credit Card (KCC) scheme and its implementation"
+        ]
+      },
+      {
+        "chapter": "Microfinance and Rural Banking",
+        "topics": [
+          "Concept and evolution of microfinance",
+          "SHG-Bank Linkage Program (SBLP)",
+          "Microfinance Institutions (MFIs): Models and regulation",
+          "Joint Liability Groups (JLGs) for tenant farmers",
+          "Social impact and financial sustainability of microfinance"
+        ]
+      },
+      {
+        "chapter": "Financial Engineering in Agri-Business",
+        "topics": [
+          "Value chain finance and warehouse receipt financing",
+          "Leasing and hire-purchase in agri-mechanization",
+          "Agricultural insurance: PMFBY and weather-based models",
+          "Agri-export finance and term lending",
+          "Project finance for agri-infrastructure"
+        ]
+      },
+      {
+        "chapter": "Credit Policy and Rural Indebtedness",
+        "topics": [
+          "Trends in agricultural credit flow",
+          "Issues of non-performing assets (NPA) in agri-credit",
+          "Rural indebtedness: Causes, consequences, and solutions",
+          "Agricultural debt waiver schemes debate",
+          "Financial literacy and inclusion in rural areas"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Rural Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Rural Marketing Landscape",
+        "topics": [
+          "Definition, nature, and importance of rural marketing",
+          "Rural vs Urban marketing: Key differences",
+          "Profile of the rural consumer: Behavioral and demographic",
+          "Rural market environment and infrastructure",
+          "Evolving trends and potential of rural markets"
+        ]
+      },
+      {
+        "chapter": "Rural Consumer Behavior",
+        "topics": [
+          "Factors influencing rural purchasing decisions",
+          "Rural shopping patterns and brand loyalty",
+          "Role of opinion leaders and influencers in rural areas",
+          "Rural decision-making process",
+          "Psychology of price vs quality in rural markets"
+        ]
+      },
+      {
+        "chapter": "Rural Marketing Mix: Product and Price",
+        "topics": [
+          "Product strategies: Packaging, sachet marketing, and utility",
+          "Branding for rural markets and local language adaptation",
+          "Pricing strategies for rural affordability",
+          "Value-based pricing and psychological pricing in villages",
+          "Managing promotional offers and discounts"
+        ]
+      },
+      {
+        "chapter": "Rural Distribution and Logistics",
+        "topics": [
+          "Rural distribution channels and their challenges",
+          "Role of haats, melas, and mandis as retail points",
+          "Hub-and-spoke models for rural reach",
+          "Leveraging post offices and village shops (kiranos)",
+          "Last-mile connectivity and E-commerce logistics in rural areas"
+        ]
+      },
+      {
+        "chapter": "Rural Communication and Promotion",
+        "topics": [
+          "Challenges of rural communication: Literacy and media reach",
+          "Traditional vs modern media in rural areas",
+          "Digital and mobile marketing in the hinterland",
+          "Experiential marketing and van promotions",
+          "Designing effective rural advertising campaigns"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agri-Input Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Agri-Input Industry Overview",
+        "topics": [
+          "Characteristics of the agri-input market",
+          "Market structure for Seeds, Fertilizers, and Pesticides",
+          "Role of agri-inputs in enhancing crop productivity",
+          "Regulatory framework for agri-input businesses",
+          "Global and domestic players in the agri-input sector"
+        ]
+      },
+      {
+        "chapter": "Marketing of Seeds",
+        "topics": [
+          "Types of seeds: Hybrids, GM seeds, and Varietal seeds",
+          "Seed production and marketing channels",
+          "Seed branding and quality assurance",
+          "Pricing strategies for seeds",
+          "Intellectual Property Rights and Seed Acts"
+        ]
+      },
+      {
+        "chapter": "Marketing of Fertilizers and Nutrients",
+        "topics": [
+          "Demand and supply dynamics of fertilizers",
+          "Distribution networks and logistics for fertilizers",
+          "Promotion of balanced fertilization and bio-fertilizers",
+          "Fertilizer subsidy policy and its impact",
+          "Soil testing and personalized nutrient marketing"
+        ]
+      },
+      {
+        "chapter": "Marketing of Crop Protection Chemicals",
+        "topics": [
+          "Classification of pesticides and herbicides",
+          "Distribution and safety training for channel partners",
+          "Promotional strategies and field demonstrations",
+          "Environmental concerns and marketing of bio-pesticides",
+          "Regulatory compliance in pesticide marketing"
+        ]
+      },
+      {
+        "chapter": "Agri-Mechanization and Irrigation Marketing",
+        "topics": [
+          "Market for tractors and farm implements",
+          "Marketing of micro-irrigation systems (Drip/Sprinkler)",
+          "After-sales service and spare parts management",
+          "Financing and leasing options for farm machinery",
+          "Custom hiring centers as a business model"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Post-Harvest Management and Value Addition",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Importance of Post-Harvest Management",
+        "topics": [
+          "Extent of post-harvest losses in cereals and perishables",
+          "Causes of post-harvest losses: Biological and Physical",
+          "Economic impact of losses on farmers and consumers",
+          "Post-harvest technology interventions",
+          "Quality parameters and assessment of farm produce"
+        ]
+      },
+      {
+        "chapter": "Harvesting and Primary Processing",
+        "topics": [
+          "Maturity indices and harvesting techniques",
+          "Cleaning, grading, and sorting operations",
+          "Pre-cooling and pre-treatments for perishables",
+          "Primary processing: Drying, dehusking, and milling",
+          "Packaging materials and technologies for fresh produce"
+        ]
+      },
+      {
+        "chapter": "Storage Systems and Management",
+        "topics": [
+          "Scientific storage of food grains: CAP and SILOs",
+          "Cold storage and controlled atmosphere (CA) storage",
+          "Zero-energy cool chambers and low-cost storage",
+          "Pest and disease control during storage",
+          "Management of moisture and temperature in storage"
+        ]
+      },
+      {
+        "chapter": "Value Addition and Diversification",
+        "topics": [
+          "Concept and levels of value addition",
+          "Diversification into high-value horticultural crops",
+          "Value addition through minimally processed foods",
+          "Product development from agricultural by-products",
+          "Labeling, branding, and marketing of value-added products"
+        ]
+      },
+      {
+        "chapter": "Infrastructure and Policy for PHM",
+        "topics": [
+          "Role of integrated pack-houses and ripening chambers",
+          "Mega Food Parks and Agri-Export Zones (AEZs)",
+          "Government schemes for post-harvest infrastructure",
+          "FDI in agricultural logistics and processing",
+          "Skill development in post-harvest management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Food Processing and Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Food Processing Industry Overview",
+        "topics": [
+          "Status and potential of the food processing industry",
+          "Categories of food processing: Primary, Secondary, Tertiary",
+          "Mega trends in the global food industry",
+          "Competitiveness of the domestic food processing sector",
+          "Government initiatives: PMKSY and PLI schemes"
+        ]
+      },
+      {
+        "chapter": "Food Processing Technologies",
+        "topics": [
+          "Processing of cereals, pulses, and oilseeds",
+          "Fruit and vegetable processing: Canning, Freezing, Jam/Jelly",
+          "Dairy processing and value-added milk products",
+          "Meat, poultry, and fish processing",
+          "Advanced technologies: Irradiation, HPP, and Nano-food"
+        ]
+      },
+      {
+        "chapter": "Food Safety and Quality Management",
+        "topics": [
+          "Principles of food microbiology and chemistry",
+          "HACCP, ISO 22000, and TQM in food industries",
+          "FSSAI regulations and global food standards (Codex)",
+          "Food labeling, nutrition claims, and allergens",
+          "Traceability and recall systems in food processing"
+        ]
+      },
+      {
+        "chapter": "Operation and Supply Chain in Food Industry",
+        "topics": [
+          "Plant layout and design for food industries",
+          "Operations management and production planning",
+          "Supply chain coordination: Farm to Fork",
+          "Sourcing strategies for food processors",
+          "Managing perishability and cold chain in food business"
+        ]
+      },
+      {
+        "chapter": "Marketing and Retail of Processed Foods",
+        "topics": [
+          "Marketing mix for processed food products",
+          "Consumer trends in ready-to-eat and functional foods",
+          "Role of modern trade and E-grocery in food retail",
+          "Food branding and positioning strategies",
+          "Export marketing of processed food products"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Agri-Business and Trade",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Global Agri-Business Environment",
+        "topics": [
+          "Trends in global agricultural production and trade",
+          "Major exporters and importers of agri-commodities",
+          "Global food security and its impact on trade policies",
+          "International price volatility and its drivers",
+          "Dynamics of global agri-commodity markets"
+        ]
+      },
+      {
+        "chapter": "International Trade Theories and AoA",
+        "topics": [
+          "Comparative advantage in agriculture",
+          "WTO Agreement on Agriculture (AoA): Domestic support, Market access, Export competition",
+          "Sanitary and Phytosanitary (SPS) measures",
+          "Technical Barriers to Trade (TBT) in agri-business",
+          "Regional trade agreements and agri-trade"
+        ]
+      },
+      {
+        "chapter": "Export-Import Procedures for Agri-Products",
+        "topics": [
+          "Registration and documentation for agri-exports",
+          "Quality standards and certification for global markets",
+          "Incoterms and payment terms in international trade",
+          "Agri-export incentives and promotional schemes",
+          "Role of APEDA and MPEDA in promotion"
+        ]
+      },
+      {
+        "chapter": "International Marketing of Agri-Products",
+        "topics": [
+          "Market identification and selection for agri-exports",
+          "Branding and packaging for international consumers",
+          "Supply chain management for global agri-trade",
+          "Managing risks in international agri-business",
+          "Case studies of successful agri-exports (Basmati, Spices)"
+        ]
+      },
+      {
+        "chapter": "FDI and Global Value Chains",
+        "topics": [
+          "Trends in FDI in the agri-business sector",
+          "Role of TNCs in global agricultural value chains",
+          "Global standards and private labels in agri-trade",
+          "Emerging markets as a destination for agri-trade",
+          "Challenges for smallholders in global value chains"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Risk Management in Agriculture",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Agricultural Risks",
+        "topics": [
+          "Types of risks in agriculture: Production, Market, Institutional",
+          "Impact of climate change on agricultural risk profile",
+          "Sources of risk at the farm and industry level",
+          "Risk perception and attitudes of farmers",
+          "Measuring risk: Probabilities and Variance"
+        ]
+      },
+      {
+        "chapter": "Production and Price Risk Mitigation",
+        "topics": [
+          "On-farm risk management: Diversification and IFS",
+          "Soil and water conservation as risk mitigation",
+          "Role of technology in reducing production risk",
+          "Price risk management: MSP and market intelligence",
+          "Crop-weather forecasting systems"
+        ]
+      },
+      {
+        "chapter": "Agricultural Insurance",
+        "topics": [
+          "Principles and types of agricultural insurance",
+          "Crop insurance models: Area-yield vs Weather-index",
+          "Livestock and poultry insurance schemes",
+          "Challenges in implementation of crop insurance",
+          "Role of private and public players in agri-insurance"
+        ]
+      },
+      {
+        "chapter": "Commodity Derivatives and Hedging",
+        "topics": [
+          "Role of futures and options in price risk management",
+          "Hedging strategies for agri-business firms",
+          "Commodity exchanges and their regulation",
+          "Delivery and settlement mechanisms",
+          "Awareness and participation of farmers in futures markets"
+        ]
+      },
+      {
+        "chapter": "Financial and Institutional Support",
+        "topics": [
+          "Role of credit in managing agricultural disasters",
+          "Government disaster relief and compensation mechanisms",
+          "Role of NGOs and community-based risk management",
+          "Sovereign risk management in agriculture",
+          "Building resilient agri-business systems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "ICT in Agriculture (E-Agriculture)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to E-Agriculture",
+        "topics": [
+          "Concept and importance of ICT in agriculture",
+          "E-Agriculture architecture and ecosystem",
+          "ICT interventions in the agricultural value chain",
+          "Bridging the digital divide in rural areas",
+          "Success stories of ICT in agriculture (e.g., e-Choupal)"
+        ]
+      },
+      {
+        "chapter": "Decision Support Systems",
+        "topics": [
+          "GIS and Remote Sensing applications in agriculture",
+          "Expert systems for pest and disease diagnosis",
+          "Precision farming and IoT-based monitoring",
+          "Weather-based advisory services via mobile",
+          "Farm management information systems (FMIS)"
+        ]
+      },
+      {
+        "chapter": "E-Commerce and E-Marketing",
+        "topics": [
+          "E-Marketplaces for agricultural inputs and outputs",
+          "Direct-to-consumer models in agri-business",
+          "Role of mobile apps in price discovery",
+          "Virtual haats and online auctions",
+          "Traceability and consumer transparency through ICT"
+        ]
+      },
+      {
+        "chapter": "Mobile and Social Media in Extension",
+        "topics": [
+          "Mobile-based extension services (Voice, SMS, App)",
+          "Role of social media in farmer-to-farmer learning",
+          "Kisan Call Centers and their impact",
+          "Crowdsourcing of agricultural information",
+          "Interactive voice response (IVR) systems for farmers"
+        ]
+      },
+      {
+        "chapter": "Emerging Technologies",
+        "topics": [
+          "Artificial Intelligence and Machine Learning in agri-analytics",
+          "Drones for crop monitoring and spraying",
+          "Blockchain for agri-land records and SC transparency",
+          "Big data analytics for agricultural policy making",
+          "Robotics in harvesting and weeding"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Policy and Regulatory Framework in Agriculture",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Agricultural Policy Landscape",
+        "topics": [
+          "Evolution of agricultural policies in India",
+          "National Agricultural Policy and its objectives",
+          "MSP policy and procurement mechanisms",
+          "Fertilizer and electricity subsidy policies",
+          "Irrigation and land-use policies"
+        ]
+      },
+      {
+        "chapter": "Legal Framework for Agri-Business",
+        "topics": [
+          "Essential Commodities Act: Provisions and impact",
+          "APMC Acts and recent marketing reforms",
+          "Contract Farming Acts and legal protections",
+          "Land ceiling and tenancy laws",
+          "Consumer Protection Act and agri-products"
+        ]
+      },
+      {
+        "chapter": "Intellectual Property and Biodiversity",
+        "topics": [
+          "Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act",
+          "Biological Diversity Act and its implications",
+          "Geographical Indications (GI) for agricultural products",
+          "Seed Acts and Nursery Registration",
+          "Plant Quarantine and Phytosanitary regulations"
+        ]
+      },
+      {
+        "chapter": "Food Safety and Standards Regulations",
+        "topics": [
+          "FSSAI: Mandate, standards, and enforcement",
+          "Global standards: ISO, HACCP, and Codex",
+          "Regulations on GMOs in food and agriculture",
+          "Labeling and nutrition claims regulations",
+          "Import/Export regulations for food products"
+        ]
+      },
+      {
+        "chapter": "Cooperatives and Farmer Organizations",
+        "topics": [
+          "Legal framework for cooperatives and Multi-State Co-op Act",
+          "Farmer Producer Companies (FPCs): Regulatory underpinnings",
+          "Taxation of agri-income and cooperatives",
+          "Institutional support for FPOs",
+          "Future policy directions for agricultural sustainability"
+        ]
+      }
+    ]
+  }
+]

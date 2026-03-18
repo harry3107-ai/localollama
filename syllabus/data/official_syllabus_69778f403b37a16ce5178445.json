@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "International Business Environment",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to International Business",
+        "topics": [
+          "Concept, nature, and scope of International Business",
+          "Drivers of Globalization (Technology, Trade liberalization)",
+          "Difference between Domestic and International Business",
+          "Modes of entry into international markets",
+          "EPRG Framework in International Business"
+        ]
+      },
+      {
+        "chapter": "Political and Legal Environment",
+        "topics": [
+          "Types of political systems and their impact on business",
+          "Political risk analysis and management strategies",
+          "Types of legal systems (Common, Civil, Theocratic)",
+          "Intellectual Property Rights (IPR) enforcement globally",
+          "Dispute resolution in international business"
+        ]
+      },
+      {
+        "chapter": "Economic Environment",
+        "topics": [
+          "Economic systems (Market, Command, Mixed)",
+          "Indicators of economic development (GNI, PPP, HDI)",
+          "Economic transition in developing countries",
+          "Impact of inflation, interest rates, and exchange rates",
+          "Regional economic clusters and mega-cities"
+        ]
+      },
+      {
+        "chapter": "Cultural Environment",
+        "topics": [
+          "Elements of culture (Language, Religion, Values, Customs)",
+          "Hofstede's dimensions of national culture",
+          "Cross-cultural literacy and ethnocentrism",
+          "Trompenaars' cultural dimensions model",
+          "Impact of culture on business communication and negotiation"
+        ]
+      },
+      {
+        "chapter": "Global Institutions and Regional Integration",
+        "topics": [
+          "Role of WTO in regulating international trade",
+          "IMF and World Bank: Roles and criticisms",
+          "Levels of regional economic integration (FTA, Customs Union, Common Market)",
+          "Major trading blocs (EU, NAFTA/USMCA, ASEAN)",
+          "Impact of regional integration on MNE operations"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Global Strategic Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Strategy in the Global Context",
+        "topics": [
+          "Definition and importance of Global Strategy",
+          "Value creation and the firm as a value chain",
+          "Pressures for cost reduction vs local responsiveness",
+          "Integration-Responsiveness (I-R) framework",
+          "Global standardization, Localization, Transnational, and International strategies"
+        ]
+      },
+      {
+        "chapter": "Analyzing Global Industries",
+        "topics": [
+          "Global industry characteristics and drivers",
+          "Porter's Diamond of National Competitive Advantage",
+          "Competitor analysis in international markets",
+          "Identifying strategic groups globally",
+          "Evaluating market potential and country attractiveness"
+        ]
+      },
+      {
+        "chapter": "Foreign Market Entry Strategies",
+        "topics": [
+          "Timing of entry (First-mover vs Late-mover advantages)",
+          "Scale of entry and strategic commitments",
+          "Exporting, Turnkey projects, Licensing, and Franchising",
+          "Joint Ventures and Strategic Alliances (Rationale and Risks)",
+          "Wholly Owned Subsidiaries (Greenfield vs Acquisitions)"
+        ]
+      },
+      {
+        "chapter": "Global Operations and Supply Chain Strategy",
+        "topics": [
+          "Location of manufacturing facilities (Centralized vs Decentralized)",
+          "Strategic role of foreign factories",
+          "Make-or-buy decisions in global supply chains",
+          "Global logistics and transportation strategies",
+          "Managing global supply chain risks"
+        ]
+      },
+      {
+        "chapter": "Organization of International Business",
+        "topics": [
+          "Organizational architecture in MNEs",
+          "Organizational structure (International Division, Worldwide Area, Worldwide Product)",
+          "Matrix and Transnational structures",
+          "Control systems and performance metrics in MNEs",
+          "Building an organizational culture in a global firm"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Trade Theory and Policy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Classical Trade Theories",
+        "topics": [
+          "Mercantilism and its modern applicability",
+          "Adam Smith's Theory of Absolute Advantage",
+          "David Ricardo's Theory of Comparative Advantage",
+          "Heckscher-Ohlin (H-O) Theory of Factor Endowment",
+          "Leontief Paradox"
+        ]
+      },
+      {
+        "chapter": "Modern Trade Theories",
+        "topics": [
+          "Product Life Cycle Theory of Trade (Vernon)",
+          "New Trade Theory (Krugman) and economies of scale",
+          "First-mover advantages and pattern of trade",
+          "Porter's Theory of National Competitive Advantage",
+          "Intra-industry vs Inter-industry trade"
+        ]
+      },
+      {
+        "chapter": "Instruments of Trade Policy",
+        "topics": [
+          "Tariffs (Specific, Ad Valorem) and their economic effects",
+          "Subsidies and their impact on global trade",
+          "Import Quotas and Voluntary Export Restraints (VERs)",
+          "Local content requirements and administrative policies",
+          "Anti-dumping policies and countervailing duties"
+        ]
+      },
+      {
+        "chapter": "Political Economy of International Trade",
+        "topics": [
+          "Political arguments for government intervention (Protecting jobs, National security)",
+          "Economic arguments for intervention (Infant industry, Strategic trade policy)",
+          "History of global trading system (GATT to WTO)",
+          "Current issues in WTO (Agriculture, Intellectual Property, Services)",
+          "Trade wars and protectionism trends"
+        ]
+      },
+      {
+        "chapter": "Foreign Direct Investment (FDI) Theory",
+        "topics": [
+          "Trends and directions of FDI globally",
+          "Theories of FDI (Internalization theory, Knickerbocker's theory)",
+          "Dunning's Eclectic Paradigm (OLI Framework)",
+          "Host country benefits and costs of FDI",
+          "Home country benefits and costs of FDI"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Marketing Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Global Marketing Environment",
+        "topics": [
+          "Domestic vs International marketing",
+          "Assessing global market opportunities",
+          "International marketing research process",
+          "Primary and secondary data challenges across borders",
+          "Screening and selecting international markets"
+        ]
+      },
+      {
+        "chapter": "International Product Strategy",
+        "topics": [
+          "Standardization vs Adaptation in product design",
+          "International Product Life Cycle strategy",
+          "Brand decisions in global markets (Global vs Local brands)",
+          "Packaging and labeling for international markets",
+          "Country of Origin (COO) effect on consumer perception"
+        ]
+      },
+      {
+        "chapter": "International Pricing Strategy",
+        "topics": [
+          "Factors influencing international pricing (Costs, Competition, Demand)",
+          "Export pricing strategies (Cost-plus, Marginal cost, Penetration, Skimming)",
+          "Price escalation and ways to combat it",
+          "Transfer pricing mechanisms in multinationals",
+          "Dumping and gray markets (Parallel imports)"
+        ]
+      },
+      {
+        "chapter": "International Distribution Strategy",
+        "topics": [
+          "Structure of international distribution channels",
+          "Selecting and managing overseas intermediaries (Agents, Distributors)",
+          "Evaluating channel performance",
+          "Challenges of retail distribution in different countries",
+          "International logistics and documentation impact on channels"
+        ]
+      },
+      {
+        "chapter": "International Promotion and Communication",
+        "topics": [
+          "Global advertising campaigns vs Localized messaging",
+          "Media challenges and selection in international markets",
+          "International public relations and corporate image",
+          "Sales promotion techniques globally",
+          "Personal selling and managing an international sales force"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Global Supply Chain and Logistics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Global Supply Chain Strategies",
+        "topics": [
+          "Evolution from domestic to global supply chains",
+          "Aligning global supply chain strategy with business strategy",
+          "Global sourcing and procurement strategies",
+          "Low-Cost Country Sourcing (LCCS) and nearshoring",
+          "Role of 3PL and 4PL providers in global context"
+        ]
+      },
+      {
+        "chapter": "International Logistics Management",
+        "topics": [
+          "Modes of international transportation (Ocean, Air, Rail, Road)",
+          "Intermodalism and containerization",
+          "Role of freight forwarders and customs brokers",
+          "International packaging and stowage requirements",
+          "Managing lead times and variability in global transit"
+        ]
+      },
+      {
+        "chapter": "Customs and Trade Compliance",
+        "topics": [
+          "Role of customs authorities globally",
+          "Harmonized System (HS) codes and classification",
+          "Rules of Origin and preferential trade agreements",
+          "Customs valuation methods",
+          "Authorized Economic Operator (AEO) and security programs"
+        ]
+      },
+      {
+        "chapter": "Global Inventory and Warehousing",
+        "topics": [
+          "Inventory centralization vs decentralization globally",
+          "Managing safety stock in long supply chains",
+          "Free Trade Zones (FTZ) and Special Economic Zones (SEZ)",
+          "Bonded warehouses and customs clearance logistics",
+          "Global warehouse management systems (WMS)"
+        ]
+      },
+      {
+        "chapter": "Risk and Sustainability in Global SCM",
+        "topics": [
+          "Identifying global supply chain risks (Geopolitical, Natural, Operational)",
+          "Risk mitigation strategies and supply chain resilience",
+          "Green supply chain management globally",
+          "Carbon footprint tracking in international logistics",
+          "Ethical sourcing and social compliance audits"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Financial Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "International Financial Environment",
+        "topics": [
+          "Evolution of the International Monetary System (Gold Standard to Floating rates)",
+          "Role of IMF and World Bank in international finance",
+          "Balance of Payments (BOP) accounting and components",
+          "BOP deficits/surpluses and economic implications",
+          "The Eurocurrency market overview"
+        ]
+      },
+      {
+        "chapter": "Foreign Exchange Markets",
+        "topics": [
+          "Structure and functions of the FOREX market",
+          "Spot and Forward markets quotation conventions",
+          "Cross rates and arbitrage (Two-point, Triangular)",
+          "Foreign exchange derivatives (Features, Options, Swaps)",
+          "Purchasing Power Parity (PPP) and Interest Rate Parity (IRP)"
+        ]
+      },
+      {
+        "chapter": "Foreign Exchange Risk Management",
+        "topics": [
+          "Types of foreign exchange exposure (Transaction, Translation, Economic)",
+          "Measuring and managing Transaction exposure (Hedging techniques)",
+          "Managing Translation exposure (Current rate vs Temporal method)",
+          "Strategic management of Economic (Operating) exposure",
+          "Internal hedging techniques (Leading/Lagging, Netting)"
+        ]
+      },
+      {
+        "chapter": "Multinational Capital Budgeting",
+        "topics": [
+          "Complexities of international capital budgeting",
+          "Project vs Parent company cash flows",
+          "Adjusting discount rates for foreign risk",
+          "Incorporating inflation and exchange rate forecasts into NPV",
+          "Real options in multinational capital budgeting"
+        ]
+      },
+      {
+        "chapter": "International Financing and Working Capital",
+        "topics": [
+          "Cost of capital for Multinational Enterprises (MNEs)",
+          "Sources of international long-term funds (Eurobonds, Foreign bonds, Depository Receipts)",
+          "International cash management techniques",
+          "Managing international receivables and payables",
+          "Intra-corporate funds transfer mechanisms (Transfer pricing, Royalties)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Cross-Cultural Management and Leadership",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Culture and Management",
+        "topics": [
+          "Defining culture and its influence on organizational behavior",
+          "Cultural intelligence (CQ) development",
+          "Stereotyping vs Sociotyping in international business",
+          "Models of national culture (Hofstede, Trompenaars, GLOBE)",
+          "High context vs Low context cultures in communication"
+        ]
+      },
+      {
+        "chapter": "Cross-Cultural Communication",
+        "topics": [
+          "Barriers to effective cross-cultural communication",
+          "Verbal and non-verbal communication differences globally",
+          "Corporate language policies and translation challenges",
+          "Communication styles (Direct vs Indirect, Formal vs Informal)",
+          "Strategies for improving intercultural communication"
+        ]
+      },
+      {
+        "chapter": "Cross-Cultural Negotiation",
+        "topics": [
+          "The negotiation process across cultures",
+          "Cultural variables in the negotiation process (Time, Risk, Relationships)",
+          "Negotiation styles of major trading nations (US, China, Japan, Middle East)",
+          "Role of mediators and interpreters in global negotiations",
+          "Ethical dilemmas in cross-cultural negotiations"
+        ]
+      },
+      {
+        "chapter": "Motivation and Leadership Across Cultures",
+        "topics": [
+          "Applicability of Western motivation theories globally",
+          "Reward and recognition preferences across cultures",
+          "Leadership styles in different cultural clusters",
+          "Paternalistic and authoritarian leadership in emerging markets",
+          "Developing a global mindset in corporate leadership"
+        ]
+      },
+      {
+        "chapter": "Managing Multicultural Teams",
+        "topics": [
+          "Dynamics of diverse teams (Advantages and challenges)",
+          "Stages of multi-cultural team development",
+          "Managing virtual global teams",
+          "Building trust across geographic and cultural boundaries",
+          "Conflict resolution strategies in multicultural settings"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Export-Import Procedures and Documentation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Exim Operations",
+        "topics": [
+          "Setting up an export/import business in India",
+          "IEC (Importer Exporter Code) requirement and process",
+          "Registration-cum-Membership Certificate (RCMC)",
+          "Foreign Trade Policy (FTP) of India overview",
+          "Role of Export Promotion Councils and Commodity Boards"
+        ]
+      },
+      {
+        "chapter": "Incoterms and Pricing",
+        "topics": [
+          "Purpose and application of Incoterms 2020",
+          "Key terms for any mode of transport (EXW, FCA, CPT, CIP, DAP, DPU, DDP)",
+          "Key terms for sea transport (FAS, FOB, CFR, CIF)",
+          "Costing and calculating export prices based on Incoterms",
+          "Negotiating terms of sale with overseas buyers"
+        ]
+      },
+      {
+        "chapter": "Export Documentation",
+        "topics": [
+          "Aligned Documentation System (ADS)",
+          "Commercial documents (Proforma invoice, Commercial invoice, Packing list)",
+          "Transport documents (Bill of Lading, Airway Bill)",
+          "Financial and Regulatory documents (Bill of Exchange, Shipping Bill)",
+          "Certificates (Origin, Inspection, Phytosanitary, Quality)"
+        ]
+      },
+      {
+        "chapter": "Export Finance and Payment Terms",
+        "topics": [
+          "Methods of payment (Advance, Open Account, Documentary Collection, Letter of Credit)",
+          "Mechanics of a Letter of Credit (L/C) and its types",
+          "Pre-shipment export finance (Packing credit)",
+          "Post-shipment export finance (Factoring, Forfaiting)",
+          "Role of ECGC in mitigating export credit risks"
+        ]
+      },
+      {
+        "chapter": "Import Procedures and Customs Clearance",
+        "topics": [
+          "Preliminaries for importing goods",
+          "Bill of Entry filing and types",
+          "Customs clearance process for sea, air, and post parcels",
+          "Assessment of customs duty and valuation",
+          "Special schemes like Advance Authorization and EPCG"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Human Resource Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to IHRM",
+        "topics": [
+          "Definition, complexities, and scope of IHRM",
+          "Differences between domestic HRM and IHRM",
+          "EPRG orientations and their implications for HR",
+          "Impact of cultural variables on HR practices",
+          "Strategic IHRM alignment with global corporate strategy"
+        ]
+      },
+      {
+        "chapter": "Global Staffing and Expatriation",
+        "topics": [
+          "Types of international assignees (PCNs, HCNs, TCNs)",
+          "Advantages and disadvantages of different staffing approaches",
+          "Criteria for selection of expatriates",
+          "The expatriation cycle and challenges",
+          "Role of female expatriates and dual-career couples"
+        ]
+      },
+      {
+        "chapter": "Training and Performance Management",
+        "topics": [
+          "Cross-cultural training models and rigor",
+          "Pre-departure, on-arrival, and repat training",
+          "Challenges in evaluating expatriate performance",
+          "Variables affecting expatriate performance (Cultural adjustment, Host environment)",
+          "Performance standardization vs Localization"
+        ]
+      },
+      {
+        "chapter": "International Compensation and Repatriation",
+        "topics": [
+          "Objectives of international compensation strategy",
+          "Approaches to expat compensation (Going rate, Balance sheet)",
+          "Components of the expat pay package (Base salary, Hardship premium, Allowances)",
+          "Tax equalization strategies",
+          "The repatriation process and managing reverse culture shock"
+        ]
+      },
+      {
+        "chapter": "Global Industrial Relations",
+        "topics": [
+          "Differences in trade union structures worldwide",
+          "Impact of MNEs on host country labor relations",
+          "International Labor Organization (ILO) standards",
+          "Social dumping and labor rights in developing nations",
+          "Managing HR challenges in cross-border M&As"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Global E-Commerce",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Global E-Commerce",
+        "topics": [
+          "Scope, drivers, and trends of global e-commerce",
+          "Digital business models (B2B, B2C, C2C, D2C) in global context",
+          "Evaluating country readiness for e-commerce",
+          "Impact of mobile commerce (M-commerce) globally",
+          "Omnichannel retail strategies worldwide"
+        ]
+      },
+      {
+        "chapter": "Localization vs Standardization Online",
+        "topics": [
+          "Website localization (Translation, currency, formatting)",
+          "Cultural adaptation of Web interfaces and UX/UI design",
+          "Global domain name strategies and SEO",
+          "Managing global content and digital assets",
+          "Standardized digital marketing vs Localized campaigns"
+        ]
+      },
+      {
+        "chapter": "Global Digital Marketing",
+        "topics": [
+          "International Search Engine Marketing (SEM and SEO)",
+          "Social media landscape variations globally (WeChat vs WhatsApp, local platforms)",
+          "Email marketing compliance (GDPR, CAN-SPAM, CASL)",
+          "Affiliate and influencer marketing across borders",
+          "Analyzing global web traffic and customer journeys"
+        ]
+      },
+      {
+        "chapter": "International Payments and Logistics",
+        "topics": [
+          "Cross-border payment gateways and multi-currency pricing",
+          "Alternative Payment Methods (APMs) popular in different regions (Alipay, iDEAL)",
+          "Fraud prevention in international online transactions",
+          "E-commerce fulfillment and cross-border shipping logistics",
+          "Managing international returns (Reverse logistics)"
+        ]
+      },
+      {
+        "chapter": "Legal, Ethical, and Security Issues",
+        "topics": [
+          "Data privacy regulations globally (GDPR, CCPA)",
+          "Cybersecurity threats and building trust in global e-commerce",
+          "Intellectual property rights and digital piracy",
+          "Taxation of cross-border digital sales",
+          "Consumer protection laws and online dispute resolution"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Macroeconomics in an Open Economy",
+        "topics": [
+          "National income accounting in an open economy",
+          "The savings-investment identity and trade balance",
+          "IS-LM-BP model interpretation",
+          "Mundell-Fleming model for monetary and fiscal policy",
+          "Twin deficits hypothesis"
+        ]
+      },
+      {
+        "chapter": "Exchange Rate Determination Theories",
+        "topics": [
+          "Balance of Payments approach to exchange rates",
+          "Purchasing Power Parity (Absolute and Relative)",
+          "Interest Rate Parity and the Fisher effect",
+          "Monetary approach to exchange rate determination",
+          "Portfolio balance approach"
+        ]
+      },
+      {
+        "chapter": "International Monetary System",
+        "topics": [
+          "History: Bimetallism, Gold Standard, Bretton Woods",
+          "The collapse of Bretton Woods and Smithsonian Agreement",
+          "Current system of floating and pegged exchange rates",
+          "Role of Special Drawing Rights (SDRs)",
+          "Debates on reforming the global monetary architecture"
+        ]
+      },
+      {
+        "chapter": "Currency Crises and Debt Crises",
+        "topics": [
+          "First, second, and third generation models of currency crises",
+          "Case studies: Asian Financial Crisis (1997), Global Financial Crisis (2008)",
+          "Sovereign debt crises (Eurozone crisis)",
+          "Role of IMF conditionality and structural adjustment programs",
+          "Contagion effects in international financial markets"
+        ]
+      },
+      {
+        "chapter": "Growth, Trade, and Development",
+        "topics": [
+          "Terms of trade and economic development",
+          "Prebisch-Singer hypothesis",
+          "Import substitution vs Export-led growth strategies",
+          "Foreign aid vs Foreign Direct Investment in developing economies",
+          "The role of multinational corporations in economic development"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Risk Management in International Business",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Global Risk Management",
+        "topics": [
+          "Definition, scope, and process of risk management",
+          "Classification of risks in international business",
+          "Enterprise Risk Management (ERM) framework",
+          "Building a risk-aware culture in MNEs",
+          "The role of the Chief Risk Officer (CRO) globally"
+        ]
+      },
+      {
+        "chapter": "Political and Country Risk",
+        "topics": [
+          "Sources of political risk (Expropriation, Currency controls, Civil unrest)",
+          "Macro vs Micro political risks",
+          "Techniques for assessing country risk (Indices, Expert panels)",
+          "Mitigation strategies (Joint ventures, Local debt, Political risk insurance)",
+          "Role of agencies like MIGA and ECAs"
+        ]
+      },
+      {
+        "chapter": "Economic and Financial Risks",
+        "topics": [
+          "Macro-economic risks (Inflation, Recession, Interest rate volatility)",
+          "Foreign exchange transaction and translation risks",
+          "Credit risk and counterparty risk in international trade",
+          "Liquidity risk in global operations",
+          "Hedging instruments and their application"
+        ]
+      },
+      {
+        "chapter": "Operational and Supply Chain Risks",
+        "topics": [
+          "Disruptions in global supply chains (Natural disasters, Pandemics)",
+          "Supplier bankruptcy and quality failures",
+          "Cybersecurity, data breaches, and IP theft risks",
+          "Logistics risks (Piracy, Port strikes, Transport damage)",
+          "Business continuity planning (BCP) and disaster recovery"
+        ]
+      },
+      {
+        "chapter": "Legal, Compliance, and Reputational Risks",
+        "topics": [
+          "Compliance risks globally (FCPA, UK Bribery Act, Sanctions)",
+          "Risk of contract unenforceability across jurisdictions",
+          "Environmental, Social, and Governance (ESG) risks",
+          "Managing brand and reputational risks in foreign markets",
+          "Crisis communication strategies globally"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Emerging Markets and Developing Economies",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Characteristics of Emerging Markets",
+        "topics": [
+          "Defining emerging markets (BRICS, MINTs, Next-11)",
+          "Demographic dividends and urbanization trends",
+          "Institutional voids in developing economies",
+          "Economic volatility and growth trajectories",
+          "The role of the informal economy"
+        ]
+      },
+      {
+        "chapter": "Doing Business in Emerging Markets",
+        "topics": [
+          "Navigating bureaucracy, corruption, and red tape",
+          "Strategies for overcoming institutional voids",
+          "Targeting the Base of the Pyramid (BoP) consumers",
+          "Frugal innovation and reverse innovation",
+          "Local adaptation vs Global standardization in emerging markets"
+        ]
+      },
+      {
+        "chapter": "Competition in Emerging Markets",
+        "topics": [
+          "Rise of emerging market multinationals (EMNEs)",
+          "Competitive advantages of local firms vs Global MNEs",
+          "State-Owned Enterprises (SOEs) as competitors and partners",
+          "Business groups (e.g., Chaebols, Keiretsus, Indian Conglomerates)",
+          "Strategies for MNEs competing with local champions"
+        ]
+      },
+      {
+        "chapter": "Market Entry and Partnering Strategies",
+        "topics": [
+          "Timing of entry into rapidly changing markets",
+          "Importance of local partnerships and joint ventures",
+          "Due diligence challenges in emerging markets",
+          "Building government relationships and non-market strategies",
+          "Managing talent shortages and retention issues"
+        ]
+      },
+      {
+        "chapter": "Future Outlook and Specific Regions",
+        "topics": [
+          "Economic outlook for Asia-Pacific dynamic economies",
+          "Opportunities and challenges in Latin America",
+          "Africa as the next frontier for international business",
+          "Transition economies of Eastern Europe",
+          "Impact of digital leapfrogging (e.g., Mobile money in Africa)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Commercial Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of International Law",
+        "topics": [
+          "Public vs Private International Law",
+          "Sources of international commercial law (Treaties, Custom, Conventions)",
+          "Major legal systems of the world (Common, Civil, Islamic Law)",
+          "Jurisdiction and sovereignty in international disputes",
+          "Role of international organizations (UNCITRAL, Hague Conference)"
+        ]
+      },
+      {
+        "chapter": "International Contracts for Sale of Goods",
+        "topics": [
+          "Formation of international contracts",
+          "United Nations Convention on Contracts for the International Sale of Goods (CISG)",
+          "Obligations of buyers and sellers under CISG",
+          "Passing of risk and property in international sales",
+          "Breach of contract, remedies, and Force Majeure clauses"
+        ]
+      },
+      {
+        "chapter": "Law of Carriage of Goods",
+        "topics": [
+          "Carriage of goods by sea (Hague-Visby Rules, Hamburg Rules, Rotterdam Rules)",
+          "Functions of the Bill of Lading",
+          "Charterparties and their types",
+          "Carriage of goods by air (Warsaw and Montreal Conventions)",
+          "Multimodal transportation legal framework"
+        ]
+      },
+      {
+        "chapter": "International Payments and Finance Law",
+        "topics": [
+          "Legal aspects of international payment mechanisms",
+          "Uniform Customs and Practice for Documentary Credits (UCP 600)",
+          "Legal nature of the Letter of Credit (Autonomy principle, Fraud exception)",
+          "International project finance legal structures",
+          "Anti-money laundering and international financial sanctions"
+        ]
+      },
+      {
+        "chapter": "Dispute Resolution and IPR Law",
+        "topics": [
+          "Choice of Law and Choice of Forum clauses",
+          "International Commercial Arbitration framework (New York Convention)",
+          "Mediation and Conciliation across borders",
+          "International protection of Intellectual Property (TRIPS agreement)",
+          "Patent Cooperation Treaty (PCT) and Madrid Protocol basics"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Indian Classical Literature",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Indian Classical Literature",
+        "topics": [
+          "The Indian Epic Tradition: Themes and Recensions",
+          "Concept of Dharma and the Heroic Ideal",
+          "Classical Sanskrit Drama: Origins and Evolution",
+          "Rasa Theory and Aesthetic Experience",
+          "Role of the Sutradhara and Vidushaka"
+        ]
+      },
+      {
+        "chapter": "Vyasa: The Mahabharata",
+        "topics": [
+          "The Dicing Game (Sabha Parva)",
+          "The Sequel to Dicing",
+          "Exile in the Forest (Vana Parva)",
+          "Questions of Dharma in the Epics",
+          "Women in the Mahabharata: Draupadi's Role"
+        ]
+      },
+      {
+        "chapter": "Kalidasa: Abhijnanashakuntalam",
+        "topics": [
+          "Theme of Love and Curse",
+          "Nature and its Role in the Play",
+          "The Concept of 'Abhijnana' (Recognition)",
+          "Courtly Life and Romance",
+          "Translation and Adaptation Contexts"
+        ]
+      },
+      {
+        "chapter": "Sudraka: Mricchakatika",
+        "topics": [
+          "The Little Clay Cart: Context and Setting",
+          "Social Realism in Classical Sanskrit Play",
+          "Character Analysis of Charudatta and Vasantasena",
+          "Political Subplot and Rebellion",
+          "Humor and Romance in Mricchakatika"
+        ]
+      },
+      {
+        "chapter": "Ilango Adigal: Cilappatikaram",
+        "topics": [
+          "The Book of Vanci (The Tale of an Anklet)",
+          "Concept of Chastity (Karpu)",
+          "Kannaki's Transformation to a Goddess",
+          "Tamil Epic Tradition and Sangam Literature",
+          "Jain Philosophy in Tamil Epics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "European Classical Literature",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Homer: The Iliad",
+        "topics": [
+          "The Trojan War: Myth and Reality",
+          "Achilles and the Heroic Code",
+          "Role of Gods in Human Affairs",
+          "Concepts of Arete (Excellence) and Kleos (Glory)",
+          "The Representation of Women: Helen and Andromache"
+        ]
+      },
+      {
+        "chapter": "Sophocles: Oedipus the King",
+        "topics": [
+          "Tragedy and the Concept of Hamartia",
+          "Fate versus Free Will",
+          "Dramatic Irony in Oedipus Rex",
+          "The Role of the Chorus",
+          "Aristotle's Poetics in relation to Sophocles"
+        ]
+      },
+      {
+        "chapter": "Aristotle: Poetics (Selections)",
+        "topics": [
+          "Mimesis (Imitation) and Catharsis (Purification)",
+          "Elements of Tragedy: Plot, Character, Thought",
+          "Peripeteia (Reversal) and Anagnorisis (Recognition)",
+          "The Unity of Action, Time, and Space",
+          "Comparison of Epic and Tragedy"
+        ]
+      },
+      {
+        "chapter": "Ovid: Metamorphoses (Selections)",
+        "topics": [
+          "Mythology and Transformation",
+          "Bacchus, Pentheus, and the Theme of Hubris",
+          "Philomela and Procne: Silence and Voice",
+          "Creation and the Ages of Man",
+          "Literary Influence of Ovid's Myths"
+        ]
+      },
+      {
+        "chapter": "Plautus: The Pot of Gold",
+        "topics": [
+          "Roman Comedy and Greek New Comedy",
+          "Stock Characters: The Miser, the Clever Slave",
+          "Social Class and Marriage in Roman Society",
+          "Humor, Wit, and Wordplay",
+          "Influence on Later European Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Writing in English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Novel in Indian English",
+        "topics": [
+          "R.K. Narayan: Swami and Friends / The Guide",
+          "Mulk Raj Anand: Untouchable - Social Critique",
+          "Raja Rao: Kanthapura and the Nationalist Movement",
+          "Themes of Modernity and Tradition",
+          "Style and Language in Early Indian Novels"
+        ]
+      },
+      {
+        "chapter": "Post-Independence Indian English Novel",
+        "topics": [
+          "Salman Rushdie: Midnight's Children and Magic Realism",
+          "Amitav Ghosh: The Shadow Lines - History and Memory",
+          "Arundhati Roy: The God of Small Things",
+          "Identity, Migration, and Diaspora",
+          "Women Novelists: Anita Desai and Shashi Deshpande"
+        ]
+      },
+      {
+        "chapter": "Indian English Poetry",
+        "topics": [
+          "Nissim Ezekiel: 'The Night of the Scorpion' and 'Enterprise'",
+          "Kamala Das: 'An Introduction' and Confessional Poetry",
+          "A.K. Ramanujan: 'Obituary' and Family Metaphors",
+          "Eunice de Souza and Jayanta Mahapatra",
+          "Themes of Alienation, Identity, and Urbanization"
+        ]
+      },
+      {
+        "chapter": "Indian English Drama",
+        "topics": [
+          "Mahesh Dattani: Dance Like a Man or Tara",
+          "Girish Karnad: Tughlaq or Hayavadana (Translation contexts)",
+          "Vijay Tendulkar's Influence (in translation)",
+          "Themes of Gender, Sexuality, and Society",
+          "Myth, History, and Contemporary Reality"
+        ]
+      },
+      {
+        "chapter": "Short Fiction and Non-Fiction",
+        "topics": [
+          "Jhumpa Lahiri: Interpreter of Maladies",
+          "Ruskin Bond and the Anglo-Indian Experience",
+          "Dr. B.R. Ambedkar: Annihilation of Caste (Excerpts)",
+          "Jawaharlal Nehru: The Discovery of India (Excerpts)",
+          "Essays on Nationalism and Postcolonial Identity"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "British Poetry and Drama: 14th to 17th Centuries",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Geoffrey Chaucer",
+        "topics": [
+          "The General Prologue to The Canterbury Tales",
+          "Social Realism and Estate Satire",
+          "The Wife of Bath's Prologue and Tale",
+          "Middle English Language and Narrative Techniques",
+          "Chaucer's Humor and Irony"
+        ]
+      },
+      {
+        "chapter": "Edmund Spenser and Initial Renaissance Poetry",
+        "topics": [
+          "The Faerie Queene (Selections)",
+          "Allegory and the Chivalric Romance",
+          "Spenserian Stanza and Form",
+          "Sir Thomas Wyatt and the Earl of Surrey: The Sonnet Tradition",
+          "Courtly Love and the Petrarchan Conceit"
+        ]
+      },
+      {
+        "chapter": "William Shakespeare: Tragedy",
+        "topics": [
+          "Macbeth or Hamlet",
+          "The Concept of the Tragic Hero",
+          "Supernatural Elements and Psychological Ambiguity",
+          "Themes of Ambition, Guilt, and Revenge",
+          "Language, Imagery, and Blank Verse"
+        ]
+      },
+      {
+        "chapter": "William Shakespeare: Comedy and Sonnets",
+        "topics": [
+          "Twelfth Night or As You Like It",
+          "Gender Disguise, mistaken identities, and Carnival",
+          "Romantic Comedy and the Green World",
+          "Shakespearean Sonnets: Themes of Time, Love, and Mortality",
+          "Structure and Rhyme Scheme of the Sonnet"
+        ]
+      },
+      {
+        "chapter": "Christopher Marlowe and John Donne",
+        "topics": [
+          "Doctor Faustus: The Renaissance Man and Hubris",
+          "The Tragical History, Morality Play Elements",
+          "John Donne: Metaphysical Poetry ('The Sunne Rising', 'A Valediction')",
+          "Conceit, Wit, and Paradox in Metaphysical Verse",
+          "Religious vs Secular Love Poetry"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "American Literature",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "19th Century American Fiction",
+        "topics": [
+          "Nathaniel Hawthorne: The Scarlet Letter",
+          "Mark Twain: The Adventures of Huckleberry Finn",
+          "Themes of Puritanism, Guilt, and Redemption",
+          "Race, Slavery, and the American South",
+          "American Realism vs Romanticism"
+        ]
+      },
+      {
+        "chapter": "Transcendentalism and Early Poetry",
+        "topics": [
+          "Ralph Waldo Emerson: 'The American Scholar' or 'Self-Reliance'",
+          "Henry David Thoreau: Walden (Selections)",
+          "Walt Whitman: 'Song of Myself' - Democratic Vistas",
+          "Emily Dickinson: Selected Poems",
+          "Themes of Nature, Individualism, and Death"
+        ]
+      },
+      {
+        "chapter": "20th Century American Fiction",
+        "topics": [
+          "F. Scott Fitzgerald: The Great Gatsby",
+          "Toni Morrison: Beloved",
+          "The American Dream and its Disillusionment",
+          "African-American Experience and Memory",
+          "Modernist and Postmodernist Narrative Techniques"
+        ]
+      },
+      {
+        "chapter": "Modern American Poetry",
+        "topics": [
+          "Robert Frost: 'The Road Not Taken', 'Stopping by Woods'",
+          "Langston Hughes: Harlem Renaissance poetry",
+          "Sylvia Plath: 'Daddy', 'Lady Lazarus' - Confessional Poetry",
+          "Wallace Stevens and William Carlos Williams",
+          "Themes of Alienation, Identity, and Urban Culture"
+        ]
+      },
+      {
+        "chapter": "American Drama",
+        "topics": [
+          "Arthur Miller: Death of a Salesman",
+          "Tennessee Williams: A Streetcar Named Desire",
+          "Expressionism and Modern Tragedy",
+          "The Decline of the American Myth",
+          "Themes of Illusion vs Reality"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Popular Literature",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Crime and Detective Fiction",
+        "topics": [
+          "Arthur Conan Doyle: The Sign of Four or selected stories",
+          "Agatha Christie: The Murder of Roger Ackroyd",
+          "The Development of the 'Whodunit'",
+          "Logic, Deduction, and the Figure of the Detective",
+          "Social anxieties and the restoration of order"
+        ]
+      },
+      {
+        "chapter": "Children's Literature and Fantasy",
+        "topics": [
+          "Lewis Carroll: Alice's Adventures in Wonderland",
+          "J.K. Rowling: Harry Potter series (Contextual study)",
+          "Nonsense verse and the subversion of didacticism",
+          "World-building and the Hero's Journey",
+          "Constructing Childhood in Literature"
+        ]
+      },
+      {
+        "chapter": "Science Fiction and Dystopia",
+        "topics": [
+          "H.G. Wells: The Time Machine",
+          "Ursula K. Le Guin: Selected works",
+          "Technological anxiety and futuristic societies",
+          "Post-apocalyptic themes and allegories",
+          "Gender and identity in Speculative Fiction"
+        ]
+      },
+      {
+        "chapter": "Graphic Novels and Comics",
+        "topics": [
+          "Art Spiegelman: Maus (Selections)",
+          "Marjane Satrapi: Persepolis",
+          "Visual storytelling and the integration of text/image",
+          "Trauma, memory, and autobiography in comics",
+          "The evolution of the superhero genre"
+        ]
+      },
+      {
+        "chapter": "Romance and Young Adult Literature",
+        "topics": [
+          "Chetan Bhagat / Popular Indian Romance",
+          "Suzanne Collins: The Hunger Games",
+          "Tropes of Romantic fiction",
+          "Coming-of-age narratives and teenage rebellion",
+          "Consumerism, media, and Popular Culture theory"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "British Poetry and Drama: 17th and 18th Centuries",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "John Milton",
+        "topics": [
+          "Paradise Lost: Books 1 and 2 (or selections)",
+          "The writing of the Christian Epic",
+          "Character analysis of Satan",
+          "Themes of Disobedience, Free Will, and Fall",
+          "Miltonic Blank Verse and Grand Style"
+        ]
+      },
+      {
+        "chapter": "Restoration Comedy",
+        "topics": [
+          "William Congreve: The Way of the World",
+          "George Etherege: The Man of Mode",
+          "Comedy of Manners and Witty Repartee",
+          "Marriage, Money, and Social Hypocrisy",
+          "The Fop and the Rake as Stock Characters"
+        ]
+      },
+      {
+        "chapter": "Alexander Pope",
+        "topics": [
+          "The Rape of the Lock",
+          "The Mock-Epic Form",
+          "Satire on 18th Century Aristocratic Society",
+          "Use of the Heroic Couplet",
+          "Gender aesthetics and commodification"
+        ]
+      },
+      {
+        "chapter": "John Webster and Jacobean Drama",
+        "topics": [
+          "The Duchess of Malfi",
+          "Revenge Tragedy conventions",
+          "Themes of Corruption, Madness, and Decay",
+          "The Representation of Female Sexuality and Power",
+          "Macabre imagery and theatricality"
+        ]
+      },
+      {
+        "chapter": "Aphra Behn and the Rise of Women Writers",
+        "topics": [
+          "The Rover (Drama) or Oroonoko (Prose)",
+          "Female Authorship in the Restoration period",
+          "Themes of Colonialism, Race, and Slavery",
+          "Libertinism and Female Emancipation",
+          "The transition towards the novel form"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "British Literature: 18th Century",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Jonathan Swift",
+        "topics": [
+          "Gulliver's Travels (Books 3 & 4)",
+          "Satire and the Enlightenment",
+          "Critique of Science, Reason, and Human Nature",
+          "Misanthropy vs Moral intent",
+          "Narrative technique and unreliability"
+        ]
+      },
+      {
+        "chapter": "The Rise of the Novel: Defoe",
+        "topics": [
+          "Daniel Defoe: Robinson Crusoe",
+          "Capitalism, Colonialism, and the Individual",
+          "Spiritual autobiography and realism",
+          "The myth of the self-made man",
+          "Formal realism and the novel form"
+        ]
+      },
+      {
+        "chapter": "Samuel Richardson and Henry Fielding",
+        "topics": [
+          "Fielding: Joseph Andrews or Tom Jones",
+          "The Comic Epic Poem in Prose",
+          "Pamela and the Epistolary Tradition",
+          "Morality, Virtue, and Social Class",
+          "Print culture and the expanding reading public"
+        ]
+      },
+      {
+        "chapter": "Laurence Sterne",
+        "topics": [
+          "Tristram Shandy (Selections)",
+          "Anti-novel and narrative experimentation",
+          "Digression, Time, and Hobby-horses",
+          "John Locke's influence on Association of Ideas",
+          "Self-reflexivity and typographic innovations"
+        ]
+      },
+      {
+        "chapter": "18th Century Poetry",
+        "topics": [
+          "Samuel Johnson: 'London' or 'The Vanity of Human Wishes'",
+          "Thomas Gray: 'Elegy Written in a Country Churchyard'",
+          "The Graveyard School and Pre-Romanticism",
+          "Transition from Neoclassicism to Romantic subjectivity",
+          "Melancholy and the rural landscape"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "British Romantic Literature",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "William Blake and the First Generation Romantics",
+        "topics": [
+          "Songs of Innocence and of Experience",
+          "Visionary Imagination and Mysticism",
+          "Critique of Religion and Industrialization",
+          "The French Revolution and its impact on poetry",
+          "Contraries and the nature of existence"
+        ]
+      },
+      {
+        "chapter": "William Wordsworth",
+        "topics": [
+          "Tintern Abbey and Ode: Intimations of Immortality",
+          "Preface to Lyrical Ballads: Theory of Poetry",
+          "Pantheism and the Healing Power of Nature",
+          "Memory, Childhood, and the Growth of the Mind",
+          "Poetic Diction and the language of common men"
+        ]
+      },
+      {
+        "chapter": "Samuel Taylor Coleridge",
+        "topics": [
+          "The Rime of the Ancient Mariner",
+          "Kubla Khan",
+          "Supernaturalism and the Willing Suspension of Disbelief",
+          "Fancy vs Imagination (Biographia Literaria)",
+          "The fragment poem and dream visions"
+        ]
+      },
+      {
+        "chapter": "Second Generation Romantics: Shelley and Keats",
+        "topics": [
+          "Percy Bysshe Shelley: 'Ode to the West Wind', 'Ozymandias'",
+          "John Keats: 'Ode to a Nightingale', 'Ode on a Grecian Urn'",
+          "Concept of Negative Capability (Keats)",
+          "Shelley's Idealism, Revolutionary politics, and myth-making",
+          "Sensuousness, Transience, and the pursuit of Beauty"
+        ]
+      },
+      {
+        "chapter": "Mary Shelley",
+        "topics": [
+          "Frankenstein",
+          "The Gothic Tradition and Science Fiction",
+          "The Overreacher and the critique of Enlightenment science",
+          "Themes of Monstrosity, Isolation, and Parenting",
+          "Multiple narratives and the epistolary frame"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "British Literature: 19th Century",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Jane Austen",
+        "topics": [
+          "Pride and Prejudice",
+          "The Novel of Manners",
+          "Marriage, Money, and Social Status",
+          "Irony and Free Indirect Discourse",
+          "The role and education of women in the 19th Century"
+        ]
+      },
+      {
+        "chapter": "Victorian Fiction: Charles Dickens",
+        "topics": [
+          "Hard Times or Oliver Twist",
+          "Utilitarianism and the Industrial Critique",
+          "Social Realism and Caricature",
+          "Childhood, Education, and Poverty",
+          "Serialization and the Victorian reading public"
+        ]
+      },
+      {
+        "chapter": "Victorian Fiction: The Brontës",
+        "topics": [
+          "Charlotte Brontë: Jane Eyre",
+          "Emily Brontë: Wuthering Heights",
+          "The Victorian Gothic and the Byronic Hero",
+          "Female Independence, Passion, and Restraint",
+          "Madness and the 'Madwoman in the Attic'"
+        ]
+      },
+      {
+        "chapter": "Victorian Poetry: Tennyson and Browning",
+        "topics": [
+          "Alfred, Lord Tennyson: 'Ulysses', 'The Lady of Shalott'",
+          "Robert Browning: 'My Last Duchess', 'Porphyria's Lover'",
+          "The Dramatic Monologue form",
+          "Crisis of Faith vs Victorian Imperialism",
+          "Art, Morality, and Psychological complexity"
+        ]
+      },
+      {
+        "chapter": "Late Victorian Literature",
+        "topics": [
+          "Thomas Hardy: Tess of the d'Urbervilles",
+          "Christina Rossetti: 'Goblin Market'",
+          "Determinism, Fate, and the Fallen Woman",
+          "Pre-Raphaelite Aesthetics",
+          "Decadence and the transition to Modernism"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Women's Writing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Pioneering Feminist Prose",
+        "topics": [
+          "Mary Wollstonecraft: A Vindication of the Rights of Woman (Excerpts)",
+          "Virginia Woolf: A Room of One's Own",
+          "The necessity of financial independence and space",
+          "Androgyny and the critique of patriarchy",
+          "The recovery of female literary history"
+        ]
+      },
+      {
+        "chapter": "Confessional and Contemporary Poetry",
+        "topics": [
+          "Emily Dickinson and Sylvia Plath",
+          "Eunice de Souza: 'Advice to Women', 'Bequest'",
+          "Margaret Atwood: Selected Poems",
+          "The personal is political: Body, trauma, and identity",
+          "Subverting traditional female roles in verse"
+        ]
+      },
+      {
+        "chapter": "Women and Fiction: The Novel",
+        "topics": [
+          "Alice Walker: The Color Purple",
+          "Charlotte Perkins Gilman: 'The Yellow Wallpaper'",
+          "Intersectionality: Race, Gender, and Class",
+          "Epistolary narrative as a tool of empowerment",
+          "Medical discourses and female madness"
+        ]
+      },
+      {
+        "chapter": "Autobiography and Memoir",
+        "topics": [
+          "Pandita Ramabai: The High Caste Hindu Woman (Excerpts)",
+          "Maxine Hong Kingston: The Woman Warrior (Selections)",
+          "Life writing and the assertion of the self",
+          "Cultural displacement and mother-daughter relationships",
+          "Challenging the canon through personal narratives"
+        ]
+      },
+      {
+        "chapter": "Feminist Literary Theory",
+        "topics": [
+          "Elaine Showalter: 'Feminist Criticism in the Wilderness'",
+          "Simone de Beauvoir: The Second Sex (Introduction)",
+          "Gynocriticism and the female aesthetic",
+          "Woman as 'The Other'",
+          "Post-feminism and contemporary debates"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "British Literature: The Early 20th Century",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Modernist Fiction: Stream of Consciousness",
+        "topics": [
+          "Virginia Woolf: Mrs. Dalloway",
+          "James Joyce: Portrait of the Artist as a Young Man",
+          "Interior monologue and nonlinear time",
+          "Urban experience and psychological depth",
+          "The crisis of representation and language"
+        ]
+      },
+      {
+        "chapter": "Joseph Conrad and the Critique of Imperialism",
+        "topics": [
+          "Heart of Darkness",
+          "Narrative framing and unreliable narrators",
+          "The darkness of human nature and Colonialism",
+          "Impressionism in literature",
+          "Race and the European 'civilizing mission'"
+        ]
+      },
+      {
+        "chapter": "W. B. Yeats and Early Modern Poetry",
+        "topics": [
+          "W. B. Yeats: 'The Second Coming', 'Sailing to Byzantium'",
+          "Symbolism and esoteric systems",
+          "Irish Nationalism and the Celtic Revival",
+          "The tension between art and life, youth and aging",
+          "The apocalyptic vision in Modernism"
+        ]
+      },
+      {
+        "chapter": "T.S. Eliot",
+        "topics": [
+          "The Love Song of J. Alfred Prufrock",
+          "The Waste Land (Selections)",
+          "Tradition and the Individual Talent",
+          "Fragmentation, Mythical Method, and Allusions",
+          "Post-War disillusionment and spiritual barrenness"
+        ]
+      },
+      {
+        "chapter": "D.H. Lawrence",
+        "topics": [
+          "Sons and Lovers or selected Short Stories",
+          "Psychoanalysis and the Oedipus Complex",
+          "Industrialization versus the Organic Life",
+          "Human relationships, sexuality, and instinct",
+          "Working-class experience in British fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Modern European Drama",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Henrik Ibsen",
+        "topics": [
+          "A Doll's House or Ghosts",
+          "Realism and Naturalism in the Theatre",
+          "The Well-Made Play structure",
+          "Bourgeois hypocrisy and women's emancipation",
+          "Environment and heredity as deterministic forces"
+        ]
+      },
+      {
+        "chapter": "Anton Chekhov",
+        "topics": [
+          "The Cherry Orchard",
+          "Tragicomedy and the mood of languor",
+          "The decline of the aristocracy and social change",
+          "Subtext and indirect action",
+          "The role of sound and symbolism"
+        ]
+      },
+      {
+        "chapter": "Bertolt Brecht",
+        "topics": [
+          "Mother Courage and Her Children or The Good Person of Szechwan",
+          "Epic Theatre vs Dramatic Theatre",
+          "The Verfremdungseffekt (Alienation Effect)",
+          "Marxism and Didacticism in Art",
+          "Music, placards, and non-illusionist staging"
+        ]
+      },
+      {
+        "chapter": "Samuel Beckett",
+        "topics": [
+          "Waiting for Godot",
+          "Theatre of the Absurd",
+          "Existentialism, meaninglessness, and repetition",
+          "Language breakdown and silence",
+          "The tragicomic condition of modern humanity"
+        ]
+      },
+      {
+        "chapter": "Luigi Pirandello / Jean Genet",
+        "topics": [
+          "Six Characters in Search of an Author / The Balcony",
+          "Metatheatre and the illusion of reality",
+          "Identity, masks, and relativity of truth",
+          "The relationship between author, character, and actor",
+          "Ritual, power, and performance"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Postcolonial Literatures",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "African Literature",
+        "topics": [
+          "Chinua Achebe: Things Fall Apart",
+          "The impact of Colonialism on Igbo society",
+          "Language, proverbs, and rewriting history",
+          "The tragic hero in an African context",
+          "Ngugi wa Thiong'o: Decolonising the Mind (Excerpts)"
+        ]
+      },
+      {
+        "chapter": "Caribbean Literature",
+        "topics": [
+          "Jean Rhys: Wide Sargasso Sea",
+          "Writing back to the Empire (Jane Eyre)",
+          "Creole identity and displacement",
+          "Madness and colonial oppression",
+          "Derek Walcott: 'A Far Cry from Africa'"
+        ]
+      },
+      {
+        "chapter": "Latin American Literature",
+        "topics": [
+          "Gabriel García Márquez: Chronicle of a Death Foretold",
+          "Pablo Neruda: Selected Poems",
+          "Magic Realism and its political functions",
+          "Machismo, honor, and violence",
+          "Dictatorship and memory in literature"
+        ]
+      },
+      {
+        "chapter": "Diaspora and Migration Literature",
+        "topics": [
+          "V.S. Naipaul: A House for Mr Biswas",
+          "Diasporic alienation and the search for roots",
+          "Cultural hybridity and 'third space' (Bhabha)",
+          "The experience of indentured labor",
+          "Identity formation in immigrant communities"
+        ]
+      },
+      {
+        "chapter": "Postcolonial Theory Fundamentals",
+        "topics": [
+          "Edward Said: Orientalism (Introduction)",
+          "Gayatri Spivak: 'Can the Subaltern Speak?' (Summary)",
+          "Frantz Fanon: The Wretched of the Earth (Excerpts)",
+          "Hegemony, discourse, and representation",
+          "Nationalism and the politics of language"
+        ]
+      }
+    ]
+  }
+]

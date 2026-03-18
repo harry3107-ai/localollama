@@ -1,0 +1,1336 @@
+[
+  {
+    "subject": "Human Anatomy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Anatomy",
+        "topics": [
+          "Anatomical terminology",
+          "Bones and cartilage",
+          "Joints classification",
+          "Muscular system overview",
+          "Cardiovascular system basics"
+        ]
+      },
+      {
+        "chapter": "Upper Limb",
+        "topics": [
+          "Pectoral region",
+          "Axilla and brachial plexus",
+          "Arm and cubital fossa",
+          "Forearm and hand",
+          "Joints of upper limb"
+        ]
+      },
+      {
+        "chapter": "Lower Limb",
+        "topics": [
+          "Front of thigh",
+          "Gluteal region",
+          "Popliteal fossa",
+          "Leg and foot",
+          "Joints of lower limb"
+        ]
+      },
+      {
+        "chapter": "Thorax",
+        "topics": [
+          "Thoracic wall",
+          "Pleura and lungs",
+          "Mediastinum",
+          "Heart and pericardium",
+          "Major thoracic vessels"
+        ]
+      },
+      {
+        "chapter": "Head and Neck",
+        "topics": [
+          "Scalp and face",
+          "Triangles of neck",
+          "Cranial cavity",
+          "Orbit and eye",
+          "Oral cavity and pharynx",
+          "Larynx and thyroid"
+        ]
+      },
+      {
+        "chapter": "Neuroanatomy",
+        "topics": [
+          "Spinal cord structure",
+          "Brainstem and cranial nerves",
+          "Cerebellum",
+          "Diencephalon",
+          "Cerebrum",
+          "Ventricles and CSF"
+        ]
+      },
+      {
+        "chapter": "Abdomen and Pelvis",
+        "topics": [
+          "Anterior abdominal wall",
+          "Peritoneum",
+          "Gastrointestinal tract anatomy",
+          "Urinary system anatomy",
+          "Male reproductive organs",
+          "Female reproductive organs"
+        ]
+      },
+      {
+        "chapter": "General Embryology",
+        "topics": [
+          "Gametogenesis",
+          "Fertilization",
+          "Cleavage and implantation",
+          "Germ layers formation",
+          "Placenta and fetal membranes"
+        ]
+      },
+      {
+        "chapter": "Systemic Embryology",
+        "topics": [
+          "Development of cardiovascular system",
+          "Development of gastrointestinal system",
+          "Development of urogenital system",
+          "Development of nervous system",
+          "Development of respiratory system"
+        ]
+      },
+      {
+        "chapter": "General Histology",
+        "topics": [
+          "Epithelial tissue",
+          "Connective tissue",
+          "Muscular tissue",
+          "Nervous tissue",
+          "Cartilage and bone"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Human Physiology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Physiology",
+        "topics": [
+          "Homeostasis",
+          "Cell membrane transport",
+          "Resting membrane potential",
+          "Action potential",
+          "Body fluid compartments"
+        ]
+      },
+      {
+        "chapter": "Blood and Body Fluids",
+        "topics": [
+          "Erythropoiesis",
+          "Hemoglobin and iron metabolism",
+          "Anemia classification",
+          "Blood groups and transfusion",
+          "Hemostasis and coagulation",
+          "White blood cells"
+        ]
+      },
+      {
+        "chapter": "Nerve and Muscle Physiology",
+        "topics": [
+          "Neuron structure and function",
+          "Synaptic transmission",
+          "Neuromuscular junction",
+          "Skeletal muscle contraction",
+          "Smooth muscle physiology"
+        ]
+      },
+      {
+        "chapter": "Cardiovascular System",
+        "topics": [
+          "Cardiac cycle",
+          "Electrocardiogram (ECG)",
+          "Cardiac output",
+          "Arterial blood pressure",
+          "Coronary circulation",
+          "Cardiovascular regulation"
+        ]
+      },
+      {
+        "chapter": "Respiratory System",
+        "topics": [
+          "Mechanics of breathing",
+          "Lung volumes and capacities",
+          "Pulmonary gas exchange",
+          "Transport of gases",
+          "Regulation of respiration"
+        ]
+      },
+      {
+        "chapter": "Gastrointestinal System",
+        "topics": [
+          "Salivary secretion",
+          "Gastric secretion",
+          "Pancreatic and biliary secretion",
+          "Intestinal motility",
+          "Digestion and absorption"
+        ]
+      },
+      {
+        "chapter": "Renal Physiology",
+        "topics": [
+          "Glomerular filtration rate",
+          "Tubular reabsorption",
+          "Tubular secretion",
+          "Regulation of body fluid osmolality",
+          "Acid-base balance"
+        ]
+      },
+      {
+        "chapter": "Endocrine Physiology",
+        "topics": [
+          "Pituitary gland hormones",
+          "Thyroid hormones",
+          "Adrenal cortex hormones",
+          "Adrenal medulla hormones",
+          "Endocrine pancreas",
+          "Calcium metabolism"
+        ]
+      },
+      {
+        "chapter": "Reproductive System",
+        "topics": [
+          "Male reproductive physiology",
+          "Female reproductive physiology",
+          "Menstrual cycle regulation",
+          "Pregnancy and lactation",
+          "Contraceptive physiology"
+        ]
+      },
+      {
+        "chapter": "Nervous System and Special Senses",
+        "topics": [
+          "Sensory receptors",
+          "Motor pathways",
+          "Autonomic nervous system",
+          "Vision physiology",
+          "Hearing and equilibrium",
+          "Taste and olfaction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biochemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cell Structure and Function",
+        "topics": [
+          "Subcellular organelles",
+          "Extracellular matrix",
+          "Membrane dynamics",
+          "Cell signaling",
+          "Apoptosis basics"
+        ]
+      },
+      {
+        "chapter": "Carbohydrate Chemistry and Metabolism",
+        "topics": [
+          "Monosaccharides and disaccharides",
+          "Glycolysis",
+          "TCA cycle",
+          "Gluconeogenesis",
+          "Glycogen metabolism",
+          "HMP shunt"
+        ]
+      },
+      {
+        "chapter": "Lipid Chemistry and Metabolism",
+        "topics": [
+          "Fatty acids and triglycerides",
+          "Cholesterol synthesis",
+          "Lipoproteins",
+          "Beta-oxidation of fatty acids",
+          "Ketone bodies",
+          "Phospholipids"
+        ]
+      },
+      {
+        "chapter": "Protein Chemistry and Metabolism",
+        "topics": [
+          "Amino acid structure",
+          "Protein folding and denaturation",
+          "Urea cycle",
+          "Metabolism of aromatic amino acids",
+          "Specialized products of amino acids",
+          "Plasma proteins"
+        ]
+      },
+      {
+        "chapter": "Enzymes and Vitamins",
+        "topics": [
+          "Enzyme kinetics",
+          "Enzyme inhibition",
+          "Clinical enzymology",
+          "Fat-soluble vitamins",
+          "Water-soluble vitamins",
+          "Vitamin deficiencies"
+        ]
+      },
+      {
+        "chapter": "Molecular Biology and Genetics",
+        "topics": [
+          "DNA replication",
+          "Transcription",
+          "Translation",
+          "Regulation of gene expression",
+          "Recombinant DNA technology"
+        ]
+      },
+      {
+        "chapter": "Nutrition and Dietetics",
+        "topics": [
+          "Basal metabolic rate",
+          "Nutritional requirements",
+          "Protein energy malnutrition",
+          "Obesity biochemistry",
+          "Dietary fibers"
+        ]
+      },
+      {
+        "chapter": "Clinical Biochemistry",
+        "topics": [
+          "Liver function tests",
+          "Renal function tests",
+          "Thyroid function tests",
+          "Biomarkers of myocardial infarction",
+          "Arterial blood gas analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Pathology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cell Injury and Adaptation",
+        "topics": [
+          "Causes of cell injury",
+          "Mechanisms of cell death",
+          "Necrosis and apoptosis",
+          "Cellular adaptations",
+          "Intracellular accumulations"
+        ]
+      },
+      {
+        "chapter": "Inflammation and Repair",
+        "topics": [
+          "Acute inflammation",
+          "Chemical mediators",
+          "Chronic inflammation",
+          "Granulomatous inflammation",
+          "Wound healing processes"
+        ]
+      },
+      {
+        "chapter": "Hemodynamic Disorders",
+        "topics": [
+          "Edema and hyperemia",
+          "Hemorrhage and hemostasis",
+          "Thrombosis",
+          "Embolism",
+          "Infarction and shock"
+        ]
+      },
+      {
+        "chapter": "Neoplasia",
+        "topics": [
+          "Benign vs malignant tumors",
+          "Nomenclature of tumors",
+          "Carcinogenesis",
+          "Tumor markers",
+          "Grading and staging",
+          "Paraneoplastic syndromes"
+        ]
+      },
+      {
+        "chapter": "Genetic and Pediatric Diseases",
+        "topics": [
+          "Mendelian disorders",
+          "Chromosomal abnormalities",
+          "Storage diseases",
+          "Pediatric tumors",
+          "Congenital anomalies"
+        ]
+      },
+      {
+        "chapter": "Hematology",
+        "topics": [
+          "Nutritional anemias",
+          "Hemolytic anemias",
+          "Leukemias",
+          "Lymphomas",
+          "Bleeding disorders",
+          "Blood transfusion reactions"
+        ]
+      },
+      {
+        "chapter": "Cardiovascular Pathology",
+        "topics": [
+          "Atherosclerosis",
+          "Ischemic heart disease",
+          "Rheumatic fever",
+          "Infective endocarditis",
+          "Hypertensive heart disease"
+        ]
+      },
+      {
+        "chapter": "Respiratory Pathology",
+        "topics": [
+          "Chronic obstructive pulmonary disease",
+          "Restrictive lung diseases",
+          "Pulmonary infections",
+          "Lung tumors",
+          "Pleural diseases"
+        ]
+      },
+      {
+        "chapter": "Gastrointestinal Pathology",
+        "topics": [
+          "Esophageal disorders",
+          "Peptic ulcer disease",
+          "Inflammatory bowel disease",
+          "Colorectal carcinoma",
+          "Liver cirrhosis",
+          "Viral hepatitis"
+        ]
+      },
+      {
+        "chapter": "Renal and Urinary Pathology",
+        "topics": [
+          "Glomerulonephritis",
+          "Nephrotic syndrome",
+          "Acute kidney injury",
+          "Renal tumors",
+          "Urolithiasis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Pharmacology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Pharmacology",
+        "topics": [
+          "Routes of drug administration",
+          "Pharmacokinetics",
+          "Pharmacodynamics",
+          "Adverse drug reactions",
+          "Drug interactions",
+          "Clinical trials overview"
+        ]
+      },
+      {
+        "chapter": "Autonomic Nervous System Drugs",
+        "topics": [
+          "Cholinergic agonists",
+          "Anticholinergic drugs",
+          "Adrenergic agonists",
+          "Adrenergic antagonists",
+          "Neuromuscular blockers"
+        ]
+      },
+      {
+        "chapter": "Central Nervous System Drugs",
+        "topics": [
+          "General anesthetics",
+          "Local anesthetics",
+          "Sedatives and hypnotics",
+          "Antiepileptic drugs",
+          "Antidepressants",
+          "Antipsychotic drugs"
+        ]
+      },
+      {
+        "chapter": "Cardiovascular System Drugs",
+        "topics": [
+          "Antihypertensive drugs",
+          "Antianginal drugs",
+          "Heart failure management",
+          "Antiarrhythmic drugs",
+          "Lipid-lowering agents",
+          "Diuretics"
+        ]
+      },
+      {
+        "chapter": "Drugs Acting on Blood",
+        "topics": [
+          "Anticoagulants",
+          "Antiplatelet drugs",
+          "Thrombolytics",
+          "Hematinics",
+          "Drugs for bleeding disorders"
+        ]
+      },
+      {
+        "chapter": "Respiratory System Drugs",
+        "topics": [
+          "Asthma management",
+          "COPD drugs",
+          "Antitussives",
+          "Expectorants",
+          "Mucolytics"
+        ]
+      },
+      {
+        "chapter": "Gastrointestinal System Drugs",
+        "topics": [
+          "Peptic ulcer drugs",
+          "Antiemetics",
+          "Prokinetics",
+          "Antidiarrheals",
+          "Laxatives"
+        ]
+      },
+      {
+        "chapter": "Endocrine Pharmacology",
+        "topics": [
+          "Insulin and oral hypoglycemics",
+          "Thyroid and antithyroid drugs",
+          "Corticosteroids",
+          "Estrogens and progestins",
+          "Bone mineral homeostasis drugs",
+          "Oxytocics"
+        ]
+      },
+      {
+        "chapter": "Antimicrobial Drugs",
+        "topics": [
+          "Penicillins and cephalosporins",
+          "Macrolides and aminoglycosides",
+          "Fluoroquinolones",
+          "Antitubercular drugs",
+          "Antifungal drugs",
+          "Antiviral drugs",
+          "Antimalarial drugs"
+        ]
+      },
+      {
+        "chapter": "Chemotherapy of Malignancies",
+        "topics": [
+          "Alkylating agents",
+          "Antimetabolites",
+          "Cytotoxic antibiotics",
+          "Plant alkaloids",
+          "Targeted cancer therapy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Microbiology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Microbiology",
+        "topics": [
+          "Bacterial morphology",
+          "Sterilization and disinfection",
+          "Culture media",
+          "Bacterial genetics",
+          "Antimicrobial resistance mechanisms"
+        ]
+      },
+      {
+        "chapter": "Immunology",
+        "topics": [
+          "Innate and adaptive immunity",
+          "Antigens and antibodies",
+          "Complement system",
+          "Hypersensitivity reactions",
+          "Autoimmunity",
+          "Immunodeficiency disorders"
+        ]
+      },
+      {
+        "chapter": "Systematic Bacteriology",
+        "topics": [
+          "Staphylococcus and Streptococcus",
+          "Mycobacterium tuberculosis",
+          "Enterobacteriaceae",
+          "Vibrio and Pseudomonas",
+          "Spirochetes",
+          "Neisseria species",
+          "Anaerobic bacteria"
+        ]
+      },
+      {
+        "chapter": "Virology",
+        "topics": [
+          "General properties of viruses",
+          "Human Immunodeficiency Virus (HIV)",
+          "Hepatitis viruses",
+          "Herpesviruses",
+          "Respiratory viruses",
+          "Arboviruses"
+        ]
+      },
+      {
+        "chapter": "Mycology",
+        "topics": [
+          "General mycology",
+          "Superficial fungal infections",
+          "Subcutaneous mycoses",
+          "Systemic mycoses",
+          "Opportunistic fungal infections"
+        ]
+      },
+      {
+        "chapter": "Parasitology",
+        "topics": [
+          "Plasmodium species",
+          "Leishmania donovani",
+          "Entamoeba histolytica",
+          "Intestinal nematodes",
+          "Cestodes",
+          "Trematodes"
+        ]
+      },
+      {
+        "chapter": "Clinical Microbiology",
+        "topics": [
+          "Blood stream infections",
+          "Respiratory tract infections",
+          "Gastrointestinal infections",
+          "Urinary tract infections",
+          "Central nervous system infections"
+        ]
+      },
+      {
+        "chapter": "Healthcare Associated Infections",
+        "topics": [
+          "Nosocomial infections overview",
+          "Catheter-associated UTI",
+          "Ventilator-associated pneumonia",
+          "Surgical site infections",
+          "Biomedical waste management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Forensic Medicine and Toxicology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Forensic Pathology",
+        "topics": [
+          "Identification of the dead",
+          "Post-mortem changes",
+          "Time since death estimation",
+          "Medicolegal autopsy",
+          "Mechanical injuries",
+          "Death from asphyxia"
+        ]
+      },
+      {
+        "chapter": "Clinical Forensic Medicine",
+        "topics": [
+          "Examination of injured persons",
+          "Sexual offenses examination",
+          "Infanticide",
+          "Child abuse",
+          "Pregnancy and delivery medicolegal aspects"
+        ]
+      },
+      {
+        "chapter": "Medical Jurisprudence",
+        "topics": [
+          "Legal procedures in India",
+          "Medical ethics and etiquette",
+          "Medical negligence",
+          "Consent in medical practice",
+          "Consumer Protection Act"
+        ]
+      },
+      {
+        "chapter": "Forensic Toxicology I (General)",
+        "topics": [
+          "General principles of toxicology",
+          "Diagnosis of poisoning",
+          "Management of poisoning",
+          "Medicolegal duties in poisoning",
+          "Corrosive poisons"
+        ]
+      },
+      {
+        "chapter": "Forensic Toxicology II (Specific Poisons)",
+        "topics": [
+          "Agricultural poisons",
+          "Metallic poisons",
+          "Animal poisons",
+          "Plant poisons",
+          "Somniferous poisons",
+          "Deliriant poisons"
+        ]
+      },
+      {
+        "chapter": "Forensic Psychiatry and Trace Evidence",
+        "topics": [
+          "Civil and criminal responsibility",
+          "Testamentary capacity",
+          "Mental Healthcare Act",
+          "Blood and seminal stains analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Community Medicine",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Concept of Health and Disease",
+        "topics": [
+          "Definition and dimensions of health",
+          "Determinants of health",
+          "Natural history of disease",
+          "Levels of prevention",
+          "Health indicators"
+        ]
+      },
+      {
+        "chapter": "Epidemiology",
+        "topics": [
+          "Principles of epidemiology",
+          "Descriptive epidemiology",
+          "Analytical epidemiology",
+          "Experimental epidemiology",
+          "Screening for disease",
+          "Epidemic investigation"
+        ]
+      },
+      {
+        "chapter": "Demography and Family Planning",
+        "topics": [
+          "Demographic cycle",
+          "Fertility indicators",
+          "Contraceptive methods overview",
+          "National Family Planning Program",
+          "MTP Act"
+        ]
+      },
+      {
+        "chapter": "Preventive Medicine in Obstetrics and Pediatrics",
+        "topics": [
+          "Antenatal and postnatal care",
+          "Maternal mortality",
+          "Infant mortality",
+          "Immunization schedule",
+          "Integrated Management of Neonatal and Childhood Illness",
+          "Adolescent health"
+        ]
+      },
+      {
+        "chapter": "Nutrition and Health",
+        "topics": [
+          "Nutritional requirements",
+          "Protein energy malnutrition",
+          "Vitamin and mineral deficiencies",
+          "Nutritional assessment",
+          "Food adulteration"
+        ]
+      },
+      {
+        "chapter": "Environmental Health",
+        "topics": [
+          "Water purification methods",
+          "Air pollution and health",
+          "Solid waste management",
+          "Housing standards",
+          "Radiation hazards"
+        ]
+      },
+      {
+        "chapter": "Health Planning and Management",
+        "topics": [
+          "Health planning cycle",
+          "Management techniques",
+          "Health care delivery system in India",
+          "Primary health care concept",
+          "Health economics basics"
+        ]
+      },
+      {
+        "chapter": "National Health Programs",
+        "topics": [
+          "National Tuberculosis Elimination Program",
+          "National Vector Borne Disease Control Program",
+          "National AIDS Control Program",
+          "National Program for Control of Blindness",
+          "Reproductive and Child Health Program",
+          "National Health Mission"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Ophthalmology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Anatomy and Physiology of Eye",
+        "topics": [
+          "Visual pathway",
+          "Aqueous humor dynamics",
+          "Physiology of vision",
+          "Accommodation reflex",
+          "Pupillary reflexes"
+        ]
+      },
+      {
+        "chapter": "Diseases of Conjunctiva and Cornea",
+        "topics": [
+          "Infective conjunctivitis",
+          "Allergic conjunctivitis",
+          "Corneal ulcer",
+          "Keratoconus",
+          "Dry eye syndrome",
+          "Trachoma"
+        ]
+      },
+      {
+        "chapter": "Diseases of Lenses and Glaucoma",
+        "topics": [
+          "Cataract types",
+          "Cataract surgery complications",
+          "Primary open-angle glaucoma",
+          "Angle-closure glaucoma",
+          "Congenital glaucoma",
+          "Secondary glaucomas"
+        ]
+      },
+      {
+        "chapter": "Diseases of Retina and Optic Nerve",
+        "topics": [
+          "Diabetic retinopathy",
+          "Hypertensive retinopathy",
+          "Retinal detachment",
+          "Optic neuritis",
+          "Papilledema"
+        ]
+      },
+      {
+        "chapter": "Ocular Motility and Strabismus",
+        "topics": [
+          "Extraocular muscles action",
+          "Concomitant strabismus",
+          "Paralytic strabismus",
+          "Amblyopia",
+          "Nystagmus"
+        ]
+      },
+      {
+        "chapter": "Systemic Ophthalmology and Blindness",
+        "topics": [
+          "Ocular manifestations of systemic diseases",
+          "Causes of preventable blindness",
+          "Vision 2020",
+          "Eye banking",
+          "Community ophthalmology"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Otorhinolaryngology (ENT)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Anatomy and Physiology of Ear, Nose, Throat",
+        "topics": [
+          "Middle ear anatomy",
+          "Inner ear physiology",
+          "Nasal cavity functions",
+          "Paranasal sinuses drainage",
+          "Larynx cartilages and muscles"
+        ]
+      },
+      {
+        "chapter": "Diseases of the Ear",
+        "topics": [
+          "Acute otitis media",
+          "Chronic suppurative otitis media",
+          "Complications of CSOM",
+          "Otosclerosis",
+          "Meniere's disease",
+          "Hearing loss evaluation"
+        ]
+      },
+      {
+        "chapter": "Diseases of the Nose and Paranasal Sinuses",
+        "topics": [
+          "Epistaxis management",
+          "Deviated nasal septum",
+          "Acute and chronic sinusitis",
+          "Nasal polyps",
+          "Allergic rhinitis",
+          "FESS principles"
+        ]
+      },
+      {
+        "chapter": "Diseases of the Oral Cavity and Pharynx",
+        "topics": [
+          "Tonsillitis and adenoiditis",
+          "Pharyngitis",
+          "Deep neck space infections",
+          "Oral premalignant lesions",
+          "Ludwig's angina"
+        ]
+      },
+      {
+        "chapter": "Diseases of the Larynx and Trachea",
+        "topics": [
+          "Acute laryngitis",
+          "Vocal cord nodules and polyps",
+          "Laryngeal trauma",
+          "Stridor management",
+          "Tracheostomy indications and care"
+        ]
+      },
+      {
+        "chapter": "Head and Neck Tumors",
+        "topics": [
+          "Carcinoma larynx",
+          "Nasopharyngeal carcinoma",
+          "Oral cavity cancers",
+          "Neck space tumors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Medicine",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cardiovascular Diseases",
+        "topics": [
+          "Essential hypertension",
+          "Heart failure management",
+          "Acute coronary syndrome",
+          "Valvular heart diseases",
+          "Arrhythmias overview",
+          "Infective endocarditis",
+          "Pericardial diseases"
+        ]
+      },
+      {
+        "chapter": "Respiratory Diseases",
+        "topics": [
+          "Bronchial asthma",
+          "COPD exacerbation",
+          "Pneumonia",
+          "Pulmonary tuberculosis",
+          "Pulmonary embolism",
+          "Pleural effusion"
+        ]
+      },
+      {
+        "chapter": "Gastrointestinal Diseases",
+        "topics": [
+          "GERD and peptic ulcer",
+          "Malabsorption syndromes",
+          "Inflammatory bowel disease",
+          "Irritable bowel syndrome",
+          "Acute gastrointestinal bleeding",
+          "Ascites"
+        ]
+      },
+      {
+        "chapter": "Hepatobiliary and Pancreatic Diseases",
+        "topics": [
+          "Acute viral hepatitis",
+          "Chronic hepatitis",
+          "Cirrhosis and complications",
+          "Acute pancreatitis",
+          "Gallstone disease"
+        ]
+      },
+      {
+        "chapter": "Renal and Genitourinary Diseases",
+        "topics": [
+          "Acute kidney injury",
+          "Chronic kidney disease",
+          "Nephrotic vs nephritic syndrome",
+          "Urinary tract infections",
+          "Acid-base disorders",
+          "Electrolyte imbalances"
+        ]
+      },
+      {
+        "chapter": "Neurological Disorders",
+        "topics": [
+          "Cerebrovascular accidents",
+          "Epilepsy and seizures",
+          "Parkinson's disease",
+          "Meningitis and encephalitis",
+          "Peripheral neuropathies",
+          "Multiple sclerosis",
+          "Myasthenia gravis"
+        ]
+      },
+      {
+        "chapter": "Endocrine and Metabolic Disorders",
+        "topics": [
+          "Diabetes mellitus types",
+          "Diabetic ketoacidosis",
+          "Hyperthyroidism",
+          "Hypothyroidism",
+          "Cushing's syndrome",
+          "Addison's disease"
+        ]
+      },
+      {
+        "chapter": "Hematological Disorders",
+        "topics": [
+          "Iron deficiency anemia",
+          "Megaloblastic anemia",
+          "Aplastic anemia",
+          "Bleeding disorders approach",
+          "Deep vein thrombosis"
+        ]
+      },
+      {
+        "chapter": "Rheumatology and Connective Tissue Diseases",
+        "topics": [
+          "Rheumatoid arthritis",
+          "Systemic lupus erythematosus",
+          "Gout and pseudogout",
+          "Osteoarthritis",
+          "Vasculitis overview"
+        ]
+      },
+      {
+        "chapter": "Infectious Diseases",
+        "topics": [
+          "Enteric fever",
+          "Malaria",
+          "Dengue fever",
+          "HIV/AIDS manifestations",
+          "Rabies",
+          "Tetanus",
+          "COVID-19 guidelines"
+        ]
+      },
+      {
+        "chapter": "Toxicology and Poisonings",
+        "topics": [
+          "Organophosphorus poisoning",
+          "Snakebite management",
+          "Aluminum phosphide poisoning",
+          "Drug overdose management"
+        ]
+      },
+      {
+        "chapter": "Geriatric Medicine and Palliative Care",
+        "topics": [
+          "Comprehensive geriatric assessment",
+          "Falls in elderly",
+          "Dementia",
+          "End of life care principles"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basic Surgical Principles",
+        "topics": [
+          "Surgical site infections",
+          "Wound healing and care",
+          "Fluid and electrolyte balance in surgery",
+          "Surgical nutrition",
+          "Shock management"
+        ]
+      },
+      {
+        "chapter": "Trauma and Burns",
+        "topics": [
+          "ATLS protocols",
+          "Head injury management",
+          "Chest trauma",
+          "Abdominal trauma",
+          "Burns assessment and fluid resuscitation"
+        ]
+      },
+      {
+        "chapter": "Skin and Soft Tissues",
+        "topics": [
+          "Cellulitis and abscess",
+          "Necrotizing fasciitis",
+          "Sebaceous cyst",
+          "Lipoma",
+          "Melanoma basics"
+        ]
+      },
+      {
+        "chapter": "Head and Neck Surgery",
+        "topics": [
+          "Thyroid swellings",
+          "Thyroid malignancies",
+          "Thyroglossal cyst",
+          "Salivary gland tumors",
+          "Branchial cyst"
+        ]
+      },
+      {
+        "chapter": "Breast and Endocrine Surgery",
+        "topics": [
+          "Benign breast disorders",
+          "Breast cancer screening",
+          "Breast cancer management",
+          "Parathyroid surgery",
+          "Adrenal incidentaloma"
+        ]
+      },
+      {
+        "chapter": "Cardiothoracic Surgery Concepts",
+        "topics": [
+          "Pneumothorax management",
+          "Hemothorax",
+          "Lung cancer surgery basics",
+          "Coronary artery bypass grafting basics"
+        ]
+      },
+      {
+        "chapter": "Upper Gastrointestinal Surgery",
+        "topics": [
+          "Achalasia cardia",
+          "Hiatus hernia",
+          "Perforated peptic ulcer",
+          "Gastric cancer",
+          "Bariatric surgery basics"
+        ]
+      },
+      {
+        "chapter": "Colorectal Surgery",
+        "topics": [
+          "Acute appendicitis",
+          "Intestinal obstruction",
+          "Colorectal cancer",
+          "Hemorrhoids and fissure",
+          "Fistula in ano"
+        ]
+      },
+      {
+        "chapter": "Hepatobiliary and Pancreatic Surgery",
+        "topics": [
+          "Cholelithiasis and cholecystitis",
+          "CBD stones",
+          "Liver trauma",
+          "Pancreatic cancer",
+          "Portal hypertension surgery"
+        ]
+      },
+      {
+        "chapter": "Urology and Orthopaedics Basics",
+        "topics": [
+          "Renal calculi",
+          "Benign prostatic hyperplasia",
+          "Prostate cancer",
+          "Testicular tumors",
+          "Fracture healing",
+          "Principles of fracture management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Obstetrics and Gynaecology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Anatomy and Physiology of Reproduction",
+        "topics": [
+          "Female pelvis anatomy",
+          "Fetal skull dimensions",
+          "Ovulation cycle",
+          "Placental development and functions",
+          "Fetal circulation"
+        ]
+      },
+      {
+        "chapter": "Normal Pregnancy and Antenatal Care",
+        "topics": [
+          "Diagnosis of pregnancy",
+          "Antenatal visits schedule",
+          "Nutrition in pregnancy",
+          "Fetal surveillance",
+          "Ultrasonography in pregnancy",
+          "Physiological changes in pregnancy"
+        ]
+      },
+      {
+        "chapter": "Complications of Pregnancy",
+        "topics": [
+          "Hyperemesis gravidarum",
+          "Ectopic pregnancy",
+          "Gestational diabetes mellitus",
+          "Hypertensive disorders of pregnancy",
+          "Antepartum hemorrhage",
+          "Preterm labor",
+          "Multiple pregnancy"
+        ]
+      },
+      {
+        "chapter": "Normal Labor and Delivery",
+        "topics": [
+          "Mechanism of normal labor",
+          "Partograph",
+          "Stages of labor",
+          "Pain relief in labor",
+          "Episiotomy",
+          "Active management of third stage of labor"
+        ]
+      },
+      {
+        "chapter": "Abnormal Labor and Operative Obstetrics",
+        "topics": [
+          "Prolonged labor",
+          "Obstructed labor",
+          "Breech presentation",
+          "Cesarean section indications",
+          "Instrumental delivery",
+          "Postpartum hemorrhage"
+        ]
+      },
+      {
+        "chapter": "Puerperium and its Complications",
+        "topics": [
+          "Normal puerperium",
+          "Puerperal sepsis",
+          "Lactation physiology",
+          "Psychiatric disorders in puerperium"
+        ]
+      },
+      {
+        "chapter": "Gynecological Infections and STIs",
+        "topics": [
+          "Pelvic inflammatory disease",
+          "Vaginal discharge syndromes",
+          "Genital tuberculosis",
+          "Syphilis in pregnancy",
+          "HPV infection"
+        ]
+      },
+      {
+        "chapter": "Benign and Malignant Gynecological Tumors",
+        "topics": [
+          "Uterine fibroids",
+          "Endometriosis and adenomyosis",
+          "Cervical cancer screening",
+          "Endometrial carcinoma",
+          "Ovarian tumors",
+          "Gestational trophoblastic disease"
+        ]
+      },
+      {
+        "chapter": "Reproductive Endocrinology and Infertility",
+        "topics": [
+          "Amenorrhea evaluation",
+          "Polycystic ovary syndrome",
+          "Abnormal uterine bleeding",
+          "Causes of female infertility",
+          "Male factor infertility",
+          "Assisted reproductive techniques"
+        ]
+      },
+      {
+        "chapter": "Contraception and Family Planning",
+        "topics": [
+          "Barrier methods",
+          "Intrauterine devices",
+          "Oral contraceptive pills",
+          "Emergency contraception",
+          "Sterilization procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Paediatrics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Normal Growth and Development",
+        "topics": [
+          "Assessment of physical growth",
+          "Developmental milestones",
+          "Anthropometry",
+          "Teething",
+          "Adolescent development changes"
+        ]
+      },
+      {
+        "chapter": "Nutrition and Deficiencies in Children",
+        "topics": [
+          "Breastfeeding benefits",
+          "Complementary feeding",
+          "Severe acute malnutrition",
+          "Vitamin A deficiency",
+          "Rickets"
+        ]
+      },
+      {
+        "chapter": "Neonatology",
+        "topics": [
+          "Neonatal resuscitation",
+          "Care of normal newborn",
+          "Prematurity and low birth weight",
+          "Neonatal jaundice",
+          "Neonatal sepsis",
+          "Respiratory distress syndrome"
+        ]
+      },
+      {
+        "chapter": "Pediatric Infectious Diseases",
+        "topics": [
+          "Measles",
+          "Mumps and Rubella",
+          "Pertussis",
+          "Diphtheria",
+          "Polio eradication",
+          "Pediatric HIV"
+        ]
+      },
+      {
+        "chapter": "Pediatric Systemic Diseases",
+        "topics": [
+          "Congenital heart diseases",
+          "Acute rheumatic fever in children",
+          "Acute post-streptococcal glomerulonephritis",
+          "Febrile seizures",
+          "Cerebral palsy",
+          "Thalassemia",
+          "Hemophilia in children"
+        ]
+      },
+      {
+        "chapter": "Pediatric Emergencies and Intensive Care",
+        "topics": [
+          "Status epilepticus",
+          "Acute severe asthma",
+          "Dehydration assessment and management",
+          "Foreign body aspiration",
+          "Pediatric advanced life support"
+        ]
+      }
+    ]
+  }
+]

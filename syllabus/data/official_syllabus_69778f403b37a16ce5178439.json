@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Marketing Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Marketing",
+        "topics": [
+          "Core concepts: Needs, wants, and demands",
+          "Evolution of marketing concepts (Production to Societal)",
+          "The Marketing Environment (Micro and Macro)",
+          "Marketing Mix (4Ps and expanded 7Ps)",
+          "Role of marketing in organizational growth"
+        ]
+      },
+      {
+        "chapter": "Market Segmentation, Targeting, and Positioning",
+        "topics": [
+          "Bases for segmenting consumer and business markets",
+          "Evaluating and selecting target markets",
+          "Developing a positioning strategy",
+          "Points-of-Parity (POP) and Points-of-Difference (POD)",
+          "Repositioning and perceptual mapping"
+        ]
+      },
+      {
+        "chapter": "Product and Pricing Strategies",
+        "topics": [
+          "Product classification and product levels",
+          "Product Life Cycle (PLC) and marketing strategies",
+          "New product development process",
+          "Pricing objectives and determining demand",
+          "Pricing methods (Markup, Target-return, Value-based)"
+        ]
+      },
+      {
+        "chapter": "Distribution and Promotion Strategies",
+        "topics": [
+          "Marketing channels and value networks",
+          "Channel design and management decisions",
+          "Retailing, Wholesaling, and Logistics",
+          "The Promotion Mix (Advertising, Sales Promo, PR, Personal Selling)",
+          "Integrated Marketing Communications (IMC) framework"
+        ]
+      },
+      {
+        "chapter": "Marketing Planning and Control",
+        "topics": [
+          "The Marketing Plan components",
+          "Marketing organization and implementation",
+          "Marketing metrics and performance evaluation",
+          "Annual-plan control and profitability control",
+          "Marketing audit concepts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Consumer Behavior",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Consumer Behavior",
+        "topics": [
+          "Definition, scope, and significance of CB",
+          "Consumer behavior models (Economic, Psychological, Sociological)",
+          "Consumer decision-making process stages",
+          "Types of buying decision behavior (Complex, Dissonance-reducing, Habitual)",
+          "The dark side of consumer behavior (Compulsive consumption)"
+        ]
+      },
+      {
+        "chapter": "Internal Influences on Consumer Behavior",
+        "topics": [
+          "Motivation theories (Maslow, McGuire) and involvement",
+          "Perception: Sensation, attention, interpretation, and subliminal perception",
+          "Learning theories (Classical, Instrumental, Cognitive)",
+          "Memory and knowledge retrieval in marketing",
+          "Personality, self-concept, and brand personality"
+        ]
+      },
+      {
+        "chapter": "Attitudes and Consumer Intentions",
+        "topics": [
+          "Components of attitude (Cognitive, Affective, Conative)",
+          "Multi-attribute attitude models (Fishbein model)",
+          "Theory of Reasoned Action (TRA) and Theory of Planned Behavior",
+          "Attitude change strategies using ELM (Elaboration Likelihood Model)",
+          "Cognitive dissonance theory in post-purchase contexts"
+        ]
+      },
+      {
+        "chapter": "External Influences on Consumer Behavior",
+        "topics": [
+          "Culture, sub-culture, and cross-cultural differences",
+          "Social class and its impact on consumption",
+          "Reference groups and word-of-mouth (WOM) influence",
+          "Family decision making and life-cycle stages",
+          "Opinion leadership and diffusion of innovations"
+        ]
+      },
+      {
+        "chapter": "Consumer Behavior in the Digital Age",
+        "topics": [
+          "Online consumer behavior characteristics",
+          "E-WOM and online reviews impact",
+          "Social media influence on decision making",
+          "Gamification and consumer engagement",
+          "Privacy concerns and trust in digital environments"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Marketing Research",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Marketing Research",
+        "topics": [
+          "Role and scope of marketing research",
+          "The marketing research process phases",
+          "Defining the research problem and objectives",
+          "Ethical issues in marketing research",
+          "Marketing Information Systems (MIS) overview"
+        ]
+      },
+      {
+        "chapter": "Research Designs",
+        "topics": [
+          "Exploratory research design (Focus groups, In-depth interviews)",
+          "Descriptive research design (Cross-sectional vs. Longitudinal)",
+          "Causal research design and experimentation",
+          "Validity in experiments (Internal vs. External)",
+          "Test marketing concepts"
+        ]
+      },
+      {
+        "chapter": "Data Collection and Sampling",
+        "topics": [
+          "Primary vs. Secondary data sources",
+          "Questionnaire design process and item scaling",
+          "Attitude measurement scales (Likert, Semantic Differential)",
+          "Sampling techniques: Probability vs. Non-probability",
+          "Sample size determination"
+        ]
+      },
+      {
+        "chapter": "Data Analysis Techniques",
+        "topics": [
+          "Data preparation (Editing, coding, transcription)",
+          "Descriptive statistics and frequency distribution",
+          "Hypothesis testing (t-tests, Z-tests, ANOVA)",
+          "Correlation and Simple linear regression",
+          "Introduction to multivariate techniques (Factor analysis, Cluster analysis)"
+        ]
+      },
+      {
+        "chapter": "Reporting and Advanced Topics",
+        "topics": [
+          "Data visualization and dashboards",
+          "Structure of a formal marketing research report",
+          "Online research methods and web analytics",
+          "Neuromarketing and eye-tracking basics",
+          "Big data analytics in marketing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Integrated Marketing Communications",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to IMC",
+        "topics": [
+          "Concept and evolution of IMC",
+          "Role of IMC in the marketing process",
+          "The communication process model",
+          "Determining the target audience and objectives",
+          "Budgeting for promotional programs"
+        ]
+      },
+      {
+        "chapter": "Advertising Management",
+        "topics": [
+          "Advertising models (AIDA, Hierarchy of Effects)",
+          "Creative strategy and execution styles",
+          "Media planning and strategy",
+          "Media selection: Broadcast, Print, Out-of-Home",
+          "Measuring advertising effectiveness"
+        ]
+      },
+      {
+        "chapter": "Sales Promotion and Direct Marketing",
+        "topics": [
+          "Consumer-oriented sales promotions techniques",
+          "Trade-oriented sales promotions",
+          "Direct marketing platforms and databases",
+          "Telemarketing and direct mail",
+          "Evaluating direct marketing responses"
+        ]
+      },
+      {
+        "chapter": "Public Relations and Sponsorships",
+        "topics": [
+          "Role and tools of Public Relations (PR)",
+          "Crisis management and corporate reputation",
+          "Publicity vs PR",
+          "Event marketing and sponsorship evaluation",
+          "Cause-related marketing"
+        ]
+      },
+      {
+        "chapter": "Digital and Interactive Media",
+        "topics": [
+          "Interactive marketing communications",
+          "Social media advertising and influencer marketing",
+          "Search Engine Marketing (SEM) within IMC",
+          "Mobile marketing communications",
+          "Regulatory and ethical aspects of digital advertising"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Brand Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of Branding",
+        "topics": [
+          "Definition and importance of a brand",
+          "Brand versus Product",
+          "Customer-Based Brand Equity (CBBE) model",
+          "Brand awareness and brand image",
+          "Strategic brand management process"
+        ]
+      },
+      {
+        "chapter": "Brand Positioning and Identity",
+        "topics": [
+          "Identifying and establishing brand positioning",
+          "Brand mantras and positioning statements",
+          "Brand identity prism (Kapferer's Model)",
+          "Choosing brand elements (Name, Logo, Slogan, Packaging)",
+          "Designing marketing programs to build brand equity"
+        ]
+      },
+      {
+        "chapter": "Measuring Brand Equity",
+        "topics": [
+          "Brand value chain framework",
+          "Qualitative research techniques for brand image",
+          "Quantitative research techniques for brand awareness",
+          "Brand trackers and dashboards",
+          "Brand valuation methods (Interbrand model)"
+        ]
+      },
+      {
+        "chapter": "Brand Architecture and Extension",
+        "topics": [
+          "Defining brand architecture strategy",
+          "Brand portfolios and roles of brands in a portfolio",
+          "Brand extensions: Advantages and disadvantages",
+          "Evaluating brand extension opportunities",
+          "Co-branding and ingredient branding"
+        ]
+      },
+      {
+        "chapter": "Managing Brands Over Time",
+        "topics": [
+          "Brand reinforcement strategies",
+          "Brand revitalization strategies",
+          "Managing brand crises",
+          "Global branding and cross-cultural challenges",
+          "Private labels vs National brands"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Services Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Services",
+        "topics": [
+          "Characteristics of services (IHIP framework)",
+          "Tangibility spectrum and classification of services",
+          "The expanded marketing mix for services (7Ps)",
+          "Consumer behavior in services context",
+          "Customer expectations and perceptions of services"
+        ]
+      },
+      {
+        "chapter": "Service Quality and Gap Model",
+        "topics": [
+          "The Gaps Model of Service Quality",
+          "Provider gaps and their causes",
+          "SERVQUAL dimensions and measurement",
+          "Service encounters and moments of truth",
+          "Strategies for closing service quality gaps"
+        ]
+      },
+      {
+        "chapter": "Service Design and Delivery",
+        "topics": [
+          "Service blueprinting and process design",
+          "Role of physical evidence (Servicescape)",
+          "Role of employees in service delivery (Internal marketing)",
+          "Role of customers in service co-creation",
+          "Managing capacity and demand (Yield management)"
+        ]
+      },
+      {
+        "chapter": "Pricing and Promoting Services",
+        "topics": [
+          "Approaches to pricing services (Cost, Demand, Competition-based)",
+          "Pricing strategies (Differential, Yield management)",
+          "Challenges in communicating services",
+          "Strategies to manage service promises",
+          "Managing internal marketing communications"
+        ]
+      },
+      {
+        "chapter": "Service Recovery and Loyalty",
+        "topics": [
+          "Impact of service failure and customer responses",
+          "Service recovery paradox",
+          "Strategies for effective service recovery",
+          "Relationship marketing goals and benefits",
+          "Customer profitability and tiering (Pyramid model)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Sales and Distribution Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sales Management Basics",
+        "topics": [
+          "Evolution and objectives of sales management",
+          "Personal selling process (Prospecting to Follow-up)",
+          "Theories of selling (AIDAS, Right Set of Circumstances)",
+          "Sales strategies and territory alignment",
+          "Ethical issues in sales"
+        ]
+      },
+      {
+        "chapter": "Managing the Sales Force",
+        "topics": [
+          "Recruitment, selection, and training of salespeople",
+          "Sales force motivation and theories",
+          "Compensation plans (Straight salary, Commission, Combination)",
+          "Sales quotas establishment and types",
+          "Sales performance evaluation metrics"
+        ]
+      },
+      {
+        "chapter": "Distribution Channel Management",
+        "topics": [
+          "Role and functions of distribution channels",
+          "Channel design decisions and structures",
+          "Channel conflict and resolution strategies",
+          "Selecting, motivating, and evaluating channel members",
+          "Power and leadership in channels"
+        ]
+      },
+      {
+        "chapter": "Wholesaling and Logistics",
+        "topics": [
+          "Functions of wholesalers and types",
+          "Physical distribution and supply chain concepts",
+          "Order processing, warehousing, and inventory management",
+          "Transportation modes and selection",
+          "Third-party logistics (3PL) and 4PL"
+        ]
+      },
+      {
+        "chapter": "Advanced Sales and Channel Concepts",
+        "topics": [
+          "Key Account Management (KAM)",
+          "Sales Forecasting techniques",
+          "Omnichannel and multichannel distribution",
+          "E-commerce distribution models",
+          "Sales force automation and CRM integration"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Retail Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Retailing",
+        "topics": [
+          "Significance of retailing in the economy",
+          "Retail formats and theories of retail evolution (Wheel of Retailing)",
+          "Organized vs unorganized retail in emerging markets",
+          "Multichannel and omnichannel retailing",
+          "Retail customer shopping behavior"
+        ]
+      },
+      {
+        "chapter": "Retail Location and Strategy",
+        "topics": [
+          "Types of retail locations (Malls, High streets, Freestanding)",
+          "Site selection and trade area analysis",
+          "Reilly's Law and Huff's Gravity Model",
+          "Strategic retail planning process",
+          "Building a sustainable competitive advantage"
+        ]
+      },
+      {
+        "chapter": "Merchandise Management",
+        "topics": [
+          "The merchandising process outline",
+          "Assortment planning and category management",
+          "Inventory management and Open-to-Buy systems",
+          "Vendor negotiations and relationships",
+          "Private label strategies"
+        ]
+      },
+      {
+        "chapter": "Retail Pricing and Communication",
+        "topics": [
+          "Retail pricing strategies (EDLP vs High/Low)",
+          "Markups, markdowns, and margin calculations",
+          "Psychological pricing in retail",
+          "Retail marketing mix and store positioning",
+          "In-store promotions and visual merchandising elements"
+        ]
+      },
+      {
+        "chapter": "Store Operations and Technology",
+        "topics": [
+          "Store layout and design principles",
+          "Space management and planograms",
+          "Customer service and retail atmospherics",
+          "Retail technologies (POS, RFID, Beacons)",
+          "E-tailing and future trends in retail"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Digital Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Digital Marketing Ecosystem",
+        "topics": [
+          "Evolution from Web 1.0 to Web 3.0",
+          "Digital marketing strategy framework",
+          "Owned, earned, and paid media",
+          "Customer journey mapping in digital contexts",
+          "Inbound versus Outbound marketing"
+        ]
+      },
+      {
+        "chapter": "Search Engine Marketing",
+        "topics": [
+          "Search Engine Optimization (SEO) fundamentals",
+          "On-page, Off-page, and Technical SEO",
+          "Keyword research and content optimization",
+          "Pay-Per-Click (PPC) advertising logic",
+          "Google Ads structure, bidding, and Quality Score"
+        ]
+      },
+      {
+        "chapter": "Social Media and Content Marketing",
+        "topics": [
+          "Social media strategy for major platforms (Facebook, LinkedIn, Insta)",
+          "Organic versus Paid social media strategies",
+          "Content marketing strategy and formats",
+          "Influencer marketing planning",
+          "Community management and social listening"
+        ]
+      },
+      {
+        "chapter": "Email and Affiliate Marketing",
+        "topics": [
+          "Building and segmenting email lists",
+          "Email campaign design and deliverability",
+          "Marketing automation workflows",
+          "Affiliate marketing models and networks",
+          "Lead nurturing and conversion funnels"
+        ]
+      },
+      {
+        "chapter": "Digital Analytics and Measurement",
+        "topics": [
+          "Key Performance Indicators (KPIs) for digital channels",
+          "Web analytics introduction (Google Analytics 4)",
+          "Conversion tracking and attribution models",
+          "A/B testing and Conversion Rate Optimization (CRO)",
+          "Data privacy (GDPR) and cookies transition"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Customer Relationship Management (CRM)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to CRM",
+        "topics": [
+          "Definition, goals, and evolution of CRM",
+          "Transactional vs Relationship marketing",
+          "The CRM value chain",
+          "Strategic, Operational, and Analytical CRM",
+          "Customer Life Cycle (CLC)"
+        ]
+      },
+      {
+        "chapter": "Customer Value and Satisfaction",
+        "topics": [
+          "Customer Lifetime Value (CLV) calculation",
+          "Customer acquisition, retention, and defection",
+          "Customer loyalty programs and tiering",
+          "Measuring customer satisfaction (CSAT, NPS)",
+          "Managing customer churn"
+        ]
+      },
+      {
+        "chapter": "Operational and Analytical CRM",
+        "topics": [
+          "Sales Force Automation (SFA) logic",
+          "Marketing automation and campaign management",
+          "Customer service and support automation (Ticketing, Chatbots)",
+          "Data warehousing and data mining in CRM",
+          "Predictive modeling for customer behavior"
+        ]
+      },
+      {
+        "chapter": "CRM Implementation Strategy",
+        "topics": [
+          "CRM strategy development process",
+          "Phases of CRM implementation",
+          "Organizational alignment and change management",
+          "Evaluating CRM vendors (Cloud vs On-premise)",
+          "Common reasons for CRM failure"
+        ]
+      },
+      {
+        "chapter": "Future Trends in CRM",
+        "topics": [
+          "Social CRM and community building",
+          "Mobile CRM applications",
+          "AI and Machine Learning applications in CRM",
+          "Big data integration for personalization",
+          "Ethical use of customer data"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "B2B Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of B2B Marketing",
+        "topics": [
+          "Differences between B2B and B2C marketing",
+          "Types of B2B customers and products",
+          "Derived demand and bullwhip effect",
+          "The B2B marketing environment",
+          "Value creation in B2B markets"
+        ]
+      },
+      {
+        "chapter": "Organizational Buying Behavior",
+        "topics": [
+          "The buying center (Initiators, Influencers, Deciders, Buyers, Gatekeepers)",
+          "Buy-grid model (New task, Straight rebuy, Modified rebuy)",
+          "Stages in the organizational buying process",
+          "Evaluating vendor performance",
+          "Role of procurement and e-procurement"
+        ]
+      },
+      {
+        "chapter": "B2B Market Segmentation and Strategy",
+        "topics": [
+          "Macrosegmentation and microsegmentation strategies",
+          "Targeting and positioning in B2B",
+          "B2B branding strategies",
+          "Product portfolio management in B2B",
+          "New product development for industrial markets"
+        ]
+      },
+      {
+        "chapter": "B2B Pricing and Distribution",
+        "topics": [
+          "Pricing strategies (Competitive bidding, Value-based pricing)",
+          "Price negotiation and contracts",
+          "Industrial distribution channels",
+          "Direct vs indirect sales forces",
+          "Managing logistics and supply chains"
+        ]
+      },
+      {
+        "chapter": "B2B Communication and Lead Generation",
+        "topics": [
+          "Role of personal selling in B2B",
+          "Trade shows, exhibitions, and industrial advertising",
+          "Content marketing for B2B (Whitepapers, Webinars)",
+          "Lead generation and lead scoring mechanisms",
+          "Account-Based Marketing (ABM) strategy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to International Marketing",
+        "topics": [
+          "Scope and challenges of international marketing",
+          "EPRG framework (Ethnocentric, Polycentric, Regiocentric, Geocentric)",
+          "Dynamics of global trade (WTO, Trading blocs)",
+          "Cultural environment and Hofstede's dimensions",
+          "Political, legal, and economic environments"
+        ]
+      },
+      {
+        "chapter": "Global Market Entry Strategies",
+        "topics": [
+          "Exporting (Direct and Indirect)",
+          "Licensing and Franchising",
+          "Joint Ventures and Strategic Alliances",
+          "Foreign Direct Investment (Wholly owned subsidiaries)",
+          "Criteria for selecting entry modes"
+        ]
+      },
+      {
+        "chapter": "International Product and Pricing Decisions",
+        "topics": [
+          "Standardization versus adaptation debates",
+          "Global brand architecture and country-of-origin effect",
+          "International product life cycle",
+          "Export pricing strategies and price escalation",
+          "Transfer pricing and dumping considerations"
+        ]
+      },
+      {
+        "chapter": "International Distribution and Promotion",
+        "topics": [
+          "Structure of global distribution channels",
+          "Managing channel intermediaries and logistics cross-borders",
+          "Global advertising strategies and agency selection",
+          "Sales promotion and PR across cultures",
+          "International trade fairs"
+        ]
+      },
+      {
+        "chapter": "Export-Import Management",
+        "topics": [
+          "Export procedures and documentation in India",
+          "Export incentives and promotional councils",
+          "Incoterms 2020 definitions",
+          "Trade finance (Letter of credit, ECGC)",
+          "Customs clearance mechanisms"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Rural Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Rural Markets",
+        "topics": [
+          "Definition, size, and nature of rural markets",
+          "Urban vs Rural marketing environments",
+          "Demographic and socio-cultural characteristics",
+          "Changing profile of the rural consumer",
+          "Infrastructure and connectivity in rural areas"
+        ]
+      },
+      {
+        "chapter": "Rural Consumer Behavior",
+        "topics": [
+          "Factors influencing rural purchasing",
+          "Information search and rural decision making",
+          "Role of opinion leaders and influencers (Sarpanch, Anganwadi)",
+          "Brand loyalty and adoption of innovations",
+          "Income streams and purchase seasonality (Agriculture cycle)"
+        ]
+      },
+      {
+        "chapter": "Rural Marketing Mix: Product and Pricing",
+        "topics": [
+          "Product concepts for rural markets (Utility vs Aesthetics)",
+          "Packaging innovations (Sachets, multi-use packaging)",
+          "Concept of value-for-money in rural pricing",
+          "Psychological pricing for rural consumers",
+          "Credit facilities and installment schemes"
+        ]
+      },
+      {
+        "chapter": "Rural Distribution Strategies",
+        "topics": [
+          "Challenges in rural distribution (Reach and Cost)",
+          "Haats, Melas, and Mandis as distribution hubs",
+          "Public Distribution System (PDS) and Cooperatives",
+          "Hub-and-spoke models and mobile vans",
+          "Role of self-help groups (SHGs) like e-Choupal"
+        ]
+      },
+      {
+        "chapter": "Rural Communication and Promotion",
+        "topics": [
+          "Challenges in rural communication (Literacy, Media reach)",
+          "Traditional media forms (Puppet shows, folk theater)",
+          "Mass media penetration (Radio, TV) in rural areas",
+          "Below-the-line (BTL) activities and experiential marketing",
+          "Role of digital and mobile marketing in rural contexts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Strategic Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Marketing Strategy formulation",
+        "topics": [
+          "Role of marketing in corporate strategy",
+          "Vision, Mission, and competitive advantage review",
+          "Porter's Generic Strategies applications",
+          "Resource-Based View (RBV) of the firm",
+          "Strategic planning frameworks (Ansoff, BCG matrix, GE-McKinsey)"
+        ]
+      },
+      {
+        "chapter": "Analyzing the Environment and Competition",
+        "topics": [
+          "Environmental scanning and foresight",
+          "Competitor identification and intelligence systems",
+          "Analyzing competitors' strategies and objectives",
+          "Blue Ocean vs Red Ocean strategies",
+          "Market challenger, follower, and nicher strategies"
+        ]
+      },
+      {
+        "chapter": "Strategic Positioning and Innovation",
+        "topics": [
+          "Value proposition design",
+          "First-mover advantage vs Later-mover strategies",
+          "Disruptive innovation models",
+          "Platform strategies and two-sided markets",
+          "Co-creation of value with customers"
+        ]
+      },
+      {
+        "chapter": "Marketing Strategy Implementation",
+        "topics": [
+          "Aligning organizational structure with marketing strategy",
+          "Resource allocation processes",
+          "Internal marketing for strategic execution",
+          "Overcoming resistance to strategic change",
+          "Managing strategic alliances and partnerships"
+        ]
+      },
+      {
+        "chapter": "Marketing Metrics and Control",
+        "topics": [
+          "Developing a marketing dashboard",
+          "Customer equity metrics",
+          "Return on Marketing Investment (ROMI)",
+          "Strategic control vs Operational control",
+          "Adapting strategy to continuous market shifts"
+        ]
+      }
+    ]
+  }
+]

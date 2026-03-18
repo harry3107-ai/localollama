@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Financial Accounting and Reporting",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basics of Financial Accounting",
+        "topics": [
+          "Accounting principles, concepts, and conventions",
+          "Double-entry bookkeeping and the accounting equation",
+          "Rules of debit and credit",
+          "Journal, Ledger, and Trial Balance preparation",
+          "Cash book and subsidiary books"
+        ]
+      },
+      {
+        "chapter": "Preparation of Financial Statements",
+        "topics": [
+          "Income statement (Trading and Profit & Loss A/c)",
+          "Statement of Financial Position (Balance Sheet)",
+          "Adjustments in final accounts (Closing stock, Outstanding expenses)",
+          "Depreciation accounting (Straight-line and WDV methods)",
+          "Provisions and reserves"
+        ]
+      },
+      {
+        "chapter": "Corporate Financial Reporting",
+        "topics": [
+          "Understanding an Annual Report",
+          "Director's report and Management Discussion & Analysis (MD&A)",
+          "Statement of Cash Flows (Direct and Indirect methods)",
+          "Corporate governance disclosures",
+          "Notes to accounts and significant accounting policies"
+        ]
+      },
+      {
+        "chapter": "Accounting Standards and IFRS",
+        "topics": [
+          "Indian Accounting Standards (Ind AS) overview",
+          "Convergence of Indian standards with IFRS",
+          "Revenue recognition principles (Ind AS 115)",
+          "Leases (Ind AS 116) and Intangible assets (Ind AS 38)",
+          "Inventory valuation and impairment of assets"
+        ]
+      },
+      {
+        "chapter": "Financial Statement Analysis",
+        "topics": [
+          "Tools of financial analysis: Comparative and Common-size statements",
+          "Trend analysis",
+          "Ratio analysis: Liquidity, Solvency, Turnover, and Profitability ratios",
+          "DuPont analysis framework",
+          "Limitations of financial statement analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Managerial Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Managerial Economics",
+        "topics": [
+          "Nature, scope, and significance of Managerial Economics",
+          "Fundamental economic concepts (Opportunity cost, Marginalism, Equi-marginal principle)",
+          "Theory of the firm: Objectives and constraints",
+          "Role of managerial economists in business",
+          "Optimization techniques for decision making"
+        ]
+      },
+      {
+        "chapter": "Demand and Supply Analysis",
+        "topics": [
+          "Law of Demand and determinants of demand",
+          "Elasticities of demand (Price, Income, Cross) and its applications",
+          "Demand forecasting techniques (Qualitative and Quantitative)",
+          "Law of Supply and market equilibrium",
+          "Impact of taxes and subsidies on equilibrium"
+        ]
+      },
+      {
+        "chapter": "Production and Cost Analysis",
+        "topics": [
+          "Production function: Short-run (Law of variable proportions)",
+          "Long-run production: Returns to scale and isoquants",
+          "Economies and diseconomies of scale",
+          "Cost concepts (Fixed, Variable, Marginal, Sunk, Implicit costs)",
+          "Short-run and long-run cost curves"
+        ]
+      },
+      {
+        "chapter": "Market Structure and Pricing Strategies",
+        "topics": [
+          "Perfect competition: Price and output determination",
+          "Monopoly: Price discrimination and social costs",
+          "Monopolistic competition: Product differentiation and advertising",
+          "Oligopoly: Kinked demand curve and Cartels/Collusion",
+          "Pricing practices (Penetration, Skimming, Peak-load, Transfer pricing)"
+        ]
+      },
+      {
+        "chapter": "Macroeconomic Environment for Business",
+        "topics": [
+          "National Income accounting concepts (GDP, GNP, NNP)",
+          "Business cycles: Phases and characteristics",
+          "Inflation: Causes, effects, and cures",
+          "Monetary and Fiscal policy and their impact on firms",
+          "Balance of Payments (BoP) basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Corporate Finance",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Corporate Finance",
+        "topics": [
+          "Goals of the firm: Profit maximization vs. Wealth maximization",
+          "Agency problem and corporate governance",
+          "Time value of money (Present and Future value)",
+          "Annuities, perpetuities, and compounding frequencies",
+          "Risk and return concepts basics"
+        ]
+      },
+      {
+        "chapter": "Capital Budgeting Decisions",
+        "topics": [
+          "Nature and process of capital budgeting",
+          "Cash flow estimation and relevant cash flows",
+          "Traditional techniques: Payback period and ARR",
+          "Discounted cash flow techniques: NPV, IRR, PI",
+          "Capital rationing and risk analysis in capital budgeting"
+        ]
+      },
+      {
+        "chapter": "Cost of Capital",
+        "topics": [
+          "Concept and significance of cost of capital",
+          "Cost of debt, preference capital, and equity",
+          "CAPM approach vs. Dividend growth model approach",
+          "Weighted Average Cost of Capital (WACC)",
+          "Marginal cost of capital"
+        ]
+      },
+      {
+        "chapter": "Capital Structure and Leverage",
+        "topics": [
+          "Operating, Financial, and Combined Leverage",
+          "Capital structure theories: Net Income, Net Operating Income",
+          "Modigliani-Miller (MM) hypothesis (with and without taxes)",
+          "Trade-off theory and Pecking order theory",
+          "Determinants of an optimal capital structure"
+        ]
+      },
+      {
+        "chapter": "Dividend Policy and Working Capital",
+        "topics": [
+          "Dividend relevance (Walter's model, Gordon's model)",
+          "Dividend irrelevance (MM hypothesis)",
+          "Forms of dividends (Cash, Bonus shares, Stock splits)",
+          "Concepts and components of working capital",
+          "Estimation of working capital requirements and financing strategies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Markets and Institutions",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Overview of Financial System",
+        "topics": [
+          "Structure, functions, and role of the financial system",
+          "Intermediation process and disintermediation",
+          "Financial system and economic development",
+          "Constituents of the Indian Financial System",
+          "Regulatory framework (RBI, SEBI, IRDA, PFRDA)"
+        ]
+      },
+      {
+        "chapter": "Money Market",
+        "topics": [
+          "Features and functions of the money market",
+          "Money market instruments (Treasury Bills, Commercial Papers, CDs)",
+          "Call money market and Repo/Reverse Repo",
+          "Role of RBI in the money market",
+          "Recent trends and reforms in the Indian money market"
+        ]
+      },
+      {
+        "chapter": "Capital Market",
+        "topics": [
+          "Primary market: Public issue, Rights issue, Private placement",
+          "Book building process and role of merchant bankers",
+          "Secondary market (Stock exchanges: BSE, NSE)",
+          "Trading and settlement processes (Clearing corporations, Depositories)",
+          "Stock market indices and their construction"
+        ]
+      },
+      {
+        "chapter": "Banking Institutions",
+        "topics": [
+          "Commercial banking: Functions and credit creation",
+          "Asset Liability Management (ALM) in banks",
+          "Non-Performing Assets (NPAs) and resolution mechanisms (IBC, SARFAESI)",
+          "Basel Accords (I, II, III) and capital adequacy",
+          "Digital banking, Fintech, and payment banks"
+        ]
+      },
+      {
+        "chapter": "Non-Banking Financial Institutions",
+        "topics": [
+          "Role and regulation of Non-Banking Financial Companies (NBFCs)",
+          "Mutual funds: Operations, schemes, and NAV calculation",
+          "Insurance companies: Life and non-life insurance",
+          "Pension funds and provident funds",
+          "Microfinance institutions (MFIs)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Investment Analysis and Portfolio Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Investments",
+        "topics": [
+          "Investment process and objectives",
+          "Asset classes and financial instruments",
+          "Risk and return calculation for single asset",
+          "Types of risk: Systematic versus Unsystematic",
+          "Efficient Market Hypothesis (Weak, Semi-strong, Strong form)"
+        ]
+      },
+      {
+        "chapter": "Security Analysis",
+        "topics": [
+          "Fundamental Analysis: EIC framework (Economy, Industry, Company)",
+          "Macroeconomic indicators and industry life cycle",
+          "Company analysis using financial statements",
+          "Technical Analysis: Assumptions, charts, and patterns",
+          "Technical indicators (Moving averages, RSI, MACD)"
+        ]
+      },
+      {
+        "chapter": "Portfolio Theory",
+        "topics": [
+          "Markowitz portfolio selection model",
+          "Portfolio expected return and standard deviation",
+          "Covariance, correlation, and diversification",
+          "The Efficient Frontier and the optimal portfolio",
+          "Capital Market Line (CML)"
+        ]
+      },
+      {
+        "chapter": "Asset Pricing Models",
+        "topics": [
+          "Capital Asset Pricing Model (CAPM) assumptions and formula",
+          "Security Market Line (SML) and Beta estimation",
+          "Arbitrage Pricing Theory (APT)",
+          "Multi-factor models (Fama-French three-factor model)",
+          "Empirical tests of CAPM and anomalies"
+        ]
+      },
+      {
+        "chapter": "Portfolio Evaluation and Revision",
+        "topics": [
+          "Performance evaluation measures (Sharpe, Treynor, Jensen's Alpha)",
+          "Information ratio and Sortino ratio",
+          "Active versus passive portfolio management",
+          "Portfolio revision techniques (Formula plans, Constant dollar value)",
+          "Mutual fund performance evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Derivatives and Risk Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Derivatives",
+        "topics": [
+          "Definition, types, and functions of derivatives",
+          "Participants: Hedgers, Speculators, Arbitrageurs",
+          "Evolution and growth of derivative markets",
+          "Over-the-Counter (OTC) versus Exchange-Traded markets",
+          "Underlying assets (Commodities, Equities, Interest rates, Currencies)"
+        ]
+      },
+      {
+        "chapter": "Forwards and Futures",
+        "topics": [
+          "Features of forward contracts and their limitations",
+          "Mechanics of futures markets and margin requirements",
+          "Marking to market and clearinghouse operations",
+          "Pricing of forwards and futures (Cost of Carry model)",
+          "Hedging strategies using futures (Cross-hedging, Hedge ratio)"
+        ]
+      },
+      {
+        "chapter": "Options Contracts",
+        "topics": [
+          "Call and Put options, European vs. American options",
+          "Moneyness of an option (ITM, ATM, OTM)",
+          "Payoff profiles of options at expiration",
+          "Option trading strategies (Spreads, Straddles, Strangles)",
+          "Put-Call Parity theorem"
+        ]
+      },
+      {
+        "chapter": "Option Pricing and Greeks",
+        "topics": [
+          "Factors affecting option prices",
+          "Binomial option pricing model (Single and Multi-period)",
+          "Black-Scholes-Merton (BSM) model assumptions and formula",
+          "Implied volatility",
+          "The Option Greeks (Delta, Gamma, Theta, Vega, Rho)"
+        ]
+      },
+      {
+        "chapter": "Swaps and Risk Management",
+        "topics": [
+          "Mechanics of Interest Rate Swaps (IRS)",
+          "Currency swaps and their valuation basics",
+          "Credit Default Swaps (CDS) and credit risk",
+          "Value at Risk (VaR): Concept, calculation methods",
+          "Stress testing and scenario analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Financial Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "International Financial Environment",
+        "topics": [
+          "Globalization and the multinational corporation (MNC)",
+          "International Monetary System evolution (Gold Standard to Bretton Woods)",
+          "Balance of Payments (BoP) accounting and components",
+          "Current account deficit and foreign exchange reserves",
+          "Role of IMF, World Bank, and WTO"
+        ]
+      },
+      {
+        "chapter": "Foreign Exchange Market",
+        "topics": [
+          "Structure and participants of the FOREX market",
+          "Spot and forward exchange rates, Cross rates",
+          "Bid-ask spreads and arbitrage (Two-point, Triangular)",
+          "Exchange rate determination theories",
+          "Purchasing Power Parity (PPP) and Interest Rate Parity (IRP)"
+        ]
+      },
+      {
+        "chapter": "Foreign Exchange Risk Management",
+        "topics": [
+          "Transaction exposure measurement and management",
+          "Hedging using forwards, futures, and options",
+          "Money market hedge",
+          "Translation exposure (Current rate method vs. Temporal method)",
+          "Economic (Operating) exposure measurement and mitigation"
+        ]
+      },
+      {
+        "chapter": "International Capital Budgeting",
+        "topics": [
+          "Complexities in cross-border capital budgeting",
+          "Parent cash flows vs. Project cash flows",
+          "Adjusting for foreign inflation and exchange rate forecasts",
+          "Political risk and country risk analysis",
+          "Cost of capital for MNCs"
+        ]
+      },
+      {
+        "chapter": "International Working Capital",
+        "topics": [
+          "Global cash management and netting systems",
+          "International receivables management",
+          "Inventory management across borders",
+          "Short-term financing options (Eurocurrency markets)",
+          "Trade finance: Letters of Credit, Forfaiting, and Factoring"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Strategic Financial Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Strategic Decision Making",
+        "topics": [
+          "Interface of financial policy and strategic management",
+          "Corporate strategy and value creation",
+          "Financial goals and corporate strategy alignment",
+          "Strategic planning process",
+          "Evaluating strategic alternatives using financial models"
+        ]
+      },
+      {
+        "chapter": "Value Based Management",
+        "topics": [
+          "Shareholder Value Analysis (SVA)",
+          "Economic Value Added (EVA) and Market Value Added (MVA)",
+          "Cash Flow Return on Investment (CFROI)",
+          "Balanced Scorecard and performance measurement",
+          "Aligning executive compensation with value creation"
+        ]
+      },
+      {
+        "chapter": "Strategic Cost Management",
+        "topics": [
+          "Activity-Based Costing (ABC) and management",
+          "Target costing and life cycle costing",
+          "Value chain analysis for competitive advantage",
+          "Total Quality Management (TQM) financial implications",
+          "Business Process Reengineering (BPR)"
+        ]
+      },
+      {
+        "chapter": "Corporate Restructuring Strategies",
+        "topics": [
+          "Financial restructuring (Equity and Debt)",
+          "Spin-offs, split-offs, and carve-outs",
+          "Leveraged Buyouts (LBOs) and Management Buyouts (MBOs)",
+          "Divestitures and asset sales",
+          "Distress prediction (Altman Z-score) and turnaround strategies"
+        ]
+      },
+      {
+        "chapter": "Emerging Strategic Finance Issues",
+        "topics": [
+          "Real options in capital budgeting (Option to expand, abandon, delay)",
+          "Start-up valuation contexts",
+          "ESG (Environmental, Social, Governance) and financial strategy",
+          "Impact of digitalization on financial strategies",
+          "Enterprise Risk Management (ERM) frameworks"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Fixed Income Securities",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Fixed Income Markets",
+        "topics": [
+          "Features of debt instruments (Maturity, Par value, Coupon rate)",
+          "Types of bonds: Government, Corporate, Municipal, Sovereign",
+          "Zero-coupon bonds, floating rate notes, and inflation-indexed bonds",
+          "Primary and secondary markets for bonds",
+          "Role of credit rating agencies"
+        ]
+      },
+      {
+        "chapter": "Bond Yields and Valuation",
+        "topics": [
+          "Time value of money for bonds",
+          "Current yield, Yield to Maturity (YTM), and Yield to Call (YTC)",
+          "Bond pricing principles and theorems",
+          "Price-yield relationship (Convex curve)",
+          "Realized compound yield"
+        ]
+      },
+      {
+        "chapter": "Term Structure of Interest Rates",
+        "topics": [
+          "The yield curve and its shapes",
+          "Spot rates and forward rates",
+          "Theories of term structure: Pure Expectations, Liquidity Preference",
+          "Market Segmentation and Preferred Habitat theories",
+          "Bootstrapping the yield curve"
+        ]
+      },
+      {
+        "chapter": "Interest Rate Risk Management",
+        "topics": [
+          "Macaulay Duration and Modified Duration",
+          "Properties of duration and its use in hedging",
+          "Convexity and price change approximations",
+          "Immunization of bond portfolios",
+          "Asset-Liability Management (ALM) using duration matching"
+        ]
+      },
+      {
+        "chapter": "Advanced Fixed Income Products",
+        "topics": [
+          "Mortgage-Backed Securities (MBS) features",
+          "Prepayment risk and Single Monthly Mortality (SMM)",
+          "Collateralized Debt Obligations (CDOs)",
+          "Asset-Backed Securities (ABS)",
+          "High-yield (junk) bonds and sovereign debt crises"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mergers, Acquisitions, and Corporate Restructuring",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to M&A",
+        "topics": [
+          "Types of M&A: Horizontal, Vertical, Conglomerate",
+          "Motives for M&A (Synergy, Growth, Taxation, Diversification)",
+          "The M&A lifecycle: Strategy, Target screening, Execution, Integration",
+          "Friendly versus hostile takeovers",
+          "Reasons for M&A failures"
+        ]
+      },
+      {
+        "chapter": "M&A Valuation",
+        "topics": [
+          "Relative valuation techniques (P/E, EV/EBITDA multiples)",
+          "Discounted Cash Flow (DCF) valuation for targets",
+          "Valuation of synergies",
+          "Exchange ratio determination in stock swaps",
+          "Premium paid analysis and accretion/dilution"
+        ]
+      },
+      {
+        "chapter": "Takeover Defenses and Deal Structuring",
+        "topics": [
+          "Pre-bid defenses: Poison pills, Staggered boards, Golden parachutes",
+          "Post-bid defenses: White knight, Pac-Man, Crown jewel",
+          "Legal and tax implications of deal structuring",
+          "Cash vs Stock considerations",
+          "Role of investment banks in M&A"
+        ]
+      },
+      {
+        "chapter": "Post-Merger Integration",
+        "topics": [
+          "Integration planning and execution phases",
+          "Cultural integration and human resource issues",
+          "IT and operational consolidation",
+          "Measuring integration success",
+          "Communication strategies during transitions"
+        ]
+      },
+      {
+        "chapter": "Regulatory Framework in India",
+        "topics": [
+          "SEBI (Substantial Acquisition of Shares and Takeovers) Regulations",
+          "Open offer requirements and triggers",
+          "Role of Competition Commission of India (CCI)",
+          "Provisions of the Companies Act 2013 regarding amalgamations",
+          "FEMA guidelines for cross-border M&A"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Behavioral Finance",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of Behavioral Finance",
+        "topics": [
+          "Standard Finance vs Behavioral Finance",
+          "Rationality and Homo Economicus",
+          "Limits to Arbitrage (Fundamental risk, Noise trader risk)",
+          "Prospect Theory (Kahneman and Tversky) vs Expected Utility Theory",
+          "Loss aversion and the value function"
+        ]
+      },
+      {
+        "chapter": "Cognitive Biases and Heuristics",
+        "topics": [
+          "System 1 and System 2 thinking",
+          "Representativeness heuristic (conjunction fallacy, sample size neglect)",
+          "Availability heuristic and recency bias",
+          "Anchoring and adjustment",
+          "Confirmation bias and hindsight bias"
+        ]
+      },
+      {
+        "chapter": "Emotional Biases in Investing",
+        "topics": [
+          "Overconfidence and illusion of control",
+          "Endowment effect and status quo bias",
+          "Regret aversion and the disposition effect",
+          "Mental accounting",
+          "Herd behavior and social contagion"
+        ]
+      },
+      {
+        "chapter": "Behavioral Corporate Finance",
+        "topics": [
+          "Managerial overconfidence and corporate decisions",
+          "Behavioral aspects of capital structure and dividend policy",
+          "M&A decisions under behavioral biases (Hubris hypothesis)",
+          "Earnings management and catering theory",
+          "Market timing by corporate executives"
+        ]
+      },
+      {
+        "chapter": "Market Anomalies and Behavioral Investing",
+        "topics": [
+          "Calendar anomalies (January effect, Weekend effect)",
+          "Momentum and reversal effects",
+          "Value vs Growth anomaly",
+          "Behavioral portfolio theory (BPT)",
+          "Strategies to overcome behavioral biases for investors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Private Equity and Venture Capital",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to PE and VC",
+        "topics": [
+          "Ecosystem of Private Equity and Venture Capital",
+          "Differences between PE, VC, Angel Investors, and Seed Funds",
+          "Structure of a PE/VC Fund (GPs and LPs)",
+          "Fund life cycle: Fundraising, Investing, Managing, Exiting",
+          "Fee structures (Management fee and Carried interest)"
+        ]
+      },
+      {
+        "chapter": "Deal Sourcing and Screening",
+        "topics": [
+          "Deal origination and filtering process",
+          "Evaluating the business plan and management team",
+          "Market sizing (TAM, SAM, SOM) and competitive analysis",
+          "The term sheet: Key financial and control clauses",
+          "Due diligence process (Financial, Legal, Commercial)"
+        ]
+      },
+      {
+        "chapter": "Venture Capital Valuation and Deal Structuring",
+        "topics": [
+          "VC Method of valuation",
+          "Pre-money and post-money valuation",
+          "Cap tables and dilution calculations",
+          "Convertible preferred stock, participating preference",
+          "Anti-dilution provisions (Full ratchet, Weighted average)"
+        ]
+      },
+      {
+        "chapter": "Buyouts and PE Value Creation",
+        "topics": [
+          "Mechanics of Leveraged Buyouts (LBOs)",
+          "LBO modeling fundamentals",
+          "Sources of value creation in PE (Financial engineering, Operational improvements)",
+          "Debt structuring (Senior, Mezzanine, High Yield)",
+          "Monitoring portfolio companies"
+        ]
+      },
+      {
+        "chapter": "Exit Strategies and Performance",
+        "topics": [
+          "Routes of exit: IPOs, Trade Sales (M&A), Secondary Buyouts",
+          "Timing the exit and market conditions",
+          "Measuring fund performance: IRR versus Multiple of Money (MoIC)",
+          "J-Curve effect in private equity",
+          "Regulatory environment for AIFs in India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Modeling and Valuation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Excel for Financial Modeling",
+        "topics": [
+          "Best practices in spreadsheet modeling",
+          "Advanced Excel functions (INDEX, MATCH, OFFSET, INDIRECT)",
+          "Data tables, goal seek, and scenario manager",
+          "Error checking and circular references",
+          "Formatting and structural guidelines for models"
+        ]
+      },
+      {
+        "chapter": "Building Financial Statements",
+        "topics": [
+          "Historical data analysis and common sizing",
+          "Revenue forecasting approaches",
+          "Projecting operating expenses and working capital",
+          "Building PP&E schedules and depreciation modeling",
+          "Debt schedules, interest loops, and balancing the balance sheet"
+        ]
+      },
+      {
+        "chapter": "DCF Valuation Modeling",
+        "topics": [
+          "Calculating Free Cash Flow to Firm (FCFF) and Equity (FCFE)",
+          "Estimating the discount rate (WACC)",
+          "Terminal value calculations (Perpetuity growth and exit multiple)",
+          "Discounting mid-year versus end-of-year conventions",
+          "Sensitivity and scenario analysis on DCF outcomes"
+        ]
+      },
+      {
+        "chapter": "Relative Valuation Models",
+        "topics": [
+          "Selecting comparable public companies (Trading Comps)",
+          "Selecting precedent transactions (Transaction Comps)",
+          "Spreading financials and calculating multiples (EV/EBITDA, P/E, P/B)",
+          "Adjusting for non-recurring items and normalization",
+          "Football field chart creation for valuation synthesis"
+        ]
+      },
+      {
+        "chapter": "Specialized Modeling Scenarios",
+        "topics": [
+          "LBO modeling basics (Sources and uses, IRR calculation)",
+          "M&A accretion/dilution modeling",
+          "Project finance modeling (Cash flow waterfalls)",
+          "Valuation of startups and high-growth companies",
+          "Sum-of-the-parts (SOTP) valuation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Wealth Management and Alternative Investments",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Wealth Management",
+        "topics": [
+          "Concept and scope of wealth management",
+          "Role of a wealth manager and fiduciary duty",
+          "Client profiling: Risk appetite, return expectations, liquidity needs",
+          "Life cycle hypothesis and financial planning",
+          "Asset allocation strategies (Strategic, Tactical, Dynamic)"
+        ]
+      },
+      {
+        "chapter": "Investment Products in Wealth Management",
+        "topics": [
+          "Mutual funds (Equity, Debt, Hybrid) and ETF investing",
+          "Direct equity and fixed income products",
+          "Insurance products (Life, Health) in financial planning",
+          "Annuities and retirement planning tools (NPS, EPF)",
+          "Structured products design and payoffs"
+        ]
+      },
+      {
+        "chapter": "Real Estate and Commodities",
+        "topics": [
+          "Real estate as an asset class (Residential, Commercial)",
+          "Real Estate Investment Trusts (REITs) and InVITs",
+          "Commodity markets (Gold, Silver, Energy)",
+          "Investing in commodities via physical, ETFs, and futures",
+          "Role of real assets in inflation hedging"
+        ]
+      },
+      {
+        "chapter": "Hedge Funds and Alternative Strategies",
+        "topics": [
+          "Characteristics and structure of hedge funds",
+          "Hedge fund strategies (Long/short equity, Event-driven, Global macro)",
+          "Performance fees, high-water marks, and hurdle rates",
+          "Art, wine, and collectibles as investments",
+          "Cryptocurrencies and digital assets assessment"
+        ]
+      },
+      {
+        "chapter": "Taxation and Estate Planning",
+        "topics": [
+          "Tax implications of various investment avenues in India",
+          "Capital gains tax (Short term and Long term)",
+          "Tax saving instruments (Section 80C, 80D)",
+          "Concept of Estate Planning: Wills, Trusts, and Hindu Undivided Family (HUF)",
+          "Succession planning for HNIs and family businesses"
+        ]
+      }
+    ]
+  }
+]

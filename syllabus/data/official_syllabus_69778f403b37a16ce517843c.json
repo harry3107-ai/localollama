@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Human Resource Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to HRM",
+        "topics": [
+          "Concept, scope, and evolution of HRM",
+          "Functions of HRM (Managerial and Operative)",
+          "Role and competencies of HR managers",
+          "HR policies and their significance",
+          "Impact of technology and globalization on HRM"
+        ]
+      },
+      {
+        "chapter": "Job Analysis and Design",
+        "topics": [
+          "Concept and process of Job Analysis",
+          "Methods of collecting Job Analysis data",
+          "Job Description and Job Specification preparation",
+          "Job Design approaches (Enlargement, Enrichment, Rotation)",
+          "Ergonomics and Job Characteristics Model"
+        ]
+      },
+      {
+        "chapter": "Recruitment and Selection",
+        "topics": [
+          "Recruitment process and yielding ratios",
+          "Internal and external sources of recruitment",
+          "Modern recruitment methods (E-recruitment, social media)",
+          "Selection process steps and types of employment tests",
+          "Interviewing techniques and selection biases"
+        ]
+      },
+      {
+        "chapter": "Induction and Onboarding",
+        "topics": [
+          "Meaning, objectives, and benefits of orientation",
+          "Designing an effective induction program",
+          "Socialization process in organizations",
+          "Role of line managers in onboarding",
+          "Evaluating the effectiveness of induction programs"
+        ]
+      },
+      {
+        "chapter": "Foundations of Performance and Compensation",
+        "topics": [
+          "Basic concepts of Performance Appraisal",
+          "Uses of performance appraisal data",
+          "Concept of wages and salary administration",
+          "Factors influencing compensation levels",
+          "Fringe benefits and employee welfare introduction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Organizational Behavior",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of Organizational Behavior",
+        "topics": [
+          "Definition, scope, and disciplines contributing to OB",
+          "Models of Organizational Behavior (Autocratic, Custodial, Supportive, Collegial)",
+          "Challenges and opportunities for OB",
+          "The Hawthorne studies and human relations movement",
+          "Systems and contingency approaches to OB"
+        ]
+      },
+      {
+        "chapter": "Individual Behavior and Processes",
+        "topics": [
+          "Personality determinants and traits (Big Five, MBTI)",
+          "Perceptual process and perceptual errors (Halo effect, Stereotyping)",
+          "Learning theories (Classical, Operant, Social learning)",
+          "Attitudes components and cognitive dissonance",
+          "Values, ethics, and emotions in the workplace"
+        ]
+      },
+      {
+        "chapter": "Motivation at Work",
+        "topics": [
+          "Early theories of motivation (Hierarchy of Needs, Theory X and Y, Two-Factor theory)",
+          "Contemporary theories (ERG theory, McClelland's theory of needs)",
+          "Process theories (Equity theory, Expectancy theory, Goal-setting theory)",
+          "Job redesign and alternative work arrangements",
+          "Employee involvement and motivation applications"
+        ]
+      },
+      {
+        "chapter": "Group Behavior and Team Dynamics",
+        "topics": [
+          "Foundations of group behavior and stages of group development",
+          "Group properties (Roles, Norms, Status, Size, Cohesiveness)",
+          "Group decision making vs individual decision making",
+          "Differences between groups and teams",
+          "Creating effective teams and types of teams"
+        ]
+      },
+      {
+        "chapter": "Leadership and Power",
+        "topics": [
+          "Trait and behavioral theories of leadership",
+          "Contingency theories (Fiedler model, Situational Leadership, Path-Goal theory)",
+          "Transformational vs Transactional leadership",
+          "Bases of power and power tactics",
+          "Organizational politics and impression management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Human Resource Planning and Development",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Human Resource Planning (HRP)",
+        "topics": [
+          "Concept, objectives, and importance of HRP",
+          "HRP process at macro and micro levels",
+          "Linkage of HRP with strategic planning",
+          "Barriers to effective HRP",
+          "Information requirements for HRP (HRIS)"
+        ]
+      },
+      {
+        "chapter": "Demand and Supply Forecasting",
+        "topics": [
+          "Techniques of HR demand forecasting (Managerial judgment, Delphi, Trend analysis)",
+          "Workforce analysis and workload analysis",
+          "Techniques of HR supply forecasting (Skills inventory, Replacement charts)",
+          "Markov analysis for supply forecasting",
+          "Action plans for surplus and shortage of manpower"
+        ]
+      },
+      {
+        "chapter": "Human Resource Development (HRD)",
+        "topics": [
+          "Concept, philosophy, and evolution of HRD",
+          "HRD vs HRM differences",
+          "HRD mechanisms/sub-systems",
+          "Role of line managers and HRD managers",
+          "Designing HRD climate and culture"
+        ]
+      },
+      {
+        "chapter": "Career Management",
+        "topics": [
+          "Career planning concepts and objectives",
+          "Career stages and career anchors (Schein's model)",
+          "Organizational vs Individual career planning",
+          "Career development initiatives and counseling",
+          "Managing dual-career couples and mid-career crisis"
+        ]
+      },
+      {
+        "chapter": "Succession Management",
+        "topics": [
+          "Concept and importance of succession planning",
+          "Difference between replacement planning and succession planning",
+          "Process of building a succession pipeline",
+          "Identifying high-potential employees (HiPos)",
+          "Challenges in succession management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Performance Management Systems",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Performance Management",
+        "topics": [
+          "Performance Management vs Performance Appraisal",
+          "Aims and role of Performance Management Systems (PMS)",
+          "The Performance Management cycle",
+          "Prerequisites for a successful PMS",
+          "Linkage of PMS with other HR functions"
+        ]
+      },
+      {
+        "chapter": "Performance Planning and Execution",
+        "topics": [
+          "Goal setting theories and SMART objectives",
+          "Key Result Areas (KRAs) and Key Performance Indicators (KPIs)",
+          "Competency mapping and role clarity",
+          "Performance execution and line manager responsibilities",
+          "Continuous feedback and coaching"
+        ]
+      },
+      {
+        "chapter": "Performance Assessment Methods",
+        "topics": [
+          "Traditional methods of appraisal (Graphic rating, Ranking, Forced distribution)",
+          "Modern methods (MBO, BARS, Assessment Centers)",
+          "360-degree feedback: Process and implementation",
+          "Self-appraisal and peer appraisal",
+          "Rating errors and ways to overcome them"
+        ]
+      },
+      {
+        "chapter": "Performance Review and Counseling",
+        "topics": [
+          "Conducting effective performance review discussions",
+          "Skills required for performance counseling",
+          "Addressing poor performance (PIPs)",
+          "Managing high performers",
+          "Legal and ethical issues in performance appraisal"
+        ]
+      },
+      {
+        "chapter": "Reward linkages and Evaluation of PMS",
+        "topics": [
+          "Linking performance to pay and rewards",
+          "Pay-for-Performance systems",
+          "Evaluating the effectiveness of PMS",
+          "Role of organizational culture in PMS",
+          "Impact of technology on performance management (E-PMS)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Compensation and Reward Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of Compensation",
+        "topics": [
+          "Concept, objectives, and components of compensation",
+          "Theories of wages (Subsistence, Standard of Living, Marginal Productivity)",
+          "Internal and external equity in compensation",
+          "Role of Compensation in shaping employee behavior",
+          "Legal framework of wage determination (Minimum Wages Act, Payment of Wages Act)"
+        ]
+      },
+      {
+        "chapter": "Job Evaluation and Wage Structure",
+        "topics": [
+          "Concept and importance of Job Evaluation",
+          "Non-analytical methods (Ranking, Job Classification)",
+          "Analytical methods (Point factor, Factor comparison)",
+          "Designing pay structures and pay grades",
+          "Broadbanding concept and application"
+        ]
+      },
+      {
+        "chapter": "Variable Pay and Incentives",
+        "topics": [
+          "Concept of pay-for-performance and variable pay",
+          "Individual incentive plans (Piece rate, Halsey, Rowan, Taylor)",
+          "Group and organizational incentive plans (Gain sharing, Profit sharing, ESOPs)",
+          "Sales compensation structures",
+          "Executive compensation components and design"
+        ]
+      },
+      {
+        "chapter": "Benefits and Services",
+        "topics": [
+          "Meaning, objectives, and classification of employee benefits",
+          "Statutory benefits in India (PF, ESI, Gratuity, Maternity)",
+          "Voluntary/Discretionary benefits",
+          "Flexible benefit plans (Cafeteria approach)",
+          "Cost containment strategies for benefits"
+        ]
+      },
+      {
+        "chapter": "Strategic Compensation Management",
+        "topics": [
+          "Aligning compensation with business strategy",
+          "Total Rewards philosophy and components",
+          "Expatriate compensation approaches (Balance sheet approach)",
+          "Compensation surveys and market benchmarking",
+          "Recent trends in reward management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Strategic Human Resource Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to SHRM",
+        "topics": [
+          "Concept, evolution, and significance of SHRM",
+          "Traditional HRM vs Strategic HRM",
+          "Theoretical perspectives of SHRM (Universalistic, Contingency, Configurational)",
+          "Resource-Based View (RBV) of the firm and human capital",
+          "HR as a strategic partner"
+        ]
+      },
+      {
+        "chapter": "Aligning HR with Business Strategy",
+        "topics": [
+          "Porter's generic strategies and HR implications",
+          "Miles and Snow's strategic typology and HR",
+          "Vertical fit (Linkage with strategy) and Horizontal fit (Internal alignment)",
+          "Formulating HR strategy",
+          "The HR value chain framework"
+        ]
+      },
+      {
+        "chapter": "Strategic HR Planning and Staffing",
+        "topics": [
+          "Strategic workforce planning processes",
+          "Employer branding and strategic recruitment",
+          "Selection for person-organization fit",
+          "Strategic retention of critical talent",
+          "Flexible workforce arrangements and outsourcing"
+        ]
+      },
+      {
+        "chapter": "Strategic Training and Performance",
+        "topics": [
+          "Creating a learning organization",
+          "Strategic investments in training and development",
+          "Linking performance management to organizational strategy",
+          "Strategic compensation design for competitive advantage",
+          "Knowledge management and HR"
+        ]
+      },
+      {
+        "chapter": "Measuring HR Effectiveness",
+        "topics": [
+          "HR metrics and benchmarking",
+          "Evaluating HR functions (HR Audit)",
+          "Return on Investment (ROI) in HR interventions",
+          "The HR Scorecard approach (Becker, Huselid, Ulrich)",
+          "Balanced Scorecard and HR perspective"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Industrial Relations and Labor Laws",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Framework of Industrial Relations",
+        "topics": [
+          "Concept, scope, and objectives of Industrial Relations (IR)",
+          "Approaches to IR (Unitary, Pluralistic, Marxist)",
+          "Actors in Industrial Relations (Workers, Management, Government)",
+          "Evolution of IR in India",
+          "Impact of globalization and economic reforms on IR"
+        ]
+      },
+      {
+        "chapter": "Trade Unions and Collective Bargaining",
+        "topics": [
+          "Trade Unionism: Concept, functions, and structure",
+          "Trade Unions Act, 1926: Registration and rights",
+          "Multiplicity of unions, political affiliation, and inter-union rivalry",
+          "Concept, characteristics, and process of Collective Bargaining",
+          "Conditions for successful collective bargaining"
+        ]
+      },
+      {
+        "chapter": "Industrial Disputes and Resolution",
+        "topics": [
+          "Causes and manifestations of industrial disputes (Strikes, Lockouts, Gherao)",
+          "Machinery for prevention and settlement of disputes",
+          "Bipartite and Tripartite bodies",
+          "Conciliation, Arbitration, and Adjudication processes",
+          "Industrial Employment (Standing Orders) Act, 1946"
+        ]
+      },
+      {
+        "chapter": "Workers Participation and Discipline",
+        "topics": [
+          "Concept and forms of Workers Participation in Management (WPM)",
+          "Works Committees, Joint Management Councils, Quality Circles",
+          "Grievance handling procedure",
+          "Disciplinary action and domestic enquiry process",
+          "Principles of natural justice"
+        ]
+      },
+      {
+        "chapter": "Labor Legislation in India",
+        "topics": [
+          "Factories Act, 1948: Health, safety, and welfare provisions",
+          "Industrial Disputes Act, 1947: Key provisions",
+          "Social Security legislation (EPF Act, ESI Act, Workmen's Compensation Act)",
+          "Maternity Benefit Act and Payment of Gratuity Act",
+          "Overview of the New Labor Codes in India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Training and Development",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Overview of Training",
+        "topics": [
+          "Concepts: Training vs Development vs Education",
+          "Significance and benefits of training",
+          "The ADDIE model of training formulation",
+          "Systematic approach to training (SAT)",
+          "Adult learning principles (Andragogy)"
+        ]
+      },
+      {
+        "chapter": "Training Needs Analysis (TNA)",
+        "topics": [
+          "Objectives and importance of TNA",
+          "Organizational analysis for TNA",
+          "Task/Operations analysis",
+          "Person/Individual analysis",
+          "Methods and tools for gathering TNA data"
+        ]
+      },
+      {
+        "chapter": "Designing and Delivering Training",
+        "topics": [
+          "Setting training objectives",
+          "Developing training content and choosing trainers",
+          "On-the-job training methods (Mentoring, Coaching, Apprenticeship)",
+          "Off-the-job training methods (Role plays, Case studies, Simulations)",
+          "E-learning, blended learning, and gamification"
+        ]
+      },
+      {
+        "chapter": "Management Development Programs (MDP)",
+        "topics": [
+          "Objectives and scope of management development",
+          "Methods of executive development",
+          "Action learning and sensitivity training (T-groups)",
+          "In-basket exercises and business games",
+          "Leadership development pipelines"
+        ]
+      },
+      {
+        "chapter": "Evaluation of Training",
+        "topics": [
+          "Purpose and importance of training evaluation",
+          "Kirkpatrick's Four-Level evaluation model",
+          "Phillips ROI model",
+          "Pre-test and Post-test evaluation designs",
+          "Overcoming challenges in training evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Human Resource Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to IHRM",
+        "topics": [
+          "Definition, characteristics, and complexities of IHRM",
+          "Differences between domestic HRM and IHRM",
+          "EPRG model (Ethnocentric, Polycentric, Regiocentric, Geocentric approaches)",
+          "Impact of cultural environment on IHRM",
+          "Hofstede's dimensions of national culture"
+        ]
+      },
+      {
+        "chapter": "Global Staffing",
+        "topics": [
+          "Types of international employees (PCNs, HCNs, TCNs)",
+          "Advantages and disadvantages of various staffing approaches",
+          "Recruitment and selection criteria for international assignments",
+          "The role of expatriates and non-expatriates",
+          "Dual career couples and female expatriates"
+        ]
+      },
+      {
+        "chapter": "Training and Performance in IHRM",
+        "topics": [
+          "Cross-cultural training models and phases",
+          "Pre-departure training components",
+          "Performance management for expatriates",
+          "Variables affecting expatriate performance",
+          "Challenges in evaluating international assignees"
+        ]
+      },
+      {
+        "chapter": "International Compensation and Repatriation",
+        "topics": [
+          "Approaches to international compensation (Going rate, Balance sheet)",
+          "Components of expatriate compensation (Hardship allowance, COLA)",
+          "Tax equalization and protection",
+          "The repatriation process and challenges",
+          "Managing repatriate attrition and knowledge transfer"
+        ]
+      },
+      {
+        "chapter": "Global Industrial Relations",
+        "topics": [
+          "Trade unions and international labor relations",
+          "International Labor Organization (ILO) standards",
+          "Responses of trade unions to multinationals",
+          "Offshoring and managing global teams",
+          "Ethical issues and social responsibility in IHRM"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Organizational Change and Development",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of Organizational Change",
+        "topics": [
+          "Forces for change (Internal and External)",
+          "Types of change (Planned, Unplanned, Incremental, Transformational)",
+          "Lewin's Three-Step Model of Change",
+          "Kotter's Eight-Step Plan for Implementing Change",
+          "Action Research model"
+        ]
+      },
+      {
+        "chapter": "Managing Change",
+        "topics": [
+          "Sources of resistance to change (Individual and Organizational)",
+          "Overcoming resistance to change",
+          "Role of change agents",
+          "Communication strategies during change",
+          "Politics of change"
+        ]
+      },
+      {
+        "chapter": "Organizational Development (OD) Concepts",
+        "topics": [
+          "Definition, characteristics, and history of OD",
+          "Underlying assumptions and values of OD",
+          "The OD process phases",
+          "Systems theory and OD alignment",
+          "Action Learning and Appreciative Inquiry models"
+        ]
+      },
+      {
+        "chapter": "OD Interventions: Individual and Team",
+        "topics": [
+          "Concept and classification of OD interventions",
+          "Human process interventions (T-groups, Process consultation)",
+          "Third-party peacemaking interventions",
+          "Team building interventions",
+          "Technostructural interventions (Job enrichment, Quality circles)"
+        ]
+      },
+      {
+        "chapter": "OD Interventions: Organizational and Future",
+        "topics": [
+          "Strategic interventions (Cultural change, Strategic change)",
+          "Organizational restructuring and downsizing",
+          "Evaluating OD interventions",
+          "Future trends in OD",
+          "Ethical issues in OD consulting"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "HR Analytics and Metrics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to HR Analytics",
+        "topics": [
+          "Evolution from HR measurement to HR analytics",
+          "Importance and business case for HR analytics",
+          "Descriptive, Predictive, and Prescriptive analytics in HR",
+          "The LAMP framework (Logic, Analytics, Measures, Process)",
+          "Role of data-driven decision making in HR"
+        ]
+      },
+      {
+        "chapter": "Data Management in HR",
+        "topics": [
+          "Human Resource Information Systems (HRIS)",
+          "HR data sources and data architecture",
+          "Data cleaning, validity, and reliability",
+          "Data privacy, security, and ethical considerations",
+          "Tools used in HR analytics (Excel, Tableau, Python/R basics)"
+        ]
+      },
+      {
+        "chapter": "Core HR Metrics",
+        "topics": [
+          "Recruitment metrics (Time to fill, Cost per hire, Quality of hire)",
+          "Turnover and retention metrics",
+          "Training and development metrics (Training ROI, completion rates)",
+          "Compensation and benefits metrics (Compa-ratio, benefits cost)",
+          "Performance and productivity metrics (Revenue per employee)"
+        ]
+      },
+      {
+        "chapter": "Predictive HR Analytics",
+        "topics": [
+          "Predicting employee turnover and attrition modeling",
+          "Predictive modeling for talent acquisition",
+          "Predicting employee performance and potential",
+          "Flight risk analysis",
+          "Network analytics and Organizational Network Analysis (ONA)"
+        ]
+      },
+      {
+        "chapter": "Storytelling and Visualization",
+        "topics": [
+          "Creating effective HR dashboards",
+          "Data visualization principles and charts choice",
+          "Translating data into actionable HR insights",
+          "Communicating analytics results to stakeholders (Data storytelling)",
+          "Building an analytics culture in the HR organization"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Talent Management and Retention",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of Talent Management",
+        "topics": [
+          "Concept and evolution of talent management",
+          "The war for talent and its organizational context",
+          "Talent management frameworks",
+          "Difference between talent management and traditional HRM",
+          "Strategic alignment of talent management"
+        ]
+      },
+      {
+        "chapter": "Talent Acquisition and Onboarding",
+        "topics": [
+          "Employer branding and Employee Value Proposition (EVP)",
+          "Building talent pools and pipelines",
+          "Innovative candidate sourcing strategies",
+          "Candidate experience management",
+          "Effective onboarding strategies for talent retention"
+        ]
+      },
+      {
+        "chapter": "Talent Assessment and Development",
+        "topics": [
+          "Competency modeling and mapping for talent planning",
+          "The 9-box grid for assessing performance and potential",
+          "Talent reviews and calibration sessions",
+          "Designing individual development plans (IDPs)",
+          "High Potential (HiPo) identification and development programs"
+        ]
+      },
+      {
+        "chapter": "Employee Engagement",
+        "topics": [
+          "Concepts of employee engagement and satisfaction",
+          "Drivers of employee engagement",
+          "Measuring employee engagement (Surveys, eNPS)",
+          "Strategies to improve employee engagement",
+          "The Gallup Q12 survey framework"
+        ]
+      },
+      {
+        "chapter": "Talent Retention Strategies",
+        "topics": [
+          "Causes and costs of employee turnover",
+          "Retention strategies (Financial and Non-financial)",
+          "Work-life balance initiatives",
+          "Exit interviews and attrition analysis",
+          "Managing the alumni network"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Conflict Management and Negotiation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Understanding Conflict",
+        "topics": [
+          "Nature, definition, and transitions in conflict thought",
+          "Types of conflict (Task, Relationship, Process)",
+          "Levels of conflict (Intrapersonal, Interpersonal, Intragroup, Intergroup)",
+          "The conflict process (Five stages)",
+          "Functional vs Dysfunctional conflict outcomes"
+        ]
+      },
+      {
+        "chapter": "Conflict Management Styles",
+        "topics": [
+          "Thomas-Kilmann Conflict Mode Instrument (TKI)",
+          "Competing, Collaborating, Compromising, Avoiding, Accommodating",
+          "Factors influencing the choice of conflict management style",
+          "Role of emotional intelligence in managing conflict",
+          "Managing diversity and cultural differences in conflict"
+        ]
+      },
+      {
+        "chapter": "Negotiation Fundamentals",
+        "topics": [
+          "Nature and characteristics of negotiation",
+          "Distributive bargaining versus Integrative negotiation",
+          "The negotiation process (Preparation, Strategy, Exchanging info, Closing)",
+          "BATNA (Best Alternative to a Negotiated Agreement)",
+          "ZOPA (Zone of Possible Agreement) and Reservation price"
+        ]
+      },
+      {
+        "chapter": "Negotiation Strategies and Tactics",
+        "topics": [
+          "Distributive tactics (Anchoring, Good cop/Bad cop)",
+          "Integrative tactics (Expanding the pie, Logrolling)",
+          "Framing and cognitive biases in negotiation",
+          "Communication competence and active listening",
+          "Non-verbal communication cues in negotiation"
+        ]
+      },
+      {
+        "chapter": "Advanced Negotiation Contexts",
+        "topics": [
+          "Third-party negotiations (Mediation, Arbitration, Conciliation)",
+          "Multi-party and team negotiations",
+          "Cross-cultural negotiations and etiquette",
+          "Ethics in negotiation (Bluffing, Deception)",
+          "Power dynamics and negotiating from a weak position"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Cross-Cultural Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cultural Context of Management",
+        "topics": [
+          "Concept of culture and cultural determinism",
+          "Iceberg model of culture",
+          "National vs Organizational culture",
+          "Impact of culture on management practices",
+          "Ethnocentrism and stereotyping"
+        ]
+      },
+      {
+        "chapter": "Cultural Dimensions Frameworks",
+        "topics": [
+          "Hofstede's 6 dimensions of national culture",
+          "Trompenaars' 7 dimensions of culture",
+          "GLOBE study of cross-cultural leadership",
+          "Hall's High-context vs Low-context cultures",
+          "Kluckhohn-Strodtbeck's values orientation theory"
+        ]
+      },
+      {
+        "chapter": "Cross-Cultural Communication",
+        "topics": [
+          "Barriers to cross-cultural communication",
+          "Verbal vs Non-verbal communication differences",
+          "Language diversity and corporate language policies",
+          "Communication styles (Direct/Indirect, Explicit/Implicit)",
+          "Enhancing intercultural communication competence"
+        ]
+      },
+      {
+        "chapter": "Motivation and Leadership Across Cultures",
+        "topics": [
+          "Applicability of motivation theories across cultures",
+          "Cultural influences on reward preferences",
+          "Leadership styles in different cultural contexts",
+          "Paternalistic leadership and charismatic leadership globally",
+          "Decision-making styles across cultures"
+        ]
+      },
+      {
+        "chapter": "Managing Multicultural Teams",
+        "topics": [
+          "Dynamics of diverse teams (Advantages and disadvantages)",
+          "Stages of multi-cultural team development",
+          "Challenges of global virtual teams",
+          "Synergy generation in multicultural teams",
+          "Cultural intelligence (CQ) development for expatriates"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Business Analytics Fundamentals",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Business Analytics",
+        "topics": [
+          "Definition, scope, and history of Business Analytics",
+          "The Analytics Spectrum (Descriptive, Predictive, Prescriptive, Cognitive)",
+          "Data-driven decision making framework",
+          "Types and characteristics of Big Data (The V's of Big Data)",
+          "Ethical considerations and privacy in data analytics"
+        ]
+      },
+      {
+        "chapter": "Data Lifecycle and Methodology",
+        "topics": [
+          "The CRISP-DM methodology",
+          "Data collection and ingestion processes",
+          "Data cleaning, imputation, and preparation",
+          "Exploratory Data Analysis (EDA) basics",
+          "Feature engineering and selection concepts"
+        ]
+      },
+      {
+        "chapter": "Descriptive Analytics",
+        "topics": [
+          "Role of descriptive analytics in reporting",
+          "Key Performance Indicators (KPIs) and metrics design",
+          "Data aggregation and multidimensional reporting (OLAP)",
+          "Dashboarding concepts and visual storytelling",
+          "Business Intelligence (BI) tools overview (Tableau, PowerBI)"
+        ]
+      },
+      {
+        "chapter": "Predictive and Prescriptive Analytics",
+        "topics": [
+          "Overview of predictive modeling and forecasting",
+          "Supervised vs Unsupervised learning capabilities",
+          "Simulation techniques and Monte Carlo methods",
+          "Optimization models (Linear programming basics)",
+          "Decision trees and prescriptive decision matrices"
+        ]
+      },
+      {
+        "chapter": "Analytics in the Enterprise",
+        "topics": [
+          "Building an analytics-driven culture",
+          "Structuring the data science/analytics team",
+          "Translating analytics into business value (ROI)",
+          "Analytics in different domains (HR, Finance, Marketing, SCM)",
+          "Current trends: AI, MLOps, and automated machine learning (AutoML)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Statistical Methods for Decision Making",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basic Statistics and Probability",
+        "topics": [
+          "Measures of central tendency and dispersion",
+          "Probability concepts (Marginal, Conditional, Joint)",
+          "Bayes' Theorem and business applications",
+          "Discrete probability distributions (Binomial, Poisson)",
+          "Continuous probability distributions (Normal, Standard Normal)"
+        ]
+      },
+      {
+        "chapter": "Sampling and Estimation",
+        "topics": [
+          "Sampling methods (Random, Stratified, Cluster)",
+          "Sampling distribution of the mean and Central Limit Theorem",
+          "Standard error and margin of error",
+          "Point estimates and interval estimates",
+          "Confidence intervals for means and proportions"
+        ]
+      },
+      {
+        "chapter": "Hypothesis Testing",
+        "topics": [
+          "Null vs Alternative hypotheses formulation",
+          "Type I (Alpha) and Type II (Beta) errors",
+          "One-tailed and two-tailed tests",
+          "P-value approach vs Critical value approach",
+          "One-sample and two-sample t-tests; Z-tests"
+        ]
+      },
+      {
+        "chapter": "Analysis of Variance (ANOVA)",
+        "topics": [
+          "Concept and assumptions of ANOVA",
+          "One-way ANOVA calculations and interpretation",
+          "Two-way ANOVA and interaction effects",
+          "Post-hoc tests (Tukey's HSD)",
+          "Applications of ANOVA in business experiments (A/B testing)"
+        ]
+      },
+      {
+        "chapter": "Correlation and Regression",
+        "topics": [
+          "Pearson and Spearman correlation coefficients",
+          "Simple Linear Regression (SLR) model and assumptions",
+          "Method of Least Squares and Line of Best Fit",
+          "Coefficient of Determination (R-squared)",
+          "Multiple Linear Regression (MLR) and dummy variables"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Management and SQL",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Database Management Systems (DBMS)",
+        "topics": [
+          "Relational data model concepts (Tables, Attributes, Tuples)",
+          "Entity-Relationship (ER) diagrams and modeling",
+          "Primary keys, Foreign keys, and Integrity constraints",
+          "Normalization (1NF, 2NF, 3NF, BCNF) and Denormalization",
+          "RDBMS architectures and ACID properties"
+        ]
+      },
+      {
+        "chapter": "SQL Fundamentals",
+        "topics": [
+          "Data Definition Language (CREATE, ALTER, DROP)",
+          "Data Manipulation Language (INSERT, UPDATE, DELETE)",
+          "Basic SELECT statements and filtering (WHERE, LIKE, IN)",
+          "Sorting and limiting results (ORDER BY, LIMIT)",
+          "Handling NULL values and built-in functions"
+        ]
+      },
+      {
+        "chapter": "Advanced SQL Queries",
+        "topics": [
+          "Aggregate functions (SUM, AVG, COUNT, MIN, MAX)",
+          "Grouping data (GROUP BY, HAVING)",
+          "Table joins (INNER, LEFT, RIGHT, FULL OUTER, CROSS)",
+          "Subqueries and Correlated Subqueries",
+          "Set operations (UNION, INTERSECT, EXCEPT)"
+        ]
+      },
+      {
+        "chapter": "SQL for Data Analysis",
+        "topics": [
+          "Window functions (ROW_NUMBER, RANK, DENSE_RANK)",
+          "Aggregate window functions and moving averages",
+          "Common Table Expressions (CTEs) using WITH clause",
+          "String manipulation and date/time functions",
+          "Pivoting Data and Case Statements"
+        ]
+      },
+      {
+        "chapter": "Data Warehousing and NoSQL",
+        "topics": [
+          "OLTP versus OLAP systems",
+          "Data Warehouse architecture (Star and Snowflake schemas)",
+          "ETL (Extract, Transform, Load) pipelines",
+          "Introduction to NoSQL databases (Document, Key-Value, Graph)",
+          "Overview of MongoDB and JSON document structures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Python for Business Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Python Basics and Programming Fundamentals",
+        "topics": [
+          "Python environment setup (Jupyter, Anaconda)",
+          "Data types, Variables, and Operators",
+          "Control flow structures (If-else, For/While loops)",
+          "Functions, Lambda functions, and arguments",
+          "Exception handling (try-except)"
+        ]
+      },
+      {
+        "chapter": "Data Structures in Python",
+        "topics": [
+          "Lists: Mutability, methods, and list comprehensions",
+          "Tuples: Immutability and unpacking",
+          "Dictionaries: Key-value operations and mapping",
+          "Sets: Unique values and set operations",
+          "String manipulation and regular expressions overview"
+        ]
+      },
+      {
+        "chapter": "Numerical Computing with NumPy",
+        "topics": [
+          "Creating NumPy Ndarrays",
+          "Array indexing, slicing, and filtering",
+          "Vectorized operations and broadcasting",
+          "Statistical and mathematical functions in NumPy",
+          "Reshaping and manipulating array dimensions"
+        ]
+      },
+      {
+        "chapter": "Data Manipulation with Pandas",
+        "topics": [
+          "Pandas Series and DataFrame structures",
+          "Reading/Writing data (CSV, Excel, SQL)",
+          "Handling missing data (dropna, fillna)",
+          "Data transformation (groupby, merge, join, concatenate)",
+          "Exploratory Data Analysis (EDA) functions using pandas"
+        ]
+      },
+      {
+        "chapter": "Data Visualization with Python",
+        "topics": [
+          "Matplotlib basics: Line plots, bar charts, scatter plots",
+          "Customizing plots: Titles, labels, legends, subplots",
+          "Seaborn statistical data visualization",
+          "Heatmaps, Pair plots, and Distribution plots",
+          "Interactive plotting with Plotly (Brief overview)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "R Programming for Data Science",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to R and RStudio",
+        "topics": [
+          "R programming environment setup",
+          "RStudio interface (Console, Script, Environment, Plots)",
+          "Basic arithmetic operations and variables",
+          "Data types in R (Numeric, Character, Logical, Factor)",
+          "Installing and loading CRAN packages"
+        ]
+      },
+      {
+        "chapter": "R Data Structures",
+        "topics": [
+          "Vectors and vector arithmetic",
+          "Matrices and matrix operations",
+          "Lists: Creation and manipulation",
+          "Data Frames: Creation, indexing, subsetting",
+          "Factors and dealing with categorical data"
+        ]
+      },
+      {
+        "chapter": "Data Wrangling with Tidyverse",
+        "topics": [
+          "Introduction to the Tidyverse ecosystem",
+          "Piping operator (%>%)",
+          "Data manipulation using dplyr (filter, select, mutate, summarize, arrange)",
+          "Reshaping data using tidyr (pivot_longer, pivot_wider)",
+          "String manipulation with stringr"
+        ]
+      },
+      {
+        "chapter": "Statistical Modeling in R",
+        "topics": [
+          "Descriptive statistics functions (summary, str)",
+          "Running t-tests and ANOVA in R",
+          "Fitting linear regression models (lm function)",
+          "Fitting logistic regression models (glm function)",
+          "Model evaluation and diagnostic plots"
+        ]
+      },
+      {
+        "chapter": "Data Visualization with ggplot2",
+        "topics": [
+          "The Grammar of Graphics philosophy",
+          "Scatter plots and geometric objects (geoms)",
+          "Aesthetics mapping (color, shape, size)",
+          "Faceting for multi-panel plotting",
+          "Customizing themes, scales, and labels in ggplot2"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Principles of Machine Learning",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Machine Learning",
+        "topics": [
+          "Definition of ML and comparison with traditional programming",
+          "Types of ML (Supervised, Unsupervised, Reinforcement)",
+          "The Machine Learning pipeline (Data collection to Deployment)",
+          "Overfitting vs Underfitting (Bias-Variance tradeoff)",
+          "Training, validation, and test sets splitting"
+        ]
+      },
+      {
+        "chapter": "Linear and Logistic Regression",
+        "topics": [
+          "Multiple Linear Regression mechanics and cost function",
+          "Gradient Descent optimization algorithm",
+          "Regularization techniques: Ridge (L2) and Lasso (L1)",
+          "Logistic Regression for binary classification",
+          "Sigmoid function and Maximum Likelihood Estimation"
+        ]
+      },
+      {
+        "chapter": "Classification Algorithms",
+        "topics": [
+          "K-Nearest Neighbors (KNN) algorithm and distance metrics",
+          "Decision Trees (Entropy, Gini impurity, Information Gain)",
+          "Random Forest and Bagging concepts",
+          "Support Vector Machines (SVM) and Margin maximization",
+          "Naive Bayes classifier and Bayes' theorem application"
+        ]
+      },
+      {
+        "chapter": "Model Evaluation Metrics",
+        "topics": [
+          "Confusion matrix (TP, TN, FP, FN)",
+          "Accuracy, Precision, Recall, and F1-Score",
+          "Receiver Operating Characteristic (ROC) curve and AUC",
+          "Mean Absolute Error (MAE), Mean Squared Error (MSE), RMSE",
+          "Cross-validation techniques (k-fold CV)"
+        ]
+      },
+      {
+        "chapter": "Unsupervised Learning",
+        "topics": [
+          "Clustering concepts and business applications",
+          "K-Means clustering and the Elbow method",
+          "Hierarchical clustering and Dendrograms",
+          "Principal Component Analysis (PCA) for dimensionality reduction",
+          "Association Rule Mining (Apriori algorithm, Support, Confidence, Lift)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Machine Learning",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ensemble Learning",
+        "topics": [
+          "Boosting vs Bagging philosophies",
+          "AdaBoost mechanism",
+          "Gradient Boosting Machines (GBM)",
+          "XGBoost, LightGBM, and CatBoost (Advanced implementations)",
+          "Stacking and Blending models"
+        ]
+      },
+      {
+        "chapter": "Time Series Forecasting",
+        "topics": [
+          "Components of Time Series (Trend, Seasonality, Irregularity)",
+          "Stationarity testing (Augmented Dickey-Fuller test)",
+          "Exponential Smoothing methods (Holt-Winters)",
+          "ARIMA and SARIMA models",
+          "Evaluating forecast accuracy (MAPE, MAD)"
+        ]
+      },
+      {
+        "chapter": "Deep Learning Fundamentals",
+        "topics": [
+          "Artificial Neural Networks (ANN) architecture",
+          "Activation functions (ReLU, Sigmoid, Tanh)",
+          "Forward propagation and Loss functions",
+          "Backpropagation algorithm and chain rule",
+          "Optimizers (Adam, RMSProp, SGD with momentum)"
+        ]
+      },
+      {
+        "chapter": "Specialized Neural Networks",
+        "topics": [
+          "Convolutional Neural Networks (CNN) for image data",
+          "Pooling layers and data augmentation in CNNs",
+          "Recurrent Neural Networks (RNN) sequence modeling",
+          "Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU)",
+          "Transfer learning using pre-trained network architectures"
+        ]
+      },
+      {
+        "chapter": "Model Deployment and MLOps",
+        "topics": [
+          "Hyperparameter tuning (Grid Search, Random Search, Bayesian opimization)",
+          "Saving and loading models (Pickle, Joblib, ONNX)",
+          "Creating REST APIs with Flask or FastAPI",
+          "Containerization with Docker",
+          "Model monitoring (Data drift and concept drift)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Big Data Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Big Data Ecosystem",
+        "topics": [
+          "Hadoop framework overview and history",
+          "Hadoop Distributed File System (HDFS) architecture",
+          "MapReduce programming model",
+          "YARN (Yet Another Resource Negotiator)",
+          "Hadoop Ecosystem tools (Sqoop, Flume, Hive, Pig)"
+        ]
+      },
+      {
+        "chapter": "Apache Spark Framework",
+        "topics": [
+          "Spark architecture and Resilient Distributed Datasets (RDDs)",
+          "Transformations (map, filter) vs Actions (reduce, collect)",
+          "Spark DataFrames and Spark SQL",
+          "Catalyst Optimizer and Tungsten execution engine",
+          "Performance tuning in Spark (Caching, Partitioning)"
+        ]
+      },
+      {
+        "chapter": "Machine Learning with Spark (MLlib)",
+        "topics": [
+          "Overview of Spark MLlib library",
+          "Building ML Pipelines in Spark",
+          "Feature extraction, transformation, and selection in Spark",
+          "Distributed classification and regression with Spark ML",
+          "Clustering large datasets using Spark K-Means"
+        ]
+      },
+      {
+        "chapter": "Real-Time Streaming Analytics",
+        "topics": [
+          "Batch processing vs Stream processing",
+          "Apache Kafka architecture (Producers, Consumers, Brokers, Topics)",
+          "Spark Structured Streaming basics",
+          "Window operations in streaming data",
+          "Applications of real-time analytics (Fraud detection, IoT)"
+        ]
+      },
+      {
+        "chapter": "Cloud Analytics and Big Data",
+        "topics": [
+          "Big Data Services on AWS (EMR, Redshift, Athena)",
+          "Big Data Services on Azure (Synapse, Databricks) and GCP (BigQuery)",
+          "Serverless architectures for data analytics",
+          "Designing scalable data lakes",
+          "Data governance and security in cloud big data"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Visualization (Tableau/Power BI)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Data Visualization Principles",
+        "topics": [
+          "Cognitive aspects of visualization (Preattentive attributes)",
+          "Choosing the right chart type for data types",
+          "Tufte's principles (Data-ink ratio, Lie factor)",
+          "Color theory in data visualization",
+          "Gestalt principles in dashboard design"
+        ]
+      },
+      {
+        "chapter": "Tableau Fundamentals",
+        "topics": [
+          "Connecting to data sources and data preparation in Tableau",
+          "Dimensions versus Measures; Discrete versus Continuous fields",
+          "Creating basic charts (Bar, Line, Pie, Maps)",
+          "Sorting, Filtering, and Grouping data",
+          "Calculated fields and logic statements in Tableau"
+        ]
+      },
+      {
+        "chapter": "Advanced Tableau",
+        "topics": [
+          "Table Calculations (Running total, % of total, Window functions)",
+          "Level of Detail (LOD) expressions (FIXED, INCLUDE, EXCLUDE)",
+          "Parameters and interactive controls",
+          "Dual-axis charts and blended axes",
+          "Building interactive Dashboards and Storyboards"
+        ]
+      },
+      {
+        "chapter": "Power BI Fundamentals",
+        "topics": [
+          "Power BI Desktop interface and Power Query Editor",
+          "Connecting to data and performing ETL transformations",
+          "Data modeling: Building relationships (Star schema)",
+          "Creating basic visualizations and formatting",
+          "Using slicers and cross-filtering"
+        ]
+      },
+      {
+        "chapter": "Advanced Power BI and DAX",
+        "topics": [
+          "Introduction to Data Analysis Expressions (DAX)",
+          "Calculated Columns vs Measures in Power BI",
+          "Important DAX functions (CALCULATE, FILTER, Time Intelligence)",
+          "Publishing to Power BI Service and sharing reports",
+          "Row-Level Security (RLS) implementation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Marketing Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Marketing Analytics",
+        "topics": [
+          "Transition from traditional marketing to data-driven marketing",
+          "Marketing metrics (CAC, LTV, ROI, Churn rate)",
+          "The Marketing Funnel and conversion tracking",
+          "Role of CRM databases in marketing analytics",
+          "Marketing Mix Modeling (MMM) fundamentals"
+        ]
+      },
+      {
+        "chapter": "Customer Segmentation and Profiling",
+        "topics": [
+          "RFM (Recency, Frequency, Monetary) analysis methodology",
+          "Behavioral and demographic segmentation using K-Means clustering",
+          "Creating customer personas from data",
+          "Conjoint Analysis for product attribute design",
+          "Lookalike audience modeling"
+        ]
+      },
+      {
+        "chapter": "Predictive Marketing Analytics",
+        "topics": [
+          "Propensity modeling (Likelihood to buy, subscribe)",
+          "Customer churn prediction modeling (Logistic regression, Random Forest)",
+          "Next Best Action (NBA) and Cross-sell / Up-sell algorithms",
+          "Customer Lifetime Value (CLV) predictive models",
+          "Market Basket Analysis and recommendation engines"
+        ]
+      },
+      {
+        "chapter": "Digital and Web Analytics",
+        "topics": [
+          "Web analytics tracking (Google Analytics, Adobe Analytics)",
+          "Session, user, and event level metrics",
+          "A/B testing and multivariate testing design for landing pages",
+          "Click-through rate (CTR) prediction",
+          "Multi-touch attribution models (First touch, Last touch, Linear, Markov)"
+        ]
+      },
+      {
+        "chapter": "Pricing and Social Media Analytics",
+        "topics": [
+          "Price elasticity modeling and dynamic pricing algorithms",
+          "Social media engagement and reach metrics",
+          "Sentiment analysis of brand mentions",
+          "Social network analysis (Identifying influencers)",
+          "ROI measurement for social media campaigns"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of Financial Analytics",
+        "topics": [
+          "Role of analytics in FinTech and traditional finance",
+          "Financial data types (Time series, Cross-sectional, Tick data)",
+          "Exploratory analysis of financial statements using Python/R",
+          "Calculating key financial ratios programmatically",
+          "Data requirements for fundamental analysis"
+        ]
+      },
+      {
+        "chapter": "Time Series and Quantitative Finance",
+        "topics": [
+          "Modeling asset returns and volatility",
+          "Autoregressive Conditional Heteroskedasticity (ARCH / GARCH) models",
+          "Capital Asset Pricing Model (CAPM) regression analysis",
+          "Fama-French factor models implementation",
+          "Monte Carlo simulation for derivative pricing"
+        ]
+      },
+      {
+        "chapter": "Credit Risk Analytics",
+        "topics": [
+          "Credit scoring models (Application and Behavioral scoring)",
+          "Predicting Probability of Default (PD) using Logistic Regression/Trees",
+          "Loss Given Default (LGD) and Exposure at Default (EAD)",
+          "Credit rating transitions (Markov Chains)",
+          "Stress testing credit portfolios"
+        ]
+      },
+      {
+        "chapter": "Algorithmic Trading and Portfolio Optimization",
+        "topics": [
+          "Mean-Variance Portfolio Optimization (Markowitz) using Python",
+          "Efficient Frontier calculation and visualization",
+          "Algorithmic trading strategies (Mean reversion, Momentum)",
+          "Backtesting trading strategies framework",
+          "Performance metrics (Sharpe ratio, Maximum Drawdown)"
+        ]
+      },
+      {
+        "chapter": "Fraud Detection and Advanced Analytics",
+        "topics": [
+          "Anomaly detection algorithms for fraud (Isolation Forests)",
+          "Network analysis for detecting money laundering rings",
+          "Text analytics for earnings calls and financial news",
+          "Robo-advisory algorithm architectures",
+          "Machine learning in credit card fraud detection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "HR and People Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to HR Analytics",
+        "topics": [
+          "Strategic role of People Analytics",
+          "Building an HR Analytics team and maturity model",
+          "HR data integration (HRIS, ATS, Performance Management Systems)",
+          "Ethical and privacy issues in HR data collection",
+          "Dashboarding HR metrics (Headcount, Diversity, Turnover)"
+        ]
+      },
+      {
+        "chapter": "Talent Acquisition Analytics",
+        "topics": [
+          "Sourcing channel effectiveness and ROI analysis",
+          "Time-to-fill and Cost-per-hire predictive models",
+          "Resume parsing and matching algorithms (NLP applications)",
+          "Predicting candidate success/Quality of Hire",
+          "Mitigating bias in automated hiring screening"
+        ]
+      },
+      {
+        "chapter": "Employee Performance and Compensation Analytics",
+        "topics": [
+          "Analyzing performance appraisal data for biases",
+          "Linking compensation and benefits to organizational performance",
+          "Pay equity analysis and gender gap modeling",
+          "Sales incentive plan optimization",
+          "Identifying traits of high-performers (HiPo analytics)"
+        ]
+      },
+      {
+        "chapter": "Retention and Attrition Modeling",
+        "topics": [
+          "Survival analysis for employee tenure",
+          "Predictive models for employee voluntary turnover",
+          "Identifying key drivers of attrition via feature importance",
+          "Actionable interventions for retention (Flight risk dashboards)",
+          "Analyzing exit interview text data via sentiment analysis"
+        ]
+      },
+      {
+        "chapter": "Organizational Network Analysis (ONA) and Engagement",
+        "topics": [
+          "Introduction to ONA and relationship mapping",
+          "Identifying central nodes, bottlenecks, and brokers in teams",
+          "Analyzing employee engagement survey data (eNPS)",
+          "Key drivers analysis for engagement scores",
+          "Measuring the impact of well-being initiatives"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Supply Chain Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Data-Driven Supply Chains",
+        "topics": [
+          "Integration of SC strategy with analytics",
+          "Descriptive SCM metrics (OTIF, Inventory turns, Fill rate)",
+          "Data lakes for Internet of Things (IoT) sensor data",
+          "Bullwhip effect quantification",
+          "Supply Chain Control Towers visualization"
+        ]
+      },
+      {
+        "chapter": "Demand Forecasting Analytics",
+        "topics": [
+          "Advanced statistical methods (Croston's method for intermittent demand)",
+          "Machine Learning models for demand sensing (XGBoost, LSTMs)",
+          "Incorporating external variables (Weather, Promotions, Macroeconomics)",
+          "Measuring forecast error (MAPE, WMAPE, Bias)",
+          "Collaborative forecasting and consensus modeling"
+        ]
+      },
+      {
+        "chapter": "Inventory Optimization Analytics",
+        "topics": [
+          "Dynamic safety stock calculation algorithms",
+          "Multi-echelon inventory optimization models",
+          "ABC-XYZ analysis for inventory stratification",
+          "Slow-moving and obsolete (SLOB) inventory prediction",
+          "Simulation of inventory policies (Monte Carlo)"
+        ]
+      },
+      {
+        "chapter": "Logistics and Network Analytics",
+        "topics": [
+          "Facility location optimization (Mixed Integer Linear Programming)",
+          "Vehicle Routing Problem (VRP) variations and Genetic Algorithms",
+          "Transportation cost modeling and carrier performance analytics",
+          "Warehouse layout optimization and pathing algorithms",
+          "Last-mile delivery analytics"
+        ]
+      },
+      {
+        "chapter": "Sourcing and Risk Analytics",
+        "topics": [
+          "Spend cube analysis and category management analytics",
+          "Supplier performance evaluation models (AHP, Data Envelopment Analysis)",
+          "Should-cost modeling for negotiations",
+          "Supply chain risk quantification and disruption simulation",
+          "Blockchain applications for traceability analytics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Natural Language Processing (NLP) in Business",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to NLP",
+        "topics": [
+          "Business applications of NLP (Chatbots, Summarization, Search)",
+          "Text processing pipeline (Tokenization, Stop words, Stemming, Lemmatization)",
+          "Regular expressions for text extraction",
+          "Parts-of-Speech (POS) tagging and Named Entity Recognition (NER)",
+          "Overview of NLP libraries (NLTK, SpaCy)"
+        ]
+      },
+      {
+        "chapter": "Text Representation and Vectorization",
+        "topics": [
+          "Bag of Words (BoW) and Document-Term Matrix (DTM)",
+          "Term Frequency-Inverse Document Frequency (TF-IDF)",
+          "Word Embeddings concept (Word2Vec, GloVe)",
+          "Properties of dense vectors vs sparse vectors",
+          "Cosine similarity for document matching"
+        ]
+      },
+      {
+        "chapter": "Sentiment Analysis and Topic Modeling",
+        "topics": [
+          "Lexicon-based approaches for sentiment analysis (VADER)",
+          "Supervised approaches to sentiment classification",
+          "Aspect-based sentiment analysis for product reviews",
+          "Latent Dirichlet Allocation (LDA) for topic modeling",
+          "Interpreting and visualizing topics (pyLDAvis)"
+        ]
+      },
+      {
+        "chapter": "Advanced NLP Architectures",
+        "topics": [
+          "Using RNNs and LSTMs for text classification",
+          "Sequence-to-Sequence models and Attention mechanism",
+          "Introduction to Transformers architecture",
+          "Understanding Pre-trained models (BERT, GPT, RoBERTa)",
+          "Fine-tuning BERT for business classification tasks"
+        ]
+      },
+      {
+        "chapter": "Generative AI and Enterprise Applications",
+        "topics": [
+          "Large Language Models (LLMs) in business operations",
+          "Prompt Engineering basics and best practices",
+          "Retrieval-Augmented Generation (RAG) for internal knowledge bases",
+          "Building enterprise chatbots using LangChain",
+          "Ethical usage, hallucinations, and bias in Generative AI"
+        ]
+      }
+    ]
+  }
+]

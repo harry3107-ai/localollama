@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Advanced Data Structures and Algorithms",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Amortized Analysis and Advanced Trees",
+        "topics": [
+          "Aggregate analysis, accounting method, potential method",
+          "B-Trees, AVL Trees, Red-Black Trees",
+          "Splay Trees and Treaps",
+          "Fibonacci Heaps and Binomial Heaps",
+          "Skip Lists and applications"
+        ]
+      },
+      {
+        "chapter": "Advanced Graph Algorithms",
+        "topics": [
+          "Network Flow: Ford-Fulkerson and Edmonds-Karp",
+          "Maximum Bipartite Matching",
+          "Strongly Connected Components",
+          "All-Pairs Shortest Paths: Floyd-Warshall and Johnson's Algorithm",
+          "Graph algorithms in social networks"
+        ]
+      },
+      {
+        "chapter": "String Matching and Randomized Algorithms",
+        "topics": [
+          "Rabin-Karp and Knuth-Morris-Pratt algorithms",
+          "Suffix Trees and Suffix Arrays",
+          "Las Vegas and Monte Carlo algorithms",
+          "Randomized Quicksort and Min-Cut",
+          "Applications of computational geometry"
+        ]
+      },
+      {
+        "chapter": "NP-Completeness and Approximation",
+        "topics": [
+          "Polynomial-time reductions and NP-Hardness",
+          "Cook's Theorem and classical NP-Complete problems",
+          "Approximation algorithms and approximation ratio",
+          "Vertex Cover and Traveling Salesman Problem heuristics",
+          "PTAS and FPTAS"
+        ]
+      },
+      {
+        "chapter": "Advanced Algorithm Paradigms",
+        "topics": [
+          "Dynamic Programming optimizations",
+          "Greedy algorithms and Matroid theory",
+          "Divide and conquer strategies for large datasets",
+          "Online algorithms and competitive analysis",
+          "Approaches for parameterized complexity"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Computer Architecture",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of Computer Design",
+        "topics": [
+          "Classes of computers and trends in technology",
+          "Quantitative principles of computer design",
+          "Instruction set principles and metrics",
+          "Pipelining hazards and mitigation techniques",
+          "Evaluating processor performance"
+        ]
+      },
+      {
+        "chapter": "Instruction-Level Parallelism",
+        "topics": [
+          "Dynamic scheduling and Tomasulo's algorithm",
+          "Hardware-based speculation and branch prediction",
+          "Multiple issue and superscalar processors",
+          "VLIW architecture and software pipelining",
+          "Limits of Instruction-Level Parallelism"
+        ]
+      },
+      {
+        "chapter": "Memory Hierarchy Design",
+        "topics": [
+          "Advanced cache optimizations",
+          "Main memory technologies and organization",
+          "Virtual memory and TLB optimization",
+          "Cache coherence protocols (MSI, MESI)",
+          "Non-volatile memory integration"
+        ]
+      },
+      {
+        "chapter": "Multiprocessors and Thread-Level Parallelism",
+        "topics": [
+          "Symmetric and distributed shared memory architectures",
+          "Synchronization mechanisms in multiprocessors",
+          "Models of memory consistency",
+          "Simultaneous Multithreading (SMT)",
+          "Multi-core processors and chip multiprocessors"
+        ]
+      },
+      {
+        "chapter": "Data-Level Parallelism",
+        "topics": [
+          "Vector architecture and SIMD instruction sets",
+          "Graphics Processing Units (GPUs) architecture",
+          "CUDA programming model overview",
+          "Systolic arrays and domain-specific architectures",
+          "Interconnection networks and routing topologies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Database Management Systems",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Query Processing and Optimization",
+        "topics": [
+          "Algorithms for executing relational operations",
+          "Evaluation of expressions and pipelining",
+          "Heuristic and cost-based query optimization",
+          "Materialized views and query execution plans",
+          "Optimization algorithms (dynamic programming, genetic)"
+        ]
+      },
+      {
+        "chapter": "Transaction Management and Concurrency Control",
+        "topics": [
+          "ACID properties and schedule serializability",
+          "Lock-based protocols (2PL, Strict 2PL)",
+          "Timestamp-based and validation-based protocols",
+          "Multiple granularity locking and deadlocks",
+          "Advanced recovery mechanisms (ARIES algorithm)"
+        ]
+      },
+      {
+        "chapter": "Parallel and Distributed Databases",
+        "topics": [
+          "Inter-query and intra-query parallelism",
+          "Data partitioning and parallel join algorithms",
+          "Distributed database architectures and fragmentation",
+          "Distributed query processing and optimization",
+          "Distributed transactions and Two-Phase Commit algorithm"
+        ]
+      },
+      {
+        "chapter": "Object-Oriented and XML Databases",
+        "topics": [
+          "Object-Relational mapping and ODBMS design",
+          "Complex data types and inheritance in databases",
+          "XML data models and querying (XPath, XQuery)",
+          "Stating constraints in XML DTDs and Schemas",
+          "Transforming XML to relational data"
+        ]
+      },
+      {
+        "chapter": "NoSQL and New Database Trends",
+        "topics": [
+          "CAP theorem and BASE properties",
+          "Key-value stores, Document stores, Column-family stores",
+          "Graph databases and Cypher query language",
+          "Data warehousing, OLAP, and Star schemas",
+          "In-memory databases and column-oriented databases"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Networks and Security",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Advanced Routing and Switching",
+        "topics": [
+          "Distance Vector and Link State routing algorithms",
+          "BGP and inter-domain routing protocols",
+          "OSPF protocol deep dive",
+          "Multicast routing protocols (PIM, IGMP)",
+          "VLANs, STP, and layer 2 switching concepts"
+        ]
+      },
+      {
+        "chapter": "Transport Layer and Congestion Control",
+        "topics": [
+          "TCP internals, state machine, and timers",
+          "TCP Congestion Control algorithms (Tahoe, Reno, Cubic)",
+          "Quality of Service (QoS) mechanisms",
+          "Active Queue Management and Traffic Shaping",
+          "SCTP and advanced transport protocols"
+        ]
+      },
+      {
+        "chapter": "Software Defined Networking (SDN)",
+        "topics": [
+          "Control plane vs Data plane separation",
+          "OpenFlow protocol and SDN controllers",
+          "Network Function Virtualization (NFV)",
+          "Programmable data planes and P4 language",
+          "Use cases for SDN in modern data centers"
+        ]
+      },
+      {
+        "chapter": "Wireless and Mobile Networks",
+        "topics": [
+          "IEEE 802.11 architecture, MAC, and security",
+          "Cellular networks (4G LTE, 5G architecture)",
+          "Mobile IP and mobility management",
+          "Wireless Sensor Networks and routing",
+          "IoT protocols (MQTT, CoAP) and networking"
+        ]
+      },
+      {
+        "chapter": "Network Security and Firewalls",
+        "topics": [
+          "IPSec, VPN architectures, and SSL/TLS",
+          "Firewall types, architectures, and rule sets",
+          "Intrusion Detection/Prevention Systems (IDS/IPS)",
+          "Denial of Service (DoS) and DDoS mitigation",
+          "Zero Trust Network Architecture"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Machine Learning and Pattern Recognition",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Statistical Learning and Regression",
+        "topics": [
+          "Bias-variance tradeoff and curse of dimensionality",
+          "Linear regression, Ridge, and Lasso (L1/L2 regularization)",
+          "Logistic regression and generalized linear models",
+          "Maximum Likelihood Estimation and MAP",
+          "Gradient descent and optimization techniques"
+        ]
+      },
+      {
+        "chapter": "Classification and Support Vector Machines",
+        "topics": [
+          "Decision Trees, Gini index, and Information Gain",
+          "K-Nearest Neighbors and naive Bayes classifiers",
+          "Linear SVM and margin maximization",
+          "The Kernel trick and non-linear SVMs",
+          "Evaluation metrics: ROC, AUC, Precision-Recall curves"
+        ]
+      },
+      {
+        "chapter": "Ensemble Methods and Clustering",
+        "topics": [
+          "Bagging, Random Forests, and extra trees",
+          "Boosting algorithms (AdaBoost, Gradient Boosting, XGBoost)",
+          "K-Means, K-Medoids, and hierarchical clustering",
+          "Density-based clustering (DBSCAN)",
+          "Gaussian Mixture Models and Expectation-Maximization"
+        ]
+      },
+      {
+        "chapter": "Dimensionality Reduction and Feature Extraction",
+        "topics": [
+          "Principal Component Analysis (PCA) and SVD",
+          "Linear Discriminant Analysis (LDA)",
+          "t-SNE and UMAP for visualization",
+          "Autoencoders and manifold learning",
+          "Feature selection techniques (Filter, Wrapper, Embedded)"
+        ]
+      },
+      {
+        "chapter": "Pattern Recognition Principles",
+        "topics": [
+          "Bayesian decision theory and discriminant functions",
+          "Hidden Markov Models (HMM) and Viterbi algorithm",
+          "Non-parametric techniques and Parzen windows",
+          "Syntactic and structural pattern recognition",
+          "Applications to speech, image, and text classification"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Problem Solving and Search",
+        "topics": [
+          "State space representations and search strategies",
+          "Uninformed search (BFS, DFS, Iterative Deepening)",
+          "Informed search (A*, heuristics admissibility)",
+          "Local search algorithms and Simulated Annealing",
+          "Adversarial search: Minimax and Alpha-Beta pruning"
+        ]
+      },
+      {
+        "chapter": "Knowledge Representation and Reasoning",
+        "topics": [
+          "Propositional logic and First-Order Logic (FOL)",
+          "Resolution, unification, and theorem proving",
+          "Semantic networks, frames, and ontologies",
+          "Description logics and knowledge graphs",
+          "Reasoning under uncertainty (Bayesian networks)"
+        ]
+      },
+      {
+        "chapter": "Planning and Decision Making",
+        "topics": [
+          "Classical planning (STRIPS representation)",
+          "Partial-order planning and graph-based planning",
+          "Markov Decision Processes (MDPs)",
+          "Value iteration and policy iteration algorithms",
+          "Partially Observable MDPs (POMDPs)"
+        ]
+      },
+      {
+        "chapter": "Reinforcement Learning",
+        "topics": [
+          "Exploration vs exploitation dilemma",
+          "Monte Carlo methods and Temporal Difference learning",
+          "Q-Learning and SARSA algorithms",
+          "Deep Reinforcement Learning (DQN, Actor-Critic)",
+          "Applications of RL in robotics and games"
+        ]
+      },
+      {
+        "chapter": "Advanced AI Paradigms",
+        "topics": [
+          "Evolutionary computation and Genetic Algorithms",
+          "Swarm intelligence (Ant Colony Optimization)",
+          "Fuzzy logic, fuzzy sets, and fuzzy inference systems",
+          "Multi-agent systems and game theory applications",
+          "Ethical considerations, AI safety, and explainable AI"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Parallel and Distributed Computing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Parallel Programming Models",
+        "topics": [
+          "Shared memory models and OpenMP API",
+          "Message passing models and MPI programming",
+          "Data parallel programming models",
+          "Task parallelism and thread libraries",
+          "Performance metrics: Speedup, Efficiency, Amdahl's Law"
+        ]
+      },
+      {
+        "chapter": "Parallel Algorithms",
+        "topics": [
+          "Parallel sorting (Bitonic sort, Parallel quicksort)",
+          "Parallel graph algorithms (BFS, shortest paths)",
+          "Parallel matrix multiplication and linear algebra",
+          "Prefix sum and scan operations",
+          "Load balancing techniques in parallel algorithms"
+        ]
+      },
+      {
+        "chapter": "Distributed System Fundamentals",
+        "topics": [
+          "System models and theoretical foundations",
+          "Logical clocks (Lamport, Vector clocks)",
+          "Global state recording (Chandy-Lamport algorithm)",
+          "Election algorithms (Bully, Ring)",
+          "Distributed mutual exclusion algorithms"
+        ]
+      },
+      {
+        "chapter": "Distributed File Systems and Storage",
+        "topics": [
+          "NFS and AFS architectures",
+          "Distributed hash tables (Chord, Kademlia)",
+          "Replication, consistency models, and Quorum protocols",
+          "HDFS architecture and Hadoop ecosystem",
+          "Object storage systems and fault tolerance"
+        ]
+      },
+      {
+        "chapter": "Cloud and Edge Distributed Computing",
+        "topics": [
+          "MapReduce programming model and Spark",
+          "Stream processing (Apache Kafka, Flink)",
+          "Microservices architecture and distributed tracing",
+          "Edge and Fog computing paradigms",
+          "Blockchain fundamentals and distributed ledgers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Cloud Computing and Virtualization",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cloud Computing Models and Architectures",
+        "topics": [
+          "NIST cloud computing reference architecture",
+          "Service models: IaaS, PaaS, SaaS, FaaS",
+          "Deployment models: Public, Private, Hybrid clouds",
+          "Cloud economics, SLAs, and pricing models",
+          "Cloud native architecture principles"
+        ]
+      },
+      {
+        "chapter": "Virtualization Technologies",
+        "topics": [
+          "Hardware virtualization vs OS-level virtualization",
+          "Hypervisors (Type 1 and Type 2), Xen, KVM, VMware",
+          "CPU, memory, and I/O virtualization techniques",
+          "Live migration of virtual machines",
+          "Virtual network switches and overlays"
+        ]
+      },
+      {
+        "chapter": "Containers and Orchestration",
+        "topics": [
+          "Docker architecture, images, and container runtimes",
+          "Kubernetes architecture, Pods, and Services",
+          "Container scheduling and cluster management",
+          "Service mesh frameworks (Istio)",
+          "Serverless computing and AWS Lambda"
+        ]
+      },
+      {
+        "chapter": "Cloud Storage and Resource Management",
+        "topics": [
+          "Cloud storage tiers (Block, File, Object storage)",
+          "Amazon S3, EBS, and DynamoDB architectures",
+          "Resource provisioning, scaling, and elasticity",
+          "Load balancing algorithms in the cloud",
+          "Cloud resource monitoring and management APIs"
+        ]
+      },
+      {
+        "chapter": "Cloud Security and Privacy",
+        "topics": [
+          "Identity and Access Management (IAM)",
+          "Data tokenization, encryption, and key management",
+          "Cloud compliance standards and regulations",
+          "Shared responsibility model",
+          "Multi-tenancy isolation and side-channel attacks"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Cryptography and Network Security",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Symmetric Key Cryptography",
+        "topics": [
+          "Classical ciphers and cryptanalysis",
+          "Feistel networks and block cipher design principles",
+          "Data Encryption Standard (DES) and AES algorithms",
+          "Block cipher modes of operation (ECB, CBC, GCM)",
+          "Stream ciphers and pseudo-random number generators"
+        ]
+      },
+      {
+        "chapter": "Public Key Cryptography",
+        "topics": [
+          "Number theory foundations (Modular arithmetic, Primes)",
+          "RSA algorithm and its security properties",
+          "Diffie-Hellman Key Exchange and Man-in-the-Middle",
+          "Elliptic Curve Cryptography (ECC)",
+          "ElGamal encryption scheme"
+        ]
+      },
+      {
+        "chapter": "Message Authentication and Hash Functions",
+        "topics": [
+          "Cryptographic hash functions (SHA-2, SHA-3)",
+          "Message Authentication Codes (HMAC)",
+          "Digital signatures (DSA, RSA signatures)",
+          "Public Key Infrastructure (PKI) and X.509 certificates",
+          "Key management and certificate revocation"
+        ]
+      },
+      {
+        "chapter": "Network Security Protocols",
+        "topics": [
+          "Transport Layer Security (TLS/SSL) handshakes",
+          "IPSec architecture, ESP, and AH",
+          "Secure Email (PGP, S/MIME)",
+          "Authentication protocols (Kerberos, RADIUS)",
+          "Secure Shell (SSH) and network access control"
+        ]
+      },
+      {
+        "chapter": "System Security and Modern Threats",
+        "topics": [
+          "Buffer overflows and memory corruption attacks",
+          "Malware, ransomware, and botnets",
+          "Web application security (XSS, SQL Injection, CSRF)",
+          "Advanced Persistent Threats (APTs)",
+          "Post-quantum cryptography overview"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Science and Big Data Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Big Data",
+        "topics": [
+          "The 5 V's of Big Data and its applications",
+          "Big data infrastructure and distributed storage",
+          "Hadoop ecosystem overview (HDFS, YARN, MapReduce)",
+          "Data lakes vs Data warehouses",
+          "ETL versus ELT pipelines"
+        ]
+      },
+      {
+        "chapter": "Data Exploration and Preprocessing",
+        "topics": [
+          "Handling missing data and outliers",
+          "Data transformation, scaling, and normalization",
+          "Exploratory Data Analysis (EDA) techniques",
+          "Feature engineering methodologies",
+          "Data visualization principles and libraries (Matplotlib, Seaborn)"
+        ]
+      },
+      {
+        "chapter": "Apache Spark and In-Memory Computation",
+        "topics": [
+          "Spark architecture, RDDs, and DataFrames/Datasets",
+          "Spark SQL and catalyst optimizer",
+          "Spark Streaming and real-time analytics",
+          "Machine Learning with Spark MLlib",
+          "GraphX and graph processing"
+        ]
+      },
+      {
+        "chapter": "Advanced Big Data Analytics",
+        "topics": [
+          "Mining massive datasets (PageRank, Locality Sensitive Hashing)",
+          "Recommender systems (Collaborative filtering, matrix factorization)",
+          "Time series analysis and forecasting methodologies",
+          "Market Basket Analysis and Apriori algorithm",
+          "Sentiment analysis and web scraping"
+        ]
+      },
+      {
+        "chapter": "Data Science in Production",
+        "topics": [
+          "Model deployment, API creation, and monitoring",
+          "MLOps lifecycle and reproducibility",
+          "A/B testing and experimentation frameworks",
+          "Data governance, ethics, and privacy constraints",
+          "Case studies of big data in modern enterprises"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Operating Systems",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Process Synchronization and Deadlocks",
+        "topics": [
+          "Advanced synchronization primitives (Monitors, Read-Write locks)",
+          "Concurrent programming and lock-free data structures",
+          "Deadlock detection, prevention, and Banker's algorithm",
+          "Priority inversion and priority inheritance protocols",
+          "Inter-Process Communication (IPC) mechanisms"
+        ]
+      },
+      {
+        "chapter": "Distributed Operating Systems",
+        "topics": [
+          "Architecture and design issues of Distributed OS",
+          "Remote Procedure Calls (RPC) semantics and implementation",
+          "Distributed Shared Memory (DSM)",
+          "Process migration and load balancing",
+          "Clock synchronization and logical clocks"
+        ]
+      },
+      {
+        "chapter": "Multiprocessor and Multicore OS",
+        "topics": [
+          "Scheduling in multiprocessor environments",
+          "Processor affinity and gang scheduling",
+          "Cache coherence and NUMA architectures",
+          "Memory management algorithms for symmetric multiprocessors",
+          "Concurrency issues in multicore OS design"
+        ]
+      },
+      {
+        "chapter": "Real-Time Operating Systems",
+        "topics": [
+          "Hard vs soft real-time systems",
+          "Real-time scheduling (Rate Monotonic, Earliest Deadline First)",
+          "Resource sharing and bounded blocking",
+          "Characteristics of commercial RTOS (VxWorks, FreeRTOS)",
+          "Interrupt handling in real-time environments"
+        ]
+      },
+      {
+        "chapter": "Mobile and Security-Oriented OS",
+        "topics": [
+          "Android/iOS architecture and permission models",
+          "Power management and energy-aware scheduling",
+          "OS security models (Mandatory Access Control, SELinux)",
+          "Trusted Execution Environments (TEE, ARM TrustZone)",
+          "Containerization internals (cgroups, namespaces)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Software Engineering and Project Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Advanced Software Processes",
+        "topics": [
+          "Agile methodologies (Scrum, Kanban, XP)",
+          "DevOps practices and CI/CD pipelines",
+          "Lean software development",
+          "Model-driven engineering and architecture",
+          "Software process improvement (CMMI framework)"
+        ]
+      },
+      {
+        "chapter": "Software Architecture and Design",
+        "topics": [
+          "Architectural patterns (Layered, Microservices, Event-driven)",
+          "Design patterns (Creational, Structural, Behavioral)",
+          "Domain-Driven Design (DDD) concepts",
+          "Component-based software engineering",
+          "Software Refactoring and code smells"
+        ]
+      },
+      {
+        "chapter": "Software Testing and Quality Assurance",
+        "topics": [
+          "Test-Driven Development (TDD) and BDD",
+          "Automated testing frameworks (JUnit, Selenium)",
+          "Performance, load, and security testing",
+          "Software reliability models and metrics",
+          "Static and dynamic code analysis tools"
+        ]
+      },
+      {
+        "chapter": "Software Project Management",
+        "topics": [
+          "Software sizing estimation (Function Points, COCOMO II)",
+          "Risk management planning and mitigation",
+          "Project scheduling techniques (PERT, CPM)",
+          "Resource allocation and tracking",
+          "Earned Value Management (EVM)"
+        ]
+      },
+      {
+        "chapter": "Software Maintenance and Evolution",
+        "topics": [
+          "Types of maintenance (Corrective, Adaptive, Perfective)",
+          "Reverse engineering and software re-engineering",
+          "Configuration management and version control systems",
+          "Technical debt tracking and management",
+          "Legacy system modernization strategies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Natural Language Processing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Text Processing and Morphology",
+        "topics": [
+          "Tokenization, stemming, and lemmatization",
+          "Regular expressions and formal language theory in NLP",
+          "Morphological analysis and Finite State Transducers",
+          "N-gram language models and smoothing techniques",
+          "Part-of-Speech tagging (HMMs, CRFs)"
+        ]
+      },
+      {
+        "chapter": "Syntax and Parsing",
+        "topics": [
+          "Context-Free Grammars for natural language",
+          "Constituency parsing (CYK algorithm, PCFGs)",
+          "Dependency parsing (Transition-based, Graph-based)",
+          "Treebanks and parsing evaluation metrics",
+          "Grammar formalisms (LFG, CCG)"
+        ]
+      },
+      {
+        "chapter": "Semantics and Information Extraction",
+        "topics": [
+          "Lexical semantics (WordNet, distributional semantics)",
+          "Word embeddings (Word2Vec, GloVe, FastText)",
+          "Named Entity Recognition (NER)",
+          "Relation extraction and coreference resolution",
+          "Semantic role labeling"
+        ]
+      },
+      {
+        "chapter": "Deep Learning for NLP",
+        "topics": [
+          "Recurrent Neural Networks (RNNs) and LSTMs/GRUs",
+          "Sequence-to-sequence models and attention mechanism",
+          "Transformer architectures (Self-attention)",
+          "Pre-trained language models (BERT, GPT, T5)",
+          "Fine-tuning and prompt engineering techniques"
+        ]
+      },
+      {
+        "chapter": "NLP Applications",
+        "topics": [
+          "Machine Translation (Statistical and Neural)",
+          "Question Answering systems (Extractive and Generative)",
+          "Text summarization methodologies",
+          "Sentiment analysis and aspect-based opinion mining",
+          "Dialogue systems and conversational agents"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Vision and Image Processing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Digital Image Fundamentals",
+        "topics": [
+          "Image formation models and color spaces",
+          "Image enhancement in spatial domain (Histogram equalization)",
+          "Linear filtering and frequency domain (Fourier transforms)",
+          "Image restoration and noise models",
+          "Morphological image processing algorithms"
+        ]
+      },
+      {
+        "chapter": "Feature Extraction and Segmentation",
+        "topics": [
+          "Edge detection (Canny, Sobel) and corner detection (Harris)",
+          "Hough transform for line and circle detection",
+          "Local feature descriptors (SIFT, SURF, ORB)",
+          "Image segmentation (Thresholding, Region growing)",
+          "Active contours and watershed algorithms"
+        ]
+      },
+      {
+        "chapter": "Multiple View Geometry",
+        "topics": [
+          "Camera calibration and pinhole camera model",
+          "Stereo vision, epipolar geometry, and fundamental matrix",
+          "Disparity map computation",
+          "Structure from Motion (SfM)",
+          "Visual Simultaneous Localization and Mapping (vSLAM)"
+        ]
+      },
+      {
+        "chapter": "Deep Learning for Computer Vision",
+        "topics": [
+          "Convolutional Neural Networks (CNNs) architecture",
+          "Classic CNN models (AlexNet, VGG, ResNet, Inception)",
+          "Transfer learning and fine-tuning strategies",
+          "Semantic segmentation (FCN, U-Net)",
+          "Instance segmentation (Mask R-CNN)"
+        ]
+      },
+      {
+        "chapter": "Object Detection and Tracking",
+        "topics": [
+          "Two-stage object detectors (R-CNN, Fast/Faster R-CNN)",
+          "Single-stage object detectors (YOLO, SSD)",
+          "Object tracking algorithms (Kalman filters, Mean Shift)",
+          "Face recognition and facial landmark detection",
+          "Action recognition in video sequences"
+        ]
+      }
+    ]
+  }
+]

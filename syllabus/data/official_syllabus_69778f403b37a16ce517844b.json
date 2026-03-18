@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Retail Management Fundamentals",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Retailing",
+        "topics": [
+          "Meaning, significance, and functions of retailing",
+          "Evolution of retail (Theories of retail development)",
+          "The Wheel of Retailing and the Retail Accordion theory",
+          "Organized vs. Unorganized retail sectors",
+          "Impact of retailing on the global and local economy"
+        ]
+      },
+      {
+        "chapter": "Retail Formats and Classification",
+        "topics": [
+          "Store-based retail formats (Supermarkets, Hypermarkets, Department stores)",
+          "Non-store retail formats (Direct selling, Vending machines)",
+          "Ownership-based categorization (Independent, Chain, Franchise)",
+          "Service retailing vs. Product retailing",
+          "Emerging hybrid retail formats"
+        ]
+      },
+      {
+        "chapter": "Retail Planning and Strategy",
+        "topics": [
+          "Strategic retail planning process",
+          "Developing a sustainable competitive advantage in retail",
+          "Retail value chain and value proposition",
+          "Strategic positioning and target market selection",
+          "Growth strategies (Market penetration, Expansion, Diversification)"
+        ]
+      },
+      {
+        "chapter": "Retail Location Decisions",
+        "topics": [
+          "Importance of location in retail success",
+          "Types of retail locations (High street, Malls, Freestanding)",
+          "Trade area analysis (Primary, Secondary, Fringe)",
+          "Site evaluation techniques (Huff's Model, Analog approach)",
+          "Terms of occupancy and leasing agreements"
+        ]
+      },
+      {
+        "chapter": "Retail Economics and Finance",
+        "topics": [
+          "Retail accounting basics and the retail method of inventory",
+          "Strategic Profit Model (DuPont model) in retail",
+          "Key retail financial metrics (GMROI, Inventory turnover)",
+          "Capital requirements for starting a retail store",
+          "Budgeting and cash flow management in retail operations"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Retail Store Operations",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Store Operations Overview",
+        "topics": [
+          "Roles and responsibilities of a Store Manager",
+          "Standard Operating Procedures (SOPs) in retail",
+          "Store opening and closing procedures",
+          "Daily duty rosters and floor management",
+          "Metrics for measuring operational efficiency"
+        ]
+      },
+      {
+        "chapter": "Human Resource Management in Retail",
+        "topics": [
+          "Recruitment and selection of store personnel",
+          "Training front-line staff (Product knowledge, Soft skills)",
+          "Scheduling and managing shift work",
+          "Motivation, incentives, and commission structures",
+          "Managing employee turnover in retail"
+        ]
+      },
+      {
+        "chapter": "Customer Service Operations",
+        "topics": [
+          "Building a customer-service culture",
+          "Handling customer complaints and returns (RTO)",
+          "The role of the checkout/POS experience",
+          "Personal shopping and concierge services",
+          "Measuring service quality (Mystery shopping, Feedback loops)"
+        ]
+      },
+      {
+        "chapter": "Shrinkage and Security",
+        "topics": [
+          "Types of retail shrinkage (Shoplifting, Employee theft, Admin errors)",
+          "Electronic Article Surveillance (EAS) and RFID tags",
+          "Store security layout and CCTV monitoring",
+          "Preventing vendor fraud and supply chain losses",
+          "Legal aspects of detaining suspected shoplifters"
+        ]
+      },
+      {
+        "chapter": "Store Maintenance and Energy Management",
+        "topics": [
+          "Preventive maintenance schedules for store fixtures",
+          "Managing store hygiene and cleanliness standards",
+          "Energy conservation and green retail operations",
+          "Waste management and recycling in retail",
+          "Health and safety regulations (Fire safety, Emergency exits)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Merchandise Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of Merchandising",
+        "topics": [
+          "Role of a merchandiser and buyer in retail",
+          "The merchandising process cycle",
+          "Category management and the role of the category captain",
+          "Staple merchandise vs. Fashion/Fad merchandise",
+          "Assortment planning (Breadth vs. Depth)"
+        ]
+      },
+      {
+        "chapter": "Merchandise Planning and Buying",
+        "topics": [
+          "Sales forecasting techniques for retail",
+          "Developing the Assortment Plan",
+          "Open-to-Buy (OTB) systems and calculations",
+          "Sourcing merchandise (Domestic vs. Global sourcing)",
+          "Evaluating and selecting vendors/suppliers"
+        ]
+      },
+      {
+        "chapter": "Pricing Strategies in Retail",
+        "topics": [
+          "Factors affecting retail pricing strategies",
+          "Pricing models (EDLP vs. High/Low pricing)",
+          "Markup, Markdown, and Margin calculations",
+          "Psychological pricing and odd-even pricing",
+          "Dynamic pricing and promotional pricing"
+        ]
+      },
+      {
+        "chapter": "Inventory Management and Control",
+        "topics": [
+          "Perpetual vs. Periodic inventory systems",
+          "Stock turnover rates and Weeks of Supply (WOS)",
+          "ABC analysis of inventory",
+          "Handling slow-moving and obsolete inventory",
+          "Stock audits and physical inventory counts"
+        ]
+      },
+      {
+        "chapter": "Private Label Management",
+        "topics": [
+          "Evolution of private labels (Store brands)",
+          "Benefits of private labels to retailers and consumers",
+          "Developing a private label strategy",
+          "Positioning private labels against national brands",
+          "Sourcing and quality control for store brands"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Retail Marketing and Branding",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Retail Marketing Mix",
+        "topics": [
+          "The expanded marketing mix (7Ps) in retail context",
+          "Retail marketing planning and budgeting",
+          "Understanding the retail target audience",
+          "Defining the retail value proposition",
+          "Positioning the retail store in the consumer's mind"
+        ]
+      },
+      {
+        "chapter": "Retail Branding Strategy",
+        "topics": [
+          "The concept of retail-as-a-brand",
+          "Building brand equity for retail stores",
+          "Store image dimensions (Atmosphere, Service, Quality)",
+          "Brand personality of a retail outlet",
+          "Brand extensions and co-branding in retail"
+        ]
+      },
+      {
+        "chapter": "Retail Advertising and Promotions",
+        "topics": [
+          "Objectives of retail advertising",
+          "Media selection for retail (Print, Radio, Digital, OOH)",
+          "Planning a retail promotional calendar",
+          "In-store promotions (BOGO, Flash sales, Point-of-Purchase displays)",
+          "Evaluating advertising and promotional effectiveness"
+        ]
+      },
+      {
+        "chapter": "Digital Marketing for Retail",
+        "topics": [
+          "Hyperlocal marketing and geotargeting",
+          "Social media strategies for retail engagement",
+          "Influencer marketing in fashion and lifestyle retail",
+          "Email marketing and SMS campaigns for footfall",
+          "Managing online reviews and local SEO (Google My Business)"
+        ]
+      },
+      {
+        "chapter": "Public Relations and Events",
+        "topics": [
+          "Role of PR in managing retail crises",
+          "Organizing in-store events and product launches",
+          "Community engagement and CSR in retail",
+          "Sponsorships and local partnerships",
+          "Loyalty programs as a marketing tool"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Visual Merchandising and Space Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Visual Merchandising",
+        "topics": [
+          "Definition, purpose, and impact of Visual Merchandising (VM)",
+          "The role of the Visual Merchandiser",
+          "Elements of design (Line, Shape, Size, Space)",
+          "Principles of design (Balance, Proportion, Rhythm, Emphasis)",
+          "Color theory and its psychological impact in retail"
+        ]
+      },
+      {
+        "chapter": "Exterior and Window Displays",
+        "topics": [
+          "Elements of the store exterior (Fascia, Marquees, Entrances)",
+          "Types of window displays (Open-back, Closed-back, Shadow boxes)",
+          "Themes and storytelling in window dressing",
+          "Scheduling and rotating window displays",
+          "Props, signage, and mannequins in windows"
+        ]
+      },
+      {
+        "chapter": "In-Store Displays and Fixtures",
+        "topics": [
+          "Types of interior displays (Endcaps, Gondolas, Dump bins)",
+          "Point-of-Sale (POS) and Point-of-Purchase (POP) displays",
+          "Choosing the right fixtures for different merchandise types",
+          "Merchandising techniques (Color blocking, Cross-merchandising)",
+          "Lighting techniques in VM (Ambient, Accent, Task lighting)"
+        ]
+      },
+      {
+        "chapter": "Space Planning and Management",
+        "topics": [
+          "The economics of retail space (Sales per square foot)",
+          "Allocating floor space to categories and departments",
+          "Planograms: Creation, implementation, and compliance",
+          "Hot spots and cold spots on the retail floor",
+          "Managing seasonal space transitions"
+        ]
+      },
+      {
+        "chapter": "Atmospherics and Sensory Retailing",
+        "topics": [
+          "The concept of retail atmospherics",
+          "Auditory elements: Music tempo and volume effects",
+          "Olfactory elements: Scent marketing",
+          "Tactile elements: Encouraging product interaction",
+          "Creating experiential and immersive retail spaces"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Retail Consumer Behavior",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Understanding the Retail Consumer",
+        "topics": [
+          "Characteristics of the modern retail shopper",
+          "The retail purchase decision-making process",
+          "Types of buying decisions (Routine, Limited, Extended)",
+          "Impulse buying behavior and triggers",
+          "The paradox of choice in retail assortments"
+        ]
+      },
+      {
+        "chapter": "Psychological Influences on Shoppers",
+        "topics": [
+          "Shopper motivation (Utilitarian vs. Hedonic shopping motives)",
+          "Perception and information processing in-store",
+          "Learning and habit formation in retail formats",
+          "Attitudes towards store brands vs. national brands",
+          "The psychology of pricing and discounts"
+        ]
+      },
+      {
+        "chapter": "Sociological Influences",
+        "topics": [
+          "Impact of culture and subculture on retail preferences",
+          "Social class and store patronage",
+          "Reference groups and word-of-mouth in retail",
+          "Family decision making (Role of children and spouses)",
+          "Generational shopping habits (Gen Z vs. Millennials vs. Boomers)"
+        ]
+      },
+      {
+        "chapter": "The Shopper Journey and Experience",
+        "topics": [
+          "Mapping the in-store vs. online customer journey",
+          "Touchpoint analysis in retail",
+          "Showrooming vs. Webrooming behaviors",
+          "Factors influencing store loyalty",
+          "Post-purchase evaluation and cognitive dissonance"
+        ]
+      },
+      {
+        "chapter": "Consumer Research in Retail",
+        "topics": [
+          "Techniques for studying shopper behavior (Observation, Heat maps)",
+          "Focus groups and shopper exit interviews",
+          "Using loyalty card data to track consumer shifts",
+          "Ethical issues in tracking consumer behavior",
+          "Predicting future consumer trends"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Supply Chain Management in Retail",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Retail Logistics Overview",
+        "topics": [
+          "The role of the supply chain in retail competitiveness",
+          "Retail supply chain vs. Manufacturing supply chain",
+          "Information flow, product flow, and cash flow",
+          "Push vs. Pull retail supply chain models",
+          "The Bullwhip Effect in retail and its mitigation"
+        ]
+      },
+      {
+        "chapter": "Distribution Centers and Warehousing",
+        "topics": [
+          "Role of the Retail Distribution Center (DC)",
+          "Direct Store Delivery (DSD) vs. Centralized distribution",
+          "Cross-docking operations in retail",
+          "Warehouse Management Systems (WMS)",
+          "Order picking and sorting technologies"
+        ]
+      },
+      {
+        "chapter": "Efficient Consumer Response (ECR)",
+        "topics": [
+          "Principles of ECR and Quick Response (QR)",
+          "Vendor-Managed Inventory (VMI) in retail",
+          "Collaborative Planning, Forecasting, and Replenishment (CPFR)",
+          "Continuous Replenishment Programs (CRP)",
+          "Benefits of collaboration between retailers and suppliers"
+        ]
+      },
+      {
+        "chapter": "Transportation and Last-Mile Delivery",
+        "topics": [
+          "Managing inbound and outbound freight",
+          "Fleet management vs. Outsourcing to 3PLs",
+          "Challenges of last-mile delivery in urban areas",
+          "Click-and-Collect (BOPIS) logistics",
+          "Green logistics and sustainable retail supply chains"
+        ]
+      },
+      {
+        "chapter": "Reverse Logistics in Retail",
+        "topics": [
+          "The cost and impact of retail returns",
+          "Designing the reverse logistics network",
+          "Refurbishment, repackaging, and liquidators",
+          "Managing e-commerce vs. brick-and-mortar returns",
+          "Return fraud and mitigation strategies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "E-tailing and Omnichannel Retailing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Evolution of E-tailing",
+        "topics": [
+          "Growth drivers of e-commerce and m-commerce",
+          "Types of e-tailing models (B2C, C2C, D2C, Marketplaces)",
+          "Advantages and limitations of online retailing",
+          "Pure-play online retailers vs. Bricks-and-clicks",
+          "The economics of an e-commerce transaction"
+        ]
+      },
+      {
+        "chapter": "Managing an E-Commerce Operation",
+        "topics": [
+          "E-commerce platform selection (Shopify, Magento, Custom)",
+          "UX/UI principles for e-commerce websites",
+          "Online merchandising and product catalog management",
+          "Shopping cart abandonment causes and solutions",
+          "Payment gateways and online security (PCI DSS)"
+        ]
+      },
+      {
+        "chapter": "The Omnichannel Paradigm",
+        "topics": [
+          "Multichannel vs. Cross-channel vs. Omnichannel",
+          "Creating a seamless customer experience across touchpoints",
+          "Integrating online and offline inventory systems",
+          "Endless aisle concept in physical stores",
+          "BOPIS (Buy Online, Pick Up In Store) and BORIS strategies"
+        ]
+      },
+      {
+        "chapter": "E-Commerce Fulfillment",
+        "topics": [
+          "Fulfillment models (Dropshipping, 3PL, In-house)",
+          "Micro-fulfillment centers and dark stores",
+          "Packaging strategies for e-commerce",
+          "Managing peak season (e.g., Black Friday, Diwali) logistics",
+          "Unboxing experience as a marketing tool"
+        ]
+      },
+      {
+        "chapter": "Future Trends in E-tailing",
+        "topics": [
+          "Social commerce (Shopping via Instagram, TikTok)",
+          "Live-stream e-commerce and influencer selling",
+          "Voice commerce (Shopping via Smart Speakers)",
+          "Subscription box models",
+          "Augmented Reality (AR) try-ons in e-tailing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Retail Technology and Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "In-Store Technologies",
+        "topics": [
+          "Evolution of Point of Sale (POS) systems (mPOS, Cloud POS)",
+          "Self-checkout systems and Scan & Go technologies",
+          "Electronic Shelf Labels (ESL)",
+          "Interactive kiosks and smart mirrors",
+          "Beacon technology and location-based triggers"
+        ]
+      },
+      {
+        "chapter": "Retail Data Ecosystem",
+        "topics": [
+          "Sources of data (Transactions, Loyalty programs, Footfall counters)",
+          "Data warehousing and cloud storage for retail",
+          "Integrating ERP and Retail Management Systems",
+          "Data privacy laws (GDPR compliance in retail)",
+          "Master Data Management (MDM) for product catalogs"
+        ]
+      },
+      {
+        "chapter": "Retail Analytics Applications",
+        "topics": [
+          "Market basket analysis and cross-selling recommendations",
+          "Customer Lifetime Value (CLV) modeling",
+          "Churn prediction for retail loyalty programs",
+          "Price elasticity and dynamic pricing algorithms",
+          "Sales forecasting using Machine Learning"
+        ]
+      },
+      {
+        "chapter": "Inventory and Supply Chain Tech",
+        "topics": [
+          "RFID applications from warehouse to sales floor",
+          "Blockchain for supply chain traceability in retail",
+          "Automated Guided Vehicles (AGVs) in retail warehouses",
+          "Demand sensing and AI-driven replenishment",
+          "Computer vision for on-shelf availability monitoring"
+        ]
+      },
+      {
+        "chapter": "AI and Emerging Innovations",
+        "topics": [
+          "Conversational AI and retail chatbots",
+          "Personalization engines for online and offline retail",
+          "Cashierless stores (e.g., Amazon Go technology)",
+          "Metaverse applications for retail brands",
+          "The future of retail jobs in the age of automation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Luxury and Fashion Retailing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Fashion Retail Industry",
+        "topics": [
+          "Characteristics of fashion goods (Seasonality, Fad vs. Classic)",
+          "The fashion cycle and adoption theories",
+          "Fast fashion vs. Slow fashion models",
+          "The role of fashion weeks and trend forecasting agencies",
+          "Sustainability and ethical sourcing in fashion retail"
+        ]
+      },
+      {
+        "chapter": "Understanding Luxury",
+        "topics": [
+          "Defining luxury (Exclusivity, Craftsmanship, Heritage)",
+          "The paradoxes of luxury marketing",
+          "Democratization of luxury (Masstige)",
+          "The luxury consumer profile (Old money vs. HENRYs)",
+          "Categories of luxury (Haute couture, Accessories, Watches)"
+        ]
+      },
+      {
+        "chapter": "Merchandising and Buying in Fashion",
+        "topics": [
+          "Fashion buying cycles and Open-to-Buy planning",
+          "Sizing analysis and pre-pack planning",
+          "Managing markdowns and clearance sales",
+          "Role of the fashion buyer and attending trade shows",
+          "Collaborations and limited-edition capsule collections"
+        ]
+      },
+      {
+        "chapter": "Luxury Store Operations and VM",
+        "topics": [
+          "The luxury boutique specific operations",
+          "Clienteling and building long-term relationships",
+          "The role of VIP rooms and personalized services",
+          "Sensory branding and minimalism in luxury VM",
+          "Security protocols for high-value merchandise"
+        ]
+      },
+      {
+        "chapter": "Digital Luxury and Future Trends",
+        "topics": [
+          "Overcoming the hesitation of selling luxury online",
+          "Omnichannel strategies for luxury brands",
+          "Counterfeit goods and brand protection mechanisms",
+          "The resale market and luxury rentals (Circular fashion)",
+          "NFTs and digital fashion in the Metaverse"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mall Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Shopping Malls",
+        "topics": [
+          "Evolution and types of shopping centers (Strip, Regional, Super-regional)",
+          "The concept of placemaking in mall development",
+          "The economic impact of malls on local communities",
+          "Key stakeholders (Developers, Tenants, Consumers)",
+          "Trends: From shopping centers to lifestyle destinations"
+        ]
+      },
+      {
+        "chapter": "Mall Architecture and Layout",
+        "topics": [
+          "Site selection and catchment area analysis for malls",
+          "Mall design principles (Circulation, Sightlines, Anchors)",
+          "Tenant mix and zoning strategies",
+          "Role of food courts, entertainment, and multiplexes (FECs)",
+          "Parking management and accessibility infrastructure"
+        ]
+      },
+      {
+        "chapter": "Leasing and Tenant Management",
+        "topics": [
+          "Types of leases (Fixed, Revenue-sharing, Minimum guarantee)",
+          "Lease negotiation and Common Area Maintenance (CAM) charges",
+          "Anchor tenants vs. Vanilla box tenants",
+          "Strategies for minimizing vacancy rates",
+          "Managing tenant relationships and fit-out guidelines"
+        ]
+      },
+      {
+        "chapter": "Mall Marketing and Promotions",
+        "topics": [
+          "Positioning and branding the mall",
+          "Planning an annual mall marketing calendar",
+          "Organizing large-scale events and footfall drivers",
+          "Mall loyalty programs and digital apps",
+          "Revenue generation through mall sponsorships and kiosks"
+        ]
+      },
+      {
+        "chapter": "Facilities and Operations Management",
+        "topics": [
+          "Housekeeping and hygiene management",
+          "Security systems, crowd control, and emergency protocols",
+          "HVAC and energy management in large structures",
+          "Waste management and sustainability initiatives",
+          "The impact of e-commerce on physical malls (The 'Dead Mall' phenomenon)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Customer Relationship Management in Retail",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of Retail CRM",
+        "topics": [
+          "Shift from transaction-based to relationship-based retailing",
+          "The CRM value chain in retail",
+          "Customer Lifetime Value (CLV) calculation",
+          "Cost of customer acquisition vs. Retention",
+          "Strategic vs. Operational CRM"
+        ]
+      },
+      {
+        "chapter": "Loyalty Programs",
+        "topics": [
+          "Types of loyalty programs (Points, Tiered, Paid, Coalitions)",
+          "Designing an effective reward structure",
+          "The psychology of gamification in loyalty cards",
+          "Analyzing loyalty program data for insights",
+          "Reasons why loyalty programs fail"
+        ]
+      },
+      {
+        "chapter": "Personalization and Targeted Marketing",
+        "topics": [
+          "Customer segmentation techniques (RFM analysis)",
+          "Tailoring promotions based on purchase history",
+          "Location-based personalized offers via mobile apps",
+          "Predictive analytics for next-best-offer recommendations",
+          "Balancing personalization with customer privacy concerns"
+        ]
+      },
+      {
+        "chapter": "Managing Customer Interactions",
+        "topics": [
+          "Omnichannel customer service centers",
+          "Social media CRM and handling public complaints",
+          "Empowering store staff with CRM data via tablets",
+          "The role of the retail CRM manager",
+          "Measuring CRM effectiveness (CSAT, NPS)"
+        ]
+      },
+      {
+        "chapter": "CRM Technologies and Trends",
+        "topics": [
+          "Overview of major retail CRM software systems",
+          "Integrating CRM with POS and e-commerce platforms",
+          "AI-driven sentiment analysis on customer feedback",
+          "Blockchain for customer data security and transparent loyalty points",
+          "The future: Clienteling vs. traditional CRM"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Retail Store Design and Layout",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Principles of Store Design",
+        "topics": [
+          "Objectives of store design (Sales, Flow, Brand image)",
+          "Influence of store design on the customer journey",
+          "Legal requirements (ADA compliance, Fire codes)",
+          "Flexibility in store design for seasonal changes",
+          "The role of the store architect and interior designer"
+        ]
+      },
+      {
+        "chapter": "Floor Plans and Layout Types",
+        "topics": [
+          "Grid layout (Pros/Cons, typical usage)",
+          "Racetrack / Loop layout architecture",
+          "Free-form / Boutique layout principles",
+          "Spine and diagonal layouts",
+          "Analyzing traffic flow patterns (Right-hand turn bias)"
+        ]
+      },
+      {
+        "chapter": "Space Allocation Strategies",
+        "topics": [
+          "Determining the size of selling vs. non-selling areas",
+          "Category adjacencies (Complementary product placement)",
+          "Decompression zones and their importance",
+          "Locating high-margin vs. high-volume categories",
+          "Placement of the POS counter and fitting rooms"
+        ]
+      },
+      {
+        "chapter": "Store Interiors and Materials",
+        "topics": [
+          "Ceiling, flooring, and wall treatment choices",
+          "Psychology of materials (Wood vs. Metal vs. Glass)",
+          "Signage and wayfinding systems (Directional, Category, POS)",
+          "Acoustic treatments in retail environments",
+          "Sustainable materials in modern store design"
+        ]
+      },
+      {
+        "chapter": "Integrating Digital into Physical Design",
+        "topics": [
+          "Phygital store concepts",
+          "Designing spaces for Click-and-Collect operations",
+          "Digital signage and interactive video walls",
+          "Smart fitting rooms (RFID mirrors)",
+          "Designing for Instagram 'shareability' (Selfie spots)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Retailing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to International Retailing",
+        "topics": [
+          "Motivations for retailers to expand internationally",
+          "Characteristics of global vs. multinational retailers",
+          "The Uppsala stages model of internationalization",
+          "Challenges of international retailing (Cultural, Legal, Logistical)",
+          "Assessing country risk and retail market readiness"
+        ]
+      },
+      {
+        "chapter": "Market Entry Strategies",
+        "topics": [
+          "Wholly owned subsidiaries (Greenfield vs. Acquisition)",
+          "International joint ventures and strategic alliances",
+          "Master franchising across borders",
+          "Exporting concepts via e-commerce cross-border sales",
+          "Factors determining the choice of entry mode"
+        ]
+      },
+      {
+        "chapter": "Standardization vs. Adaptation",
+        "topics": [
+          "Adapting the merchandise mix to local tastes",
+          "Standardizing the retail brand identity globally",
+          "Varying store layouts and formats based on local real estate",
+          "Pricing strategy adaptations (Tariffs, PPP, Local competition)",
+          "Case studies of successful and failed adaptations (e.g., Walmart in Germany)"
+        ]
+      },
+      {
+        "chapter": "Global Supply Chain Challenges in Retail",
+        "topics": [
+          "Managing long lead times and inventory for distant stores",
+          "Navigating international customs and tariffs",
+          "Local sourcing vs. Global sourcing for international outlets",
+          "Establishing regional distribution centers",
+          "Ethical sourcing policies across different labor markets"
+        ]
+      },
+      {
+        "chapter": "Future of Global Retail Markets",
+        "topics": [
+          "The rise of retail in emerging markets (India, China, Africa)",
+          "Impact of cross-border e-commerce (e.g., AliExpress, Shein)",
+          "Regulatory challenges (FDI rules in multi-brand retail)",
+          "Global retail consolidation and mega-mergers",
+          "The impact of geopolitical tensions on global retail operations"
+        ]
+      }
+    ]
+  }
+]

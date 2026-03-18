@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Operations Management Fundamentals",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Operations Management",
+        "topics": [
+          "Role and evolution of Operations Management",
+          "Distinction between manufacturing and service operations",
+          "Operations as a competitive advantage",
+          "Productivity measurement and improvement",
+          "Recent trends in OM (Automation, Sustainability)"
+        ]
+      },
+      {
+        "chapter": "Product and Service Design",
+        "topics": [
+          "New product development process",
+          "Quality Function Deployment (QFD) and House of Quality",
+          "Design for Manufacturability and Assembly (DFMA)",
+          "Service blueprinting and design",
+          "Value Analysis and Value Engineering (VA/VE)"
+        ]
+      },
+      {
+        "chapter": "Process Selection and Facility Layout",
+        "topics": [
+          "Types of production processes (Job shop, Batch, Repetitive, Continuous)",
+          "Process-product matrix",
+          "Layout types (Product, Process, Fixed-position, Cellular)",
+          "Line balancing heuristics",
+          "Facility design and planning algorithms"
+        ]
+      },
+      {
+        "chapter": "Capacity Planning and Facility Location",
+        "topics": [
+          "Design capacity vs Effective capacity",
+          "Strategies for capacity planning (Leading, Following, Tracking)",
+          "Factors influencing facility location",
+          "Location analysis methods (Factor rating, Center of Gravity, Transportation model)",
+          "Global location decisions"
+        ]
+      },
+      {
+        "chapter": "Work Design and Measurement",
+        "topics": [
+          "Job design approaches",
+          "Method study and motion economy principles",
+          "Time study with stopwatches and setting standard times",
+          "Work sampling techniques",
+          "Ergonomics and human factors engineering"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Supply Chain Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Supply Chain Management",
+        "topics": [
+          "Objectives, evolution, and scope of SCM",
+          "Supply chain flows (Material, Information, Cash)",
+          "The bullwhip effect and its causes",
+          "Push vs Pull supply chain models",
+          "Supply Chain Operations Reference (SCOR) framework"
+        ]
+      },
+      {
+        "chapter": "Supply Chain Network Design",
+        "topics": [
+          "Factors affecting network design decisions",
+          "Models for facility location and capacity allocation",
+          "Role of IT in network design",
+          "Omnichannel network structures",
+          "Distribution network configurations (Direct shipping, Cross-docking)"
+        ]
+      },
+      {
+        "chapter": "Supply and Demand Matching",
+        "topics": [
+          "Demand forecasting techniques in SCM",
+          "Sales and Operations Planning (S&OP)",
+          "Managing predictable variability",
+          "Collaborative Planning, Forecasting, and Replenishment (CPFR)",
+          "Agile and responsive supply chain strategies"
+        ]
+      },
+      {
+        "chapter": "Sourcing and Supplier Management",
+        "topics": [
+          "Make vs Buy decisions",
+          "Strategic sourcing and Kraljic matrix",
+          "Supplier evaluation and selection criteria",
+          "Supplier relationship management (SRM)",
+          "Global sourcing challenges"
+        ]
+      },
+      {
+        "chapter": "Supply Chain Coordination and Performance",
+        "topics": [
+          "Mechanisms to achieve supply chain coordination",
+          "Information sharing and VMI (Vendor Managed Inventory)",
+          "Performance measurement and KPIs in SC",
+          "The Balanced Scorecard for SCM",
+          "Risk management and supply chain resilience"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quality Management and Six Sigma",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Quality Concepts and Gurus",
+        "topics": [
+          "Definition of quality (Product vs Service context)",
+          "Cost of Quality (Prevention, Appraisal, Internal/External failure)",
+          "Deming's 14 points and Profound Knowledge",
+          "Juran's Quality Trilogy",
+          "Crosby's Zero Defects and Ishikawa's Total Quality Control"
+        ]
+      },
+      {
+        "chapter": "Total Quality Management (TQM)",
+        "topics": [
+          "Principles and implementation of TQM",
+          "Continuous improvement (Kaizen, PDCA cycle)",
+          "Employee involvement and Quality Circles",
+          "ISO 9000 series standards and certification",
+          "Quality awards (Malcolm Baldrige, Deming Prize)"
+        ]
+      },
+      {
+        "chapter": "Statistical Process Control (SPC)",
+        "topics": [
+          "Causes of variation (Common vs Special causes)",
+          "Control charts for variables (X-bar and R charts)",
+          "Control charts for attributes (p, np, c, u charts)",
+          "Process Capability Indices (Cp, Cpk)",
+          "Acceptance sampling plans"
+        ]
+      },
+      {
+        "chapter": "Six Sigma Methodology",
+        "topics": [
+          "Concept and statistical definition of Six Sigma",
+          "DMAIC methodology (Define, Measure, Analyze, Improve, Control)",
+          "DMADV methodology for Design for Six Sigma (DFSS)",
+          "Six Sigma roles (Champions, Master Black Belts, Green Belts)",
+          "Critical to Quality (CTQ) trees"
+        ]
+      },
+      {
+        "chapter": "Tools of Quality and Six Sigma",
+        "topics": [
+          "The Seven Basic Quality Tools",
+          "The Seven New Management and Planning Tools",
+          "Failure Mode and Effects Analysis (FMEA)",
+          "Poka-Yoke (Mistake proofing)",
+          "Root Cause Analysis and 5 Whys"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Project Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Project Management",
+        "topics": [
+          "Characteristics of a project and project life cycle",
+          "Role of a project manager",
+          "Project selection and justification (Financial models)",
+          "Project Management Office (PMO)",
+          "Organizational structures for project management"
+        ]
+      },
+      {
+        "chapter": "Project Planning and Scope",
+        "topics": [
+          "Project charter and scope statement",
+          "Work Breakdown Structure (WBS)",
+          "Project organizational breakdown structure (OBS)",
+          "Responsibility Assignment Matrix (RACI chart)",
+          "Defining deliverables and milestones"
+        ]
+      },
+      {
+        "chapter": "Project Scheduling and Networks",
+        "topics": [
+          "Activity sequencing and dependency relationships",
+          "Program Evaluation and Review Technique (PERT)",
+          "Critical Path Method (CPM)",
+          "Gantt charts and schedule development",
+          "Resource leveling and resource-constrained scheduling"
+        ]
+      },
+      {
+        "chapter": "Project Cost and Risk Management",
+        "topics": [
+          "Cost estimation techniques (Analogous, Parametric, Bottom-up)",
+          "Budgeting and time-phased budgets",
+          "Risk identification and qualitative/quantitative risk analysis",
+          "Risk response planning and risk registers",
+          "Earned Value Management (EVM) for cost/schedule control"
+        ]
+      },
+      {
+        "chapter": "Project Execution and Agile Methods",
+        "topics": [
+          "Team development and conflict resolution in projects",
+          "Project tracking, reporting, and change control",
+          "Agile vs Waterfall project management",
+          "Scrum framework (Roles, Events, Artifacts)",
+          "Project closure and post-implementation reviews"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Logistics and Distribution Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Logistics",
+        "topics": [
+          "Logistics definition, objectives, and role in SCM",
+          "Types of logistics (Inbound, Outbound, Reverse)",
+          "Total cost concept and logistics trade-offs",
+          "Customer service in logistics (Perfect order metric)",
+          "Outsourcing logistics: 3PL, 4PL, and 5PL"
+        ]
+      },
+      {
+        "chapter": "Transportation Management",
+        "topics": [
+          "Modes of transportation and their characteristics",
+          "Multimodal and intermodal transportation",
+          "Transportation costing and pricing strategies",
+          "Routing and scheduling of vehicles (VRP)",
+          "Fleet management and tracking technologies"
+        ]
+      },
+      {
+        "chapter": "Warehousing and Material Handling",
+        "topics": [
+          "Functions and types of warehouses",
+          "Warehouse design, layout, and space allocation",
+          "Warehouse operations (Receiving, Put-away, Picking, Shipping)",
+          "Material handling equipment and selection principles",
+          "Automated Storage and Retrieval Systems (AS/RS)"
+        ]
+      },
+      {
+        "chapter": "Distribution Channel and Network",
+        "topics": [
+          "Role of distribution networks in supply chain",
+          "Distribution network design considerations",
+          "Direct shipping, Cross-docking, and Hub-and-spoke models",
+          "Last-mile delivery operations and challenges",
+          "Retail logistics and e-commerce fulfillment"
+        ]
+      },
+      {
+        "chapter": "Global and Reverse Logistics",
+        "topics": [
+          "Challenges in global logistics management",
+          "International trade documentation and customs",
+          "Incoterms 2020",
+          "Reverse logistics for returns and recycling",
+          "Green logistics and carbon footprint reduction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Operations Strategy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Operations Strategy",
+        "topics": [
+          "Concept and role of Operations Strategy",
+          "Linkage between Corporate, Business, and Operations strategies",
+          "Hayes and Wheelwright's four-stage model",
+          "Operations competitive dimensions (Cost, Quality, Speed, Flexibility)",
+          "Order qualifiers and order winners"
+        ]
+      },
+      {
+        "chapter": "Structural and Infrastructural Decisions",
+        "topics": [
+          "Capacity strategy and timing of capacity additions",
+          "Facility strategy and global footprints",
+          "Technology strategy and adoption of flexible manufacturing",
+          "Vertical integration and sourcing strategy",
+          "Infrastructural decisions (Quality systems, Workforce organization)"
+        ]
+      },
+      {
+        "chapter": "Process Choice and Capability",
+        "topics": [
+          "Strategic implications of process choice",
+          "Focused factory concept (Skinner)",
+          "Mass customization vs Mass production",
+          "Agile manufacturing and continuous flow systems",
+          "Developing dynamic capabilities in operations"
+        ]
+      },
+      {
+        "chapter": "Product-Service Innovation Strategy",
+        "topics": [
+          "Aligning operations with product life cycle",
+          "Servitization of manufacturing",
+          "Technology push vs Market pull innovation",
+          "Open innovation in operations",
+          "Time-based competition and speed-to-market"
+        ]
+      },
+      {
+        "chapter": "Evaluating and Executing Strategy",
+        "topics": [
+          "Strategic performance measurement systems",
+          "Benchmarking operational performance",
+          "Managing change in operations strategy",
+          "Sustainability as a core operations strategy",
+          "Risk mitigation and strategic resilience"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Lean Management Systems",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Principles of Lean Management",
+        "topics": [
+          "Origins of Lean (Toyota Production System - TPS)",
+          "The five lean principles (Value, Value Stream, Flow, Pull, Perfection)",
+          "Identify and eliminate the 7 wastes (Muda, Mura, Muri)",
+          "Lean culture and respect for people",
+          "Differences between Lean, Six Sigma, and traditional mass production"
+        ]
+      },
+      {
+        "chapter": "Value Stream Mapping (VSM)",
+        "topics": [
+          "Purpose and components of VSM",
+          "Current state mapping and identifying bottlenecks",
+          "Future state mapping and ideal state",
+          "Cycle time, lead time, and TAKT time calculation",
+          "Implementing VSM improvements"
+        ]
+      },
+      {
+        "chapter": "Just-In-Time (JIT) and Flow Concept",
+        "topics": [
+          "JIT concepts and prerequisites",
+          "Pull systems vs Push systems",
+          "Kanban system design and card calculation",
+          "Continuous flow manufacturing and cellular layouts",
+          "Heijunka (Production leveling and smoothing)"
+        ]
+      },
+      {
+        "chapter": "Standardization and visual Controls",
+        "topics": [
+          "Standardized work and standard operating procedures (SOPs)",
+          "5S methodology (Sort, Set in order, Shine, Standardize, Sustain)",
+          "Visual management and Andon systems",
+          "Jidoka (Autonomation and built-in quality)",
+          "Total Productive Maintenance (TPM) and OEE"
+        ]
+      },
+      {
+        "chapter": "Continuous Improvement and Setup Reduction",
+        "topics": [
+          "Kaizen events and rapid improvement blitzes",
+          "Single Minute Exchange of Die (SMED) methodology",
+          "Internal vs External setup time conversion",
+          "Lean in services and administration (Lean Office)",
+          "Hoshin Kanri (Policy Deployment)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Inventory and Warehouse Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Inventory Fundamentals",
+        "topics": [
+          "Functions, types, and importance of inventory",
+          "Inventory costs (Holding, Ordering, Shortage)",
+          "Independent vs Dependent demand inventory",
+          "Inventory classification and ABC analysis",
+          "VED, FSN, and XYZ analysis techniques"
+        ]
+      },
+      {
+        "chapter": "Deterministic Inventory Models",
+        "topics": [
+          "Economic Order Quantity (EOQ) model derivation",
+          "Economic Production Quantity (EPQ)",
+          "Quantity discount models",
+          "Planned shortage models",
+          "Sensitivity of the EOQ model"
+        ]
+      },
+      {
+        "chapter": "Probabilistic Inventory Models",
+        "topics": [
+          "Safety stock and service levels",
+          "Continuous review system (Q-system / Reorder point model)",
+          "Periodic review system (P-system / Base-stock model)",
+          "Single-period inventory model (Newsboy problem)",
+          "Joint replenishment strategies"
+        ]
+      },
+      {
+        "chapter": "Warehouse Operations and Strategy",
+        "topics": [
+          "Warehouse design criteria (Space, Flow, Activity)",
+          "Storage policies (Dedicated, Randomized, Class-based)",
+          "Order picking strategies (Zone, Batch, Wave)",
+          "Cross-docking and evaluating its feasibility",
+          "Measuring warehouse performance (Throughput, Accuracy)"
+        ]
+      },
+      {
+        "chapter": "Advanced Inventory Systems",
+        "topics": [
+          "Vendor Managed Inventory (VMI) frameworks",
+          "Consignment inventory",
+          "Multi-echelon inventory optimization",
+          "Warehouse Management Systems (WMS) capabilities",
+          "Impact of RFID, Barcoding, and Drones on inventory control"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Service Operations Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Characteristics of Service Operations",
+        "topics": [
+          "Service packages and physical evidence",
+          "Service process matrix (Schmenner's matrix)",
+          "Customer contact model (High vs Low contact)",
+          "Service design algorithms and blueprinting",
+          "The Front-office and Back-office relationship"
+        ]
+      },
+      {
+        "chapter": "Managing Service Capacity and Demand",
+        "topics": [
+          "Strategies for altering capacity in services",
+          "Strategies for managing demand in services",
+          "Yield management and dynamic pricing in services",
+          "Queuing theory basics for services (Single/Multi-channel models)",
+          "Psychology of waiting and managing perceived wait times"
+        ]
+      },
+      {
+        "chapter": "Service Quality and Failure Recovery",
+        "topics": [
+          "SERVQUAL framework and service quality gaps",
+          "Walk-through audits (SqA)",
+          "Service guarantees and their design",
+          "Service failure and recovery paradigms",
+          "Empowerment of service employees"
+        ]
+      },
+      {
+        "chapter": "Lean and Innovation in Services",
+        "topics": [
+          "Application of Lean principles to services",
+          "Reducing waste in service transactions",
+          "Automation and self-service technologies (SSTs)",
+          "Service innovation processes",
+          "Design thinking in service development"
+        ]
+      },
+      {
+        "chapter": "Sector-Specific Service Operations",
+        "topics": [
+          "Healthcare operations management and bottleneck reduction",
+          "Hospitality operations (Hotels, Airlines)",
+          "Retail service operations",
+          "Financial service operations modeling",
+          "IT Service operations (ITIL framework overview)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Sourcing and Procurement",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Purchasing and Procurement Fundamentals",
+        "topics": [
+          "Role and contribution of purchasing in organizations",
+          "Procure-to-Pay (P2P) cycle",
+          "Centralized vs Decentralized purchasing structures",
+          "Types of purchases (Direct, Indirect, MRO, Capital)",
+          "Legal and ethical aspects of purchasing"
+        ]
+      },
+      {
+        "chapter": "Strategic Sourcing",
+        "topics": [
+          "Sourcing process and spend analysis",
+          "Kraljic portfolio purchasing model",
+          "Single sourcing vs Multiple sourcing",
+          "Global sourcing and low-cost country sourcing (LCCS)",
+          "Total Cost of Ownership (TCO) calculation"
+        ]
+      },
+      {
+        "chapter": "Supplier Evaluation and Relationship",
+        "topics": [
+          "Supplier identification and qualification",
+          "Supplier selection criteria and weighting methods",
+          "Supplier performance measurement and feedback",
+          "Supplier development and continuous improvement",
+          "Strategic alliances and partnership models"
+        ]
+      },
+      {
+        "chapter": "Negotiation and Contract Management",
+        "topics": [
+          "Types of purchasing contracts (Fixed price, Cost-plus)",
+          "Service Level Agreements (SLAs)",
+          "Contract negotiation strategies in B2B context",
+          "Contract administration and compliance tracking",
+          "Risk management in procurement contracts"
+        ]
+      },
+      {
+        "chapter": "E-procurement and Digital Sourcing",
+        "topics": [
+          "E-purchasing tools (E-catalogs, E-sourcing, E-auctions)",
+          "Reverse auctions benefits and risks",
+          "Blockchain in procurement for traceability",
+          "AI for spend analytics and risk prediction",
+          "Sustainable and ethical procurement initiatives"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Production Planning and Control",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sales and Operations Planning (S&OP)",
+        "topics": [
+          "The S&OP process and its necessity",
+          "Aggregate production planning strategies (Level, Chase, Mixed)",
+          "Mathematical modeling for aggregate planning (Linear programming)",
+          "Master Production Schedule (MPS) development",
+          "Time fences and MPS stability"
+        ]
+      },
+      {
+        "chapter": "Material Requirements Planning (MRP)",
+        "topics": [
+          "MRP inputs: BOM, MPS, Inventory records",
+          "MRP processing logic and explosion calculus",
+          "Lot-sizing techniques in MRP (L4L, EOQ, POQ)",
+          "MRP II (Manufacturing Resource Planning)",
+          "System nervousness and MRP shortcomings"
+        ]
+      },
+      {
+        "chapter": "Capacity Requirements Planning (CRP)",
+        "topics": [
+          "Rough-Cut Capacity Planning (RCCP)",
+          "Detailed Capacity Requirements Planning (CRP integration with MRP)",
+          "Input/Output control",
+          "Advanced Planning and Scheduling (APS) systems",
+          "Theory of Constraints (TOC) and Drum-Buffer-Rope (DBR) scheduling"
+        ]
+      },
+      {
+        "chapter": "Shop Floor Control and Scheduling",
+        "topics": [
+          "Job shop scheduling vs Flow shop scheduling",
+          "Sequencing rules (FCFS, SPT, EDD, Critical Ratio)",
+          "Johnson's rule for n jobs and 2/3 machines",
+          "Gantt chart usage in shop floor control",
+          "Dispatching, expediting, and tracking orders"
+        ]
+      },
+      {
+        "chapter": "Advanced Control Systems",
+        "topics": [
+          "Optimized Production Technology (OPT)",
+          "Integration of MRP and JIT systems",
+          "Manufacturing Execution Systems (MES)",
+          "Real-time monitoring on the shop floor",
+          "Scheduling algorithms in modern ERP suites"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Sustainable Supply Chain Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to sustainability",
+        "topics": [
+          "Triple Bottom Line (Profit, People, Planet)",
+          "Evolution of green supply chain concepts",
+          "Drivers of sustainable SCM (Regulatory, Market, Societal)",
+          "Corporate Social Responsibility (CSR) in operations",
+          "Circular Economy frameworks"
+        ]
+      },
+      {
+        "chapter": "Green Procurement and Manufacturing",
+        "topics": [
+          "Sourcing sustainable materials",
+          "Supplier audits for social compliance",
+          "Eco-design and Design for Environment (DfE)",
+          "Energy and water efficiency in manufacturing",
+          "Waste minimization (Zero Waste initiatives)"
+        ]
+      },
+      {
+        "chapter": "Sustainable Logistics and Packaging",
+        "topics": [
+          "Reducing carbon footprint in transportation",
+          "Optimization algorithms for green routing",
+          "Eco-friendly packaging materials and reduction",
+          "Cold chain management for reduced spoilage",
+          "Electric vehicles and alternative fuels in fleets"
+        ]
+      },
+      {
+        "chapter": "Reverse Logistics and Closed-Loop Systems",
+        "topics": [
+          "Product recovery strategies (Remanufacturing, Refurbishing, Recycling)",
+          "Designing networks for reverse logistics",
+          "Extended Producer Responsibility (EPR)",
+          "Economics of closed-loop supply chains",
+          "Secondary markets for refurbished goods"
+        ]
+      },
+      {
+        "chapter": "Sustainability Metrics and Reporting",
+        "topics": [
+          "Life Cycle Assessment (LCA) methodologies",
+          "Carbon accounting and Scope 1, 2, 3 emissions",
+          "Global Reporting Initiative (GRI)",
+          "ISO 14001 Environmental Management Systems",
+          "Blockchain applications for sustainability traceability"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Supply Chain Analytics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Foundations of SC Analytics",
+        "topics": [
+          "Role of data analytics in supply chain decision making",
+          "Types of analytics (Descriptive, Predictive, Prescriptive, Cognitive)",
+          "Data sources and Data lakes for SC",
+          "Key data management challenges in supply chain",
+          "Data visualization tools and SC dashboards"
+        ]
+      },
+      {
+        "chapter": "Descriptive Analytics in SCM",
+        "topics": [
+          "Spend analytics and supplier profiling",
+          "Diagnostic analytics on stock-outs and delays",
+          "Benchmarking operations and SLA compliance",
+          "Customer profitability analysis",
+          "Mapping internal performance metrics"
+        ]
+      },
+      {
+        "chapter": "Predictive Analytics in SCM",
+        "topics": [
+          "Advanced demand forecasting models (ARIMA, Exponential Smoothing)",
+          "Machine learning algorithms for demand sensing",
+          "Predicting supplier disruptions and risk scoring",
+          "Predictive maintenance for manufacturing assets",
+          "Forecasting transport rates and price indexing"
+        ]
+      },
+      {
+        "chapter": "Prescriptive Analytics and Optimization",
+        "topics": [
+          "Network optimization models (Mixed Integer Linear Programming)",
+          "Inventory optimization across multi-echelon networks",
+          "Vehicle routing optimization algorithms",
+          "Pricing and revenue optimization in logistics",
+          "Simulation modeling in SC design (Monte Carlo, Discrete-event)"
+        ]
+      },
+      {
+        "chapter": "Advanced AI/ML Applications",
+        "topics": [
+          "Natural Language Processing for contract and sentiment analysis",
+          "Digital Twin models for supply chain scenario planning",
+          "Cognitive supply chains and autonomous planning",
+          "Graph databases for tracking tier-N supplier networks",
+          "Building an analytics-driven SCM capability"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Technology in Operations (ERP, IoT, AI)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Enterprise Resource Planning (ERP)",
+        "topics": [
+          "Evolution of ERP systems and major vendors (SAP, Oracle)",
+          "Modules in an ERP system and integration value",
+          "Implementation methodologies and success factors",
+          "Cloud ERP (SaaS) versus On-Premise",
+          "Change management during ERP implementation"
+        ]
+      },
+      {
+        "chapter": "Internet of Things (IoT) in Operations",
+        "topics": [
+          "IoT architecture and sensor technology",
+          "Industrial IoT (IIoT) applications in manufacturing",
+          "Smart factories and continuous asset monitoring",
+          "IoT in cold chain tracking and logistics",
+          "Edge computing vs Cloud computing for IIoT"
+        ]
+      },
+      {
+        "chapter": "Artificial Intelligence and Robotics",
+        "topics": [
+          "AI use cases in shop floor management",
+          "Computer vision for automated quality inspection",
+          "Robotic Process Automation (RPA) in procurement",
+          "Collaborative robots (Cobots) in assembly lines",
+          "Autonomous Guided Vehicles (AGVs) in warehouses"
+        ]
+      },
+      {
+        "chapter": "Blockchain and Additive Manufacturing",
+        "topics": [
+          "Blockchain fundamentals and consensus mechanisms",
+          "Smart contracts in supply chain reconciliation",
+          "Traceability and origin verification via Blockchain",
+          "Additive Manufacturing (3D Printing) applications",
+          "Impact of 3D printing on long supply chains and spare parts"
+        ]
+      },
+      {
+        "chapter": "Industry 4.0 and Cyber-Physical Systems",
+        "topics": [
+          "Core components of Industry 4.0",
+          "Integration of IT (Information Technology) and OT (Operational Technology)",
+          "Digital threads and interoperability standards",
+          "Cybersecurity threats in operational technology",
+          "Future outlook: Industry 5.0 concepts (Human-centric)"
+        ]
+      }
+    ]
+  }
+]

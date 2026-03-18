@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Advanced Digital System Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Digital System Design Fundamentals",
+        "topics": [
+          "Review of combinational and sequential logic",
+          "Timing analysis and critical path computation",
+          "Synchronous and asynchronous finite state machines",
+          "Mealy and Moore machines design",
+          "Metastability and synchronization techniques"
+        ]
+      },
+      {
+        "chapter": "Hardware Description Languages",
+        "topics": [
+          "Verilog HDL basics and data types",
+          "Behavioral, dataflow, and structural modeling",
+          "SystemVerilog for design and verification",
+          "Testbench creation and simulation strategies",
+          "Synthesizable vs. non-synthesizable constructs"
+        ]
+      },
+      {
+        "chapter": "Advanced FPGA Architecture",
+        "topics": [
+          "Architecture of typical FPGAs (Xilinx, Altera)",
+          "Configurable Logic Blocks (CLBs) and interconnects",
+          "Embedded blocks: DSP slices, Block RAMs",
+          "FPGA design flow (synthesis, map, place, route)",
+          "Partial reconfiguration techniques"
+        ]
+      },
+      {
+        "chapter": "Datapath and Control Design",
+        "topics": [
+          "Design of high-speed adders (Carry lookahead, Carry skip)",
+          "Multiplier architectures (Booth, Wallace tree)",
+          "ALU design methodologies",
+          "Control unit design (hardwired and microprogrammed)",
+          "Pipelined datapath design and hazards"
+        ]
+      },
+      {
+        "chapter": "Clocking and Timing Issues",
+        "topics": [
+          "Clock distribution networks and skew management",
+          "Gated clocks and clock domain crossing (CDC)",
+          "Phase-Locked Loops (PLLs) and Delay-Locked Loops (DLLs)",
+          "Static Timing Analysis (STA) principles",
+          "Setup and hold time violation fixes"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Solid State Device Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Semiconductor Fundamentals",
+        "topics": [
+          "Energy bands and carrier concentration",
+          "Fermi-Dirac statistics and density of states",
+          "Drift and diffusion of carriers",
+          "Generation and recombination processes",
+          "Continuity equations and Hall effect"
+        ]
+      },
+      {
+        "chapter": "PN Junction Diode",
+        "topics": [
+          "Depletion region and built-in potential",
+          "Current-voltage characteristics (Shockley equation)",
+          "Junction capacitance and breakdown mechanisms",
+          "Zener and Avalanche breakdown",
+          "Transient behavior and switching characteristics"
+        ]
+      },
+      {
+        "chapter": "Bipolar Junction Transistors (BJT)",
+        "topics": [
+          "BJT principle of operation and current gain",
+          "Ebers-Moll and Gummel-Poon models",
+          "High-frequency performance and Transit time",
+          "Heterojunction Bipolar Transistors (HBTs)",
+          "Early effect and base-width modulation"
+        ]
+      },
+      {
+        "chapter": "MOSFET Device Physics",
+        "topics": [
+          "MOS capacitor and ideal C-V characteristics",
+          "Surface inversion and threshold voltage calculation",
+          "MOSFET I-V characteristics and subthreshold conduction",
+          "Channel length modulation and Body effect",
+          "Short channel effects (DIBL, punch-through)"
+        ]
+      },
+      {
+        "chapter": "Advanced Semiconductor Devices",
+        "topics": [
+          "FinFETs and Multi-gate transistors",
+          "Silicon-on-Insulator (SOI) technology",
+          "High-k dielectrics and metal gates",
+          "Tunnel FETs and Carbon Nanotube FETs",
+          "Power semiconductor devices (IGBTs, Thyristors)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "CMOS Analog IC Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basic Analog Building Blocks",
+        "topics": [
+          "MOS device models for analog design",
+          "Current mirrors and active loads",
+          "Cascode current mirrors and high swing variants",
+          "Bandgap references and temperature independent bias",
+          "Voltage references and current sources"
+        ]
+      },
+      {
+        "chapter": "Single-Stage and Differential Amplifiers",
+        "topics": [
+          "Common-source, Common-gate, Common-drain topologies",
+          "Cascode and folded-cascode amplifiers",
+          "Differential pair with passive and active loads",
+          "Common-Mode Rejection Ratio (CMRR) analysis",
+          "Large signal and small signal analysis of differential amplifiers"
+        ]
+      },
+      {
+        "chapter": "Operational Amplifiers",
+        "topics": [
+          "Two-stage CMOS Op-Amp design",
+          "Gain, bandwidth, and slew rate trade-offs",
+          "Frequency response and Miller compensation",
+          "Fully differential Op-Amps and CMFB circuits",
+          "Telescopic and Folded Cascode Op-Amps"
+        ]
+      },
+      {
+        "chapter": "Noise in Analog Circuits",
+        "topics": [
+          "Statistical characteristics of noise",
+          "Thermal noise, flicker noise, and shot noise",
+          "Noise models for circuit components",
+          "Noise representation in circuits (Input-referred noise)",
+          "Noise analysis in single-stage and differential amplifiers"
+        ]
+      },
+      {
+        "chapter": "Switched-Capacitor Circuits",
+        "topics": [
+          "Basic principles of switched-capacitor circuits",
+          "Parasitic sensitive and insensitive integrators",
+          "Switched-capacitor amplifiers and filters",
+          "Non-ideal effects in SC circuits",
+          "Clock feedthrough and charge injection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "VLSI Technology and Fabrication",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Crystal Growth and Epitaxy",
+        "topics": [
+          "Silicon crystal structure and defects",
+          "Czochralski and Float-zone crystal growth",
+          "Wafer preparation algorithms",
+          "Vapor phase epitaxy (VPE) and Molecular beam epitaxy (MBE)",
+          "Epitaxial defects and property evaluation"
+        ]
+      },
+      {
+        "chapter": "Oxidation and Lithography",
+        "topics": [
+          "Thermal oxidation kinetics (Deal-Grove model)",
+          "Thin and thick oxide growth parameters",
+          "Optical lithography and photoresists",
+          "Resolution enhancement techniques (OPC, PSM)",
+          "Electron beam and Extreme UV (EUV) lithography"
+        ]
+      },
+      {
+        "chapter": "Doping and Etching Techniques",
+        "topics": [
+          "Diffusion principles and Fick's laws",
+          "Ion implantation and channeling effects",
+          "Annealing techniques (RTA)",
+          "Wet chemical etching vs Dry etching",
+          "Plasma etching and Reactive Ion Etching (RIE)"
+        ]
+      },
+      {
+        "chapter": "Deposition and Metallization",
+        "topics": [
+          "Chemical Vapor Deposition (CVD, LPCVD, PECVD)",
+          "Physical Vapor Deposition (PVD) - Sputtering and Evaporation",
+          "Atomic Layer Deposition (ALD)",
+          "Aluminum and Copper metallization",
+          "Chemical Mechanical Polishing (CMP)"
+        ]
+      },
+      {
+        "chapter": "CMOS Process Flows",
+        "topics": [
+          "N-well, P-well, and Twin-tub CMOS processes",
+          "Shallow Trench Isolation (STI) vs LOCOS",
+          "Salicide process and LDD structures",
+          "Backend-of-Line (BEOL) processing",
+          "Packaging technologies and cleanroom standards"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Logic Synthesis and Verification",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Logic Synthesis",
+        "topics": [
+          "RTL-to-Gates synthesis flow",
+          "Translation, optimization, and technology mapping",
+          "Boolean algebra and two-level logic optimization",
+          "Quine-McCluskey method and Espresso algorithm",
+          "Multi-level logic optimization networks"
+        ]
+      },
+      {
+        "chapter": "State Machine and Sequential Synthesis",
+        "topics": [
+          "State encoding assignments (One-hot, Binary, Gray)",
+          "FSM optimization and state reduction",
+          "Retiming in sequential circuits",
+          "Clock skew scheduling and synchronization",
+          "Synthesis of synchronous and asynchronous circuits"
+        ]
+      },
+      {
+        "chapter": "Formal Verification Fundamentals",
+        "topics": [
+          "Simulation versus Formal Verification",
+          "Equivalence checking (Combinational and Sequential)",
+          "Binary Decision Diagrams (BDDs) applications",
+          "Satisfiability (SAT) solvers for verification",
+          "Model checking basics and Temporal Logic (CTL, LTL)"
+        ]
+      },
+      {
+        "chapter": "Functional Verification Methodologies",
+        "topics": [
+          "Coverage-driven verification",
+          "Code coverage and functional coverage metrics",
+          "Constrained random stimulus generation",
+          "Assertion-Based Verification (SVA)",
+          "Universal Verification Methodology (UVM) concepts"
+        ]
+      },
+      {
+        "chapter": "Timing Verification",
+        "topics": [
+          "Static Timing Analysis (STA) algorithms",
+          "False paths and multicycle paths",
+          "On-chip variation (OCV) modeling",
+          "Statistical Static Timing Analysis (SSTA)",
+          "Timing sign-off corners"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "VLSI Digital Signal Processing Systems",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to DSP Systems",
+        "topics": [
+          "Typical DSP algorithms (FIR, IIR, FFT)",
+          "Representation of DSP algorithms (Signal flow graphs)",
+          "Iteration bound and data flow graph",
+          "Loop bound and critical path assessment",
+          "Performance metrics (Throughput and Latency)"
+        ]
+      },
+      {
+        "chapter": "Pipelining and Parallel Processing",
+        "topics": [
+          "Pipeline interleaving in digital filters",
+          "Parallel processing for low power design",
+          "Combining pipelining and parallel processing",
+          "Retiming for clock period minimization",
+          "Retiming techniques for IIR filters"
+        ]
+      },
+      {
+        "chapter": "Unfolding and Folding Concepts",
+        "topics": [
+          "Unfolding algorithm and applications",
+          "Properties of unfolded architectures",
+          "Folding transformation and folding sets",
+          "Register minimization techniques",
+          "Forward-backward register allocation algorithms"
+        ]
+      },
+      {
+        "chapter": "Fast Convolution and Systolic Architectures",
+        "topics": [
+          "Cook-Toom and Winograd algorithms",
+          "Iterated convolution techniques",
+          "Design of Systolic arrays",
+          "FIR systolic arrays mapping",
+          "Matrix multiplication systolic structures"
+        ]
+      },
+      {
+        "chapter": "Arithmetic Architectures for DSP",
+        "topics": [
+          "Bit-serial and digit-serial arithmetic",
+          "Distributed arithmetic in DSP",
+          "Carry save adders and multipliers mapping",
+          "Redundant number representations",
+          "Numerical strength reduction techniques"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Testing and Testability of VLSI",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fault Modeling and Simulation",
+        "topics": [
+          "Manufacturing defects, faults, and errors",
+          "Stuck-at fault model (SAF), bridging faults, transition faults",
+          "Fault equivalence and fault collapsing",
+          "Fault simulation algorithms (Serial, Parallel, Deductive)",
+          "Test volume and fault coverage metrics"
+        ]
+      },
+      {
+        "chapter": "Test Generation Techniques",
+        "topics": [
+          "Automatic Test Pattern Generation (ATPG) concepts",
+          "D-Algorithm, PODEM, and FAN algorithms",
+          "Boolean difference method",
+          "Test generation for sequential circuits",
+          "Time-frame expansion method"
+        ]
+      },
+      {
+        "chapter": "Design for Testability (DFT)",
+        "topics": [
+          "Ad-hoc testability layout rules",
+          "Scan-based design methodology",
+          "Scan testing, overheads, and trade-offs",
+          "Partial scan and full scan implementations",
+          "Boundary Scan standard (IEEE 1149.1)"
+        ]
+      },
+      {
+        "chapter": "Built-In Self-Test (BIST)",
+        "topics": [
+          "BIST architectures and pseudo-random pattern generators",
+          "Linear Feedback Shift Registers (LFSR)",
+          "Signature analysis and Multiple Input Signature Registers (MISR)",
+          "Logic BIST vs Memory BIST (MBIST)",
+          "BIST for mixed-signal systems"
+        ]
+      },
+      {
+        "chapter": "Delay Testing and Fault Tolerance",
+        "topics": [
+          "Path delay and transition delay fault models",
+          "Delay test methodologies (Launch-on-shift, Launch-on-capture)",
+          "IDDQ testing principles and execution",
+          "Hardware redundancy and fault-tolerant architectures",
+          "Triple Modular Redundancy (TMR)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mixed Signal IC Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Mixed-Signal Fundamentals",
+        "topics": [
+          "Signals and filters: Continuous time vs Discrete time",
+          "Sampling theorem and aliasing",
+          "Sample-and-Hold architectures",
+          "Comparator design (static and dynamic)",
+          "Offset cancellation techniques"
+        ]
+      },
+      {
+        "chapter": "Digital-to-Analog Converters (DAC)",
+        "topics": [
+          "DAC performance metrics (INL, DNL, resolution)",
+          "Resistor-string and R-2R ladder DACs",
+          "Current-steering DAC architectures",
+          "Charge-scaling DACs",
+          "Dynamic element matching (DEM) techniques"
+        ]
+      },
+      {
+        "chapter": "Analog-to-Digital Converters (ADC)",
+        "topics": [
+          "ADC characteristics and quantization noise",
+          "Flash ADCs and resolving metastability",
+          "Successive Approximation Register (SAR) ADCs",
+          "Pipelined ADCs configurations",
+          "Time-interleaved ADCs"
+        ]
+      },
+      {
+        "chapter": "Oversampling Converters",
+        "topics": [
+          "Oversampling and noise shaping fundamentals",
+          "First-order and second-order Sigma-Delta Modulators",
+          "Decimation and interpolation filters",
+          "Continuous-time vs Discrete-time Sigma-Delta ADCs",
+          "Stability issues in higher-order modulators"
+        ]
+      },
+      {
+        "chapter": "Phase-Locked Loops (PLL) and Data Converters",
+        "topics": [
+          "Voltage Controlled Oscillators (VCO) design",
+          "Phase frequency detectors and charge pumps",
+          "PLL dynamics, lock range, and capture range",
+          "Delay-Locked Loops (DLL) theory",
+          "Mixed-signal layout considerations (guard rings, substrate noise)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Low Power VLSI Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Power Dissipation in CMOS",
+        "topics": [
+          "Sources of power dissipation (Dynamic, Static, Short-circuit)",
+          "Dynamic power equations and switching activity",
+          "Leakage power mechanisms (Subthreshold, Gate oxide)",
+          "Glitching power and logical effort",
+          "Metrics for power, delay, and area trade-off"
+        ]
+      },
+      {
+        "chapter": "Circuit-Level Power Minimization",
+        "topics": [
+          "Transistor sizing for energy efficiency",
+          "Multi-VDD and Multi-Vth assignment techniques",
+          "Dynamic Voltage and Frequency Scaling (DVFS)",
+          "Adaptive Body Biasing (ABB)",
+          "Adiabatic logic principles"
+        ]
+      },
+      {
+        "chapter": "Architecture-Level and Logic-Level Techniques",
+        "topics": [
+          "Clock gating strategies and implementation",
+          "Power gating and sleep transistor sizing",
+          "State encoding for low switching activity",
+          "Pre-computation logic approaches",
+          "Pipelining and parallelism for power reduction"
+        ]
+      },
+      {
+        "chapter": "Memory and Interconnect Power",
+        "topics": [
+          "Low power SRAM architectures",
+          "Sense amplifier optimizations",
+          "Interconnect capacitance scaling",
+          "Bus encoding techniques (Bus-invert coding)",
+          "Low swing signaling"
+        ]
+      },
+      {
+        "chapter": "Power Estimation and Analysis",
+        "topics": [
+          "RTL and gate-level power simulation methodologies",
+          "Probabilistic power analysis techniques",
+          "UPF/CPF formats for power intent specification",
+          "Thermal considerations in IC design",
+          "Reliability issues related to high power density"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "System on Chip (SoC) Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "SoC Architecture and Components",
+        "topics": [
+          "Evolution of SoC and typical SoC architecture",
+          "Processor selection (ARM, RISC-V)",
+          "On-chip memory (Cache, Scratchpad) integration",
+          "Peripherals and I/O controllers overview",
+          "Hardware/Software Co-design methodologies"
+        ]
+      },
+      {
+        "chapter": "On-chip Communication Architectures",
+        "topics": [
+          "Bus-based communication (AMBA AXI, AHB, APB)",
+          "Arbiter design and arbitration policies",
+          "Network-on-Chip (NoC) topologies (Mesh, Torus)",
+          "Routing algorithms in NoC systems",
+          "Quality of Service in NoCs"
+        ]
+      },
+      {
+        "chapter": "IP Design and Reuse",
+        "topics": [
+          "Types of IP blocks (Soft, Firm, Hard IPs)",
+          "IP block authoring and integration guidelines",
+          "Interface synthesis and wrappers creation",
+          "Verification of IP blocks (VIPs)",
+          "Open Source IP (OpenCores) adoption"
+        ]
+      },
+      {
+        "chapter": "SoC Verification and Validation",
+        "topics": [
+          "System-level modeling (SystemC, TLM)",
+          "Hardware emulation and FPGA prototyping",
+          "Co-simulation environments",
+          "Post-silicon validation techniques",
+          "Debug architectures (CoreSight)"
+        ]
+      },
+      {
+        "chapter": "Advanced SoC Topics",
+        "topics": [
+          "Power management in complex SoCs",
+          "Multicore SoC implementations",
+          "Security architectures (TrustZone, Secure Boot)",
+          "3D IC integration and packaging",
+          "Machine learning accelerators integration"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "RF IC Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "RF Microelectronics Principles",
+        "topics": [
+          "RF behavior of passive components (resistors, caps, inductors)",
+          "Transmission line theory basics",
+          "Smith Chart and impedance matching networks",
+          "S-parameters and network analysis",
+          "Noise figure and sensitivity"
+        ]
+      },
+      {
+        "chapter": "Low Noise Amplifiers (LNA)",
+        "topics": [
+          "LNA top-level topologies and design parameters",
+          "Input matching strategies (Inductive degeneration)",
+          "Noise optimization techniques",
+          "Linearity and intermodulation distortion (IIP3)",
+          "Wideband and narrowband LNA designs"
+        ]
+      },
+      {
+        "chapter": "Mixers",
+        "topics": [
+          "Mixer fundamentals and conversion gain",
+          "Active mixers (Gilbert cell mixer)",
+          "Passive mixers operation",
+          "Noise and linearity trade-offs in mixers",
+          "Port-to-port isolation techniques"
+        ]
+      },
+      {
+        "chapter": "Oscillators and Frequency Synthesizers",
+        "topics": [
+          "LC oscillators and phase noise theory (Leeson's model)",
+          "Cross-coupled oscillator design",
+          "Voltage Controlled Oscillators (VCO) tuning range",
+          "Integer-N and Fractional-N frequency synthesizers",
+          "Phase-Locked Loops for RF applications"
+        ]
+      },
+      {
+        "chapter": "Power Amplifiers (PA) and Transceivers",
+        "topics": [
+          "Classes of Power Amplifiers (Class A, B, AB, C)",
+          "Switching PAs (Class D, E, F)",
+          "Impedance matching for PAs and efficiency",
+          "Transceiver architectures (Heterodyne vs Homodyne)",
+          "Direct-conversion receiver issues (DC offset, Flicker noise)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Memory Design and Testing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "SRAM Architecture and Design",
+        "topics": [
+          "6T SRAM cell operations (Read/Write/Hold)",
+          "Static Noise Margin (SNM) theory and simulation",
+          "Peripheral circuits (address decoders, sense amplifiers)",
+          "8T and 10T SRAM cells for low VDD",
+          "SRAM array leakage reduction techniques"
+        ]
+      },
+      {
+        "chapter": "DRAM Technologies",
+        "topics": [
+          "1T-1C DRAM cell structure and operation",
+          "Refresh mechanisms and retention time",
+          "DRAM architecture (Banks, rows, columns)",
+          "SDRAM, DDR, DDR2, DDR3, and DDR4 interfaces",
+          "Power management in DRAM arrays"
+        ]
+      },
+      {
+        "chapter": "Non-Volatile Memories",
+        "topics": [
+          "Floating-gate transistor physics",
+          "Flash memory (NAND vs NOR architectures)",
+          "Erase, Program, Read operations in Flash",
+          "Phase-Change Memory (PCM) and MRAM",
+          "Resistive RAM (RRAM) operation principles"
+        ]
+      },
+      {
+        "chapter": "Memory Testing and Fault Models",
+        "topics": [
+          "Memory fault models (Stuck-at, Coupling, Pattern-sensitive)",
+          "Memory March test algorithms (March C, March C-)",
+          "Memory BIST architecture implementation",
+          "Address decoder faults testing",
+          "Test time reduction techniques"
+        ]
+      },
+      {
+        "chapter": "Memory Reliability and Packaging",
+        "topics": [
+          "Soft errors, radiation effects in memory devices",
+          "Error Correction Codes (ECC: Hamming codes, SEC-DED)",
+          "Built-In Self-Repair (BISR) using redundant columns/rows",
+          "High Bandwidth Memory (HBM) basics",
+          "2.5D and 3D memory die stacking (TSVs)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physical Design Automation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Physical Design",
+        "topics": [
+          "VLSI physical design cycle (Floorplanning to Sign-off)",
+          "Netlist formats and DEF/LEF library syntax",
+          "Delay models (Elmore, NLDM, CCS, ECB)",
+          "RC extraction and interconnect modeling",
+          "Complexity analysis of CAD algorithms"
+        ]
+      },
+      {
+        "chapter": "Partitioning and Floorplanning",
+        "topics": [
+          "Graph partitioning models and algorithms",
+          "Kernighan-Lin and Fiduccia-Mattheyses heuristics",
+          "Floorplanning representations (Slicing trees, Polish expressions)",
+          "Simulated annealing for floorplan optimization",
+          "Pin assignment and I/O pad placement"
+        ]
+      },
+      {
+        "chapter": "Placement Methods",
+        "topics": [
+          "Global placement vs detailed placement",
+          "Wirelength estimation (HPWL) and objectives",
+          "Force-directed placement algorithms",
+          "Analytical placement (Quadratic, Non-linear optimization)",
+          "Legalization strategies for standard cells"
+        ]
+      },
+      {
+        "chapter": "Routing Algorithms",
+        "topics": [
+          "Global routing vs detailed routing paradigms",
+          "Maze routing (Lee's algorithm, Hadlock's algorithm)",
+          "Line-probe algorithms",
+          "Steiner tree routing approaches",
+          "Channel and switchbox routing heuristics"
+        ]
+      },
+      {
+        "chapter": "Clock and Power Network Design",
+        "topics": [
+          "Clock Tree Synthesis (CTS) algorithms (H-Tree, MMM)",
+          "Clock routing for zero skew and bounded skew",
+          "Power ground (P/G) grid structures",
+          "IR drop and Electromigration (EM) analysis methodologies",
+          "Physical verification (DRC, LVS, ERC)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Nanoscale Devices and Circuits",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Scaling Limits and Nanoscale Physics",
+        "topics": [
+          "Moore's Law and Dennard Scaling limits",
+          "Quantum effects at the nanoscale",
+          "Ballistic transport basics",
+          "Direct tunneling and Fowler-Nordheim tunneling",
+          "Thermal fluctuations and fundamental limits of switching"
+        ]
+      },
+      {
+        "chapter": "Emerging Transistor Technologies",
+        "topics": [
+          "Gate-All-Around (GAA) and Nanosheet FETs",
+          "Carbon Nanotube FETs (CNFETs) operation",
+          "Graphene-based electronic devices",
+          "Spin-Transfer Torque (STT) devices",
+          "Negative Capacitance FETs (NC-FETs)"
+        ]
+      },
+      {
+        "chapter": "Nanoscale Interconnects",
+        "topics": [
+          "Copper resistivity size effect at sub-10nm",
+          "Optical interconnects on silicon",
+          "Carbon nanotube interconnects",
+          "3D interconnects and Through-Silicon Vias (TSVs)",
+          "Electromigration scaling challenges"
+        ]
+      },
+      {
+        "chapter": "Neuromorphic and Brain-Inspired Computing",
+        "topics": [
+          "Spiking Neural Networks (SNNs) basics",
+          "Synaptic devices (Memristors, PCM devices)",
+          "Artificial neurons and Integrate-and-Fire models",
+          "In-memory computing architectures",
+          "Hardware implementation of learning rules (STDP)"
+        ]
+      },
+      {
+        "chapter": "Beyond-CMOS Computing Paradigms",
+        "topics": [
+          "Quantum Computing hardware primitives (Qubits)",
+          "Superconducting logic circuits (SFQ logic)",
+          "Reversible logic gates and thermodynamics",
+          "DNA computing basics",
+          "Nanomagnet logic methodologies"
+        ]
+      }
+    ]
+  }
+]

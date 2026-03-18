@@ -1,0 +1,366 @@
+[
+  {
+    "subject": "Financial Accounting",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Theoretical Framework and Accounting Process",
+        "topics": ["Generally Accepted Accounting Principles", "Accounting Standards in India", "Journal entries and Ledgers", "Trial Balance preparation", "Rectification of errors"]
+      },
+      {
+        "chapter": "Business Income and Depreciation",
+        "topics": ["Revenue recognition principles", "Inventory valuation (LIFO, FIFO, Weighted Average)", "Methods of calculating depreciation", "Change in method of depreciation", "Accounting for investments"]
+      },
+      {
+        "chapter": "Accounting for Hire Purchase and Installment Systems",
+        "topics": ["Calculation of interest", "Journal entries in the books of purchaser and vendor", "Default and repossession", "Hire purchase vs. Installment system", "Partial and full repossession accounting"]
+      },
+      {
+        "chapter": "Accounting for Inland Branches",
+        "topics": ["Dependent branches accounting methods", "Debtors system and Stock & Debtors system", "Independent branches accounting", "Incorporation of branch trial balance", "Foreign branches introductory concepts"]
+      },
+      {
+        "chapter": "Dissolution of Partnership Firms",
+        "topics": ["Accounting treatment on dissolution", "Insolvency of partners", "Garner vs. Murray rule", "Piecemeal distribution of cash", "Sale of firm to a company"]
+      }
+    ]
+  },
+  {
+    "subject": "Business Laws",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Indian Contract Act, 1872 (General Principles)",
+        "topics": ["Offer and acceptance", "Consideration and capacity of parties", "Free consent and legality of object", "Void agreements", "Discharge of contracts and remedies for breach"]
+      },
+      {
+        "chapter": "The Indian Contract Act, 1872 (Specific Contracts)",
+        "topics": ["Contracts of Indemnity and Guarantee", "Bailment and Pledge", "Rights and duties of bailee and bailor", "Contract of Agency", "Creation and termination of agency"]
+      },
+      {
+        "chapter": "The Sale of Goods Act, 1930",
+        "topics": ["Conditions and warranties", "Transfer of ownership in goods", "Performance of contract of sale", "Unpaid seller and his rights", "Auction sales"]
+      },
+      {
+        "chapter": "The Limited Liability Partnership Act, 2008",
+        "topics": ["Salient features of LLP", "Difference between LLP and Partnership", "Incorporation document and LLP agreement", "Partners and their relations", "Winding up and dissolution of LLP"]
+      },
+      {
+        "chapter": "The Information Technology Act, 2000",
+        "topics": ["Definitions of cyber laws", "Digital signature and electronic signature", "Electronic governance", "Certifying authorities", "Cyber crimes and penalties"]
+      }
+    ]
+  },
+  {
+    "subject": "Corporate Accounting",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Accounting for Share Capital and Debentures",
+        "topics": ["Issue and forfeiture of shares", "Re-issue of forfeited shares", "Issue of bonus shares", "Issue and redemption of preference shares", "Issue and redemption of debentures"]
+      },
+      {
+        "chapter": "Final Accounts of Companies",
+        "topics": ["Preparation of profit and loss account", "Preparation of balance sheet as per schedule III", "Managerial remuneration", "Calculation of managerial remuneration", "Disposal of company profits"]
+      },
+      {
+        "chapter": "Valuation of Goodwill and Valuation of Shares",
+        "topics": ["Concepts and need for valuation", "Methods of valuation of goodwill", "Super profit and capitalization method", "Methods of valuation of shares", "Intrinsic value and yield value methods"]
+      },
+      {
+        "chapter": "Amalgamation of Companies",
+        "topics": ["Concepts of amalgamation and absorption", "Accounting Standard 14", "Amalgamation in the nature of merger", "Amalgamation in the nature of purchase", "Internal reconstruction of companies"]
+      },
+      {
+        "chapter": "Accounts of Holding Companies",
+        "topics": ["Concept of holding and subsidiary companies", "Preparation of consolidated balance sheet", "Minority interest calculation", "Pre-acquisition and post-acquisition profits", "Unrealized inter-company profits"]
+      }
+    ]
+  },
+  {
+    "subject": "Corporate Laws",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Company Law and Administration",
+        "topics": ["Characteristics of a company", "Lifting of corporate veil", "Types of companies", "Formation and incorporation of a company", "Memorandum and Articles of Association"]
+      },
+      {
+        "chapter": "Share Capital and Debentures Regulations",
+        "topics": ["Prospectus and its contents", "Allotment of shares", "Calls and forfeiture of shares", "Transfer and transmission of shares", "Types of debentures"]
+      },
+      {
+        "chapter": "Management and Meetings",
+        "topics": ["Board of Directors composition", "Appointment and removal of directors", "Powers and duties of directors", "Annual General Meeting (AGM)", "Extraordinary General Meeting (EGM)"]
+      },
+      {
+        "chapter": "Dividends, Audit and Winding Up",
+        "topics": ["Provisions relating to declaration of dividend", "Payment of dividend", "Appointment and duties of company auditor", "Modes of winding up", "Liquidator's duties"]
+      },
+      {
+        "chapter": "Depositories Act 1996 and Dematerialization",
+        "topics": ["Concept of depository system", "Benefits of dematerialization", "NSDL and CDSL functions", "Process of dematerialization", "Rights and obligations of depositories"]
+      }
+    ]
+  },
+  {
+    "subject": "Human Resource Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to HRM and Role of HR Manager",
+        "topics": ["Concept and functions of HRM", "Evolution of HRM", "Role and competencies of HR manager", "HR policies", "Strategic Human Resource Management approaches"]
+      },
+      {
+        "chapter": "Human Resource Planning and Job Analysis",
+        "topics": ["Process of HR planning", "Quantitative and qualitative dimensions of HRP", "Job analysis process", "Job description and job specification", "Job design methods"]
+      },
+      {
+        "chapter": "Recruitment, Selection and Orientation",
+        "topics": ["Sources of recruitment", "E-recruitment", "Selection process and tests", "Types of interviews", "Placement and induction programs"]
+      },
+      {
+        "chapter": "Training and Development, Performance Appraisal",
+        "topics": ["Methods of training and development", "Evaluating training effectiveness", "Methods of performance appraisal", "360-degree feedback", "Potential appraisal"]
+      },
+      {
+        "chapter": "Compensation Management and Employee Welfare",
+        "topics": ["Factors affecting compensation", "Job evaluation techniques", "Incentive plans and fringe benefits", "Employee welfare measures", "Grievance handling mechanism"]
+      }
+    ]
+  },
+  {
+    "subject": "Income Tax Law and Practice",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basic Concepts and Residential Status",
+        "topics": ["Definitions under Income Tax Act", "Previous year and assessment year", "Residential status of individuals", "Incidence of tax", "Incomes exempt from tax"]
+      },
+      {
+        "chapter": "Computation of Income under Salaries and House Property",
+        "topics": ["Allowances and perquisites valuation", "Deductions from salary income", "Basis of charge for house property", "Gross annual value calculation", "Deductions under section 24"]
+      },
+      {
+        "chapter": "Profits and Gains of Business or Profession",
+        "topics": ["Basis of charge for business income", "Depreciation allowance under IT Act", "Admissible and inadmissible deductions", "Computation of professional income", "Presumptive taxation scheme"]
+      },
+      {
+        "chapter": "Capital Gains and Income from Other Sources",
+        "topics": ["Short-term and long-term capital assets", "Computation of capital gains", "Exemptions under section 54", "Income chargeable under other sources", "Taxation of dividends and winnings"]
+      },
+      {
+        "chapter": "Computation of Total Income and Tax Liability",
+        "topics": ["Clubbing of income", "Set-off and carry forward of losses", "Deductions under Chapter VI-A", "Computation of total income of individuals", "Filing of income tax returns"]
+      }
+    ]
+  },
+  {
+    "subject": "Cost Accounting",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Cost Accounting and Cost Concepts",
+        "topics": ["Objectives and advantages of cost accounting", "Cost concepts and classification", "Elements of cost", "Preparation of cost sheet", "Financial vs. Cost accounting"]
+      },
+      {
+        "chapter": "Material Costing and Inventory Control",
+        "topics": ["Material purchase procedure", "Economic Order Quantity (EOQ)", "Levels of inventory", "Pricing of material issues (FIFO, LIFO)", "ABC analysis and VED analysis"]
+      },
+      {
+        "chapter": "Labour Costing and Incentives",
+        "topics": ["Time keeping and time booking", "Causes and control of idle time", "Overtime premium accounting", "Methods of wage payment (Time and Piece rate)", "Halsey and Rowan incentive plans"]
+      },
+      {
+        "chapter": "Overhead Costing and Apportionment",
+        "topics": ["Classification of overheads", "Allocation and apportionment of overheads", "Primary and secondary distribution", "Machine hour rate computation", "Under and over absorption of overheads"]
+      },
+      {
+        "chapter": "Methods of Costing (Job, Process, Contract)",
+        "topics": ["Job costing procedure", "Contract costing and profit calculation on incomplete contracts", "Process costing features", "Normal and abnormal process losses", "Joint products and by-products"]
+      }
+    ]
+  },
+  {
+    "subject": "Business Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Matrices and Determinants Applications",
+        "topics": ["Algebra of matrices", "Inverse of a matrix", "Solving linear equations using matrix inversion", "Cramer's rule", "Leontief Input-Output analysis"]
+      },
+      {
+        "chapter": "Basic Calculus and Applications in Business",
+        "topics": ["Rules of differentiation", "Maxima and minima of functions of one variable", "Marginal cost and marginal revenue", "Elasticity of demand", "Integration concepts and consumer's surplus"]
+      },
+      {
+        "chapter": "Advanced Calculus (Partial Differentiation)",
+        "topics": ["Partial derivatives of first and second order", "Homogeneous functions and Euler's theorem", "Maxima and minima of functions of two variables", "Lagrange's multiplier method", "Economic applications of partial differentiation"]
+      },
+      {
+        "chapter": "Mathematics of Finance (Compound Interest, Annuities)",
+        "topics": ["Simple and compound interest", "Effective rate of interest", "Present and future value of annuities", "Sinking funds", "Amortization of loans"]
+      },
+      {
+        "chapter": "Linear Programming formulation and graphical method",
+        "topics": ["Formulation of LPP", "Graphical method of solving LPP", "Feasible and optimal solutions", "Special cases in graphical method", "Importance of LPP in business decision making"]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Applications in Business",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basics of Computers and Operating Systems",
+        "topics": ["Characteristics and components of computers", "Hardware and software classification", "Types of operating systems", "Windows GUI features", "Computer networks basics (LAN, WAN)"]
+      },
+      {
+        "chapter": "Word Processing Applications in Business",
+        "topics": ["Creating and editing documents", "Formatting text and paragraphs", "Creating tables and lists", "Mail merge for business letters", "Headers, footers, and page numbering"]
+      },
+      {
+        "chapter": "Advanced Spreadsheet Concepts",
+        "topics": ["Formulas and functions (Financial, Logical, Statistical)", "Data sorting and filtering", "Pivot tables and charts", "What-if analysis and Goal Seek", "Macros for task automation"]
+      },
+      {
+        "chapter": "Database Management Systems basics",
+        "topics": ["Concept of database and DBMS", "Creating tables and defining relationships", "Primary keys and foreign keys", "Queries design and execution", "Generating forms and reports"]
+      },
+      {
+        "chapter": "Presentations and Digital Connectivity Applications",
+        "topics": ["Designing effective business presentations", "Slide transitions and animations", "Email management and calendar scheduling", "Video conferencing tools", "Cloud storage basics"]
+      }
+    ]
+  },
+  {
+    "subject": "Principles of Marketing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Marketing and Marketing Environment",
+        "topics": ["Nature and scope of marketing", "Core marketing concepts", "Marketing philosophies", "Micro and macro marketing environment", "SWOT analysis"]
+      },
+      {
+        "chapter": "Consumer Behaviour and Market Segmentation",
+        "topics": ["Factors influencing consumer behavior", "Consumer buying decision process", "Concept and bases of market segmentation", "Target market selection", "Product positioning strategies"]
+      },
+      {
+        "chapter": "Product Decisions (Product Mix, Branding, PLC)",
+        "topics": ["Levels of product and product classification", "Product mix decisions", "Branding, packaging and labeling", "New product development process", "Product Life Cycle (PLC) strategies"]
+      },
+      {
+        "chapter": "Pricing Decisions and Distribution Channels",
+        "topics": ["Factors affecting pricing decisions", "Pricing methods and strategies", "Role and functions of distribution channels", "Types of intermediaries", "Factors influencing channel selection"]
+      },
+      {
+        "chapter": "Promotion Decisions and Contemporary Marketing",
+        "topics": ["Promotion mix components", "Advertising and sales promotion", "Personal selling and public relations", "Digital and social media marketing concepts", "Green marketing and societal marketing"]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction, Time Value of Money, Risk and Return",
+        "topics": ["Scope and objectives of financial management", "Profit maximization vs. Wealth maximization", "Time value of money concepts", "Risk and return tradeoff", "CAPM basics"]
+      },
+      {
+        "chapter": "Capital Budgeting Decisions",
+        "topics": ["Nature of investment decisions", "Cash flow estimation", "Payback period method", "Net present value (NPV) method", "Internal rate of return (IRR) method"]
+      },
+      {
+        "chapter": "Cost of Capital and Financing Decision",
+        "topics": ["Significance of cost of capital", "Cost of debt and preference capital", "Cost of equity capital", "Weighted average cost of capital (WACC)", "Marginal cost of capital"]
+      },
+      {
+        "chapter": "Capital Structure Theories and Leverage",
+        "topics": ["Net Income and Net Operating Income approaches", "Modigliani-Miller (MM) hypothesis", "Operating leverage", "Financial leverage", "Combined leverage"]
+      },
+      {
+        "chapter": "Dividend Decisions and Working Capital Management",
+        "topics": ["Walter's and Gordon's dividend models", "Determinants of dividend policy", "Concepts of working capital", "Operating cycle approach", "Estimation of working capital requirement"]
+      }
+    ]
+  },
+  {
+    "subject": "Management Accounting",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Management Accounting",
+        "topics": ["Nature and scope of management accounting", "Functions of management accounting", "Management accounting vs. Cost accounting", "Role of management accountant", "Limitations of management accounting"]
+      },
+      {
+        "chapter": "Budgetary Control and Zero Base Budgeting",
+        "topics": ["Concept of budget and budgetary control", "Preparation of functional budgets", "Cash budget and flexible budget", "Zero base budgeting (ZBB)", "Performance budgeting"]
+      },
+      {
+        "chapter": "Standard Costing and Variance Analysis",
+        "topics": ["Concept and establishment of standards", "Advantages of standard costing", "Material cost variances", "Labour cost variances", "Overhead variances overview"]
+      },
+      {
+        "chapter": "Marginal Costing and Cost-Volume-Profit Analysis",
+        "topics": ["Marginal costing concept and equation", "Contribution margin and Profit-Volume (P/V) ratio", "Break-Even Point (BEP) analysis", "Margin of safety", "Applications of CVP analysis"]
+      },
+      {
+        "chapter": "Decision Making and Recent Developments",
+        "topics": ["Make or buy decisions", "Acceptance of special orders", "Exploring new markets", "Target costing basics", "Activity Based Costing (ABC) basics"]
+      }
+    ]
+  },
+  {
+    "subject": "Auditing and Corporate Governance",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Auditing and Audit Process",
+        "topics": ["Meaning and objectives of auditing", "Types of audit (Statutory, Internal, Continuous)", "Audit program and audit plan", "Audit working papers", "Audit evidence"]
+      },
+      {
+        "chapter": "Internal Control, Vouching and Verification",
+        "topics": ["Internal control and internal check", "Auditor's duties regarding internal control", "Vouching of cash and trading transactions", "Verification of assets", "Valuation of liabilities"]
+      },
+      {
+        "chapter": "Company Auditor (Appointment, Rights, Duties)",
+        "topics": ["Qualifications and disqualifications of auditor", "Appointment and removal of auditor", "Rights and duties of company auditor", "Liabilities of an auditor", "Audit report types"]
+      },
+      {
+        "chapter": "Corporate Governance Framework",
+        "topics": ["Concept and significance of corporate governance", "Theories of corporate governance", "Board committees (Audit, Remuneration, Nomination)", "Role of independent directors", "Whistle blowing policy"]
+      },
+      {
+        "chapter": "Business Ethics and Corporate Social Responsibility",
+        "topics": ["Principles of business ethics", "Values and morals in business", "Concept of CSR", "Provisions of CSR under Companies Act", "CSR models and strategies"]
+      }
+    ]
+  },
+  {
+    "subject": "Goods and Services Tax (GST) and Customs Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Concept of Indirect Taxes and Introduction to GST",
+        "topics": ["Features of indirect taxes", "Deficiencies of pre-GST regime", "Framework of GST in India (CGST, SGST, IGST)", "GST Council", "Benefits of GST"]
+      },
+      {
+        "chapter": "Levy and Collection of GST, Time and Value of Supply",
+        "topics": ["Concept of supply under GST", "Composite and mixed supplies", "Time of supply for goods and services", "Value of supply computation", "Reverse charge mechanism"]
+      },
+      {
+        "chapter": "Input Tax Credit and Registration",
+        "topics": ["Eligibility and conditions for claiming ITC", "Apportionment of credit and blocked credits", "Persons liable for GST registration", "Compulsory registration cases", "Cancellation of registration"]
+      },
+      {
+        "chapter": "GST Returns, Payment, and Assessment",
+        "topics": ["Types of GST returns", "Payment of tax, interest, and penalty", "E-way bill concept", "Self-assessment and provisional assessment", "Offenses and penalties under GST"]
+      },
+      {
+        "chapter": "Customs Law Basic Concepts and Valuation",
+        "topics": ["Basic concepts of customs law", "Types of customs duties", "Valuation of imported goods", "Valuation of exported goods", "Baggage rules and exemptions"]
+      }
+    ]
+  }
+]
