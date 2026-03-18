@@ -3,64 +3,178 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Definitions Viewer</title>
+  <title>Syllabus AI Definitions Viewer</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
-    body { background-color: #f4f6f9; }
-    .definition-text { white-space: normal; line-height: 1.6; padding: 0.5rem 0.75rem; background: #ffffff; border: 1px solid #e3e6ea; border-radius: 0.4rem; }
-    .definition-text p { margin: 0.4rem 0; }
-    .definition-text code, .definition-text pre { background: #f8f9fa; border-radius: 4px; padding: 0.2rem 0.35rem; }
-    .definition-text pre { padding: 0.8rem; overflow: auto; border: 1px solid #ddd; }
+    body { 
+      background-color: #f8f9fa; 
+      font-family: 'Inter', sans-serif;
+    }
+    .navbar-brand {
+      font-weight: 600;
+      letter-spacing: -0.5px;
+    }
+    .control-panel {
+      background: #ffffff;
+      border-radius: 0.75rem;
+      padding: 1.5rem;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      margin-bottom: 2rem;
+    }
+    .nav-tabs {
+      border-bottom: 2px solid #e9ecef;
+      gap: 0.5rem;
+    }
+    .nav-tabs .nav-link {
+      border: none;
+      color: #495057;
+      font-weight: 500;
+      padding: 0.75rem 1.5rem;
+      border-radius: 0.5rem 0.5rem 0 0;
+      transition: all 0.2s;
+    }
+    .nav-tabs .nav-link:hover {
+      background-color: #e9ecef;
+      color: #212529;
+    }
+    .nav-tabs .nav-link.active {
+      background-color: #0d6efd;
+      color: #ffffff;
+      border-bottom: 2px solid #0d6efd;
+    }
+    .accordion-button {
+      font-weight: 600;
+      background-color: #ffffff;
+      box-shadow: none !important;
+    }
+    .accordion-button:not(.collapsed) {
+      background-color: #f1f7ff;
+      color: #0d6efd;
+    }
+    .topic-card {
+      border: 1px solid #e9ecef;
+      border-radius: 0.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+      transition: transform 0.2s, box-shadow 0.2s;
+      background: #ffffff;
+    }
+    .topic-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .topic-header {
+      background-color: #f8f9fa;
+      border-bottom: 1px solid #e9ecef;
+      padding: 0.75rem 1.25rem;
+      border-radius: 0.5rem 0.5rem 0 0;
+      font-weight: 600;
+      color: #2c3e50;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .definition-text { 
+      white-space: normal; 
+      line-height: 1.7; 
+      padding: 1.25rem; 
+      color: #34495e;
+    }
+    .definition-text p:last-child { margin-bottom: 0; }
+    .definition-text code, .definition-text pre { 
+      background: #f1f3f5; 
+      border-radius: 6px; 
+      color: #d63384;
+    }
+    .definition-text code { padding: 0.2em 0.4em; font-size: 0.9em; }
+    .definition-text pre { 
+      padding: 1rem; 
+      overflow: auto; 
+      border: 1px solid #dee2e6; 
+      color: #212529;
+    }
+    .definition-text h1, .definition-text h2, .definition-text h3 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-top: 1rem;
+      margin-bottom: 0.75rem;
+      color: #212529;
+    }
     .katex-display {
-      margin: 0.35rem 0 !important;
-      text-align: left !important;
-      width: auto !important;
-      padding: 0 !important;
-      display: block !important;
+      margin: 0.5rem 0 !important;
+      overflow-x: auto;
+      overflow-y: hidden;
     }
-    .katex-display .katex-mathml,
-    .katex-display .katex-html {
-      text-align: left !important;
-      margin: 0 !important;
-    }
-    .katex {
-      font-size: 1.05em !important;
-      display: inline !important;
-      margin: 0 !important;
-      padding: 0 !important;
-    }
-    .highlight { background: #fff9c4; }
     #loader { display: none; }
   </style>
 </head>
 <body>
-  <div class="container py-4">
-    <h1 class="mb-3">AI Definitions</h1>
-    <p class="text-muted">Visual overview of your <code>class6syllabus-topic.json</code> data, grouped by subject/chapter/topic.</p>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm mb-4">
+    <div class="container">
+      <a class="navbar-brand" href="#"><i class="bi bi-journal-text me-2"></i>Syllabus Definitions Viewer</a>
+    </div>
+  </nav>
 
-    <div class="row mb-3">
-      <div class="col-md-4">
-        <input id="searchInput" type="search" class="form-control" placeholder="Search topic, chapter, subject..." aria-label="Search" />
+  <div class="container pb-5">
+    <div class="control-panel">
+      
+      <!-- Quick Load Buttons -->
+      <div class="mb-4">
+        <label class="form-label fw-medium text-secondary"><i class="bi bi-lightning-charge me-1"></i>Quick Load</label>
+        <div class="d-flex flex-wrap gap-2" id="quickLoadContainer">
+          <!-- Buttons generated dynamically via JavaScript -->
+        </div>
       </div>
-      <div class="col-md-4">
-        <select id="renderMode" class="form-select" aria-label="Render mode">
-          <option value="fancy" selected>Render Markdown + Math</option>
-          <option value="plain">Show Raw Text</option>
-        </select>
+
+      <div class="row g-3 align-items-end">
+        <div class="col-md-5">
+          <label class="form-label fw-medium text-secondary">JSON File Path or URL</label>
+          <div class="input-group">
+            <span class="input-group-text"><i class="bi bi-link-45deg"></i></span>
+            <input id="jsonUrlInput" type="text" class="form-control" value="data/output/official_syllabus_69778f3f3b37a16ce51783bc-topic.json" placeholder="e.g. data/output/file.json" />
+          </div>
+        </div>
+        <div class="col-md-1 text-center">
+          <span class="text-muted small fw-bold">OR</span>
+        </div>
+        <div class="col-md-4">
+          <label class="form-label fw-medium text-secondary">Upload Local JSON</label>
+          <input id="fileInput" type="file" class="form-control" accept=".json" />
+        </div>
+        <div class="col-md-2">
+          <button id="loadUrlBtn" class="btn btn-primary w-100"><i class="bi bi-cloud-arrow-down me-2"></i>Load Data</button>
+        </div>
       </div>
-      <div class="col-md-4 text-end">
-        <button id="reloadBtn" class="btn btn-primary">Reload JSON</button>
+      
+      <hr class="my-4 text-muted">
+      
+      <div class="row g-3">
+        <div class="col-md-8">
+          <div class="input-group">
+            <span class="input-group-text bg-light"><i class="bi bi-search"></i></span>
+            <input id="searchInput" type="search" class="form-control bg-light" placeholder="Search topic, chapter, subject, or keywords..." />
+          </div>
+        </div>
+        <div class="col-md-4">
+          <select id="renderMode" class="form-select bg-light">
+            <option value="fancy" selected>Render Markdown + Math</option>
+            <option value="plain">Show Raw Text</option>
+          </select>
+        </div>
       </div>
     </div>
 
     <div id="loader" class="py-5 text-center">
-      <div class="spinner-border text-primary" role="status"></div>
-      <p class="mt-3">Loading class6syllabus-topic.json...</p>
+      <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;"></div>
+      <p class="mt-3 text-muted fw-medium">Loading syllabus data...</p>
     </div>
+
+    <div id="errorContainer" class="alert alert-danger d-none shadow-sm" role="alert"></div>
 
     <div id="dataContainer"></div>
   </div>
@@ -68,11 +182,24 @@
   <script>
     const dataContainer = document.getElementById('dataContainer');
     const searchInput = document.getElementById('searchInput');
-    const reloadBtn = document.getElementById('reloadBtn');
+    const jsonUrlInput = document.getElementById('jsonUrlInput');
+    const loadUrlBtn = document.getElementById('loadUrlBtn');
+    const fileInput = document.getElementById('fileInput');
     const loader = document.getElementById('loader');
+    const errorContainer = document.getElementById('errorContainer');
+
+    function showError(msg) {
+      errorContainer.innerHTML = `<i class="bi bi-exclamation-triangle-fill me-2"></i> ${escapeHtml(msg)}`;
+      errorContainer.classList.remove('d-none');
+      dataContainer.innerHTML = '';
+    }
+    
+    function hideError() {
+      errorContainer.classList.add('d-none');
+    }
 
     function hideLoader() { loader.style.display = 'none'; }
-    function showLoader() { loader.style.display = 'block'; }
+    function showLoader() { loader.style.display = 'block'; hideError(); dataContainer.innerHTML = ''; }
 
     function escapeHtml(str) {
       if (!str) return '';
@@ -81,9 +208,60 @@
       }[char]));
     }
 
+    let quickLoadFiles = [];
+
+    function loadAvailableFiles() {
+      const container = document.getElementById('quickLoadContainer');
+      container.innerHTML = '<span class="text-muted small">Discovering files in data/output/...</span>';
+      
+      fetch('data/output/')
+        .then(response => {
+          if (!response.ok) throw new Error('Directory indexing not available');
+          return response.text();
+        })
+        .then(html => {
+          // Parse the directory listing HTML returned by the local server
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(html, 'text/html');
+          const links = Array.from(doc.querySelectorAll('a'));
+          
+          quickLoadFiles = links
+            .map(a => a.getAttribute('href'))
+            .filter(href => href && href.endsWith('.json'))
+            .map(file => {
+              const fileName = file.split('/').pop();
+              let label = decodeURIComponent(fileName).replace('official_syllabus_', '').replace('-topic.json', '').replace('.json', '');
+              if (label.length > 15) label = label.substring(0, 15) + '..'; // Keep button sizes manageable
+              return { label: label, url: 'data/output/' + fileName };
+            });
+
+          if (quickLoadFiles.length > 0) {
+             renderQuickLoadButtons();
+          } else {
+             container.innerHTML = '<span class="text-muted small">No JSON files found in data/output/.</span>';
+          }
+        })
+        .catch(err => {
+          console.warn("Could not fetch directory listing.", err);
+          container.innerHTML = '<span class="text-muted small text-danger">Auto-detect requires a local web server (e.g., <code>python -m http.server</code>).</span>';
+        });
+    }
+
+    function renderQuickLoadButtons() {
+      const container = document.getElementById('quickLoadContainer');
+      container.innerHTML = quickLoadFiles.map(file => 
+        `<button class="btn btn-sm btn-outline-primary fw-medium" onclick="setAndLoadUrl('${file.url}')" title="${escapeHtml(file.url)}">${escapeHtml(file.label)}</button>`
+      ).join('');
+    }
+
+    function setAndLoadUrl(url) {
+      jsonUrlInput.value = url;
+      loadFromUrl(url);
+    }
+
     function buildTemplate(data, filter) {
       if (!Array.isArray(data) || data.length === 0) {
-        return '<div class="alert alert-warning">No data found in class6syllabus-topic.json</div>';
+        return '<div class="alert alert-warning"><i class="bi bi-info-circle me-2"></i> No data found in the provided JSON.</div>';
       }
 
       const q = typeof filter === 'string' ? filter.trim().toLowerCase() : '';
@@ -95,67 +273,78 @@
         const sName = subject.subject || 'Unknown Subject';
         const sYear = subject.year ? ` (${subject.year})` : '';
 
-        let chapterTabs = [];
-        let chapterPanes = [];
         let chapterMatches = 0;
+        const accordionId = `accordion-subject-${index}`;
+        let chapterHtml = `<div class="accordion shadow-sm" id="${accordionId}">`;
 
         (subject.chapters || []).forEach((chapter, cIndex) => {
           const cName = chapter.chapter || 'Untitled Chapter';
-          let chapterInner = '';
+          let topicsHtml = '';
 
           (chapter.topics || []).forEach(topic => {
             const tName = topic.topic || 'Untitled Topic';
             const def = topic.definition || '';
-            const match = q.length === 0 || [sName, sYear, cName, tName, def].some(x => (x || '').toLowerCase().includes(q));
+            const match = q.length === 0 || [sName, sYear, cName, tName, def].some(x => String(x || '').toLowerCase().includes(q));
             if (!match) return;
 
             visibleCount += 1;
             chapterMatches += 1;
 
             const renderedDefinition = renderDefinition(def);
-            chapterInner += `
-              <div class='card mb-2 border-0 shadow-sm w-100'>
-                <div class='card-body p-3'>
-                  <div class='definition-text text-secondary'>${renderedDefinition}</div>
+            topicsHtml += `
+              <div class='topic-card mb-3'>
+                <div class='topic-header'>
+                  <i class="bi bi-bookmark-star text-primary"></i>
+                  ${escapeHtml(tName)}
                 </div>
+                <div class='definition-text'>${renderedDefinition}</div>
               </div>`;
           });
 
-          if (!chapterInner) return;
+          if (!topicsHtml) return;
 
-          const chapterTabId = `subject-${index}-chapter-${cIndex}`;
-          chapterTabs.push(`
-            <li class='nav-item' role='presentation'>
-              <button class='nav-link ${chapterTabs.length === 0 ? 'active' : ''}' id='${chapterTabId}-button' data-bs-toggle='tab' data-bs-target='#${chapterTabId}' type='button' role='tab' aria-controls='${chapterTabId}' aria-selected='${chapterTabs.length === 0}'>${escapeHtml(cName)}</button>
-            </li>`);
+          const collapseId = `collapse-${index}-${cIndex}`;
+          const headingId = `heading-${index}-${cIndex}`;
+          
+          const isExpanded = q.length > 0 || cIndex === 0;
+          const showClass = isExpanded ? 'show' : '';
+          const btnClass = isExpanded ? '' : 'collapsed';
 
-          chapterPanes.push(`
-            <div class='tab-pane fade ${chapterPanes.length === 0 ? 'show active' : ''} pt-2' id='${chapterTabId}' role='tabpanel' aria-labelledby='${chapterTabId}-button'>
-              <div class='row gx-0'>${chapterInner}</div>
-            </div>`);
+          chapterHtml += `
+            <div class="accordion-item border-0 border-bottom">
+              <h2 class="accordion-header" id="${headingId}">
+                <button class="accordion-button ${btnClass}" type="button" data-bs-toggle="collapse" data-bs-target="#${collapseId}" aria-expanded="${isExpanded}" aria-controls="${collapseId}">
+                  <i class="bi bi-folder2-open me-2 text-warning"></i> ${escapeHtml(cName)}
+                </button>
+              </h2>
+              <div id="${collapseId}" class="accordion-collapse collapse ${showClass}" aria-labelledby="${headingId}" data-bs-parent="#${accordionId}">
+                <div class="accordion-body bg-light">
+                  ${topicsHtml}
+                </div>
+              </div>
+            </div>`;
         });
+        
+        chapterHtml += `</div>`;
 
         if (chapterMatches === 0) return;
 
         const tabId = `subject-tab-${index}`;
         tabs.push(`
           <li class='nav-item' role='presentation'>
-            <button class='nav-link${tabs.length === 0 ? ' active' : ''}' id='${tabId}-button' data-bs-toggle='tab' data-bs-target='#${tabId}' type='button' role='tab' aria-controls='${tabId}' aria-selected='${tabs.length === 0}'>${escapeHtml(sName)}${sYear}</button>
+            <button class='nav-link${tabs.length === 0 ? ' active' : ''}' id='${tabId}-button' data-bs-toggle='tab' data-bs-target='#${tabId}' type='button' role='tab' aria-controls='${tabId}' aria-selected='${tabs.length === 0}'>
+              <i class="bi bi-book-half me-1"></i> ${escapeHtml(sName)}${sYear}
+            </button>
           </li>`);
 
         panes.push(`
-          <div class='tab-pane fade${panes.length === 0 ? ' show active' : ''}' id='${tabId}' role='tabpanel' aria-labelledby='${tabId}-button'>
-            <ul class='nav nav-pills mb-3' role='tablist'>
-              ${chapterTabs.join('')}
-            </ul>
-            <div class='tab-content'>
-              ${chapterPanes.join('')}
-            </div>
+          <div class='tab-pane fade${panes.length === 0 ? ' show active' : ''} pt-3' id='${tabId}' role='tabpanel' aria-labelledby='${tabId}-button'>
+            ${chapterHtml}
           </div>`);
       });
 
       if (visibleCount === 0) {
-        return '<div class="alert alert-info">No definitions match filter.</div>';
+        return '<div class="alert alert-info"><i class="bi bi-search me-2"></i> No definitions match your filter.</div>';
       }
 
       return `
@@ -171,32 +360,23 @@
       if (!def) return '<p class="text-muted">No definition available.</p>';
       let mathProcessed = def;
       // Convert display math first ($$...$$)
-      mathProcessed = mathProcessed.replace(/\$\$([\s\S]+?)\$\$/g, (_, expr) => {
+      mathProcessed = mathProcessed.replace(/\$\$([\s\S]+?)\$\$/g, (match, expr) => {
         try {
           return katex.renderToString(expr.trim(), {throwOnError: false, displayMode: true});
         } catch (e) {
-          return `$$${expr}$$`;
+          return match;
         }
       });
       // Convert inline math ($...$)
-      mathProcessed = mathProcessed.replace(/\$([^\$]+?)\$/g, (_, expr) => {
+      mathProcessed = mathProcessed.replace(/(?<!\$)\$([^\$]+?)\$(?!\$)/g, (match, expr) => {
         try {
           return katex.renderToString(expr.trim(), {throwOnError: false, displayMode: false});
         } catch (e) {
-          return `$${expr}$`;
+          return match;
         }
       });
       // Markdown parse after math render, so math HTML remains intact.
       return marked.parse(mathProcessed);
-    }
-
-    function renderMath(element) {
-      if (!window.katex) return;
-      const textNodes = Array.from(element.querySelectorAll('.definition-text'));
-      textNodes.forEach(node => {
-        const inner = node.innerHTML;
-        if (!inner) return;
-      });
     }
 
     let renderMode = 'fancy';
@@ -214,17 +394,36 @@
       dataContainer.innerHTML = buildTemplate(data, filter);
     }
 
-    function load() {
+    function loadFromUrl(url) {
       showLoader();
-      fetch('class6syllabus-topic.json').then(r => r.json()).then(data => {
+      fetch(url).then(r => {
+        if (!r.ok) throw new Error(`HTTP error! status: ${r.status}`);
+        return r.json();
+      }).then(data => {
         hideLoader();
         window.latestData = data;
         render(data, searchInput.value);
       }).catch(err => {
-        hideLoader();
-        dataContainer.innerHTML = `<div class='alert alert-danger'>Failed to load class6syllabus-topic.json: ${escapeHtml(err.message || err)}</div>`;
+        showError(`Failed to load JSON from ${url}: ${err.message || err}`);
         console.error(err);
       });
+    }
+
+    function loadFromFile(file) {
+      showLoader();
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        try {
+          const data = JSON.parse(e.target.result);
+          hideLoader();
+          window.latestData = data;
+          render(data, searchInput.value);
+        } catch (err) {
+          showError(`Failed to parse JSON file: ${err.message || err}`);
+        }
+      };
+      reader.onerror = () => showError("Error reading the file.");
+      reader.readAsText(file);
     }
 
     searchInput.addEventListener('input', () => {
@@ -237,9 +436,26 @@
       render(window.latestData || [], searchInput.value);
     });
 
-    reloadBtn.addEventListener('click', load);
+    loadUrlBtn.addEventListener('click', () => {
+      const url = jsonUrlInput.value.trim();
+      if (url) loadFromUrl(url);
+    });
 
-    load();
+    fileInput.addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (file) {
+        jsonUrlInput.value = ''; // clear url input to avoid confusion
+        loadFromFile(file);
+      }
+    });
+
+    // Initial load
+    if (jsonUrlInput.value.trim()) {
+      loadFromUrl(jsonUrlInput.value.trim());
+    }
+
+    // Dynamically load the quick load buttons
+    loadAvailableFiles();
   </script>
 </body>
 </html>
