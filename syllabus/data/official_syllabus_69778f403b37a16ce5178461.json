@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Language Comprehension / Verbal Ability",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Vocabulary and Basic English",
+        "topics": [
+          "Synonyms, antonyms and word usage",
+          "One word substitution and spellings",
+          "Homonyms and contextual meanings",
+          "Analogies and relationship between words",
+          "Commonly confused words in academic English"
+        ]
+      },
+      {
+        "chapter": "Grammar and Sentence Structure",
+        "topics": [
+          "Parts of speech and their correct usage",
+          "Sentence correction and spotting the error",
+          "Direct and indirect speech transformation",
+          "Active and passive voice constructions",
+          "Subject-verb agreement and tenses"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension",
+        "topics": [
+          "Extracting main ideas from passages",
+          "Inference and tone of the author",
+          "Contextual meaning of phrases in text",
+          "Fact-based questions and data interpretation",
+          "Summarizing of academic and literary texts"
+        ]
+      },
+      {
+        "chapter": "Verbal Logic and Arrangement",
+        "topics": [
+          "Para-jumbles and sentence rearrangement",
+          "Logical sequence of ideas in a paragraph",
+          "Sentence completion using appropriate words",
+          "Connecting clauses and sentence synthesis",
+          "Odd word out and verbal classification"
+        ]
+      },
+      {
+        "chapter": "Idioms and Phrasal Verbs",
+        "topics": [
+          "Common English idioms and their origins",
+          "Phrasal verbs and their prepositional usage",
+          "Proverbs and their contextual application",
+          "Figures of speech: Metaphor, Simile, Personification",
+          "Colloquialisms vs formal academic language"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematical / Quantitative Ability",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Arithmetic and Number Systems",
+        "topics": [
+          "Fractions, decimals and percentage calculations",
+          "Ratio, proportion and variation problems",
+          "Profit, loss and discount applications",
+          "Simple and compound interest calculations",
+          "Work, time and distance problems"
+        ]
+      },
+      {
+        "chapter": "Algebra and Equations",
+        "topics": [
+          "Linear and quadratic equations solutions",
+          "Algebraic identities and factorization",
+          "Progressions: Arithmetic and Geometric series",
+          "Inequalities and their graphical representation",
+          "Functions, domain and range (Introductory)"
+        ]
+      },
+      {
+        "chapter": "Geometry and Mensuration",
+        "topics": [
+          "Properties of triangles, circles and polygons",
+          "Area and perimeter of 2D figures",
+          "Volume and surface area of 3D solids",
+          "Coordinate geometry: Distance and section formula",
+          "Slopes and intercept form of straight lines"
+        ]
+      },
+      {
+        "chapter": "Modern Mathematics",
+        "topics": [
+          "Set theory: Union, intersection and subsets",
+          "Permutations and combinations basics",
+          "Probability theory: Addition and multiplication laws",
+          "Mathematical induction (Conceptual)",
+          "Matrices and determinants of order up to 3"
+        ]
+      },
+      {
+        "chapter": "Data Interpretation",
+        "topics": [
+          "Analysis of bar graphs and histograms",
+          "Pie charts and their numerical interpretation",
+          "Line graphs and trend analysis",
+          "Data sufficiency problems in arithmetic",
+          "Mean, median, and mode for grouped data"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Analytical Skills and Logical Reasoning",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Coding and Series",
+        "topics": [
+          "Letter and number coding-decoding",
+          "Number and alpha-numeric series completion",
+          "Matrix coding and decryption",
+          "Symbol-letter relationship and substitution",
+          "Finding the missing term in complex series"
+        ]
+      },
+      {
+        "chapter": "Relative Reasoning",
+        "topics": [
+          "Blood relations: Deciphering family trees",
+          "Direction sense and distance calculation",
+          "Seating arrangement: Linear and circular",
+          "Ranking and order test problems",
+          "Age-based reasoning and comparison tests"
+        ]
+      },
+      {
+        "chapter": "Logical Deduction",
+        "topics": [
+          "Syllogism: Venn diagram-based conclusions",
+          "Statement and assumptions: Critical analysis",
+          "Course of action and decision making",
+          "Cause and effect relationship Identification",
+          "Statement and argument evaluation"
+        ]
+      },
+      {
+        "chapter": "Puzzles and Analytical Ability",
+        "topics": [
+          "Tabulation puzzles with multiple variables",
+          "Grouping and selection logic",
+          "Input-output tracing in logical flow",
+          "Conditional logic and binary reasoning",
+          "Floor-based and date-based arrangement puzzles"
+        ]
+      },
+      {
+        "chapter": "Non-Verbal Reasoning",
+        "topics": [
+          "Series completion in figure patterns",
+          "Analogy and classification of shapes",
+          "Mirror and water images of objects",
+          "Paper folding and cutting visualizations",
+          "Embedded figures and pattern completion"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Knowledge and Awareness",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Indian Polity and Constitution",
+        "topics": [
+          "Salient features of the Indian Constitution",
+          "Fundamental Rights and Directive Principles",
+          "Structure of the Union and State governments",
+          "Judicial system and constitutional bodies",
+          "Local self-governance: Panchayats and Municipalities"
+        ]
+      },
+      {
+        "chapter": "History and Culture",
+        "topics": [
+          "Major dynasties of Ancient and Medieval India",
+          "Indian National Movement and Freedom Struggle",
+          "Art forms and cultural heritage of India",
+          "Religious movements and social reformers",
+          "Important sites and monuments in India"
+        ]
+      },
+      {
+        "chapter": "Geography and Environment",
+        "topics": [
+          "Physical geography of India and the world",
+          "Climate, vegetation and soil types in India",
+          "Natural resources and their conservation",
+          "Environmental pollution and global warming",
+          "Sustainable development goals and climate policy"
+        ]
+      },
+      {
+        "chapter": "Indian Economy",
+        "topics": [
+          "Planning commission vs NITI Aayog roles",
+          "Indian banking system and monetary policy",
+          "Fiscal policy, taxation and GST framework",
+          "Agriculture, industry and service sectors in India",
+          "Economic reforms since 1991 (LPG)"
+        ]
+      },
+      {
+        "chapter": "Science and Technology",
+        "topics": [
+          "Basic concepts in Physics, Chemistry and Biology",
+          "Information technology and space exploration in India",
+          "Health, nutrition and common diseases",
+          "Recent advancements in science and engineering",
+          "Defense technology and important organizations (ISRO/DRDO)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Classical Mechanics",
+        "topics": [
+          "Lagrangian and Hamiltonian formulations",
+          "Central force motion and planetary orbits",
+          "Rigid body dynamics and tensor notation",
+          "Small oscillations and normal modes",
+          "Special theory of relativity: Lorentz transform"
+        ]
+      },
+      {
+        "chapter": "Quantum Mechanics",
+        "topics": [
+          "Schrodinger equation and its applications",
+          "Operators, observables and uncertainty principle",
+          "Hydrogen atom and angular momentum",
+          "Perturbation theory and scattering",
+          "Identical particles and spin-statistics"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Theory",
+        "topics": [
+          "Maxwell's equations and wave propagation",
+          "Electrostatics and magnetostatics in media",
+          "Gauge transformations and retarded potentials",
+          "Radiation from accelerating charges",
+          "Reflection and refraction of e.m. waves"
+        ]
+      },
+      {
+        "chapter": "Statistical and Thermal Physics",
+        "topics": [
+          "Ensemble theory and statistical mechanics",
+          "Bose-Einstein and Fermi-Dirac distributions",
+          "Phase transitions and critical phenomena",
+          "Black body radiation and Einstein model",
+          "Irreversible processes and fluctuations"
+        ]
+      },
+      {
+        "chapter": "Atomic and Nuclear Physics",
+        "topics": [
+          "LS and JJ coupling in atomic spectra",
+          "Nuclear models: Shell and liquid drop",
+          "Radioactive decay and nuclear reactions",
+          "Elementary particles and fundamental symmetries",
+          "Particle accelerators and detectors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Organic Reaction Mechanisms",
+        "topics": [
+          "Reaction intermediates: Carbocations, nitrenes",
+          "Named reactions: Aldol, Wittig, Michael addition",
+          "Aromaticity and electrophilic substitution",
+          "Pericyclic reactions: Diels-Alder and sigmatropic",
+          "Stereochemistry and asymmetric synthesis"
+        ]
+      },
+      {
+        "chapter": "Inorganic and Periodic Chemistry",
+        "topics": [
+          "Crystal Field Theory and MOT for complexes",
+          "Bio-inorganic chemistry: Hemoglobin, Vitamin B12",
+          "Organometallic compounds: 18-electron rule",
+          "Stability constants and chelation effect",
+          "Chemistry of Lanthanoids and Actinoids"
+        ]
+      },
+      {
+        "chapter": "Physical Chemistry",
+        "topics": [
+          "Quantum chemistry: Operators and wavefunctions",
+          "Chemical thermodynamics and statistical mechanics",
+          "Electrochemistry: Ion-ion interactions and Nernst",
+          "Photochemistry and Jablonski diagrams",
+          "Solid state chemistry and crystal structures"
+        ]
+      },
+      {
+        "chapter": "Spectroscopy and Analysis",
+        "topics": [
+          "UV-Visible and IR spectroscopy principles",
+          "NMR (H1 and C13) and mass spectrometry",
+          "X-ray diffraction and surface characterization",
+          "Chromatography: HPLC and GC techniques",
+          "Analytical errors and statistical treatment"
+        ]
+      },
+      {
+        "chapter": "Environmental and Biomolecules",
+        "topics": [
+          "Enzyme kinetics and Michaelis-Menten eq",
+          "Structure of nucleic acids and biosynthesis",
+          "Metabolic pathways: Glycolysis and Krebs",
+          "Green chemistry and sustainable synthesis",
+          "Pollution control in chemical industries"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Real and Complex Analysis",
+        "topics": [
+          "Sequences and series of functions, uniform convergence",
+          "Metric spaces and compactness in R^n",
+          "Analytic functions and Cauchy-Riemann equations",
+          "Complex integration and Residue theorem",
+          "Riemann integration and improper integrals"
+        ]
+      },
+      {
+        "chapter": "Linear and Abstract Algebra",
+        "topics": [
+          "Vector spaces, basis, and dimension",
+          "Inner product spaces and Gram-Schmidt process",
+          "Group theory: Sylow's theorem and quotients",
+          "Ring theory and Galois field theory",
+          "Linear transformations and Jordan canonical form"
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "Linear ODEs with variable coefficients",
+          "Existence and uniqueness of solutions",
+          "Partial differential equations (PDE) solutions",
+          "Laplace and Fourier transform applications",
+          "Stability theory and Lyapunov functions"
+        ]
+      },
+      {
+        "chapter": "Topology and Metric Spaces",
+        "topics": [
+          "Topological spaces: Open, closed, and dense sets",
+          "Connectedness and path-connectedness",
+          "Hausdorff spaces and separation axioms",
+          "Fixed point theorems and their applications",
+          "Fundamental group and covering spaces"
+        ]
+      },
+      {
+        "chapter": "Numerical Analysis and Probability",
+        "topics": [
+          "Numerical solutions of ODEs and PDEs",
+          "Interpolation and splines for data fitting",
+          "Random variables and convergence in probability",
+          "Stochastic processes and Markov chains",
+          "Large sample theory and Central Limit Theorem"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Life Sciences",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cell and Molecular Biology",
+        "topics": [
+          "Organelle structure and protein trafficking",
+          "Cell signaling: GPCR and kinase pathways",
+          "DNA replication, transcription and translation",
+          "Gene regulation in prokaryotes and eukaryotes",
+          "Genome organization and repetitive DNA"
+        ]
+      },
+      {
+        "chapter": "Genetics and Biotechnology",
+        "topics": [
+          "Mendelian inheritance and gene mapping",
+          "Cytogenetics and chromosomal abnormalities",
+          "Recombinant DNA technology and CRISPR-Cas9",
+          "Protein engineering and metabolic engineering",
+          "Plant and animal tissue culture methods"
+        ]
+      },
+      {
+        "chapter": "Biochemistry and Physiology",
+        "topics": [
+          "Enzymology and metabolic regulation",
+          "Bioenergetics and oxidative phosphorylation",
+          "Endocrine system and hormonal action",
+          "Nervous system and synaptic transmission",
+          "Immunology: T-cell and B-cell responses"
+        ]
+      },
+      {
+        "chapter": "Ecology and Evolution",
+        "topics": [
+          "Population dynamics and community ecology",
+          "Ecosystem functioning and nutrient cycling",
+          "Molecular evolution and phylogenetic trees",
+          "Speciation and natural selection theories",
+          "Conservation biology and invasive species"
+        ]
+      },
+      {
+        "chapter": "Applied Biology and Microbiology",
+        "topics": [
+          "Bacterial growth and genetics in microbes",
+          "Industrial microbiology and bioreactors",
+          "Bioremediation and environmental biotechnology",
+          "Cancer biology: Oncogenes and tumor suppressors",
+          "Developmental biology: Fertilization and patterning"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Humanities",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Political Theory",
+        "topics": [
+          "Classical and modern political thought",
+          "Justice, equality and rights theories",
+          "Democratic theories and representation",
+          "Feminism, post-colonialism and ecological theory",
+          "State sovereignty and global challenges"
+        ]
+      },
+      {
+        "chapter": "Indian History and Culture",
+        "topics": [
+          "Ancient Indian social and political institutions",
+          "Bhakti and Sufi movements in medieval India",
+          "Impact of British rule on Indian society",
+          "Post-independence consolidation of India",
+          "Historiography: Different schools of thought"
+        ]
+      },
+      {
+        "chapter": "Sociology of Change",
+        "topics": [
+          "Social stratification and mobility theories",
+          "Glocalization and its social impact",
+          "Agrarian social structure and change",
+          "Social movements in India (Farmers, Gender)",
+          "Sociological theories: Marx, Weber, Durkheim"
+        ]
+      },
+      {
+        "chapter": "International Relations",
+        "topics": [
+          "Theories of IR: Realism vs Liberalism",
+          "Global order in the post-cold war era",
+          "India's foreign policy and neighbors",
+          "Regionalism: EU, ASEAN and SAARC",
+          "Terrorism and non-traditional security"
+        ]
+      },
+      {
+        "chapter": "Ethics and Philosophy",
+        "topics": [
+          "Ethics and moral philosophy principles",
+          "Contemporary philosophical debates in India",
+          "Western philosophical traditions: Kant, Mill",
+          "Indian philosophy: Upanishads and Buddhism",
+          "Social ethics and human rights values"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Commerce / Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Financial Accounting",
+        "topics": [
+          "Corporate accounting and financial standards (Ind AS)",
+          "Accounting for mergers and acquisitions",
+          "Funds flow and cash flow analysis techniques",
+          "Valuation of shares and intangible assets",
+          "Contemporary issues in accounting (Green, Human)"
+        ]
+      },
+      {
+        "chapter": "Management and HR",
+        "topics": [
+          "Management theories: Scientific to Japanese models",
+          "Organizational behavior: Personality and motivation",
+          "Strategic human resource management",
+          "Industrial relations and labor laws in India",
+          "Corporate social responsibility and ethics"
+        ]
+      },
+      {
+        "chapter": "Marketing and Branding",
+        "topics": [
+          "Consumer behavior research and modeling",
+          "Market segmentation, targeting, and positioning",
+          "Product and price strategies in digital era",
+          "Branding and integrated marketing communication",
+          "Services marketing and relationship marketing"
+        ]
+      },
+      {
+        "chapter": "Financial Management",
+        "topics": [
+          "Capital budgeting and risk analysis",
+          "Capital structure theories and dividend policy",
+          "Working capital management and financing",
+          "Financial derivatives and risk management",
+          "Behavioral finance and market efficiency"
+        ]
+      },
+      {
+        "chapter": "Business Economics",
+        "topics": [
+          "Demand forecasting and production functions",
+          "Market structures: Monopoly, Oligopoly, and pricing",
+          "Macroeconomic environment and business cycles",
+          "Business ethics and governance models",
+          "Entrepreneurial development and MSME policy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Computer Applications",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Data Structures and Algorithms",
+        "topics": [
+          "Sorting and searching complexity analysis",
+          "Graphs: BFS, DFS and shortest paths",
+          "Dynamic programming and greedy algorithms",
+          "Memory management and hashing techniques",
+          "Trees: AVL, B-trees and Red-black trees"
+        ]
+      },
+      {
+        "chapter": "Operating Systems",
+        "topics": [
+          "Process management and thread control",
+          "CPU scheduling and deadlock mechanisms",
+          "Virtual memory and page replacement",
+          "File system implementation and security",
+          "Unix/Linux system kernel and shell"
+        ]
+      },
+      {
+        "chapter": "Database Management Systems",
+        "topics": [
+          "Relational model and normalization (1NF to 5NF)",
+          "Transaction management: ACID and recovery",
+          "Query optimization and indexing in SQL",
+          "NoSQL databases and Big Data concepts",
+          "Distributed databases and concurrency"
+        ]
+      },
+      {
+        "chapter": "Software Engineering",
+        "topics": [
+          "SDLC models: Agile, Waterfall and DevOps",
+          "Requirement analysis and UML modeling",
+          "Software testing: Unit, Integration, Regression",
+          "Project management and cost estimation (COCOMO)",
+          "Software quality assurance and standards"
+        ]
+      },
+      {
+        "chapter": "Discrete Mathematics",
+        "topics": [
+          "Propositional logic and boolean algebra",
+          "Graph theory and connectivity algorithms",
+          "Combinatorics and counting principles",
+          "Group theory and lattice structures",
+          "Automata theory and formal languages"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Constitutional and Admin Law",
+        "topics": [
+          "Judicial review and basic structure doctrine",
+          "Constitutional amendments and emergency powers",
+          "Federalism and center-state relations",
+          "Principles of natural justice and fair hearing",
+          "Liability of administration in public law"
+        ]
+      },
+      {
+        "chapter": "Jurisprudence and Legal Theory",
+        "topics": [
+          "Schools of Jurisprudence: Natural, Positivist",
+          "Legal rights, duties, and corporate personality",
+          "Social engineering and feminist jurisprudence",
+          "Sources of law: Precedent, legislation, custom",
+          "Legal realism and judicial process"
+        ]
+      },
+      {
+        "chapter": "Public International Law",
+        "topics": [
+          "Sources of International law and statehood",
+          "UN Charter and international organizations",
+          "International Court of Justice: Jurisdiction",
+          "Law of the Sea and space law principles",
+          "Recognition and succession of states"
+        ]
+      },
+      {
+        "chapter": "Criminal Law and Policy",
+        "topics": [
+          "Theories of punishment and sentencing policy",
+          "General exceptions in Indian Penal Code",
+          "Organized crime and white-collar crimes",
+          "Investigation and fair trial in procedure",
+          "Victimology and criminal justice reforms"
+        ]
+      },
+      {
+        "chapter": "Labor and Industrial Law",
+        "topics": [
+          "Industrial relations and dispute settlement",
+          "Social security laws for Indian workers",
+          "Contract labor and abolition regulations",
+          "Trade unions: Governance and immunities",
+          "Occupational health and safety standards"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Social Work",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Social Work Methods",
+        "topics": [
+          "Social case work: Process and therapy",
+          "Social group work: Dynamics and leadership",
+          "Community organization and mobilization",
+          "Social action and advocacy for change",
+          "Integrated social work practice models"
+        ]
+      },
+      {
+        "chapter": "Social Research and Stats",
+        "topics": [
+          "Qualitative vs Quantitative research in SW",
+          "Sampling and data collection in communities",
+          "Evaluation research for social projects",
+          "Descriptive and inferential statistics basics",
+          "Social impact assessment (SIA) tools"
+        ]
+      },
+      {
+        "chapter": "Human Behavior",
+        "topics": [
+          "Theories of human growth and development",
+          "Social psychology and collective behavior",
+          "Family and child development studies",
+          "Elderly care and gerontology challenges",
+          "Mental health and clinical social work"
+        ]
+      },
+      {
+        "chapter": "Social Policy and Planning",
+        "topics": [
+          "Constitutional basis of social policy in India",
+          "Planning for marginalized groups (SC/ST/OBC)",
+          "Role of PRIs in rural social development",
+          "Globalization and its impact on welfare",
+          "Non-governmental organizations (NGO) management"
+        ]
+      },
+      {
+        "chapter": "Contemporary Social Issues",
+        "topics": [
+          "Poverty, unemployment and land issues",
+          "Violence against women and child rights",
+          "Disaster management and social recovery",
+          "Human trafficking and migration trends",
+          "Sustainable development and environmental justice"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Mass Communication",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Media Theories and History",
+        "topics": [
+          "Theories of mass communication (Effects, Models)",
+          "History of print and film media in India",
+          "Public sphere and democratic media roles",
+          "Media and globalization: Cultural impact",
+          "Propaganda and public opinion formation"
+        ]
+      },
+      {
+        "chapter": "Journalism Practices",
+        "topics": [
+          "News gathering, editing and reporting",
+          "Investigative and precision journalism",
+          "Online journalism and digital storytelling",
+          "Photojournalism and visual communication",
+          "Press ethics and freedom of expression"
+        ]
+      },
+      {
+        "chapter": "Broadcast Media",
+        "topics": [
+          "Radio and TV production basics",
+          "New media and convergence technologies",
+          "Documentary and film studies: Intro",
+          "Audience research and rating systems",
+          "Podcast and streaming media landscape"
+        ]
+      },
+      {
+        "chapter": "Advertising and PR",
+        "topics": [
+          "Principles and ethics of advertising",
+          "Creative strategy and copywriting",
+          "Public relations: Crisis management",
+          "Brand management and corporate image",
+          "Digital marketing and social media PR"
+        ]
+      },
+      {
+        "chapter": "Media Laws and Society",
+        "topics": [
+          "Indian media laws: Contempt, Privacy, Libel",
+          "Censorship and self-regulation codes",
+          "Gender and identity representation in media",
+          "Environment and development communication",
+          "International communication and WSIS"
+        ]
+      }
+    ]
+  }
+]

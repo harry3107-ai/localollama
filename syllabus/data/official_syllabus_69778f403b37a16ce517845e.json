@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Electrostatics",
+        "topics": [
+          "Electric charges and their properties",
+          "Coulomb's Law and electric field",
+          "Gauss's Theorem and its applications",
+          "Electric potential and potential energy",
+          "Capacitors and capacitance of a parallel plate capacitor"
+        ]
+      },
+      {
+        "chapter": "Current Electricity",
+        "topics": [
+          "Electric current and drift velocity",
+          "Ohm's Law, resistivity, and temperature dependence",
+          "Kirchhoff's Laws and Wheatstone Bridge",
+          "Potentiometer and its applications",
+          "Combination of cells: Series and parallel"
+        ]
+      },
+      {
+        "chapter": "Magnetic Effects of Current and Magnetism",
+        "topics": [
+          "Biot-Savart Law and Ampere's Law",
+          "Force on a moving charge and current carrying conductor",
+          "Moving coil galvanometer and its conversion to ammeter/voltmeter",
+          "Earth's magnetic field and its elements",
+          "Magnetic properties of materials: Para, dia, and ferro"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction and Alternating Currents",
+        "topics": [
+          "Faraday's Laws and Lenz's Law",
+          "Self and mutual induction and their applications",
+          "Peak and RMS values of alternating current",
+          "LCR series circuit and resonance",
+          "AC generator and its working principle"
+        ]
+      },
+      {
+        "chapter": "Optics (Ray and Wave)",
+        "topics": [
+          "Reflection, refraction, and total internal reflection",
+          "Lens Maker's Formula and magnification",
+          "Microscopes and telescopes: Astronomical and terrestrial",
+          "Huygens' Principle and interference of light",
+          "Young's double slit experiment and diffraction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Solid State and Solutions",
+        "topics": [
+          "Classification of solids and unit cell calculations",
+          "Bragg's equation and defects in solids",
+          "Solubility of gases in liquids: Henry's Law",
+          "Raoult's Law and ideal/non-ideal solutions",
+          "Colligative properties and Van't Hoff factor"
+        ]
+      },
+      {
+        "chapter": "Electrochemistry and Chemical Kinetics",
+        "topics": [
+          "Electrochemical cells and Nernst equation",
+          "Conductivity, molar conductivity, and Kohlrausch's Law",
+          "Rate of reaction and its dependence on T/P",
+          "Order and molecularity of reactions (Zero/First order)",
+          "Arrhenius equation and activation energy"
+        ]
+      },
+      {
+        "chapter": "Surface Chemistry and P-Block Elements",
+        "topics": [
+          "Adsorption: Physisorption and chemisorption",
+          "Colloids and their classification/properties",
+          "General trends in Group 15 to 18 elements",
+          "Preparation and properties of Ammonia and HNO3",
+          "Allotropes of Sulfur and Halogen compounds"
+        ]
+      },
+      {
+        "chapter": "D, F-Block and Coordination Compounds",
+        "topics": [
+          "General trends in transition elements (Oxidation states)",
+          "Lanthanoid and actinoid contraction effects",
+          "Werner's Theory and IUPAC nomenclature of complexes",
+          "Valence Bond Theory and Crystal Field Theory",
+          "Isomerism in coordination compounds"
+        ]
+      },
+      {
+        "chapter": "Organic Chemistry (Haloalkanes to Biomolecules)",
+        "topics": [
+          "SN1 and SN2 mechanisms in alkyl halides",
+          "Acidity of Phenols and Kolbe's/Reimer-Tiemann reactions",
+          "Aldol Condensation and Cannizzaro reaction mechanisms",
+          "Hoffmann Bromamide degradation in amines",
+          "Classification of carbohydrates and protein structure"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Relations and Functions",
+        "topics": [
+          "Types of relations: Reflexive, Symmetric, Transitive",
+          "One-to-one and onto functions, domain/range",
+          "Composite functions and inverse of a function",
+          "Invertible functions and their graphs",
+          "Binary operations and their properties"
+        ]
+      },
+      {
+        "chapter": "Algebra (Matrices and Determinants)",
+        "topics": [
+          "Types of matrices and elementary transformations",
+          "Multiplication of matrices and its properties",
+          "Adjoint and Inverse of a square matrix",
+          "Solving linear equations using matrix method",
+          "Cramer's Rule and properties of determinants"
+        ]
+      },
+      {
+        "chapter": "Calculus (Differential and Integral)",
+        "topics": [
+          "Continuity and differentiability of functions",
+          "Application of derivatives: Tangents and Normals",
+          "Integration by substitution, parts, and partial fractions",
+          "Definite integrals and their properties",
+          "Area bounded by curves using integration"
+        ]
+      },
+      {
+        "chapter": "Vectors and 3D Geometry",
+        "topics": [
+          "Scalar and vector products of two vectors",
+          "Direction cosines and direction ratios of a line",
+          "Equation of a line and a plane in space",
+          "Angle between two lines/planes",
+          "Shortest distance between two skew lines"
+        ]
+      },
+      {
+        "chapter": "Linear Programming and Probability",
+        "topics": [
+          "LPP: Formulation and graphical method of solution",
+          "Feasible and optimal regions in LPP",
+          "Conditional probability and Bayes' Theorem",
+          "Independent events and Bernoulli trials",
+          "Binomial distribution and its applications"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Reproduction",
+        "topics": [
+          "Sexual reproduction in flowering plants",
+          "Human reproduction: Male and female systems",
+          "Gametogenesis: Spermatogenesis and Oogenesis",
+          "Menstrual cycle and fertilization process",
+          "Reproductive health: Birth control and IVF"
+        ]
+      },
+      {
+        "chapter": "Genetics and Evolution",
+        "topics": [
+          "Mendelian inheritance and Deviations",
+          "Molecular basis of inheritance: DNA and RNA",
+          "Chromosomal theory of inheritance and linkage",
+          "Evolution: Theories and evidence (Darwinism/Lamarckism)",
+          "Human evolution and adaptive radiation"
+        ]
+      },
+      {
+        "chapter": "Biology and Human Welfare",
+        "topics": [
+          "Human health and common diseases (Malaria, HIV)",
+          "Immunity: Active, passive, and vaccines",
+          "Microbes in human welfare: Household and industry",
+          "Tissue culture and plant breeding strategies",
+          "Single cell protein and its significance"
+        ]
+      },
+      {
+        "chapter": "Biotechnology and its Applications",
+        "topics": [
+          "Principles and processes of biotechnology",
+          "Tools of recombinant DNA technology (Restriction enzymes)",
+          "Applications in agriculture (Bt cotton, pest resistance)",
+          "Applications in medicine (Gene therapy, Insuline)",
+          "Transgenic animals and ethical issues"
+        ]
+      },
+      {
+        "chapter": "Ecology and Environment",
+        "topics": [
+          "Organisms and populations: Interactions",
+          "Ecosystems: Structure, function, and productivity",
+          "Biodiversity and its conservation (Hotspots)",
+          "Environmental issues: Pollution and global warming",
+          "Ozone depletion and conservation efforts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Business Studies",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Nature and Significance of Management",
+        "topics": [
+          "Concept, objectives, and importance of management",
+          "Levels of management: Top, Middle, Lower",
+          "Principles of Management: Fayol and Taylor",
+          "Business environment: Dimensions and importance",
+          "Demonetization and impact of globalization on business"
+        ]
+      },
+      {
+        "chapter": "Planning and Organizing",
+        "topics": [
+          "Planning: Process, importance, and limitations",
+          "Types of plans: Single use and standing plans",
+          "Organizing: Formal and informal structures",
+          "Delegation and decentralization concepts",
+          "Functional and divisional organizational structures"
+        ]
+      },
+      {
+        "chapter": "Staffing and Directing",
+        "topics": [
+          "Staffing: Recruitment, selection, and training",
+          "Sources of recruitment: Internal vs External",
+          "Directing: Leadership styles and motivation",
+          "Communication: Formal vs Informal channels",
+          "Barriers to effective communication and overcoming them"
+        ]
+      },
+      {
+        "chapter": "Controlling and Coordination",
+        "topics": [
+          "Controlling: Importance and relationship with planning",
+          "Steps in the process of controlling",
+          "Coordination: Nature and significance as essence of management",
+          "Functional areas of management and their coordination",
+          "Case studies on management effectiveness"
+        ]
+      },
+      {
+        "chapter": "Financial Management and Marketing",
+        "topics": [
+          "Financial Management: Capital structure and budget",
+          "Working capital management and its importance",
+          "Marketing Mix: Product, Price, Place, Promotion",
+          "Advertising vs Sales promotion vs Personal selling",
+          "Consumer protection: Rights and responsibilities"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Accountancy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Not-for-Profit Organisations",
+        "topics": [
+          "Receipts and Payments Account: Preparation and features",
+          "Income and Expenditure Account: Accrual basis",
+          "Balance Sheet for NPOs and treatment of items",
+          "Fund-based accounting and its applications",
+          "Accounting for subscriptions and consumables"
+        ]
+      },
+      {
+        "chapter": "Accounting for Partnership",
+        "topics": [
+          "Partnership Deed and features of partnership",
+          "Maintenance of Capital Accounts: Fixed vs Fluctuating",
+          "Valuation of Goodwill: Average, Super, and Capitalisation",
+          "Admission of a partner: Ratios and revaluation",
+          "Retirement and death of a partner: Settlement of claims"
+        ]
+      },
+      {
+        "chapter": "Dissolution and Company Accounts",
+        "topics": [
+          "Dissolution of partnership firm: Realisation Account",
+          "Settlement of accounts and treatment of assets/liabilities",
+          "Issue and forfeiture of shares: Pro-rata allotment",
+          "Issue and redemption of debentures",
+          "Company accounts: Balance sheet according to Schedule III"
+        ]
+      },
+      {
+        "chapter": "Financial Statement Analysis",
+        "topics": [
+          "Tools of analysis: Comparative and Common-size statements",
+          "Accounting Ratios: Liquidity, Solvency, and Turnover",
+          "Profitability ratios and their significance",
+          "Computation and interpretation of ratios",
+          "Limitations of financial statement analysis"
+        ]
+      },
+      {
+        "chapter": "Cash Flow Statement",
+        "topics": [
+          "Cash Flow Statement: Purpose and preparation (AS-3)",
+          "Operating, Investing, and Financing activities",
+          "Cash and cash equivalents: Definition and items",
+          "Calculation of net cash from activities",
+          "Disclosure and interpretation of cash flow results"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Microeconomics: Consumer Behaviour",
+        "topics": [
+          "Utility: Cardinal and Ordinal approach",
+          "Indifference curve analysis and budget line",
+          "Demand: Determinants and law of demand",
+          "Price elasticity of demand: Measurement methods",
+          "Consumer equilibrium in single and two commodities"
+        ]
+      },
+      {
+        "chapter": "Macroeconomics: National Income",
+        "topics": [
+          "Circular flow of income in a two-sector model",
+          "Basic aggregates: GDP, GNP, NDP, NNP (at MP and FC)",
+          "Measurement of National Income: Value, Income, Expenditure",
+          "Real vs Nominal GDP and GDP deflator",
+          "Problem of double counting and its solution"
+        ]
+      },
+      {
+        "chapter": "Money and Banking",
+        "topics": [
+          "Money: Function, supply, and M1/M2 measures",
+          "Central Bank: Functions and credit control tools",
+          "Commercial Banks: Money creation and banking systems",
+          "Repo rate, Reverse repo rate, and SLR/CRR",
+          "RBI as a lender of last resort"
+        ]
+      },
+      {
+        "chapter": "Income and Employment Determination",
+        "topics": [
+          "Aggregate Demand and its components",
+          "Propensity to consume and save (MPC/MPS)",
+          "Investment multiplier and its working",
+          "Problems of excess and deficient demand",
+          "Measures to correct AD: Fiscal and monetary policy"
+        ]
+      },
+      {
+        "chapter": "Government Budget and Balance of Payments",
+        "topics": [
+          "Government Budget: Revenue and capital components",
+          "Deficits: Fiscal, primary, and revenue deficits",
+          "Balance of Payments: Current and capital accounts",
+          "Exchange rate: Fixed, floating, and managed float",
+          "Foreign exchange market: Demand and supply"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ancient India: Harappan Civilisation",
+        "topics": [
+          "Indus Valley Civilisation: Features and town planning",
+          "Social and economic life of Harappans",
+          "Religious beliefs and script of the civilisation",
+          "Trade and craft specialization in Harappa",
+          "Decline of the Harappan culture and its reasons"
+        ]
+      },
+      {
+        "chapter": "Mahajanapadas and Mauryan Empire",
+        "topics": [
+          "Rise of sixteen Mahajanapadas and Magadha's dominance",
+          "Mauryan administration: Central and provincial",
+          "Ashoka's Dhamma: Principles and propagation",
+          "Decline of the Maurya Dynasty and its causes",
+          "Sources of Mauryan history: Arthashastra and Indica"
+        ]
+      },
+      {
+        "chapter": "Medieval India: Agrarian Relations",
+        "topics": [
+          "Mughal land revenue system: Zabt and Dahshala",
+          "Role of the Zamindars and Peasants in Mughal economy",
+          "Village communities and agricultural practices",
+          "Land grants and agrarian expansion in South India",
+          "Revenues from trade and commerce in medieval India"
+        ]
+      },
+      {
+        "chapter": "Colonialism and Countryside",
+        "topics": [
+          "Permanent Settlement of Bengal and its impact",
+          "Ryotwari and Mahalwari systems in India",
+          "Decline of traditional handicrafts and trade",
+          "Peasant movements and revolts (Santhal rebellion)",
+          "Impact of British policies on tribal communities"
+        ]
+      },
+      {
+        "chapter": "Nationalist Movement (Gandhian Era)",
+        "topics": [
+          "Mahatma Gandhi: South Africa stay and early Satyagrahas",
+          "Non-Cooperation Movement and the Rowlatt Satyagraha",
+          "Civil Disobedience Movement and the Salt Satyagraha",
+          "Quit India Movement and the role of Subhash Chandra Bose",
+          "Partition of India and the transfer of power"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Fundamentals of Human Geography",
+        "topics": [
+          "Nature and scope of human geography",
+          "Theories of man-environment relationship (Determinism)",
+          "World population: Distribution, density, and growth",
+          "Human Development Index: Indicators and world ranking",
+          "Demographic transition model and its stages"
+        ]
+      },
+      {
+        "chapter": "Human Activities: Primary to Tertiary",
+        "topics": [
+          "Primary activities: Hunting, gathering, and agriculture",
+          "Secondary activities: Manufacturing and industry types",
+          "Tertiary activities: Trade, transport, and tourism",
+          "Quaternary and quinary activities in global economy",
+          "Impact of technology on human occupations"
+        ]
+      },
+      {
+        "chapter": "Transport, Communication, and Trade",
+        "topics": [
+          "Modes of transport: Road, Rail, Water, and Air",
+          "Trans-continental railways and internal waterways",
+          "Communication: Personal and mass communication",
+          "International trade: Types, indicators, and trends",
+          "World Trade Organization (WTO) and trade blocks"
+        ]
+      },
+      {
+        "chapter": "Human Settlements and Resources",
+        "topics": [
+          "Rural and urban settlements: Classification and features",
+          "Urbanization: Trends, problems, and urban planning",
+          "Natural resources: Land, water, and forests",
+          "Mineral and energy resources: Conservation needs",
+          "Sustainable planning in resource management"
+        ]
+      },
+      {
+        "chapter": "Map Work and Practical Geography",
+        "topics": [
+          "Representation of data: Bar and pie charts",
+          "Standard map projection and scale types",
+          "Topographic maps: Interpretation and symbols",
+          "GIS and remote sensing: Introduction and uses",
+          "Field survey techniques and data collection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Political Science",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Politics in India Since Independence",
+        "topics": [
+          "Challenges of nation-building: Integration of states",
+          "Era of one-party dominance: The Congress system",
+          "Politics of planned development: Five-year plans",
+          "India's external relations (Nehru's foreign policy)",
+          "The Emergency (1975) and its political consequences"
+        ]
+      },
+      {
+        "chapter": "Challenges to and Restoration of Congress",
+        "topics": [
+          "Fourth General Elections (1967) and split in Congress",
+          "Rise of coalition politics in India",
+          "Elections of 1971 and populist slogans",
+          "Jaya Prakash Narayan and the JP Movement",
+          "Return of Congress in 1980 and subsequent trends"
+        ]
+      },
+      {
+        "chapter": "Democratic Upsurge and Social Movements",
+        "topics": [
+          "Participatory democracy and its importance",
+          "Dalit Panthers and the Anti-Arack movement",
+          "Environment movements: Chipko and Narmada Bachao",
+          "Movement for the Right to Information (RTI)",
+          "Women's movements and reservation issues"
+        ]
+      },
+      {
+        "chapter": "Contemporary World Politics",
+        "topics": [
+          "Cold War Era and the Non-Aligned Movement (NAM)",
+          "The end of bipolarity: Disintegration of USSR",
+          "Emergence of new power centers (EU, ASEAN, BRICS)",
+          "International organizations: UN and its agencies",
+          "Security in the contemporary world: Threats and responses"
+        ]
+      },
+      {
+        "chapter": "Globalization and its Discontents",
+        "topics": [
+          "Dimensions of globalization: Political, economic, cultural",
+          "Impact of globalization on the developing world",
+          "Resistance to globalization and the WSF",
+          "Environmental movements on a global scale",
+          "Human rights and global civil society"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Sociology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Structure of Indian Society",
+        "topics": [
+          "Demographic structure of Indian society",
+          "Rural-urban linkages and divisions",
+          "Caste system: Features and transformations",
+          "Tribal societies: Classification and identity",
+          "Family and kinship structures in India"
+        ]
+      },
+      {
+        "chapter": "Social Institutions: Continuity and Change",
+        "topics": [
+          "Market as a social institution",
+          "Religion as a social institution: Practices and beliefs",
+          "Impact of colonialism on Indian social structures",
+          "Westernization and Sanskritization processes",
+          "Modernization and secularization trends"
+        ]
+      },
+      {
+        "chapter": "Social Inequality and Exclusion",
+        "topics": [
+          "Caste inequality and the Scheduled Castes",
+          "Issues of Scheduled Tribes and marginalized groups",
+          "Gender inequality: Patriarchy and movements",
+          "Disability and social exclusion in India",
+          "Constitutional provisions for affirmative action"
+        ]
+      },
+      {
+        "chapter": "Cultural Diversity and Public Policy",
+        "topics": [
+          "Communalism, secularism, and regionalism in India",
+          "Protecting minority rights and cultural heritage",
+          "Role of the state in managing cultural diversity",
+          "Civil society and social movements for justice",
+          "Impact of globalization on local cultures"
+        ]
+      },
+      {
+        "chapter": "Social Change and Development",
+        "topics": [
+          "Process of planned social change in India",
+          "Land reforms and the Green Revolution",
+          "Industrialization and its impact on social structure",
+          "Migration: Rural to urban and international",
+          "Social movements in modern India (Dalit, Workers)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Psychology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Variations in Psychological Attributes",
+        "topics": [
+          "Individual differences and psychological testing",
+          "Intelligence: Concept, theories, and measurement",
+          "Culture and intelligence: A global perspective",
+          "Aptitude: Nature and its assessment",
+          "Creativity and giftedness in individuals"
+        ]
+      },
+      {
+        "chapter": "Self and Personality",
+        "topics": [
+          "Concept of self, self-esteem, and self-efficacy",
+          "Major approaches to personality: Type and Trait",
+          "Psychodynamic approach: Freud's theory",
+          "Humanistic approach: Rogers and Maslow",
+          "Assessment of personality: Projective and non-projective"
+        ]
+      },
+      {
+        "chapter": "Meeting Life Challenges (Stress)",
+        "topics": [
+          "Nature, types, and sources of stress",
+          "Coping strategies: Task-oriented vs Emotion-oriented",
+          "Impact of stress on health and immune system",
+          "Promoting positive health and well-being",
+          "Time management and life-skills for resilience"
+        ]
+      },
+      {
+        "chapter": "Psychological Disorders",
+        "topics": [
+          "Concept of abnormality and classification (DSM/ICD)",
+          "Anxiety and somatoform disorders",
+          "Mood disorders: Depression and bipolarity",
+          "Schizophrenic disorders: Symptoms and types",
+          "Childhood disorders: ADHD, Autism, and ODD"
+        ]
+      },
+      {
+        "chapter": "Therapeutic Approaches",
+        "topics": [
+          "Nature and process of psychotherapy",
+          "Behavior therapy: Principles and techniques",
+          "Cognitive therapy: Beck and Ellis approaches",
+          "Humanistic-existential therapy: Client-centered",
+          "Bio-medical therapy and rehabilitation of mentally ill"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Legal Studies",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Judiciary",
+        "topics": [
+          "Structure and hierarchy of courts in India",
+          "Constitution and appointment of judges",
+          "Independence of judiciary and judicial review",
+          "Judicial activism vs judicial restraint",
+          "High Courts and Subordinate Courts roles"
+        ]
+      },
+      {
+        "chapter": "Topics of Law - I (Property and Contract)",
+        "topics": [
+          "Concept of property and Transfer of Property Act",
+          "Essentials of a valid contract",
+          "Breach of contract and remedies available",
+          "Specific performance and damages",
+          "Lease and mortgage of property"
+        ]
+      },
+      {
+        "chapter": "Topics of Law - II (Torts and Crimes)",
+        "topics": [
+          "Law of Torts: Negligence, Defamation, and Nuisance",
+          "Strict and Absolute liability in Torts",
+          "Classification of crimes in Indian Penal Code",
+          "Stages of crime: Intention to preparation",
+          "Punishments under criminal law"
+        ]
+      },
+      {
+        "chapter": "Arbitration and ADR",
+        "topics": [
+          "Alternative Dispute Resolution (ADR) types",
+          "Arbitration: Process and enforceability",
+          "Mediation and Conciliation as ADR methods",
+          "Lok Adalats: Mechanism and benefits",
+          "Ombudsman as a mechanism for dispute settlement"
+        ]
+      },
+      {
+        "chapter": "Legal Aid and Human Rights",
+        "topics": [
+          "Concept of Legal Aid and Article 39A",
+          "National Legal Services Authority (NALSA)",
+          "Public Interest Litigation (PIL) and social justice",
+          "Protection of human rights under international law",
+          "National Human Rights Commission (NHRC) in India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Python Programming",
+        "topics": [
+          "Review of Python: Data types, operators, flow control",
+          "Functions: Parameter passing, scope, and recursion",
+          "File Handling: Text, binary, and CSV files",
+          "Exception Handling: Try, except, and finally blocks",
+          "Data structures: Stacks and queues implementation"
+        ]
+      },
+      {
+        "chapter": "Computer Networks",
+        "topics": [
+          "Network topologies and types of networks (LAN, WAN)",
+          "Networking devices: Hub, Switch, Router, Gateway",
+          "TCP/IP and OSI models: Layers and functions",
+          "Network security concepts: Firewalls and cookies",
+          "World Wide Web: HTML, URL, and DNS systems"
+        ]
+      },
+      {
+        "chapter": "Database Management (SQL)",
+        "topics": [
+          "Introduction to RDBMS and SQL commands",
+          "Data Definition (DDL) and Data Manipulation (DML)",
+          "Joins in SQL: Equi join and natural join",
+          "Aggregation functions (Sum, Avg, Count, Max, Min)",
+          "Integrity constraints: Primary and Foreign keys"
+        ]
+      },
+      {
+        "chapter": "Data Structures in Algorithms",
+        "topics": [
+          "Introduction to Big-O notation and complexity",
+          "Linear and binary search algorithms",
+          "Sorting: Bubble sort, Selection sort, Insertion sort",
+          "Linked lists basics and usage in programming",
+          "Tree structures and basic traversal concepts"
+        ]
+      },
+      {
+        "chapter": "Ethics and Computer Systems",
+        "topics": [
+          "Intellectual Property Rights and Open Source",
+          "Cyber laws and the Information Technology Act",
+          "Data privacy and protection of personal sensitive data",
+          "E-waste management and green computing",
+          "Identity theft and phishing challenges online"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Mathematics (Arithmetic)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Number Systems",
+        "topics": [
+          "Whole numbers, Integers and rational numbers ops",
+          "Divisibility rules for numbers 2 to 11 simplified",
+          "Units digit and remainder theorems basic tasks",
+          "Fractions and Decimals: Conversion and comparison",
+          "Simplifying mixed fractions and decimals in sums"
+        ]
+      },
+      {
+        "chapter": "Percentage / Profit and Loss",
+        "topics": [
+          "Percentage change on a base value calculations help",
+          "Profit and Loss on CP and SP: Basic cases report",
+          "Discount: Result of successive percentages results",
+          "Price markup and margin calculation on goods status",
+          "Profit/Loss when SP of two items is same logic"
+        ]
+      },
+      {
+        "chapter": "Ratio and Proportion",
+        "topics": [
+          "Comparing ratios of two or three variables basics",
+          "Scaling of ratios and group sharing problems task",
+          "Proportion: Direct and Inverse relationship logic",
+          "Partnership: Investment and profit sharing ratio",
+          "Scaling values in maps and diagrams using ratios"
+        ]
+      },
+      {
+        "chapter": "Time and Work",
+        "topics": [
+          "Time and Work basics: Individual and group tasks efficiency",
+          "Pipes and Cisterns: Tank filling and empty logic news",
+          "Alternate day working patterns analysis in work tasks",
+          "Efficiency comparison between two workers and wages",
+          "Solving linear word problems on work and compensation"
+        ]
+      },
+      {
+        "chapter": "Speed and Distance",
+        "topics": [
+          "Relative speed: Overtaking and crossing trains report",
+          "Boats and Streams: Upstream and downstream speed logic",
+          "Time and Distance mapping in simple scenarios help",
+          "Trains crossing platform and static objects speed",
+          "Average speed calculation for simple intervals tips"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics (Adv)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Elementary Algebra",
+        "topics": [
+          "Solving linear equations with one or two variables",
+          "Factorization of algebraic expressions basic rules",
+          "Identities: (a+b)2, a2-b2 and their application help",
+          "Solving word problems into algebraic equations tasks",
+          "Identifying the roots of simple quadratic forms"
+        ]
+      },
+      {
+        "chapter": "Geometry basics",
+        "topics": [
+          "Lines and Angles: Types and properties of parallels",
+          "Triangles: Congruency and similarity criteria (10th)",
+          "Circles: Tangents and chord properties summary results",
+          "Polygons: Side and angle relationships in shapes",
+          "Coordinate geometry: Distance and section formulas"
+        ]
+      },
+      {
+        "chapter": "Trigonometry",
+        "topics": [
+          "Trigonometric ratios: Sin, Cos, Tan and their identities",
+          "Complementary angle relationships in trigonometry",
+          "Heights and Distances: Practical applications logic",
+          "Standard angles table (0 to 90 degrees) identification",
+          "Evaluating trigonometric expressions for bank exams"
+        ]
+      },
+      {
+        "chapter": "Mensuration 2D / 3D",
+        "topics": [
+          "Area and Perimeter of 2D: Circle, Triangle shapes",
+          "Surface area and Volume of 3D: Cube, Cuboid solids",
+          "Volume calculation of Cylinder and Sphere metrics",
+          "Unit conversion in measurement metrics for exams news",
+          "Identifying enough clues for mensuration problems"
+        ]
+      },
+      {
+        "chapter": "Elementary Statistics",
+        "topics": [
+          "Mean, Median and Mode: Calculation for ungrouped data",
+          "Graphical representation: Histogram and frequency poly",
+          "Statistical trends identification from small data sets",
+          "Measure of dispersion: Range and standard deviation basics",
+          "Summarizing visual data into a numeric result group"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "GI Reasoning (Verbal)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Analogies and Classification",
+        "topics": [
+          "Semantic analogies: Relationship between words",
+          "Numeric analogies: Identifying the logic pattern",
+          "Finding the odd one out in alphanumeric sets report",
+          "Classification of entities in numeric symbols status",
+          "Similarities and differences in verbal objects logic"
+        ]
+      },
+      {
+        "chapter": "Logical Deduction",
+        "topics": [
+          "Statement and Conclusion: Simple cases analysis help",
+          "Identifying assumptions in a given sentence report",
+          "Predicting outcomes of administrative decisions group",
+          "Logic derived from single vs double statements",
+          "Evaluating evidence for a logical conclusion news"
+        ]
+      },
+      {
+        "chapter": "Relative Reasoning Verbal",
+        "topics": [
+          "Blood relations family tree construction and logic",
+          "Direction sense: Basic navigate and position orientation",
+          "Distances and relative position calculation in sets",
+          "Shadow-based direction problems in reasoning trials",
+          "Ranking and order in a given queue logic tasks"
+        ]
+      },
+      {
+        "chapter": "Alphabet and Series",
+        "topics": [
+          "Finding the next element in a letter-symbol series",
+          "Alphabet and letter grouping logical patterns group",
+          "Meaningful word formation from jumbled letters tips",
+          "Letter-pair identification in a given word report",
+          "Coding-decoding: Word to word substitution results"
+        ]
+      },
+      {
+        "chapter": "Verbal Reasoning Skills",
+        "topics": [
+          "Identifying the missing link in a chain of data results",
+          "Consistency of variables in numerical strings news",
+          "Summarizing decision logic in administrative tasks help",
+          "Identifying common logical fallacies in arguments",
+          "Matrix coding and decryption methods for officers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "GI Reasoning (Non-Verbal)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Visual Sequence and Patterns",
+        "topics": [
+          "Finding the next element in a visual sequence help",
+          "Predicting the end-term of complex visual chains",
+          "Identifying the wrong pattern in a figure series",
+          "Finding the missing figure in visual sequences group",
+          "Trend analysis over sequential image-based periods"
+        ]
+      },
+      {
+        "chapter": "Images and Reflections",
+        "topics": [
+          "Mirror images construction from complex shapes help",
+          "Water images and reflections of alphanumeric sets",
+          "Identifying the correct reflection in multiple choice",
+          "Symmetry and rotation of figures in non-verbal sets",
+          "Identifying subtle differences in mirrored objects"
+        ]
+      },
+      {
+        "chapter": "Paper and Fold",
+        "topics": [
+          "Paper folding and cutting patterns analysis help",
+          "Predicting the shape of an unfolded paper results",
+          "Identifying the number of cuts and folds in output",
+          "Paper transparency and overlay of shapes logic",
+          "Visualizing 3D objects from 2D paper folds tips"
+        ]
+      },
+      {
+        "chapter": "Spatial Intelligence",
+        "topics": [
+          "Spatial orientation and non-verbal logic sets status",
+          "Arrangement of figures in a grid based on rules",
+          "Identifying the figure that fits the hollow space",
+          "Orientation of 3D cubes and dice representation tips",
+          "Summarizing visual data into a numeric result group"
+        ]
+      },
+      {
+        "chapter": "Visual Classification",
+        "topics": [
+          "Finding the odd figure out in non-verbal sets report",
+          "Categorization of figural objects summary results",
+          "Identifying the relationship between shape pairs",
+          "Logic derived from single vs double visual segments",
+          "Interpreting logic involving nested directional charts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Science (Physics)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Units and Motion",
+        "topics": [
+          "Fundamental vs Derived SI units of measurement",
+          "Newton's Laws of Motion: Inertia and Acceleration",
+          "Work, Energy and Power: Definitions and formulas",
+          "Circular motion and friction in daily activities",
+          "Impact of gravitational force on movement tasks"
+        ]
+      },
+      {
+        "chapter": "Light and Optics",
+        "topics": [
+          "Reflection of light: Spherical mirrors and its uses",
+          "Refraction through glass slab and prism help",
+          "Convex vs Concave lens: Ray diagrams and roles",
+          "Human Eye: Defect of vision and its correction",
+          "Dispersion and scattering of light in nature report"
+        ]
+      },
+      {
+        "chapter": "Electricity and Magnetism",
+        "topics": [
+          "Electric current and potential difference basics",
+          "Ohm's Law: Resistance and heating effects results",
+          "Magnetic field of electric current: Solenoid role",
+          "Electromagnetic induction: Generator vs Motor basics",
+          "Direct vs Alternating current: Comparison and safety"
+        ]
+      },
+      {
+        "chapter": "Sound waves",
+        "topics": [
+          "Nature of sound and its longitudinal propagation",
+          "Speed of sound in different media (Solid/Liquid)",
+          "Reflection of sound: Echo and reverberation help",
+          "Frequency, Amplitude and Pitch of sound status",
+          "Applications of ultrasound in medicine and navy"
+        ]
+      },
+      {
+        "chapter": "Energy Sources",
+        "topics": [
+          "Renewable energy (Solar, Wind) vs Fossil fuels",
+          "Nuclear energy: Fission and Fusion basics report",
+          "Biogas and its role in sustainable rural growth",
+          "Hydroelectric and thermal power generation tasks",
+          "Energy conservation strategies for the future tips"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Science (Chemistry)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Atoms and Molecules",
+        "topics": [
+          "Structure of the Atom: Electrons and nucleus",
+          "Valency and atomic number of common elements",
+          "Laws of chemical combination from the year 10th",
+          "Writing chemical formulas using valency method",
+          "Mole concept: Relationship between weight and count"
+        ]
+      },
+      {
+        "chapter": "Chemical Reactions",
+        "topics": [
+          "Combination, Decomposition and Displacement types",
+          "Oxidation and Reduction (Redox) reactions report",
+          "Balancing chemical equations for bank exams tasks",
+          "Exothermic vs Endothermic reactions summary results",
+          "Corrosion and Rancidity: Prevention and chemistry"
+        ]
+      },
+      {
+        "chapter": "Periodic Table",
+        "topics": [
+          "Mendeleev's vs Modern Periodic table highlights",
+          "Trends: Valency, Atomic size and Metallic status",
+          "Groups and Periods: Identification of elements help",
+          "Inert gases and halogens: Properties and roles",
+          "Importance of classification in chemistry study"
+        ]
+      },
+      {
+        "chapter": "Acids, Bases and Salts",
+        "topics": [
+          "Properties of Acids: Sour taste and H+ ions release",
+          "Identifying Bases and Alkalis in everyday science",
+          "The pH scale: Measuring acidity and basicity results",
+          "Importance of pH in daily life (Digestion, Soil)",
+          "Salts: Common salt, Baking soda and Gypsum roles"
+        ]
+      },
+      {
+        "chapter": "Metals and Carbon",
+        "topics": [
+          "Metals and Non-metals: Electrical conductivity status",
+          "Carbon and its compounds: Versatile nature report",
+          "Saturated vs Unsaturated hydrocarbons basics help",
+          "Allotropes of Carbon: Diamond and Graphite roles",
+          "Soaps and Detergents: Cleaning action of micelles"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Science (Life)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Cell",
+        "topics": [
+          "Cell theory: Basic unit of life and organelles",
+          "Functions of Nucleus, Mitochondria and Ribosome",
+          "Plant Cell vs Animal Cell: Visual comparison",
+          "Division: Mitosis and Meiosis significance help",
+          "Cell wall vs Cell membrane: Role and structure"
+        ]
+      },
+      {
+        "chapter": "Human Life Processes",
+        "topics": [
+          "Nutrition: Digestive system and enzyme roles report",
+          "Respiration: Breathing and energy release results",
+          "Transportation: Function of heart, blood and pipes",
+          "Excretion: Kidneys and waste management in body",
+          "Control and Coordination: Reflex action and brain"
+        ]
+      },
+      {
+        "chapter": "Genetics and Evolution",
+        "topics": [
+          "Heredity: Mendel's contribution to gene science",
+          "DNA and sex determination in human beings report",
+          "Acquired vs Inherited traits development basics",
+          "Brief history of evolution: Natural selection news",
+          "Homologous and Analogous organs classification"
+        ]
+      },
+      {
+        "chapter": "Plant Biology",
+        "topics": [
+          "Photosynthesis: Conversion of light into food help",
+          "Transportation of water and minerals (Xylem/Phloem)",
+          "Reproduction in flowering plants: Pollination tasks",
+          "Plant hormones: Growth and response to stimulus",
+          "Economic importance of plants in human life report"
+        ]
+      },
+      {
+        "chapter": "Ecology and Health",
+        "topics": [
+          "Common communicable diseases and their prevention",
+          "Immunity and Vaccines: Role of defense in body",
+          "Our Environment: Food chains and ecosystem balance",
+          "Ozone depletion and its impact on the biosphere",
+          "Sustainable management of natural resources goals"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "GA (History/Culture)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ancient History",
+        "topics": [
+          "Indus Valley Civilisation: Main sites and discovery",
+          "Ancient Empires: Maurya, Gupta and Harsha periods",
+          "Vedic Age: Literature, culture and socio-economics",
+          "History of Buddhism and Jainism in India summary",
+          "Major medieval battles results and historical impact"
+        ]
+      },
+      {
+        "chapter": "Medieval History",
+        "topics": [
+          "Delhi Sultanate: Main dynasties and architecture",
+          "Mughal Empire: History, culture and monuments overview",
+          "Maratha and Sikh power centers in North India",
+          "Bhakti and Sufi movements: Socio-religious impact",
+          "Expansion of regional kingdoms and their markers"
+        ]
+      },
+      {
+        "chapter": "Modern History",
+        "topics": [
+          "Revolt of 1857: Causes and events across India tasks",
+          "Foundation of Indian National Congress and Early Moderates",
+          "Role of Mahatma Gandhi and mass movements summary",
+          "Freedom fighters: Bhagat Singh, Azad and netaji Bose",
+          "Post-independence consolidation and reorganization"
+        ]
+      },
+      {
+        "chapter": "Indian Culture",
+        "topics": [
+          "Indian classical and folk dances by state overview",
+          "Major Music traditions: Hindustani and Carnatic news",
+          "Important Indian festivals and religious traditions",
+          "UNESCO World Heritage sites in India list summary",
+          "Ancient Indian contribution to Science and Maths"
+        ]
+      },
+      {
+        "chapter": "Historical Monuments",
+        "topics": [
+          "Temples of Ancient India: Architecture styles help",
+          "Forts and Palaces of the Medieval era in India",
+          "Colonial architecture in Presidency towns (Mumbai/Kolkata)",
+          "Heritage sites preservation and role of ASI help",
+          "Historical importance of major cities (Varanasi/Hampi)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "GA (Geography/Polity)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Geography of India",
+        "topics": [
+          "States, UTs and their capital cities overview",
+          "Major Rivers of India and their tributaries list",
+          "Important Mountain peaks and ranges in India cities",
+          "Indian Agriculture: Major crops and seasonal maps",
+          "Flora and Fauna: Bio-diversity conservation goals"
+        ]
+      },
+      {
+        "chapter": "Polity and Consti",
+        "topics": [
+          "Preamble and the basic structure of Constitution",
+          "Fundamental Rights and Duties of Indian citizens",
+          "Indian Parliament: Roles of Lok Sabha and Rajya Sabha",
+          "The President and Prime Minister: Powers and roles",
+          "Local Self-Government: Municipalities and Panchayats"
+        ]
+      },
+      {
+        "chapter": "National Parks and Dams",
+        "topics": [
+          "Important National Parks and Wildlife Sanctuaries",
+          "Major Dams and Hydroelectric projects by states",
+          "Irrigation technology and water management India",
+          "Lakes and Wetlands of national importance list",
+          "Soil types and their distribution across India"
+        ]
+      },
+      {
+        "chapter": "Economic Awareness",
+        "topics": [
+          "Features and main challenges of the Indian economy",
+          "Agricultural marketing and role of cooperatives help",
+          "Budget of India: Concepts of revenue and deficit",
+          "Banking terminologies (RBI, Repo, CRR) for GA",
+          "Sustainable developmental goals for modern India"
+        ]
+      },
+      {
+        "chapter": "Daily Polity",
+        "topics": [
+          "Power structure: Executive, Legislature and Courts",
+          "Elections and voting rights in the Indian democracy",
+          "Statutory regulatory bodies and its heads history",
+          "Governance at the state level: Governor and CM",
+          "Public utilities: Water, Electricity and Safety help"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Railways Awareness",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "History of Railways",
+        "topics": [
+          "First Railway line in India: Mumbai to Thane (1853)",
+          "Evolution of steam, diesel and electric locomotives",
+          "Nationalization of Indian Railways and its growth",
+          "Historical milestones: Introduction of Rajdhani/Shatabdi",
+          "Museums and heritage of Railway history in India"
+        ]
+      },
+      {
+        "chapter": "Railway Security Units",
+        "topics": [
+          "Railway Protection Force (RPF): Mission and role help",
+          "Government Railway Police (GRP) vs RPF functions",
+          "Cybersecurity in Railway information systems status",
+          "Women safety and helpline numbers on Railway tracks",
+          "Conduct of RPF during regional recruitment trials"
+        ]
+      },
+      {
+        "chapter": "Zones and Divisions",
+        "topics": [
+          "Organisation of Indian Railways into 19+ Zones",
+          "Headquarters of major Railway zones in India list",
+          "Relationship between Zones, Divisions and Stations",
+          "Konkan Railway and Metro rail projects in cities",
+          "Ranking of Railway stations based on swachhata"
+        ]
+      },
+      {
+        "chapter": "Railway Tech (Vande)",
+        "topics": [
+          "Vande Bharat Express: Indigenous train sets news",
+          "Modernisation of tracks (Kavach) and signal system",
+          "High-speed rail (Bullet train) project overview",
+          "Electric traction and Green Railways mission goals",
+          "Ticketing technology: IRCTC and online apps status"
+        ]
+      },
+      {
+        "chapter": "Railway Budget",
+        "topics": [
+          "Historical context of separate versus merged budget",
+          "Allocation of funds for safety and new lines news",
+          "Economic contribution of Railways to Indian GDP",
+          "Welfare programs for Railway employees and families",
+          "Evaluating outcomes of Railway infrastructure dev"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Speed",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "BODMAS and Speed",
+        "topics": [
+          "Applying BODMAS for multi-operator equations entries",
+          "Square roots and Cube roots calculation for speed report",
+          "Fractional addition and subtraction methods results",
+          "Simplifying long numeric chains with speed status",
+          "Handling multi-variable equations for speed entry help"
+        ]
+      },
+      {
+        "chapter": "Interest and Accumulation",
+        "topics": [
+          "Simple Interest: Yearly and monthly accumulations logic",
+          "Compound Interest: Yearly vs half-yearly basis status",
+          "Profit and Loss across multiple transactions help",
+          "Effective yield on rural compounded savings results",
+          "Principal accumulation in long-term investments group"
+        ]
+      },
+      {
+        "chapter": "Calculation Speed Techniques",
+        "topics": [
+          "Logic for finding middle numbers in tables sets",
+          "Applying arithmetic shortcuts for daily calculations",
+          "Speed calculation of interest and percentages report",
+          "Mental calculation of ratios and averages groups",
+          "Identifying trends in quick numeric charts analysis"
+        ]
+      },
+      {
+        "chapter": "Approximation methods",
+        "topics": [
+          "Estimating near values for decimals in sums help",
+          "Approximating products and divisions for speed report",
+          "Choosing the nearest option in competitive sets results",
+          "Handling multi-step approximation in arithmetic status",
+          "Rounding off rules for banking calculations logic"
+        ]
+      },
+      {
+        "chapter": "Decimal/Fraction speed",
+        "topics": [
+          "Percentage to fraction conversion for speed calculation",
+          "Fractional parts of a whole: Comparison and sum logic",
+          "Decimals: Conversion and place value in sums group",
+          "Identifying the relationship between number sets help",
+          "Calculation of percentages without using paper tips"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Logical Venn/Logic",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Venn Diagrams",
+        "topics": [
+          "Logical Venn Diagrams: Representing two-group links",
+          "Three-group Venn diagrams: Common intersection logic",
+          "Identifying the correct Venn diagram for a word set",
+          "Numerical Venn puzzles: Finding the missing count",
+          "Representing social and professional groups on Venn"
+        ]
+      },
+      {
+        "chapter": "Syllogism and Logic",
+        "topics": [
+          "Syllogism: 'Only' and 'Only-a-few' cases analysis",
+          "Negative and possibility based conclusions in logic",
+          "Special cases: 'None but' and 'Some not' statement",
+          "Venn diagram based verification of syllogisms help",
+          "Either-or and Neither-nor choices in results news"
+        ]
+      },
+      {
+        "chapter": "Logical Deduction",
+        "topics": [
+          "Statement and Conclusion: Simple cases analysis help",
+          "Identifying assumptions in a given sentence report",
+          "Predicting outcomes of administrative decisions group",
+          "Logic derived from single vs double statements",
+          "Evaluating evidence for a logical conclusion news"
+        ]
+      },
+      {
+        "chapter": "Dictionary Order",
+        "topics": [
+          "Arrangement of words in a logical dictionary order",
+          "Arranging scrambled sentences into a logical para",
+          "Finding logical links between verbal pair sets",
+          "Managing narrative flow in rearranged events logic",
+          "Synthesizing diverse ideas into a single conclusion"
+        ]
+      },
+      {
+        "chapter": "Verdict Logic",
+        "topics": [
+          "Evaluating validity of verbal arguments in a case",
+          "Assumptions and implicit statements in verbal text",
+          "Strong vs Weak arguments: Validity evaluation help",
+          "Deducing the core takeaway of a long article talk",
+          "Predicting outcomes of verbal administrative choices"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reading Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Thematic Analysis",
+        "topics": [
+          "Identifying the central idea and title of thematic text",
+          "Answering factual and inference based questions logic",
+          "Inference-based and contextual tone questions help",
+          "Summarizing main points and author's intent status",
+          "Meaning of underlined words in a common passage help"
+        ]
+      },
+      {
+        "chapter": "Vocabulary in RC",
+        "topics": [
+          "Evaluating the author's tone and point of view report",
+          "Choosing synonyms in a specific regional context sets",
+          "Identifying antonyms for specified economic terms group",
+          "High-frequency vocabulary for bank officers list report",
+          "Choosing the best meaning option for gapped words"
+        ]
+      },
+      {
+        "chapter": "Passage Summary Analysis",
+        "topics": [
+          "Summarizing the main points of the reading piece news",
+          "Synthesizing diverse ideas into a single conclusion",
+          "Drafting concise reports based on case findings report",
+          "Evaluating the validity of a final conclusion logic",
+          "Identifying redundant data points in DI clues status"
+        ]
+      },
+      {
+        "chapter": "Order and Flow",
+        "topics": [
+          "Ordering scrambled sentences into a logical para help",
+          "Identifying the opening and closing lines results",
+          "Finding logical links between sentence pairs groups",
+          "Managing narrative flow in rearranged events logic",
+          "Connecting events in a step-wise sequence report"
+        ]
+      },
+      {
+        "chapter": "Simple Inference Analysis",
+        "topics": [
+          "Identifying the theme of a given narrative help",
+          "Predicting the end of a simple news storytelling",
+          "Interpreting the mood of a simple conversational text",
+          "Analyzing the relationship between characters in text",
+          "Deducing the core takeaway of a short article status"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "National Static GK",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "National Indices",
+        "topics": [
+          "National and Global Index Rankings results history",
+          "State-wise performance in Agri and Rural dev news",
+          "Reports by NITI Aayog on aspirational districts status",
+          "Ease of doing business at regional levels report",
+          "Sustainability and Health index status of states group"
+        ]
+      },
+      {
+        "chapter": "Awards and Honors",
+        "topics": [
+          "National Awards (Padma, Bharat Ratna) list groups",
+          "Sahitya Akademi and regional literary honors results",
+          "Awards for village level governance and Swachhata",
+          "Noble prizes in Science and Art (Global) report",
+          "Recognition for innovative farming techniques status"
+        ]
+      },
+      {
+        "chapter": "Sports News",
+        "topics": [
+          "Olympic, Commonwealth and Asian games highlights results",
+          "Major sports championships: Tennis, Cricket, Chess groups",
+          "National sports awards and regional winners list",
+          "Developing rural talent in traditional sports missions",
+          "Infrastructure for sports in regional centers news"
+        ]
+      },
+      {
+        "chapter": "Science Discovery",
+        "topics": [
+          "Important scientific discovery milestones history",
+          "Major archaeology findings in India news summary",
+          "Discoveries and Noble prizes in Science (National)",
+          "Evolution of regional art and literature status",
+          "Museums and archives of regional archives list"
+        ]
+      },
+      {
+        "chapter": "Regional GK",
+        "topics": [
+          "Regional art, culture and history markers help",
+          "Important National Parks and Wildlife Sanctuaries",
+          "Major Rivers of India and their tributaries list",
+          "Classic and Folk dances of Indian states group",
+          "UNESCO World Heritage sites in India list summary"
+        ]
+      }
+    ]
+  }
+]

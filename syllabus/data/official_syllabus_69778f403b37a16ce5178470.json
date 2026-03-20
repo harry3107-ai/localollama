@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Reasoning Ability: Puzzles and Seating",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Linear and Square Seating",
+        "topics": [
+          "Linear arrangement: Single row facing North",
+          "Linear arrangement: Parallel rows facing each other",
+          "Square table arrangement: Corner and middle seating",
+          "Uncertain number of persons in a linear row",
+          "Seating with two variables: Person and Preferred color"
+        ]
+      },
+      {
+        "chapter": "Circular and Triangular Seating",
+        "topics": [
+          "Circular seating: Facing center and outside",
+          "Triangular table seating: Corner and side positions",
+          "Identifying names and occupations in a circle",
+          "Complex circular arrangement with nested variables",
+          "Clockwise and anti-clockwise transitions in seating"
+        ]
+      },
+      {
+        "chapter": "Floor and Box Puzzles",
+        "topics": [
+          "Floor arrangement: Simple 7-10 floor structures",
+          "Box arrangement: Stacking boxes on top of each other",
+          "Flat and Floor puzzles: Multiple flats on one floor",
+          "Box puzzles with weights and contents parameters",
+          "Finding the topmost and bottommost entity in puzzles"
+        ]
+      },
+      {
+        "chapter": "Tabulation and Selection",
+        "topics": [
+          "Grouping of people based on days or months",
+          "Tabulating data for three different departments",
+          "Selection based on specific criteria and age",
+          "Day-based scheduling for exams and events",
+          "Logic behind selection with multiple conditions"
+        ]
+      },
+      {
+        "chapter": "Relative Puzzles",
+        "topics": [
+          "Blood relations integrated with seating arrangement",
+          "Ranking and position in a logical sequence",
+          "Comparison based puzzles: Height, weight and marks",
+          "Direction sense integrated with person movement",
+          "Mapping family trees within a complex narrative"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reasoning Ability: Logic and Series",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Syllogism and Logic",
+        "topics": [
+          "Statement and Conclusion: Simple cases",
+          "Syllogism of 'All', 'Some' and 'No' types",
+          "Special cases: 'Only' and 'Only-a-few' statements",
+          "Possibility based conclusions in logic sets",
+          "Either-or and Neither-nor choices in results"
+        ]
+      },
+      {
+        "chapter": "Alpha-Numeric Series",
+        "topics": [
+          "Finding the next element in a letter-symbol series",
+          "Number series with symbol-word combinations",
+          "Preceded and followed condition based questions",
+          "Removing a character and finding the middle element",
+          "Step-wise arrangement of letters and numbers"
+        ]
+      },
+      {
+        "chapter": "Inequalities",
+        "topics": [
+          "Direct inequalities: A > B, C < D type links",
+          "Comparing roots and derived values of symbols",
+          "Coded inequalities: Deciphering symbol based links",
+          "Combined multi-statement inequalities solutions",
+          "Missing signs in an inequality string identification"
+        ]
+      },
+      {
+        "chapter": "Blood Relations and Directions",
+        "topics": [
+          "Basic family tree: Drawing and identification",
+          "Coded blood relations: Symbolized relationship paths",
+          "Direction sense: Basic North-South orientation",
+          "Distances and relative position calculation",
+          "Shadow-based direction problems in reasoning"
+        ]
+      },
+      {
+        "chapter": "Alphabet Test and Data Sufficiency",
+        "topics": [
+          "Letter-pair identification in a given word",
+          "Meaningful word formation from jumbled letters",
+          "Numerical value of alphabets and basic ops",
+          "Data sufficiency: Is statement I or II enough",
+          "Solving code-based sufficiency for bank exams"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Ability: Calculation Techniques",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simplification and BODMAS",
+        "topics": [
+          "Applying BODMAS for multi-operator equations",
+          "Square roots, Cube roots and Power calculations",
+          "Percentage to fraction conversion for speed",
+          "Fractional addition and subtraction methods",
+          "Simplifying long numeric chains with speed"
+        ]
+      },
+      {
+        "chapter": "Approximation",
+        "topics": [
+          "Estimating near values for decimals in sums",
+          "Approximating products and divisions for speed",
+          "Choosing the nearest option in competitive sets",
+          "Handling multi-step approximation in arithmetic",
+          "Rounding off rules for banking calculations"
+        ]
+      },
+      {
+        "chapter": "Number Series",
+        "topics": [
+          "Finding the missing number in a logical sequence",
+          "Identifying the wrong term in a given number series",
+          "Pattern analysis for arithmetic/geometric series",
+          "Tiered logic series (Difference of differences)",
+          "Predicting the end-term of a non-linear series"
+        ]
+      },
+      {
+        "chapter": "Quadratic Equations",
+        "topics": [
+          "Finding roots of quadratic equations (X and Y)",
+          "Comparison of X and Y roots: Relationship finding",
+          "Solving quadratic equations using factorisation",
+          "Equations with larger coefficients and shortcuts",
+          "Linear vs Quadratic relationship comparisons"
+        ]
+      },
+      {
+        "chapter": "Quantitative Speed Tests",
+        "topics": [
+          "Logic for finding middle numbers in tables",
+          "Applying arithmetic shortcuts for daily calculations",
+          "Speed calculation of interest and percentages",
+          "Mental calculation of ratios and averages",
+          "Identifying trends in quick numeric charts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Ability: Arithmetic Basics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ratio and Proportion",
+        "topics": [
+          "Basic ratio scaling and sharing problems",
+          "Direct and inverse variation relationships",
+          "Partnership: Investment and profit sharing ratio",
+          "Averages of groups: Weighted mean calculation",
+          "Mixtures: Ratio of constituents in two solutions"
+        ]
+      },
+      {
+        "chapter": "Percentage and Average",
+        "topics": [
+          "Basic percentage conversion and change on sum",
+          "Percentage increase and decrease in data context",
+          "Standard average: Mean of observations and age",
+          "Problems on numbers: Divisibility and units digit",
+          "Relationship between percentage, ratio and decimal"
+        ]
+      },
+      {
+        "chapter": "Interest and Discount",
+        "topics": [
+          "Simple Interest: Yearly and monthly accumulations",
+          "Simple Discount and markup price relationships",
+          "Average interest over a multi-year period",
+          "Concept of principal and accumulation of returns",
+          "Comparison of different saving and interest plans"
+        ]
+      },
+      {
+        "chapter": "Alligation and Mixed Problems",
+        "topics": [
+          "Alligation rule for mixing products at costs",
+          "Ratio identification from a mixed data set",
+          "Averaging the price of mixed constituents",
+          "Problems involving replacement of solution parts",
+          "Finding the purity of a mixed liquid/component"
+        ]
+      },
+      {
+        "chapter": "Age and Fraction Puzzles",
+        "topics": [
+          "Comparison of ages of multiple family members",
+          "Future and past age ratios calculation",
+          "Fractional parts of a whole: Comparison and sum",
+          "Decimals: Conversion and place value in sums",
+          "Solving linear word problems with one variable"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quantitative Aptitude: Advanced Arithmetic (Mains)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Time, Work and Wages",
+        "topics": [
+          "Time and Work: Efficiency of a individual/group",
+          "Men-days and group efficiency calculations",
+          "Work and Wages: Compensation per individual",
+          "Alternate day working patterns analysis",
+          "Negative work cases: Pipes and Cisterns basics"
+        ]
+      },
+      {
+        "chapter": "Speed, Distance and Time",
+        "topics": [
+          "Relative speed: Overtaking and crossing trains",
+          "Boats and Streams: Upstream and downstream speed",
+          "Average speed over different distance intervals",
+          "Time-distance mapping in complex scenarios",
+          "Circular track race and clock logic (Basic)"
+        ]
+      },
+      {
+        "chapter": "Profit, Loss and Compound Interest",
+        "topics": [
+          "Profit and Loss across multiple transactions",
+          "Compound Interest: Yearly vs half-yearly basis",
+          "Installment calculation for loans and repayment",
+          "Successive discounts and net percentage change",
+          "Effective yield on compounded savings"
+        ]
+      },
+      {
+        "chapter": "Mensuration and Geometry",
+        "topics": [
+          "Area and Perimeter of 2D shapes: Circle, Triangle",
+          "Surface area and Volume of 3D solids: Cube, Cuboid",
+          "Volume calculation of Cylinder and Sphere",
+          "Unit conversion in measurement metrics",
+          "Coordinate geometry: Section and distance formulas"
+        ]
+      },
+      {
+        "chapter": "Data Sufficiency and Probability",
+        "topics": [
+          "Data sufficiency: Statement I vs Statement II",
+          "Probability: Coin and Dice based simple sets",
+          "Arrangement of cards and probability identification",
+          "Statistical checks: Mean and Median data sufficiency",
+          "Identifying the enough clues for arithmetic problems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Awareness: Banking History",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "History of Banking in India",
+        "topics": [
+          "Earliest banks and Imperial Bank of India",
+          "Nationalisation of banks (1969 and 1980 phases)",
+          "Development of Nationalized vs Private banks",
+          "Lead Bank Scheme and role of District centers",
+          "Regional Rural Banks (RRB): Foundation and purpose"
+        ]
+      },
+      {
+        "chapter": "Reserve Bank of India (RBI)",
+        "topics": [
+          "Origin, Preamble and Structure of RBI",
+          "Functions of RBI as the Central Bank of India",
+          "RBI as the Banker to the Govt and Commercial banks",
+          "RBI as a Regulator and Supervisor of Banks",
+          "Currency Issue Department and Coinage Management"
+        ]
+      },
+      {
+        "chapter": "Banking Reforms and Organizations",
+        "topics": [
+          "Narsimham Committee and banking sector reforms",
+          "Role of NABARD and development of agriculture",
+          "SIDBI: Small industries development bank of India",
+          "Co-operative banks and small finance/payment banks",
+          "Evolution of EXIM Bank and NHB regulatory roles"
+        ]
+      },
+      {
+        "chapter": "Currency and Monetary Systems",
+        "topics": [
+          "Indian Rupee: Symbol, History and Management",
+          "Monetary Policy: Quantitative credit control tools",
+          "Repo Rate, Reverse Repo and SLR/CRR definitions",
+          "Inflation and RBI's control mechanism summary",
+          "Fiscal vs Monetary policy: A basic comparison"
+        ]
+      },
+      {
+        "chapter": "Public Debt and Market Instruments",
+        "topics": [
+          "Types of Public Debt and internal/external debt",
+          "Capital Market vs Money Market of India",
+          "Stock Market basics: IPO, Bonus shares and Rights",
+          "Role of SEBI in financial market regulation",
+          "Bonds and Debentures: Basic features for investors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Awareness: Economy and Regulation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Banking Terms and KYC",
+        "topics": [
+          "KYC (Know Your Customer) and AML requirements",
+          "NPA (Non-Performing Assets) and recovery norms",
+          "SWIFT, LIBOR and Core Banking Solutions (CBS)",
+          "IFSC and MICR code systems in Indian banking",
+          "Banking Ombudsman Scheme for client grievances"
+        ]
+      },
+      {
+        "chapter": "Accounts and Deposits",
+        "topics": [
+          "Savings, Current and Fixed Deposit account types",
+          "Recurring Deposits (RD) and Demat account basics",
+          "Nomination and locker facility in bank accounts",
+          "Dormant and Inoperative account regulations",
+          "Interest calculations and tax on bank interests"
+        ]
+      },
+      {
+        "chapter": "Digital Banking and Transfers",
+        "topics": [
+          "IMPS, NEFT and RTGS: Comparison and limits",
+          "UPI (Unified Payments Interface) and mobile apps",
+          "ATM, Debit vs Credit Card: Security and fees",
+          "E-Wallets and online secure payment methods",
+          "Tokenization and securing card information"
+        ]
+      },
+      {
+        "chapter": "Investment and Equity",
+        "topics": [
+          "Stock Exchanges: BSE and NSE basics",
+          "Mutual Funds: Types and management by AMCs",
+          "Insurance: IRDAI roles and life vs general terms",
+          "Public Provident Fund (PPF) and NPS schemes",
+          "Financial benchmarks and credit rating in India"
+        ]
+      },
+      {
+        "chapter": "Inclusive Finance and Welfare",
+        "topics": [
+          "PMJDY: Pradhan Mantri Jan Dhan Yojana goals",
+          "Social security schemes: PMJJBY, PMSBY, APY",
+          "Priority Sector Lending (PSL) Targets for banks",
+          "Self Help Groups (SHG) and microfinance basics",
+          "Financial literacy missions in rural India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Grammar and Usage",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Tense and Subject-Verb Agreement",
+        "topics": [
+          "Rules of tense: Present, Past, Future usage",
+          "Subject-Verb agreement in various sentence types",
+          "Sequence of tenses and conditional statements",
+          "Perfect, Progressive and Simple tense nuances",
+          "Identifying tense errors in reported speech"
+        ]
+      },
+      {
+        "chapter": "Active/Passive and Narration",
+        "topics": [
+          "Rules for voice transformation across tenses",
+          "Active to passive voice conversion of text",
+          "Direct to indirect speech: Pronoun and tense change",
+          "Reporting interrogatives and imperatives in English",
+          "Narration for exclamatory and optative sentences"
+        ]
+      },
+      {
+        "chapter": "Articles and Prepositions",
+        "topics": [
+          "A, An, The: Definite and indefinite uses",
+          "Fixed prepositions following verbs and adjectives",
+          "Prepositions of Time, Place, and Direction",
+          "Correcting article and preposition usage in text",
+          "Omitting articles and prepositions in specific context"
+        ]
+      },
+      {
+        "chapter": "Parts of Speech: Nouns to Adverbs",
+        "topics": [
+          "Classification of Nouns and Pronouns in usage",
+          "Degrees of comparison in Adjectives",
+          "Adverbs: Correct placement in a sentence",
+          "Identifying adjective vs adverb in specific roles",
+          "Distinguishing between words in the same family"
+        ]
+      },
+      {
+        "chapter": "Conjunctions and Sentence Editing",
+        "topics": [
+          "Linking words: Coordinating and subordinating types",
+          "Sentence inversion rules and parallelism",
+          "Modifying sentence structure for formal tone",
+          "Identifying grammatical errors in multi-clause lines",
+          "Sentence synthesis using relative pronouns"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Vocabulary and Idioms",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Synonyms and Antonyms",
+        "topics": [
+          "Choosing the synonym in context of a sentence",
+          "Identifying the antonym for specified terms",
+          "Word sets with similar semantic meanings",
+          "Academic and high frequency vocab list for exams",
+          "Using prefixes and suffixes to decode meanings"
+        ]
+      },
+      {
+        "chapter": "One-Word Substitution",
+        "topics": [
+          "Words for types of governments and philosophies",
+          "Substitutions for professional roles and skills",
+          "Scientific and literary terminology in one word",
+          "Identifying correct term from its lengthy definition",
+          "Words related to groups of people/animals/things"
+        ]
+      },
+      {
+        "chapter": "Idioms and Phrases",
+        "topics": [
+          "Common English idioms and their actual meanings",
+          "Phrases used in formal and business English",
+          "Proverbs and their appropriate application",
+          "Identifying the figurative usage in sentences",
+          "Popular phrasal verbs: Get across, set up, etc."
+        ]
+      },
+      {
+        "chapter": "Spellings and Misspelt Words",
+        "topics": [
+          "Commonly misspelt words in competitive exams",
+          "Rules of spellings for suffixes and prefixes",
+          "Distinguishing between similar sounding words",
+          "Identifying the correctly spelt word in MCQs",
+          "Double vowels and silent letters spelling tips"
+        ]
+      },
+      {
+        "chapter": "Homonyms and Word Usage",
+        "topics": [
+          "Homophones: Words sounding same (Hear/Here)",
+          "Homographs: Same spelling, different meaning",
+          "Correct word usage for everyday scenarios",
+          "Collocations: Word pairs that work together",
+          "Distinguishing between confused word pairs"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Reading and Cloze",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cloze Test / Passage Completion",
+        "topics": [
+          "Filling gaps in a passage with correct words",
+          "Logical fitting and grammatical clues in cloze",
+          "Contextual meaning identification for blanks",
+          "Choosing vocabulary fit for the theme of text",
+          "Maintaining cohesion in a gapped paragraph"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension Analysis",
+        "topics": [
+          "Identifying the central idea and title of text",
+          "Answering factual and inference based questions",
+          "Meaning of underlined words in a passage",
+          "Evaluating the author's tone and point of view",
+          "Summarizing the main points of the reading piece"
+        ]
+      },
+      {
+        "chapter": "Sentence Jumbles (Para Jumbles)",
+        "topics": [
+          "Ordering scrambled sentences into a logical para",
+          "Identifying the opening and closing sentences",
+          "Finding logical links between sentence pairs",
+          "Managing narrative flow in rearranged events",
+          "Connecting events in a step-wise sequence"
+        ]
+      },
+      {
+        "chapter": "Error Detection and improvement",
+        "topics": [
+          "Spotting the grammatical error in sentences",
+          "Improving the underlined segment of text",
+          "Choosing the best phrase for correct structure",
+          "Identifying multiple errors in long sentences",
+          "Grammar vs Vocabulary based error detection"
+        ]
+      },
+      {
+        "chapter": "Sentence Synthesis and Fillers",
+        "topics": [
+          "Combining two sentences with relative pronouns",
+          "Double fillers: Using two words for two blanks",
+          "Basic sentence completion using phrases",
+          "Identifying the most appropriate filler option",
+          "Synthesizing logical coherence in sentences"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Aptitude: Hardware and Office",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Computer CPU and Memory",
+        "topics": [
+          "Organisation of a CPU and its components",
+          "Memory: RAM, ROM and Cache memory functions",
+          "Storage: Secondary discs (HDD, SSD) and capacity",
+          "History of computer generations and hardware",
+          "Binary number system and basic bit operations"
+        ]
+      },
+      {
+        "chapter": "Input and Output Devices",
+        "topics": [
+          "Types and functions of input devices (Mouse, Keyboard)",
+          "Output devices: Monitor and Printer types",
+          "Scanning and imaging devices: OMR, OCR, QR",
+          "Functional keys (F1 to F12) the standard usage",
+          "Universal shortcuts for copying, pasting, undo"
+        ]
+      },
+      {
+        "chapter": "Microsoft Word basics",
+        "topics": [
+          "Document creation and formatting text/paragraphs",
+          "Review and proofreading tools in MS Word",
+          "Shortcut keys specific to Microsoft Word",
+          "Mail merge and basic automation tools in Word",
+          "Page layout and printing settings overview"
+        ]
+      },
+      {
+        "chapter": "Microsoft Excel basics",
+        "topics": [
+          "Organisation of cells, rows and columns in Excel",
+          "Basic formulas (Sum, Avg, etc.) and calculations",
+          "Creating charts and visual data in sheets",
+          "Conditional formatting and cell styling basics",
+          "Shortcut keys of MS Excel for speed entry"
+        ]
+      },
+      {
+        "chapter": "Microsoft PowerPoint basics",
+        "topics": [
+          "Designing of slides and standard templates",
+          "Transitions and basic animations in presentations",
+          "Inserting images and graphics into slides",
+          "Presenter mode and slide show controls",
+          "Saving and exporting presentations basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Aptitude: Networking and Security",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Networking types and Topology",
+        "topics": [
+          "Network types: LAN, WAN, MAN and PAN",
+          "Topologies: Mesh, Star, Ring, Bus, etc.",
+          "Networking devices: Router, Switch, Modem",
+          "TCP/IP and OSI layer model basic summary",
+          "Working with WiFi and Bluetooth connectivity"
+        ]
+      },
+      {
+        "chapter": "Operating System and Files",
+        "topics": [
+          "Types of OS: Microsoft Windows vs Linux",
+          "File system and extensions (DOC, XLS, PDF, etc.)",
+          "Multi-tasking and memory management in OS",
+          "Shortcut keys for Windows OS (Universal)",
+          "Control panel and system setting awareness"
+        ]
+      },
+      {
+        "chapter": "Computer Crimes and Malware",
+        "topics": [
+          "Security threats: Virus, Worms, Trojan Horse",
+          "Phishing and Hacking in banking contexts",
+          "Ransomware and its impact on data security",
+          "Software piracy and Intellectual property rights",
+          "Cybersecurity hygiene: Passwords and 2FA"
+        ]
+      },
+      {
+        "chapter": "Antivirus and Firewalls",
+        "topics": [
+          "Protecting hardware using Antivirus software",
+          "Firewalls: Concept and role in secure networks",
+          "Data backup and system recovery procedures",
+          "Updating software and patches for security",
+          "Encryption basics: Secure data storage/transfer"
+        ]
+      },
+      {
+        "chapter": "Internet and Communication",
+        "topics": [
+          "Web Browsers and Search Engine technology",
+          "Electronic Mail (Email): Folders and attachments",
+          "URL, HTTP and DNS: Interpreting web address",
+          "Social media platforms and digital interaction",
+          "Information Technology (IT) Act India summary"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Interpretation: Tabulation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simple Table Interpretation",
+        "topics": [
+          "Extracting single variable values from a table",
+          "Comparing data across different rows/columns",
+          "Total calculations and averages from table data",
+          "Percentage increase and decrease based questions",
+          "Ratio of variables in a single tabular set"
+        ]
+      },
+      {
+        "chapter": "Missing Value Tables",
+        "topics": [
+          "Solving for blanks in a table using given clues",
+          "Logical derivation of missing numeric entries",
+          "Arithmetic based missing table DI: Work/Price",
+          "Consistency check across rows using formulas",
+          "Finding the grand total from partial variables"
+        ]
+      },
+      {
+        "chapter": "Multi-variable Tabular Sets",
+        "topics": [
+          "Interpreting table with three or more variables",
+          "Categorization and group analysis in table data",
+          "Growth percentage across multiple year entries",
+          "Finding the maximum and minimum in table sets",
+          "Weighted mean calculations from complex tables"
+        ]
+      },
+      {
+        "chapter": "Table vs Percentage Comparison",
+        "topics": [
+          "Evaluating total from given percentage in table",
+          "Conversion of absolute values to percentages",
+          "Inter-dependent columns where X is % of Y",
+          "Relative change across different table columns",
+          "Summing of percentage components to find a total"
+        ]
+      },
+      {
+        "chapter": "Sectoral Tabular Analysis",
+        "topics": [
+          "Comparison of data from different sectors/cities",
+          "Identifying trends using tabular series data",
+          "Data sufficiency using tabular information",
+          "Weighted averaging across sectoral entries",
+          "Logical grouping analysis of table variables"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Interpretation: Charts and Graphs",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Pie Charts",
+        "topics": [
+          "Percentage to Degree conversion in a pie chart",
+          "Interpreting sectoral data distribution on a pie",
+          "Total value from the value of one pie segment",
+          "Comparison between two related pie charts",
+          "Calculation of average value per pie section"
+        ]
+      },
+      {
+        "chapter": "Bar Graphs",
+        "topics": [
+          "Reading heights/lengths to find numeric values",
+          "Comparative Bar charts: Multiple bars per group",
+          "Percentage difference between values in a bar graph",
+          "Cumulative bar graph interpretation for totals",
+          "Identifying the maximum/minimum using bar visuals"
+        ]
+      },
+      {
+        "chapter": "Line Graphs",
+        "topics": [
+          "Trend analysis over sequential time periods",
+          "Fluctuation mapping using line heights in graphs",
+          "Finding the percentage growth between two points",
+          "Combined line graphs showing two different variables",
+          "Averaging values across a specific point range"
+        ]
+      },
+      {
+        "chapter": "Mixed Graphs",
+        "topics": [
+          "Combining Pie and Bar graphs for data sets",
+          "Bar vs Line graph comparison in one problem set",
+          "Data mapping from Table to Line graph context",
+          "Percentage of totals across two different visual sets",
+          "Summarizing visual data into a numeric result"
+        ]
+      },
+      {
+        "chapter": "Histograms and Frequency Charts",
+        "topics": [
+          "Frequency distribution mapping using histograms",
+          "Reading intervals and counts from a chart",
+          "Cumulative frequency and its visual representation",
+          "Basic central tendency from frequency polygon",
+          "Interpreting outliers in distribution graphics"
+        ]
+      }
+    ]
+  }
+]

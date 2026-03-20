@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Reasoning Ability: Puzzles and Seating",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Linear and Parallel Seating",
+        "topics": [
+          "Linear seating: Single row facing North/South",
+          "Parallel rows: Persons facing each other with variables",
+          "Seating arrangement with uncertain number of persons",
+          "Identifying names and occupations in a linear row",
+          "Seating with two variables: Person and Preferred color"
+        ]
+      },
+      {
+        "chapter": "Circular and Square Seating",
+        "topics": [
+          "Circular seating: Facing center and away from center",
+          "Square table arrangement: Corner and middle seating",
+          "Identifying names and favorite items in a circle",
+          "Square seating with four males and four females",
+          "Clockwise and anti-clockwise transitions in seating"
+        ]
+      },
+      {
+        "chapter": "Floor and Box Puzzles",
+        "topics": [
+          "Floor arrangement: Simple 7-10 floor structures",
+          "Box arrangement: Stacking boxes with color variables",
+          "Flat and Floor puzzles: 2 flats on 4 floors pattern",
+          "Box puzzles with weight and contents parameters",
+          "Finding the topmost and bottommost entity in puzzles"
+        ]
+      },
+      {
+        "chapter": "Scheduling and Tabulation",
+        "topics": [
+          "Grouping of people based on days of the week",
+          "Tabulating data for three different departments",
+          "Scheduling exams and lectures across months",
+          "Month and Date based puzzles with simple variables",
+          "Logic behind selection with multiple conditions"
+        ]
+      },
+      {
+        "chapter": "Relative and Comparison Puzzles",
+        "topics": [
+          "Blood relations integrated with seating arrangement",
+          "Ranking and order in a given queue logic",
+          "Comparison based puzzles: Height and weight",
+          "Relationship between people in a 3-generation family",
+          "Mapping family trees within a complex narrative"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reasoning Ability: Logic and Series",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Syllogism and Logic",
+        "topics": [
+          "Statement and Conclusion: Simple cases analysis",
+          "Syllogism: 'All', 'Some' and 'No' types rules",
+          "Special cases: 'Only' and 'Only-a-few' statements",
+          "Possibility based conclusions in logic sets",
+          "Either-or and Neither-nor choices in results"
+        ]
+      },
+      {
+        "chapter": "Alpha-Numeric Series",
+        "topics": [
+          "Finding the next element in a letter-symbol series",
+          "Number series with specialized symbol combinations",
+          "Preceded and followed condition based questions",
+          "Removing a character and finding the middle element",
+          "Step-wise arrangement of letters and numbers"
+        ]
+      },
+      {
+        "chapter": "Inequalities",
+        "topics": [
+          "Direct inequalities: A > B, C < D type links",
+          "Comparing roots and derived values of symbols",
+          "Coded inequalities: Deciphering symbol based links",
+          "Combined multi-statement inequalities solutions",
+          "Identifying missing signs in an inequality string"
+        ]
+      },
+      {
+        "chapter": "Blood Relations and Directions",
+        "topics": [
+          "Basic family tree: Drawing and identification",
+          "Coded blood relations: Symbolized relationship paths",
+          "Direction sense: Basic North-South orientation",
+          "Distances and relative position calculation",
+          "Shadow-based direction problems in reasoning"
+        ]
+      },
+      {
+        "chapter": "Alphabet Test and Coding",
+        "topics": [
+          "Letter-pair identification in a given word",
+          "Meaningful word formation from jumbled letters",
+          "Simple coding-decoding: Word to word substitution",
+          "Matrix coding and decryption methods for banks",
+          "Coding based on positional value of alphabets"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Ability: Simplification/Approximation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simplification and BODMAS",
+        "topics": [
+          "Applying BODMAS for multi-operator equations",
+          "Square roots and Cube roots calculation for speed",
+          "Percentage to fraction conversion for speed",
+          "Fractional addition and subtraction methods",
+          "Simplifying long numeric chains with speed"
+        ]
+      },
+      {
+        "chapter": "Approximation",
+        "topics": [
+          "Estimating near values for decimals in sums",
+          "Approximating products and divisions for speed",
+          "Choosing the nearest option in competitive sets",
+          "Handling multi-step approximation in arithmetic",
+          "Rounding off rules for banking calculations"
+        ]
+      },
+      {
+        "chapter": "Number Series",
+        "topics": [
+          "Finding the missing number in a logical sequence",
+          "Identifying the wrong term in a given number series",
+          "Pattern analysis for arithmetic/geometric series",
+          "Difference of differences (Two-tier) logic series",
+          "Predicting the end-term of a non-linear series"
+        ]
+      },
+      {
+        "chapter": "Quadratic Equations",
+        "topics": [
+          "Finding roots of quadratic equations (X and Y)",
+          "Comparison of X and Y roots: Relationship finding",
+          "Solving quadratic equations using factorisation",
+          "Equations with larger coefficients and shortcuts",
+          "Linear vs Quadratic relationship comparisons"
+        ]
+      },
+      {
+        "chapter": "Arithmetic Speed Tests",
+        "topics": [
+          "Logic for finding middle numbers in tables",
+          "Applying arithmetic shortcuts for daily calculations",
+          "Speed calculation of interest and percentages",
+          "Mental calculation of ratios and averages",
+          "Identifying trends in quick numeric charts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Ability: Arithmetic (Pre)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ratio and Proportion",
+        "topics": [
+          "Ratio scaling and sharing problems among three",
+          "Direct and inverse variation relationships basics",
+          "Partnership: Investment and profit sharing ratio",
+          "Averages of groups: Weighted mean calculation",
+          "Mixtures: Ratio of constituents in a solution"
+        ]
+      },
+      {
+        "chapter": "Percentage / Profit and Loss",
+        "topics": [
+          "Percentage change on a base value calculations",
+          "Profit and Loss on CP and SP: Basic cases",
+          "Discount: Result of successive percentages",
+          "Price markup and margin calculation on goods",
+          "Profit/Loss when SP of two items is same"
+        ]
+      },
+      {
+        "chapter": "Simple Interest and Average",
+        "topics": [
+          "Simple Interest: Yearly and monthly accumulations",
+          "Standard average: Mean of observations and weight",
+          "Average speed over different distance intervals",
+          "Problems on numbers: Divisibility and units digit",
+          "Concepts of principal and accumulation of returns"
+        ]
+      },
+      {
+        "chapter": "Age and Alligations",
+        "topics": [
+          "Comparison of ages of multiple family members",
+          "Future and past age ratios calculation for two",
+          "Alligation rule for mixing products at costs",
+          "Ratio identification from a mixed data set",
+          "Solving linear word problems with one variable"
+        ]
+      },
+      {
+        "chapter": "Mixed Quantitative Problems",
+        "topics": [
+          "Fractional parts of a whole: Comparison and sum",
+          "Decimals: Conversion and place value in sums",
+          "Identifying the relationship between number sets",
+          "Logical sequence of numeric events analysis",
+          "Mental maths for solving arithmetic word problems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quantitative Aptitude: Advanced Arithmetic (Mains)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Time, Work and Wages",
+        "topics": [
+          "Time and Work: Efficiency of individuals/groups",
+          "Men-days and group efficiency calculations",
+          "Work and Wages: Compensation per individual",
+          "Alternate day working patterns analysis",
+          "Pipes and Cisterns: Tank filling and empty logic"
+        ]
+      },
+      {
+        "chapter": "Speed, Distance and Time",
+        "topics": [
+          "Relative speed: Overtaking and crossing trains",
+          "Boats and Streams: Upstream and downstream speed",
+          "Time and Distance mapping in complex scenarios",
+          "Trains crossing platform and static objects",
+          "Circular track race and clock logic (Basic)"
+        ]
+      },
+      {
+        "chapter": "Compound Interest and Loans",
+        "topics": [
+          "Compound Interest: Yearly vs half-yearly basis",
+          "Difference between CI and SI for 2 and 3 years",
+          "Installment calculation for loans and repayment",
+          "Effective yield on compounded savings accounts",
+          "Principal accumulation in long-term investments"
+        ]
+      },
+      {
+        "chapter": "Mensuration and Geometry",
+        "topics": [
+          "Area and Perimeter of 2D: Circle, Triangle",
+          "Surface area and Volume of 3D: Cube, Cuboid",
+          "Volume calculation of Cylinder and Sphere",
+          "Unit conversion in measurement metrics for exams",
+          "Coordinate geometry: Section and distance formulas"
+        ]
+      },
+      {
+        "chapter": "Data Sufficiency and Probability",
+        "topics": [
+          "Data sufficiency: Statement I vs Statement II",
+          "Probability: Coin and Dice based simple sets",
+          "Arrangement of cards and probability identification",
+          "Statistical checks: Mean and Median analysis",
+          "Identifying enough clues for arithmetic problems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness: Rural Focus",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "History of RRBs",
+        "topics": [
+          "Origin from Bank of Bengal, Bombay and Madras",
+          "Formation of Imperial Bank of India (1921)",
+          "Transformation into State Bank of India (1955)",
+          "SBI Associate banks and their merger history",
+          "SBI's role as a premiere public sector bank"
+        ]
+      },
+      {
+        "chapter": "Reserve Bank of India (RBI)",
+        "topics": [
+          "Origin, Preamble and Structure of RBI",
+          "Functions of RBI as the Central Bank of India",
+          "RBI as the Banker to the Govt and Banks",
+          "Currency Issue Department and Coinage Management",
+          "Reserve Bank policies on credit and inflation"
+        ]
+      },
+      {
+        "chapter": "Governance: Panchayati Raj",
+        "topics": [
+          "73rd Constitutional Amendment Act: Main features",
+          "Three-tier structure: Gram, Block and Zila levels",
+          "Powers and functions of the Gram Sabha in India",
+          "Social auditing of rural schemes at village level",
+          "Role of local bodies in primary healthcare and education"
+        ]
+      },
+      {
+        "chapter": "Rural Credit System",
+        "topics": [
+          "Formal sources: RRBs, Co-operatives, PSBs",
+          "Informal sources: Moneylenders and relatives role",
+          "Self Help Groups (SHG) and Bank Linkage program",
+          "Microfinance institutions: Growth and regulation",
+          "Priority Sector Lending (PSL) specialized targets"
+        ]
+      },
+      {
+        "chapter": "Welfare and Infrastructure",
+        "topics": [
+          "Integrated Rural Development Programme (IRDP) history",
+          "MGNREGA: Objectives, rules and social impact",
+          "Pradhan Mantri Gram Sadak Yojana (PMGSY) goals",
+          "National Rural Livelihood Mission (NRLM) summary",
+          "Rural housing and sanitation (Swachh Bharat) missions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial and Static Awareness",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Banking Terms and KYC",
+        "topics": [
+          "KYC (Know Your Customer) and AML requirements",
+          "SWIFT, LIBOR and Core Banking Solutions (CBS)",
+          "IFSC, MICR and SWIFT code systems in India",
+          "Banking Ombudsman Scheme for client grievances",
+          "Prompt Corrective Action (PCA) framework for banks"
+        ]
+      },
+      {
+        "chapter": "Accounts and Deposits",
+        "topics": [
+          "Savings, Current and Fixed Deposit account types",
+          "Recurring Deposits (RD) and Demat account basics",
+          "Nomination and locker facility in bank accounts",
+          "Dormant and Inoperative account regulations",
+          "Interest calculations and tax on bank interests"
+        ]
+      },
+      {
+        "chapter": "Digital Banking and Transfers",
+        "topics": [
+          "IMPS, NEFT and RTGS: Comparison and limits",
+          "UPI (Unified Payments Interface) and mobile apps",
+          "ATM, Debit vs Credit Card: Security and fees",
+          "E-Wallets and online secure payment methods",
+          "Securing digital transactions with OTP and 2FA"
+        ]
+      },
+      {
+        "chapter": "Inclusive Finance Schemes",
+        "topics": [
+          "Pradhan Mantri Jan Dhan Yojana (PMJDY) goals",
+          "Mudra Yojana and stand-up India schemes",
+          "Pradhan Mantri Suraksha Bima Yojana benefits",
+          "Atal Pension Yojana and social security nets",
+          "Priority Sector Lending (PSL) Targets for banks"
+        ]
+      },
+      {
+        "chapter": "Static GK Basics",
+        "topics": [
+          "Important National Parks and Wildlife Sanctuaries",
+          "Major Rivers of India and their tributaries",
+          "Important Dams and Hydroelectric projects",
+          "Classic and Folk dances of Indian states",
+          "UNESCO World Heritage sites in India list"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Grammar and Syntax",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Tense and Agreement",
+        "topics": [
+          "Rules of tense: Present, Past, Future usage",
+          "Subject-Verb agreement in various sentence types",
+          "Sequence of tenses and conditional statements",
+          "Identifying tense errors in reported speech",
+          "Perfect vs Simple tense nuances for exams"
+        ]
+      },
+      {
+        "chapter": "Active/Passive and Narration",
+        "topics": [
+          "Rules for voice transformation across tenses",
+          "Active to passive voice conversion of text",
+          "Direct to indirect speech: Pronoun and tense change",
+          "Reporting interrogatives and imperatives in English",
+          "Identifying the correct speech/voice in options"
+        ]
+      },
+      {
+        "chapter": "Articles and Prepositions",
+        "topics": [
+          "A, An, The: Definite and indefinite application",
+          "Fixed prepositions following specific verbs",
+          "Prepositions of Time, Place, and Direction",
+          "Correcting article and preposition usage in text",
+          "Omitting articles in specific sentence contexts"
+        ]
+      },
+      {
+        "chapter": "Parts of Speech",
+        "topics": [
+          "Classification of Nouns and Pronouns in usage",
+          "Degrees of comparison in Adjectives: Good, Better",
+          "Adverbs: Correct placement in a sentence",
+          "Identifying Adjective vs Adverb in a role",
+          "Distinguishing between words in the same family"
+        ]
+      },
+      {
+        "chapter": "Conjunctions and Sentence Editing",
+        "topics": [
+          "Linking words: Coordinating and subordinating types",
+          "Sentence inversion rules and parallelism",
+          "Identifying grammatical errors in complex lines",
+          "Sentence synthesis using relative pronouns",
+          "Modifying sentence structure for formal tone"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Vocabulary and Reading",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Synonyms and Antonyms",
+        "topics": [
+          "Choosing the synonym in context of a sentence",
+          "Identifying the antonym for specified terms",
+          "Word sets with similar semantic meanings",
+          "High frequency vocabulary list for banking exams",
+          "Using prefixes to decode word meanings"
+        ]
+      },
+      {
+        "chapter": "One-Word Substitution",
+        "topics": [
+          "Words for professional roles and skills",
+          "Scientific and literary terminology in one word",
+          "Terms for groups of people and animals",
+          "Substitutions for types of governments and roles",
+          "Identifying term from its lengthy definition"
+        ]
+      },
+      {
+        "chapter": "Idioms and Phrases",
+        "topics": [
+          "Common English idioms and their actual meanings",
+          "Phrases used in formal and business English",
+          "Proverbs and their appropriate application",
+          "Identifying the figurative usage in sentences",
+          "Popular phrasal verbs for everyday activities"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension Analysis",
+        "topics": [
+          "Identifying the central idea and title of text",
+          "Answering factual and inference based questions",
+          "Meaning of underlined words in a passage",
+          "Evaluating the author's tone and point of view",
+          "Summarizing the main points of the reading piece"
+        ]
+      },
+      {
+        "chapter": "Cloze Test / Passage Completion",
+        "topics": [
+          "Filling gaps in a passage with correct words",
+          "Logical fitting and grammatical clues in cloze",
+          "Contextual meaning identification for blanks",
+          "Choosing vocabulary based on the theme of text",
+          "Maintaining coherence in a gapped paragraph"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Knowledge: Hardware and OS",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Computer CPU and Memory",
+        "topics": [
+          "Organisation of a CPU and its components",
+          "Memory: RAM, ROM and Cache memory functions",
+          "Storage: Secondary discs (HDD, SSD) and capacity",
+          "History of computer generations (1st to 5th)",
+          "Bit, Byte and binary data representation"
+        ]
+      },
+      {
+        "chapter": "Input and Output Devices",
+        "topics": [
+          "Types and functions of input devices (Mouse, VR)",
+          "Output devices: Monitor and Printer types basics",
+          "Scanning and imaging devices: OMR, QR, Barcode",
+          "Shortcuts for copying, pasting and files navigation",
+          "Functional keys (F1-F12) the standard usage"
+        ]
+      },
+      {
+        "chapter": "Microsoft Windows OS",
+        "topics": [
+          "Types of OS: Windows, Linux and Mobile OS",
+          "File system and extensions (DOCX, XLSX, PDF)",
+          "Control panel and system setting awareness",
+          "Desktop shortcuts and task management basics",
+          "Software vs Hardware: Comparison and links"
+        ]
+      },
+      {
+        "chapter": "Microsoft Office Basics",
+        "topics": [
+          "Document creation and formatting text in Word",
+          "Review and proofreading tools in MS Word",
+          "Organisation of cells, rows and columns in Excel",
+          "Basic formulas (Sum, Average, Percentage)",
+          "Designing of slides and standard templates in PPT"
+        ]
+      },
+      {
+        "chapter": "Computer Ethics and Trends",
+        "topics": [
+          "Ethical use of computer and internet resources",
+          "History of personal computers and mobile tech",
+          "Impact of automation on rural banking services",
+          "Energy saving (Green Computing) basics",
+          "Software piracy and licensing awareness"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Knowledge: Networking and Security",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Networking types and Topology",
+        "topics": [
+          "Network types: LAN, WAN, MAN and PAN",
+          "Topologies: Mesh, Star, Ring, Bus topology",
+          "Networking devices: Router, Switch, Modem",
+          "Internet protocol basics: IP address and URL",
+          "Working with WiFi and Bluetooth connectivity"
+        ]
+      },
+      {
+        "chapter": "Computer Crimes and Malware",
+        "topics": [
+          "Security threats: Virus, Worms, Trojan Horse",
+          "Phishing and Hacking in banking contexts",
+          "Ransomware and its impact on data security",
+          "Identity theft and cyberbullying awareness",
+          "Securing data with 2FA and strong passwords"
+        ]
+      },
+      {
+        "chapter": "Antivirus and Security Tools",
+        "topics": [
+          "Protecting hardware using Antivirus software",
+          "Firewalls: Concept and role in secure networks",
+          "Data backup and system recovery procedures",
+          "Updating software and patches for security",
+          "Encryption basics: Protecting sensitive info"
+        ]
+      },
+      {
+        "chapter": "Internet and Communication",
+        "topics": [
+          "Web Browsers and Search Engine technology",
+          "Electronic Mail (Email): Folders and attachments",
+          "Social media platforms and digital interaction",
+          "Cloud computing and online storage basics",
+          "E-commerce and secure online payment methods"
+        ]
+      },
+      {
+        "chapter": "IT Act and Cyber Laws",
+        "topics": [
+          "Information Technology (IT) Act India summary",
+          "Digital signature and electronic filing rules",
+          "Legal recourse for cyber crime victims in India",
+          "Cybersecurity hygiene and corporate rules",
+          "Awareness of digital footprint and privacy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agriculture and Rural Development (Intro)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Agriculture Basics",
+        "topics": [
+          "Major crops of India: Food vs Cash crops",
+          "Agricultural seasons: Rabi, Kharif and Zaid",
+          "Types of farming: Mixed, Intensive, Organic",
+          "Soil health card and importance of fertilizers",
+          "Impact of climate change on Indian agriculture"
+        ]
+      },
+      {
+        "chapter": "Irrigation and Power",
+        "topics": [
+          "Major irrigation projects and river linking",
+          "Drip and Sprinkler irrigation technologies",
+          "Groundwater management and watershed dev",
+          "Kusum Yojana: Solar power for water pumps",
+          "Power distribution and rural electrification"
+        ]
+      },
+      {
+        "chapter": "NABARD Role",
+        "topics": [
+          "Origin and functions of NABARD bank",
+          "Role in refinancing agriculture and rural dev",
+          "Monitoring and evaluation of rural credit units",
+          "Kisan Credit Card (KCC) scheme provisions",
+          "NABARD's role in SHG-Bank linkage promotion"
+        ]
+      },
+      {
+        "chapter": "Govt Agri Schemes",
+        "topics": [
+          "PM-KISAN: Direct benefit transfer to farmers",
+          "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+          "National Mission for Sustainable Agriculture",
+          "e-NAM: National Agricultural Market features",
+          "Agricultural marketing and role of cooperatives"
+        ]
+      },
+      {
+        "chapter": "Sustainable Village Dev",
+        "topics": [
+          "Sansad Adarsh Gram Yojana (SAGY) basic features",
+          "Village empowerment and digital literacy (DISHA)",
+          "Renewable energy use in rural households (Biogas)",
+          "Traditional knowledge and its role in sustainable dev",
+          "Community participation and cooperative movements"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Interpretation: Tabulation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simple Table Interpretation",
+        "topics": [
+          "Extracting single variable values from a table",
+          "Comparing data across different rows/columns",
+          "Total calculations and averages from table data",
+          "Percentage increase and decrease based questions",
+          "Ratio of variables in a single tabular set"
+        ]
+      },
+      {
+        "chapter": "Missing Value Tables",
+        "topics": [
+          "Solving for blanks in a table using given clues",
+          "Logical derivation of missing numeric entries",
+          "Finding grand totals from partial variables",
+          "Consistency check across rows using formulas",
+          "Identifying redundant data in tabular clues"
+        ]
+      },
+      {
+        "chapter": "Multi-departmental Tabular Sets",
+        "topics": [
+          "Interpreting table with multiple sector entries",
+          "Categorization and group analysis in table data",
+          "Growth percentage across multiple year entries",
+          "Comparison of data from different cities/states",
+          "Summarizing visual data into tabular numeric"
+        ]
+      },
+      {
+        "chapter": "Table vs Percentage Comparisons",
+        "topics": [
+          "Evaluating total from given percentage in table",
+          "Conversion of absolute values to percentages",
+          "Inter-dependent columns where X is % of Y",
+          "Relative change across different table columns",
+          "Weighted mean calculations from complex tables"
+        ]
+      },
+      {
+        "chapter": "Sectoral Tabular Analysis",
+        "topics": [
+          "Comparison of data from different industrial units",
+          "Identifying trends using tabular data series",
+          "Data sufficiency using tabular information",
+          "Averaging the values across sectoral entries",
+          "Logical grouping analysis of table variables"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "National and Regional Static GK",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Indices and Rankings",
+        "topics": [
+          "National and Global Index Rankings results",
+          "State-wise performance in Agri and Rural dev",
+          "Reports by NITI Aayog on aspirational districts",
+          "Ease of doing business at regional levels",
+          "Sustainability and Health index status of states"
+        ]
+      },
+      {
+        "chapter": "Awards and Honors",
+        "topics": [
+          "National Awards (Padma, Bharat Ratna) list",
+          "Sahitya Akademi and regional literary honors",
+          "Awards for village level governance and Swachhata",
+          "Noble prizes in Science and Art (Global)",
+          "Recognition for innovative farming techniques"
+        ]
+      },
+      {
+        "chapter": "Summits and Conferences",
+        "topics": [
+          "Summits on rural development and digitization",
+          "Inter-state council meetings and regional meets",
+          "International summits on agriculture (FAO, G20)",
+          "Bilateral treaties affecting regional trade",
+          "Exhibitions of rural arts (Saras Mela) highlights"
+        ]
+      },
+      {
+        "chapter": "Sports Events",
+        "topics": [
+          "Olympic, Commonwealth and Asian games highlights",
+          "Major sports championships: Tennis, Cricket, Chess",
+          "National sports awards and regional winners",
+          "Developing rural talent in traditional sports",
+          "Infrastructure for sports in regional centers"
+        ]
+      },
+      {
+        "chapter": "Discoveries and History",
+        "topics": [
+          "Important scientific discovery milestones",
+          "Major archaeological findings in the region",
+          "Historical battles of regional importance",
+          "Evolution of regional art and literature",
+          "Museums and archives of regional archives"
+        ]
+      }
+    ]
+  }
+]

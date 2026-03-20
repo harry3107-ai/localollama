@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "General Knowledge (National)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "History of India",
+        "topics": [
+          "Indus Valley Civilisation: Main sites and discovery",
+          "Ancient Empires: Maurya, Gupta and Harsha periods",
+          "Delhi Sultanate: Architecture and administration summary",
+          "Mughal Empire: History, culture and monuments overview",
+          "Indian Freedom Struggle: Important movements and leaders"
+        ]
+      },
+      {
+        "chapter": "Indian Culture",
+        "topics": [
+          "Classical and Folk dances by Indian states list",
+          "Major Music traditions: Hindustani and Carnatic news",
+          "Important Indian festivals and religious traditions",
+          "World Heritage sites in India and its conservation",
+          "Crafts and traditional arts of different regions summary"
+        ]
+      },
+      {
+        "chapter": "Geography of India",
+        "topics": [
+          "States, UTs and their capital cities overview",
+          "Major Rivers of India and their tributaries list",
+          "Important Mountain peaks and ranges in India cities",
+          "Indian Agriculture: Major crops and seasonal maps",
+          "Bio-diversity: National Parks and Wildlife protection"
+        ]
+      },
+      {
+        "chapter": "Indian Constitution Basics",
+        "topics": [
+          "Preamble and the basic structure of Constitution",
+          "Fundamental Rights and Duties of Indian citizens",
+          "Indian Parliament: Roles of Lok Sabha and Rajya Sabha",
+          "The President and Prime Minister: Powers and roles",
+          "Local Self-Government: Municipalities and Panchayats"
+        ]
+      },
+      {
+        "chapter": "General Science",
+        "topics": [
+          "Basic Physics: Units, Light and Sound waves tasks",
+          "Daily Chemistry: Acids, Bases and Metals basics",
+          "Human Biology: Health, Diseases and Nutrition tips",
+          "Scientific discoveries and milestones in modern India",
+          "Ecology: Environmental pollution and global warming"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "GA (State/Regional)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "History of Delhi",
+        "topics": [
+          "Establishment of Delhi: Tomara and Chauhan dynasties",
+          "Delhi as the capital of Sultanate and Mughal empires",
+          "British influence: Lutyens' Delhi and 1911 capital shift",
+          "Post-independence Delhi: Statehood and growth status",
+          "Heritage monuments of Delhi (Old and New) markers"
+        ]
+      },
+      {
+        "chapter": "Geography of Delhi NCT",
+        "topics": [
+          "Natural boundaries: Yamuna River and Ridge forest",
+          "Districts of Delhi: Administrative divisions list",
+          "Climatic features of the National Capital Region",
+          "Land use and urban planning in NCT Delhi summary",
+          "Important neighbor cities in the NCR (Noida, Gurgaon)"
+        ]
+      },
+      {
+        "chapter": "Economy of Delhi",
+        "topics": [
+          "Service sector as the backbone of Delhi's economy",
+          "Major markets and trading centers in Delhi city",
+          "Infrastructure: Metro, Highways and Air transport",
+          "Government schemes for urban development in Delhi",
+          "Industrial development and pollution control goals"
+        ]
+      },
+      {
+        "chapter": "Culture of Delhi",
+        "topics": [
+          "Major cultural festivals: Republic Day, Holi, Diwali",
+          "Tourism in Delhi: Qutub Minar, Red Fort, Humayun Tomb",
+          "Arts and Crafts fairs: Surajkund and Dilli Haat news",
+          "Modern culture: Museums, Art galleries and theaters",
+          "Traditional Delhi cuisine: Street foods and Mughlai"
+        ]
+      },
+      {
+        "chapter": "Regional Administration",
+        "topics": [
+          "Governance of Delhi: LG and the Elected Govt role",
+          "Delhi Police: Structure, values and their mission",
+          "Public utilities: Water, Electricity and Sanitation help",
+          "Role of Municipal Corporations in Delhi city safety",
+          "Emergency services: Fire, Ambulance and Police help"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reasoning (Logic)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Analogies and Classification",
+        "topics": [
+          "Semantic analogies: Relationship between words",
+          "Numeric analogies: Identifying the logic pattern",
+          "Finding the odd one out in alphanumeric sets report",
+          "Classification of entities in numeric symbols status",
+          "Similarities and differences in visual objects logic"
+        ]
+      },
+      {
+        "chapter": "Logical Deduction",
+        "topics": [
+          "Statement and Conclusion: Simple cases analysis help",
+          "Identifying assumptions in a given sentence report",
+          "Predicting outcomes of administrative decisions group",
+          "Logic derived from single vs double statements",
+          "Evaluating evidence for a logical conclusion news"
+        ]
+      },
+      {
+        "chapter": "Relative Reasoning",
+        "topics": [
+          "Blood relations family tree construction and logic",
+          "Direction sense: Basic navigate and position orientation",
+          "Distances and relative position calculation in sets",
+          "Shadow-based direction problems in reasoning trials",
+          "Ranking and order in a given queue logic tasks"
+        ]
+      },
+      {
+        "chapter": "Alphabet and Logic Test",
+        "topics": [
+          "Alphabet and letter grouping logical patterns group",
+          "Meaningful word formation from jumbled letters tips",
+          "Letter-pair identification in a given word report",
+          "Coding-decoding: Word to word substitution results",
+          "Matrix coding and decryption methods for officers"
+        ]
+      },
+      {
+        "chapter": "Mental Logic Skills",
+        "topics": [
+          "Identifying the missing link in a chain of data results",
+          "Consistency of variables in numerical strings news",
+          "Summarizing decision logic in administrative tasks help",
+          "Identifying common logical fallacies in arguments",
+          "Predicting the outcome of a logical news sequence"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reasoning (Visual)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Visual Sequence and Patterns",
+        "topics": [
+          "Finding the next element in a visual sequence help",
+          "Predicting the end-term of complex visual chains",
+          "Identifying the wrong pattern in a figure series",
+          "Finding the missing figure in visual sequences group",
+          "Trend analysis over sequential image-based periods"
+        ]
+      },
+      {
+        "chapter": "Spatial orientation",
+        "topics": [
+          "Spatial orientation and non-verbal logic sets status",
+          "Arrangement of figures in a grid based on rules",
+          "Identifying the figure that fits the hollow space",
+          "Orientation of 3D cubes and dice representation tips",
+          "Mapping routes using orientation and north clues"
+        ]
+      },
+      {
+        "chapter": "Figural Classification",
+        "topics": [
+          "Grouping of figures based on shapes and shades tasks",
+          "Categorization of figural objects summary results",
+          "Removing an outlier from a group of images sets",
+          "Comparing two figures for subtle differences logic",
+          "Identifying trends in dual-axis non-verbal charts"
+        ]
+      },
+      {
+        "chapter": "Images and Reflections",
+        "topics": [
+          "Mirror images construction from complex shapes help",
+          "Water images and reflections of alphanumeric sets",
+          "Identifying the correct reflection in multiple choice",
+          "Symmetry and rotation of figures in non-verbal sets",
+          "Identifying subtle differences in mirrored objects"
+        ]
+      },
+      {
+        "chapter": "Spatial Analysis Concepts",
+        "topics": [
+          "Arithmetical reasoning and figure classification report",
+          "Paper folding and cutting patterns analysis help",
+          "Predicting the shape of an unfolded paper results",
+          "Identifying the number of cuts and folds in output",
+          "Summarizing visual data into a numeric result group"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Ability (Arithmetic)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Percentage / Profit and Loss",
+        "topics": [
+          "Percentage change on a base value calculations help",
+          "Profit and Loss on CP and SP: Basic cases report",
+          "Discount: Result of successive percentages results",
+          "Price markup and margin calculation on goods status",
+          "Profit/Loss when SP of two items is same logic"
+        ]
+      },
+      {
+        "chapter": "Average and Ratio",
+        "topics": [
+          "Averages of numbers, age and weight for groups tips",
+          "Weighted mean calculations for complex sets analysis",
+          "Ratio scaling and sharing problems for three people",
+          "Direct and inverse variation relationship basics",
+          "Partnership: Investment and profit sharing ratio help"
+        ]
+      },
+      {
+        "chapter": "Time and Work",
+        "topics": [
+          "Time and Work basics: Individual and group tasks efficiency",
+          "Pipes and Cisterns: Tank filling and empty logic news",
+          "Alternate day working patterns analysis in work tasks",
+          "Efficiency comparison between two workers and wages",
+          "Solving linear word problems on work and compensation"
+        ]
+      },
+      {
+        "chapter": "Time and Distance",
+        "topics": [
+          "Relative speed: Overtaking and crossing trains report",
+          "Boats and Streams: Upstream and downstream speed logic",
+          "Time and Distance mapping in simple scenarios help",
+          "Trains crossing platform and static objects speed",
+          "Average speed calculation for simple intervals tips"
+        ]
+      },
+      {
+        "chapter": "Mensuration 2D / 3D",
+        "topics": [
+          "Area and Perimeter of 2D: Circle, Triangle shapes",
+          "Surface area and Volume of 3D: Cube, Cuboid solids",
+          "Volume calculation of Cylinder and Sphere metrics",
+          "Unit conversion in measurement metrics for exams news",
+          "Identifying enough clues for mensuration problems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Ability (Speed)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simplification and Speed",
+        "topics": [
+          "Applying BODMAS for multi-operator equations entries",
+          "Square and Cube root shortcuts for speed maths",
+          "Percentage to fraction conversion for speed calculation",
+          "Rounding off values for approximation methods tips",
+          "Simplifying long numeric chains with speed status"
+        ]
+      },
+      {
+        "chapter": "Number Systems basics",
+        "topics": [
+          "Whole numbers, Integers and rational numbers ops",
+          "Divisibility rules for numbers 2 to 11 simplified",
+          "Units digit and remainder theorems basic tasks help",
+          "Fractions and Decimals: Conversion and comparison",
+          "Simplifying mixed fractions and decimals in sums group"
+        ]
+      },
+      {
+        "chapter": "LCM and HCF",
+        "topics": [
+          "Finding LCM and HCF of two or three numbers",
+          "Applications of LCM/HCF in word problems logic",
+          "Relationship between products of numbers and LCM/HCF",
+          "Factoring numbers into prime constituents basics",
+          "Solving interval based puzzles using LCM rules report"
+        ]
+      },
+      {
+        "chapter": "Calculation Speed Techniques",
+        "topics": [
+          "Vedic maths shortcuts for rapid multiplication",
+          "Mental calculation of square and cube roots tips",
+          "Rapid addition and subtraction of long chains help",
+          "Calculation of percentages without using paper status",
+          "Identifying the pattern in business scenarios data"
+        ]
+      },
+      {
+        "chapter": "Numeric Relationships",
+        "topics": [
+          "Identifying the relationship between number sets logic",
+          "Comparing two roots of quadratic equations results",
+          "Solving for blanks in a table using given clues",
+          "Consistency of variables in numerical strings news",
+          "Summarizing visual data into a numeric result report"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Basics (OS/Net)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Computer Hardware/Software",
+        "topics": [
+          "Organisation of a CPU and its main components",
+          "Memory: RAM, ROM and Cache memory functions",
+          "Input vs Output devices classifications basics",
+          "Storage: Secondary discs (HDD, SSD) and capacity",
+          "Evolution of computer generations (1st to 5th) summary"
+        ]
+      },
+      {
+        "chapter": "MS Windows / OS",
+        "topics": [
+          "Types of OS: Windows, Linux and Mobile OS overview",
+          "File system and extensions (DOCX, XLSX, PDF) help",
+          "Control panel and system setting awareness report",
+          "Desktop shortcuts and task management basics groups",
+          "Software vs Hardware: Comparison and links status"
+        ]
+      },
+      {
+        "chapter": "Web Browsing",
+        "topics": [
+          "Web Browsers and Search Engine technology news",
+          "Internet protocol basics: IP address and URL report",
+          "Web Browsing: Browsers, Search Engines and URLs",
+          "Downloading and uploading files from the internet",
+          "Clearing cache and history for browser safety"
+        ]
+      },
+      {
+        "chapter": "Networking and Security",
+        "topics": [
+          "Network types: LAN, WAN, MAN and PAN overview",
+          "Topologies: Mesh, Star, Ring, Bus topology results",
+          "Security threats: Trojan Horse, Virus, Phishing",
+          "Firewalls: Concept and role in secure networks help",
+          "Securing digital transactions with OTP and 2FA"
+        ]
+      },
+      {
+        "chapter": "Internet Communication",
+        "topics": [
+          "Electronic Mail (Email): Folders and attachments help",
+          "Electronic messaging: Sending and receiving of Emails",
+          "WWW and Chat apps: Real-time digital interaction",
+          "E-commerce and secure online payment methods status",
+          "Social media platforms and digital safety tips"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer (MS Office)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "MS Word editing",
+        "topics": [
+          "Document creation and formatting text in Word",
+          "MS Word: Formatting, Tables and document editing",
+          "Review and proofreading tools in MS Word report",
+          "Inserting images and headers in a Word file",
+          "Page layout and printing settings for Word documents"
+        ]
+      },
+      {
+        "chapter": "MS Excel basic",
+        "topics": [
+          "Organisation of cells, rows and columns in Excel",
+          "MS Excel: Cells, Worksheets and basic formulas",
+          "Basic formulas (Sum, Average, Percentage) in Excel",
+          "Data sorting and filtering in Excel worksheets help",
+          "Creating simple charts and graphs in MS Excel"
+        ]
+      },
+      {
+        "chapter": "MS PowerPoint design",
+        "topics": [
+          "Designing of slides and standard templates in PPT",
+          "MS PowerPoint: Designing of slides and templates",
+          "Animations and transitions in a PPT presentation",
+          "Formatting text and objects in PowerPoint slides",
+          "Managing slideshow and speaker notes in PPT help"
+        ]
+      },
+      {
+        "chapter": "Office Communication",
+        "topics": [
+          "Communication: Sending and receiving of Emails help",
+          "Email management: Folders, CC, BCC and spam filter",
+          "Sharing documents via drive and email links status",
+          "Protecting Office files with passwords and logs",
+          "Collaborative editing in online office tools tips"
+        ]
+      },
+      {
+        "chapter": "Shortcuts and Utilities",
+        "topics": [
+          "Shortcuts for copying, pasting and files navigation",
+          "Functional keys (F1-F12) the standard usage report",
+          "Using find and replace tools in MS Office tasks",
+          "System utilities: Calculator, Notepad and Paint",
+          "Troubleshooting basic MS Office errors help"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mental Aptitude (Public)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Public Interest basics",
+        "topics": [
+          "Core concepts of public interest and welfare Help",
+          "Identifying citizen needs in a diverse city summary",
+          "Role of police in promoting community wellbeing",
+          "Handling public grievances and feedback loops reports",
+          "Evaluating impact of social missions on peace status"
+        ]
+      },
+      {
+        "chapter": "Communal Harmony",
+        "topics": [
+          "Importance of communal harmony in the capital city",
+          "Resolving conflicts between diverse social groups tips",
+          "Celebrating multi-cultural festivals with safety groups",
+          "Role of police in bridging communal divides result",
+          "Legal recourse for victims of communal violence status"
+        ]
+      },
+      {
+        "chapter": "Rule of Law city",
+        "topics": [
+          "Rule of Law and Judicial system at local level news",
+          "Equal treatment of citizens under the Indian law",
+          "Transparency and accountability in police tasks report",
+          "Role of judicial oversight in police administrative",
+          "Ethical practices in crime investigation in cities"
+        ]
+      },
+      {
+        "chapter": "Citizen Safety Rules",
+        "topics": [
+          "Professional empathy and citizen safety rules status",
+          "Protecting vulnerable groups (Women, Elders) missions",
+          "Communication with public during emergency trials",
+          "Basics of VIP security and crowd management help",
+          "Securing public places: Parks and Stations"
+        ]
+      },
+      {
+        "chapter": "Ethical Conduct Policing",
+        "topics": [
+          "Ethical conduct and citizen-centric policing goals",
+          "Code of conduct for the Delhi police personnel news",
+          "Conflict of interest in administrative decisioning",
+          "Transparency in the disbursement of farming credit",
+          "Whistleblower policy in public safety units help"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mental Aptitude (Police System)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Law and Order duties",
+        "topics": [
+          "Powers and duties of Delhi police constables overview",
+          "Maintaining Order during protests and rallies help",
+          "Legal procedures for arrest and detention basics",
+          "Traffic rules enforcement in a metropolitan city",
+          "Patrolling strategies for high-density urban areas"
+        ]
+      },
+      {
+        "chapter": "Police System in India",
+        "topics": [
+          "Hierarchy of Ranks: Constable to CP in Delhi Police",
+          "Functions of specialized units (Crime Branch, PCR)",
+          "Police modernisation and digital initiatives in Delhi",
+          "Training and disciplinary rules for the force status",
+          "Relationship between Police and Local Government help"
+        ]
+      },
+      {
+        "chapter": "Capital city safety missions",
+        "topics": [
+          "Role of Delhi Police in capital city safety missions",
+          "Securing diplomatic enclaves and VIP movements help",
+          "Emergency response system (ERC) and PCR operations",
+          "Managing traffic and safety in central Delhi help",
+          "CCTV and tech-surveillance in metro cities summary"
+        ]
+      },
+      {
+        "chapter": "Fundamental Protection",
+        "topics": [
+          "Fundamental Rights protection by state police help",
+          "SC/ST protection laws and their field application",
+          "Rights of the girl child: Special unit initiatives",
+          "Upliftment of minorities and social cohesion trends",
+          "Interests in Profession: Pride and Ethics for staff"
+        ]
+      },
+      {
+        "chapter": "Professional ethics police",
+        "topics": [
+          "Professional ethics for police personnel overview",
+          "Conflict of interest in legal duties tips results",
+          "Transparency and accountability in rescue tasks",
+          "Ethical use of power and weapons in operations help",
+          "Continuous learning and skill dev for officers news"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "IQ (Relationship)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Family Tree construction",
+        "topics": [
+          "Relationship between people in a 3-generation tree",
+          "Identifying names and relations from clues report",
+          "Complex blood relations with gender variables help",
+          "Drawing and labeling a clear family hierarchy group",
+          "Summarizing ties in a diverse family narrative context"
+        ]
+      },
+      {
+        "chapter": "Ranking and Order",
+        "topics": [
+          "Ranking and order in a given queue logic tasks help",
+          "Comparison based puzzles: Height and weight ranking",
+          "Finding the position of a person from both ends",
+          "Relocating persons and finding current rank status",
+          "Identifying the topmost in a value-based sequence"
+        ]
+      },
+      {
+        "chapter": "Mapping Relationship",
+        "topics": [
+          "Mapping family trees within a complex narrative sets",
+          "Logical grouping based on social and family links",
+          "Identifying the missing link in a chain of data results",
+          "Selection criteria for group members based on ties",
+          "Evaluating evidence for a relationship conclusion"
+        ]
+      },
+      {
+        "chapter": "Comparative Puzzles",
+        "topics": [
+          "Sorting entities based on multiple relationship clues",
+          "Finding the outlier in a group of related names",
+          "Relationship based puzzles involving city variables",
+          "Identifying the professional ties within a group",
+          "Logical deriving of names for specified roles data"
+        ]
+      },
+      {
+        "chapter": "Relative IQ Logic",
+        "topics": [
+          "Identifying themes and sub-themes in data chains",
+          "Consistency of variables in numerical and name strings",
+          "Evaluating Enoughness of clues for relationships",
+          "Deducing the core takeaway of a relationship piece",
+          "Summarizing decision logic in social scenarios"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "IQ (Directions)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Direction Orientation",
+        "topics": [
+          "Direction sense: Basic navigate and position North",
+          "Navigating paths using turn-by-turn logic help",
+          "Cardinal vs Intermediate directions identification",
+          "Evaluating start and end points in a narrative graph",
+          "Mapping a route using sequential movement clues"
+        ]
+      },
+      {
+        "chapter": "Shadow and Sunset",
+        "topics": [
+          "Shadow-based direction problems in reasoning help",
+          "Orientation change during Sunrise and Sunset times",
+          "Predicting shadow length and position from North",
+          "Logic derived from sun position for navigation tasks",
+          "Evaluating accuracy of orientation from shadow clues"
+        ]
+      },
+      {
+        "chapter": "Distance Calculation",
+        "topics": [
+          "Distances and relative position calculation logic",
+          "Shortest path calculation using Pythagoras theorem",
+          "Total distance vs Displacement identification status",
+          "Calculation of offsets and deviations in a route",
+          "Finding the final direction relative to origin"
+        ]
+      },
+      {
+        "chapter": "Clue Enoughness",
+        "topics": [
+          "Evaluating enoughness of clues for navigation help",
+          "Identifying missing movement steps in a route report",
+          "Comparison of two routes from the same origin logic",
+          "Consistency of direction clues across two speakers",
+          "Identifying redundant distance info in navigation"
+        ]
+      },
+      {
+        "chapter": "Navigation IQ",
+        "topics": [
+          "Navigation based on orientation clues and north news",
+          "Interpreting logic involving nested directional charts",
+          "Predicting the destination from speed and direction",
+          "Summarizing navigation logic for field officers",
+          "Analyzing the relationship between location A and B"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Series classification",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Series patterns",
+        "topics": [
+          "Finding the next element in a letter-symbol series",
+          "Number series with specialized symbol patterns help",
+          "Preceded and followed condition based questions group",
+          "Removing a character and finding the middle element",
+          "Step-wise arrangement of letters and numbers logic"
+        ]
+      },
+      {
+        "chapter": "Numeric Series Patterns",
+        "topics": [
+          "Predicting the end-term of complex numeric chains",
+          "Identifying the wrong term in a given number series",
+          "Pattern analysis for arithmetic/geometric growth sets",
+          "Difference of differences (Two-tier) logic series",
+          "Finding the next term in non-linear sequences help"
+        ]
+      },
+      {
+        "chapter": "Coding and Classification",
+        "topics": [
+          "Code-based classification for police exams logic help",
+          "Simple coding-decoding: Word to word substitution",
+          "Symbol-number coding and decoding rules result",
+          "Identifying logical rules for advanced data sorting",
+          "Binary logic: True and False statements puzzles report"
+        ]
+      },
+      {
+        "chapter": "Predictive Logic",
+        "topics": [
+          "Predictive sequence for numeric administrative data",
+          "Identifying missing signs in an inequality string",
+          "Evaluating enoughness of clues for arrangement news",
+          "Consistent projection of data from historical trends",
+          "Assumptions in outcome predictions for numeric data"
+        ]
+      },
+      {
+        "chapter": "Classification IQ",
+        "topics": [
+          "Finding the odd one out in alphanumeric sets report",
+          "Alphabet and letter grouping logical patterns group",
+          "Relationship identification between pair sets group",
+          "Categorization of entities by professional roles",
+          "Summarizing decision logic in administrative tasks"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reading Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Thematic Reading",
+        "topics": [
+          "Identifying the central idea and title of thematic text",
+          "Answering factual and inference based questions logic",
+          "Inference-based and contextual tone questions help",
+          "Summarizing main points and author's intent status",
+          "Meaning of underlined words in a simple passage help"
+        ]
+      },
+      {
+        "chapter": "Vocabulary in simple RC",
+        "topics": [
+          "Evaluating the author's tone and point of view report",
+          "Meaning of underlined words in a simple passage help",
+          "Choosing synonyms in a specific regional context sets",
+          "Identifying antonyms for specified economic terms group",
+          "High-frequency vocabulary for bank officers list report"
+        ]
+      },
+      {
+        "chapter": "Passage Summary Analysis",
+        "topics": [
+          "Summarizing the main points of the reading piece news",
+          "Synthesizing diverse ideas into a single conclusion",
+          "Drafting concise reports based on case findings report",
+          "Evaluating the validity of a final conclusion logic",
+          "Identifying redundant data points in DI clues status"
+        ]
+      },
+      {
+        "chapter": "Order and Flow",
+        "topics": [
+          "Ordering scrambled sentences into a logical para help",
+          "Identifying the opening and closing lines results",
+          "Finding logical links between sentence pairs groups",
+          "Managing narrative flow in rearranged events logic",
+          "Connecting events in a step-wise sequence report"
+        ]
+      },
+      {
+        "chapter": "Simple Inference Analysis",
+        "topics": [
+          "Identifying the theme of a given narrative help",
+          "Predicting the end of a simple news storytelling",
+          "Interpreting the mood of a simple conversational text",
+          "Analyzing the relationship between characters in text",
+          "Deducing the core takeaway of a short article status"
+        ]
+      }
+    ]
+  }
+]

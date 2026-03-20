@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Reasoning Ability (Prelims Focus)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Seating Arrangement",
+        "topics": [
+          "Linear seating arrangement: Parallel rows facing each other",
+          "Circular seating: Facing center and away from center",
+          "Uncertain number of persons in a linear or circular row",
+          "Box-based seating arrangement in triangular tables",
+          "Square table arrangement with corner and middle seating"
+        ]
+      },
+      {
+        "chapter": "Puzzles",
+        "topics": [
+          "Floor-based puzzles with single and double variables",
+          "Box-based arrangement: Priority stacking and colors",
+          "Tabulation of data: Department and designation grouping",
+          "Flat and Floor puzzles: Multiple flats per floor",
+          "Scheduling puzzles: Months, dates and shifts logic"
+        ]
+      },
+      {
+        "chapter": "Syllogism and Inequalities",
+        "topics": [
+          "Syllogism: 'Only' and 'Only-a-few' special cases",
+          "Negative and possibility based conclusions in logic",
+          "Inequalities: Simple and combined relational paths",
+          "Coded inequalities: Deciphering symbol-based links",
+          "Relationship between variables across multiple statements"
+        ]
+      },
+      {
+        "chapter": "Relative Reasoning",
+        "topics": [
+          "Blood relations: Drawing complex family trees",
+          "Direction sense test: Navigation and relative position",
+          "Ranking and order in a queue: Total vs Position",
+          "Alpha-numeric series: Position and preceded/followed",
+          "Identifying meaningful words from alphabet sets"
+        ]
+      },
+      {
+        "chapter": "Selection and Classification",
+        "topics": [
+          "Determining the odd one out in alphanumeric sets",
+          "Selection criteria for various organizational roles",
+          "Alphabet and letter grouping logical patterns",
+          "Code-based classification techniques for bank exams",
+          "Identifying numerical patterns in mixed symbol sets"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Reasoning and Logic (Mains)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Critical Reasoning",
+        "topics": [
+          "Assumptions and implicit statements in logical arguments",
+          "Strong vs Weak arguments: Evaluation of validity",
+          "Course of Action: Identifying practical and ethical steps",
+          "Statement and Conclusions: Direct and indirect derivation",
+          "Drawing inferences from complex narrative passages"
+        ]
+      },
+      {
+        "chapter": "Logical Deduction",
+        "topics": [
+          "Cause and Effect: Identifying primary and secondary causes",
+          "Statement and Argument: Formulating logical responses",
+          "Theme detection and passage concluding logic",
+          "Input-Output: Tracing procedural steps in logic",
+          "Decision making under multi-layered constraints"
+        ]
+      },
+      {
+        "chapter": "Complex Multi-variable Puzzles",
+        "topics": [
+          "Scheduling with 3 or 4 variables (Person, Day, City, Color)",
+          "Complex floor puzzles with vacant floors and directions",
+          "Box puzzles integrated with blood relations and numbers",
+          "Circular seating with distance and direction variables",
+          "Interlinked arrangements across multiple data tables"
+        ]
+      },
+      {
+        "chapter": "Coded Reasoning",
+        "topics": [
+          "Coded blood relations: Symbolizing lineage and gender",
+          "Coded direction sense: Coded navigation and orientation",
+          "Advanced coded inequalities with complex syntax logic",
+          "Condition-based coding for number and symbol sets",
+          "Identifying logic in reverse coding-decoding puzzles"
+        ]
+      },
+      {
+        "chapter": "Analytical Ability",
+        "topics": [
+          "Logical sequence of events in a complex business case",
+          "Identifying the missing link in a chain of data logic",
+          "Interpreting logical rules for advanced data sorting",
+          "Binary logic: Truth-teller and Liar based puzzles",
+          "Advanced seating with distance variables and constraints"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Aptitude and Flowcharts",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Binary Logic and Operations",
+        "topics": [
+          "Binary number system and base conversions (0 and 1)",
+          "Bitwise operations: AND, OR, NOT and bit-shifting",
+          "Logic Gates: AND, OR, NOT, NAND, NOR, XOR, XNOR",
+          "Truth tables and basic boolean algebra simplifying",
+          "Representing integers and characters in binary form"
+        ]
+      },
+      {
+        "chapter": "Hardware and Operating Systems",
+        "topics": [
+          "Organisation of a CPU; Input/Output devices and buses",
+          "Memory management: RAM, ROM and Cache hierarchies",
+          "Evolution of computer generations and hardware shifts",
+          "Types of Operating Systems: Windows, Linux and RTOS",
+          "Functional keys and universal shortcut keys for bank OS"
+        ]
+      },
+      {
+        "chapter": "Flowcharts and Logical Interpretation",
+        "topics": [
+          "Standard symbols: Decision, Process, Input/Output, Terminal",
+          "Tracing the logic output for a given complex flowchart",
+          "Algorithm and flowchart relationship and procedural logic",
+          "Identifying errors and loops in a logic diagram",
+          "Mapping procedural banking steps to logical flowcharts"
+        ]
+      },
+      {
+        "chapter": "Networking and Cyber Security",
+        "topics": [
+          "Network topologies: Ring, Star, Mesh, Bus and Hybrid",
+          "LAN, WAN, MAN and Internet protocol (TCP/IP) layers",
+          "Security threats: Trojan Horse, Virus, Phishing, Malware",
+          "Firewalls and Antivirus: Proactive defensive tools",
+          "Encryption basics: Symmetric and Asymmetric systems"
+        ]
+      },
+      {
+        "chapter": "MS Office and Advanced IT Tools",
+        "topics": [
+          "Microsoft Excel: Lookup functions, Pivot tables and formulas",
+          "Microsoft Word: Formatting, track changes and review",
+          "Microsoft PowerPoint: Professional slide designs and transitions",
+          "Database Management Systems (DBMS) and SQL concepts",
+          "Modern banking IT: Blockchain, AI and Cloud basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Analysis and Interpretation (Mains)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Caselets and Logical DI",
+        "topics": [
+          "Textual caselets: Converting description to data tables",
+          "Venn diagram based numerical DI: 3-set and 4-set cases",
+          "Logical storytelling and deduction from numeric scenarios",
+          "Tabulating multiple variables from a complex passage",
+          "Solving for missing values based on interlinked clues"
+        ]
+      },
+      {
+        "chapter": "Complex Graphical DI",
+        "topics": [
+          "Radar charts: Sectoral analysis on multiple axes",
+          "Funnel and Staircase charts in financial contexts",
+          "Scatter plots: Analyzing correlation and trend lines",
+          "Bubble charts: Mapping multi-dimensional data sets",
+          "Spider plots: Comparing sectoral performance metrics"
+        ]
+      },
+      {
+        "chapter": "Mixed and Layered DI",
+        "topics": [
+          "Combination graphs (Pie + Bar, Line + Table)",
+          "Triple mixed graphs: Extracting data across sets",
+          "Cumulative charts: Interpreting growth over total",
+          "Probability based DI sets: Calculation of outcomes",
+          "Permutation and combination based logical data DI"
+        ]
+      },
+      {
+        "chapter": "Arithmetic and Table DI",
+        "topics": [
+          "Missing value tables: Using logic and arithmetic to find values",
+          "Arithmetic based DI: Profit/Loss, Interest and Time/Work",
+          "Growth and percentage change analysis across year tables",
+          "Weighted mean and averaging in large data sets",
+          "Consistency and sufficiency of variables in table entries"
+        ]
+      },
+      {
+        "chapter": "Advanced Comparison sets",
+        "topics": [
+          "Quantity I vs Quantity II: Mixed arithmetic evaluation",
+          "Relationship between variables in complex data sets",
+          "Data sufficiency: Is statement I, II or III enough?",
+          "Identifying redundant data points in DI clues",
+          "Trend projection from historical data for prediction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quantitative Aptitude (Prelims Focus)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Calculation and Approximation",
+        "topics": [
+          "Applying BODMAS and fraction-to-percent conversion",
+          "Simplification of multi-step numeric equations",
+          "Approximation: Estimating decimals for complex sums",
+          "Square and Cube root techniques for speed maths",
+          "Scientific and mental calculation of power series"
+        ]
+      },
+      {
+        "chapter": "Number Series and Sequences",
+        "topics": [
+          "Identifying the missing number in a logical sequence",
+          "Wrong number identification in a given series set",
+          "Pattern analysis for arithmetic and geometric growth",
+          "Difference of differences and multi-layered series",
+          "Predicting the end-term of complex numeric chains"
+        ]
+      },
+      {
+        "chapter": "Quadratic and Linear Equations",
+        "topics": [
+          "Finding the roots (X and Y) of quadratic equations",
+          "Comparison of X and Y roots: Finding the relationship",
+          "Solving linear equations with two/three variables",
+          "Inequalities comparison using root relation rules",
+          "Identifying the consistent solution for equations"
+        ]
+      },
+      {
+        "chapter": "Ratio and Average",
+        "topics": [
+          "Ratio, Proportion and variation: Basic to moderate",
+          "Averages of numbers, age, weight and group means",
+          "Partnership: Investment and profit sharing ratio cases",
+          "Percentage: Basic growth and successive changes",
+          "Concepts of weighted mean in various arithmetic tasks"
+        ]
+      },
+      {
+        "chapter": "Time and Work / Speed and Distance",
+        "topics": [
+          "Time and Work basics: Individual and group tasks",
+          "Pipes and Cisterns: Tank filling and empty logic",
+          "Time, Speed and Distance: Basic relative speed",
+          "Boats and Streams: Upstream and downstream speed",
+          "Average speed calculation for simple intervals"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General and Financial Awareness",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Indian Financial System",
+        "topics": [
+          "Regulators of the financial market: RBI, SEBI, IRDAI",
+          "Players in the money and capital markets of India",
+          "Structure of Public and Private Sector banks and NBFCs",
+          "Primary and Secondary markets: Functions and items",
+          "Role of SIDBI, NABARD and EXIM Bank in national development"
+        ]
+      },
+      {
+        "chapter": "National Income and Budgeting",
+        "topics": [
+          "National Income concepts: GDP, GNP, NNP, Per Capita",
+          "Union Budget: Revenue, Capital and Expenditure heads",
+          "Fiscal policy: Budget deficit, Revenue deficit, FRBM Act",
+          "Direct and Indirect taxes framework (GST and its Council)",
+          "NITI Aayog: Vision, strategy and Five-Year Plan history"
+        ]
+      },
+      {
+        "chapter": "Financial Markets and Instruments",
+        "topics": [
+          "Money Market: T-bills, CP, CD and Call money",
+          "Capital Market: IPOs, Stocks, Mutual Funds, Bonds",
+          "Derivatives and Future contracts basic terminology",
+          "Credit Rating Agencies in India: CRISIL, ICRA, CARE",
+          "Financial benchmarks and indices: Sensex and Nifty"
+        ]
+      },
+      {
+        "chapter": "Inclusive Finance and Schemes",
+        "topics": [
+          "Financial inclusion mission: PMJDY and Digital Banking",
+          "Social Security schemes: PMJJBY, PMSBY and APY",
+          "Self Help Groups (SHG) and Microfinance institutions",
+          "Welfare schemes for rural and underprivileged sections",
+          "Priority Sector Lending (PSL) targets for Indian banks"
+        ]
+      },
+      {
+        "chapter": "International Financial Bodies",
+        "topics": [
+          "Role and structure of IMF, World Bank and WTO",
+          "Foreign trade policy and Balance of Payments (BoP)",
+          "Global indices on development and economic growth",
+          "International summits: G20, BRICS and Climate Finance",
+          "India's economic relations with neighbors and major trades"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Banking Awareness: Static and Current",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "History and Structure of Banking",
+        "topics": [
+          "Evolution of banking in India and Nationalisation",
+          "Reserve Bank of India: Origin, Structure and Preamble",
+          "Functions of RBI as the issuer and regulator of credit",
+          "Payment and Small Finance Banks: Current status and rules",
+          "Regional Rural Banks (RRB): Lead Bank and Area approach"
+        ]
+      },
+      {
+        "chapter": "Monetary Policy and Tools",
+        "topics": [
+          "Monetary Policy Committee (MPC) and its composition",
+          "Quantitative tools: Repo, RR, MSF, Bank Rate, SLR, CRR",
+          "Qualitative tools: Margin requirements and Moral Suasion",
+          "Money supply M1, M2, M3 and velocity concepts",
+          "RBI's role as a banker to Govt and other banks"
+        ]
+      },
+      {
+        "chapter": "Banking Product and Terminology",
+        "topics": [
+          "Types of deposits: Savings, Current, RD, FD and NRI",
+          "Digital Banking: NEFT, RTGS, IMPS, UPI and USSD",
+          "Banking Terms: NPCI, SWIFT, KYC, AML, IFSC, MICR",
+          "Negotiable Instruments: Cheques, Bills and Hundi",
+          "Locker facilities, Nomination and Nomination rights"
+        ]
+      },
+      {
+        "chapter": "Risk and Regulation: Basel III",
+        "topics": [
+          "Basel III Norms: Capital adequacy and risk management",
+          "NPA management: Provisioning and prompt corrective action",
+          "SARFAESI Act and debt recovery tribunals in India",
+          "Capital to Risk Weighted Assets Ratio (CRAR) basics",
+          "Financial stability reports and Stress testing in banks"
+        ]
+      },
+      {
+        "chapter": "Banking Acts and Ombudsman",
+        "topics": [
+          "Banking Regulation Act, 1949 and RBI Act, 1934 summary",
+          "Banking Ombudsman Scheme: Grievance and limits",
+          "Rights of the bank customer and fair practice codes",
+          "Ethics and values in contemporary banking roles",
+          "Consumer Protection Act in banking services context"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Grammar and Usage",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Tense and Agreement",
+        "topics": [
+          "Present, Past and Future tense forms in detail",
+          "Rules of subject-verb agreement across complex lines",
+          "Sequence of tenses and usage of conditionals",
+          "Identifying tense errors in narrative and reporting",
+          "Perfective and Continuous aspects of verb conjugation"
+        ]
+      },
+      {
+        "chapter": "Voice and Narration",
+        "topics": [
+          "Active to Passive voice transformation: All tenses",
+          "Passive to Active voice conversion logic",
+          "Direct to Indirect speech: Tense and Pronoun rule",
+          "Reporting imperatives and interrogatives in English",
+          "Identifying correct speech/voice from multiple options"
+        ]
+      },
+      {
+        "chapter": "Noun, Pronoun and Adjective",
+        "topics": [
+          "Classification of nouns and number/gender rules",
+          "Relative, Reflexive and Emphatic pronouns usage",
+          "Degrees of comparison in adjectives: Positive to Super",
+          "Ordering of multiple adjectives before a noun",
+          "Adjective vs Adverb: Correct positional placement"
+        ]
+      },
+      {
+        "chapter": "Articles and Prepositions",
+        "topics": [
+          "A, An, The: Definite and indefinite application",
+          "Fixed prepositions following specific verbs and adjectives",
+          "Prepositions of Time, Place, and Direction usage",
+          "Identifying errors in article and prepositional phrases",
+          "Omission and repetition of articles rules"
+        ]
+      },
+      {
+        "chapter": "Conjunctions and Sentence Editing",
+        "topics": [
+          "Linking words: Coordinating and subordinating types",
+          "Parallelism and sentence inversion grammar rules",
+          "Modifying sentence structure for high-level formal tone",
+          "Identifying errors in multi-clause complex sentences",
+          "Sentence synthesis using relative and possessive pronouns"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Vocabulary and Idioms",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Synonyms and Antonyms",
+        "topics": [
+          "Choosing synonyms in a specific financial context",
+          "Identifying antonyms for specialized economic terms",
+          "High-frequency vocabulary for bank officers list",
+          "Vocabulary decoding using roots, prefixes and suffixes",
+          "Choosing the best meaning option in word MCQs"
+        ]
+      },
+      {
+        "chapter": "One-Word Substitution",
+        "topics": [
+          "Words for administrative and financial processes",
+          "Substitutions for professional roles and lifestyles",
+          "Scientific, legal and literary terminology in one word",
+          "Identifying the term from its detailed definition provided",
+          "Words related to groups and collective entities"
+        ]
+      },
+      {
+        "chapter": "Idioms and Phrases",
+        "topics": [
+          "Common English idioms and their actual meanings",
+          "Phrases used in formal business and banking English",
+          "Proverbs and their appropriate application in text",
+          "Identifying figurative vs literal meaning in sentences",
+          "Advanced phrasal verbs for professional communication"
+        ]
+      },
+      {
+        "chapter": "Spellings and Word Usage",
+        "topics": [
+          "Commonly misspelt words in executive level exams",
+          "Rules of spelling for suffixes and multi-vowel words",
+          "Distinguishing between similar sounding homophones",
+          "Identifying correctly misspelt words in a list",
+          "Spelling variants in British vs American academic English"
+        ]
+      },
+      {
+        "chapter": "Collocations and Homonyms",
+        "topics": [
+          "Word pairs that work together: Verb-Noun collocations",
+          "Homonyms: Same spellings with different meanings",
+          "Correct word usage for everyday banking scenarios",
+          "Prepositional collocations in standard professional speech",
+          "Distinguishing between confused word families"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Reading and Editing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Reading Comprehension",
+        "topics": [
+          "Identifying central ideas and titles of complex text",
+          "Inference-based and contextual tone questions",
+          "Meanings of underlined phrases in commercial text",
+          "Answering factual and data-driven questions from a set",
+          "Summarizing main points and author's intent"
+        ]
+      },
+      {
+        "chapter": "Cloze Test / Passage Completion",
+        "topics": [
+          "Filling gaps in a passage with correct words",
+          "Logical and grammatical fitting for gapped blanks",
+          "Vocabulary based choice selection for textual context",
+          "Identifying keywords for blank completion in logic",
+          "Cohesion and coherence maintenance in gapped para"
+        ]
+      },
+      {
+        "chapter": "Para Jumbles / Rearrangement",
+        "topics": [
+          "Ordering scrambled sentences into a logical sequence",
+          "Identifying opening, connecting and closing lines",
+          "Finding logical links between pair of sentences",
+          "Managing narrative and time flow in rearranged events",
+          "Connecting events in a sequential step-wise logic"
+        ]
+      },
+      {
+        "chapter": "Error Detection and improvement",
+        "topics": [
+          "Spotting the grammatical error in complex sentences",
+          "Improving the underlined segment for better structure",
+          "Choosing the best phrase for formal construction",
+          "Handling dangling modifiers and multiple error lines",
+          "No improvement needed: Identifying the correct text"
+        ]
+      },
+      {
+        "chapter": "Sentence Synthesis and Fillers",
+        "topics": [
+          "Combining sentences using relative pronouns and linkers",
+          "Double fillers: Using two contextually correct words",
+          "Identifying the best filler option from similar words",
+          "Agreement and tense based sentence fillers logic",
+          "Synthesizing logical coherence across sentence chains"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Descriptive English: Writing Skills",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Formal Letter Writing",
+        "topics": [
+          "Letter to Manager: Opening, Purpose and Format",
+          "Letter to Editor: Public issues and structure",
+          "Formal tone and bureaucratic language usage",
+          "Standard salutations and concluding remarks in India",
+          "Letter for complaint and grievance redressal format"
+        ]
+      },
+      {
+        "chapter": "Informal Letter Writing",
+        "topics": [
+          "Personal correspondence: Family and friends",
+          "Informal yet professional tone for colleagues",
+          "Addressing and closing habits in personal letters",
+          "Sharing personal updates and requests in informal tone",
+          "Invitations and thank-you notes structure"
+        ]
+      },
+      {
+        "chapter": "Essay Writing: Economic themes",
+        "topics": [
+          "Structure of a professional essay: Intro to Conclusion",
+          "Essay on digital banking and futuristic finance",
+          "Inclusive growth and its impact on the nation",
+          "Economic reforms and privatization debates",
+          "Climate finance and green energy transition themes"
+        ]
+      },
+      {
+        "chapter": "Essay Writing: Social Themes",
+        "topics": [
+          "Women's empowerment and workforce participation",
+          "Education policy and skill development missions",
+          "Healthcare infrastructure and pandemic readiness",
+          "Rural development and urban migration challenges",
+          "Social media's impact on contemporary society"
+        ]
+      },
+      {
+        "chapter": "Precis and Summarization",
+        "topics": [
+          "Drafting a precis: One-third of original length rule",
+          "Summarizing complex administrative and news reports",
+          "Title selection for summarized content",
+          "Maintaining coherence while reducing word count",
+          "Drafting formal executive summaries for reports"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Current Affairs: Reports and Indices",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Global and National Indices",
+        "topics": [
+          "Ease of doing business, HDI and Global Risk report",
+          "India's ranking in international indices (Hunger, GII)",
+          "Reports by NITI Aayog: Sustainable Dev and Health",
+          "State-wise performance reports on various sectors",
+          "Financial stability reports and monetary news trends"
+        ]
+      },
+      {
+        "chapter": "Government Committees",
+        "topics": [
+          "Important committees on banking and economic reforms",
+          "Reports of recommendations on social welfare schemes",
+          "Committee on internal and cyber security results",
+          "Education and health policy commission findings",
+          "Parliamentary standing committee reports on finance"
+        ]
+      },
+      {
+        "chapter": "National and Int Appointments",
+        "topics": [
+          "New heads of international organizations (UN, IMF)",
+          "Governor and Deputy Governor appointments in RBI",
+          "Heads of public sector banks and regulatory bodies",
+          "Chief Justices and High Court judicial appointments",
+          "Major diplomatic and ambassadorial postings summary"
+        ]
+      },
+      {
+        "chapter": "Sports, Awards and Honors",
+        "topics": [
+          "Olympic, Commonwealth and Asian games highlights",
+          "Major sports championships: Tennis, Cricket, Chess",
+          "Bharat Ratna, Padma Awards and Nobel laureates",
+          "National film awards and literary honors (Jnanpith)",
+          "International recognition of Indian experts and art"
+        ]
+      },
+      {
+        "chapter": "National and Int Conferences",
+        "topics": [
+          "Summits: G20, G7, BRICS, ASEAN and SAARC",
+          "India's role in COP climate change conferences",
+          "Military exercises: Malabar, Indradhanush and others",
+          "Bilateral treaties signed in the current year summary",
+          "International trade fairs and global tech summits"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Sufficiency and Quantity Comparison",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Arithmetic Data Sufficiency",
+        "topics": [
+          "Time/Work and SI/CI based data sufficiency set",
+          "Ratio/Percentage based sufficiency for arithmetic",
+          "Mixture and Alligation based data statements logic",
+          "Interpreting if Statement I, II or III is enough",
+          "Redundant data identification in arithmetic clues"
+        ]
+      },
+      {
+        "chapter": "Reasoning Data Sufficiency",
+        "topics": [
+          "Blood relations and direction based sufficiency set",
+          "Seating arrangement based data sufficiency checks",
+          "Ranking and order based sufficiency logic",
+          "Logic derived from double vs triple statements",
+          "Identifying consistency in reasoning clue sets"
+        ]
+      },
+      {
+        "chapter": "Quantity Comparisons",
+        "topics": [
+          "Quantity I and Quantity II evaluation and comparison",
+          "Relationship between various roots of equations (X/Y)",
+          "Evaluating numeric results from two given arithmetic tasks",
+          "Deciding greater, smaller or equal relationships (Q1 vs Q2)",
+          "Data-based comparison for variable and quantity sets"
+        ]
+      },
+      {
+        "chapter": "Advanced Inequality and Values",
+        "topics": [
+          "Comparison of roots of higher order quadratic sets",
+          "Relationship between variables across layered sets",
+          "Solving for X, Y and Z in interlinked data tables",
+          "consistency of given variables in inequality strings",
+          "Numerical logic of comparing tiered values in sets"
+        ]
+      },
+      {
+        "chapter": "Redundancy and Logical Check",
+        "topics": [
+          "Identification of redundant data points in clues set",
+          "Logical consistency across multiple statements in DI",
+          "Grasping minimal clues needed for a unique result",
+          "Evaluating conflicting vs consistent data in sets",
+          "Deriving results from partial information logic"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Statistical Graph and Trend Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Graphic DI I (Bar and Line)",
+        "topics": [
+          "Bar graphs: Comparing multi-variable data and ratios",
+          "Line graphs: Trend, growth and fluctuation analysis",
+          "Combined Bar and Line chart interpretations in sets",
+          "Year-on-year growth and cumulative change mapping",
+          "Sectoral analysis using multi-level bar visuals"
+        ]
+      },
+      {
+        "chapter": "Graphic DI II (Pie and Radar)",
+        "topics": [
+          "Pie charts: Sectional percentage and degrees conversion",
+          "Double Pie charts: Comparison and overlap identification",
+          "Radar and Spider plots for performance performance",
+          "Mapping percentage to degrees in sectoral DI",
+          "Interpreting multi-axis radar charts for banking stats"
+        ]
+      },
+      {
+        "chapter": "Statistical and Missing Graph DI",
+        "topics": [
+          "Interpreting Mean, Median and Mode in DI set tasks",
+          "Standard Deviation and Variance: Basic graphic check",
+          "Missing value chart DI: Find values using logic",
+          "Arithmetic based graphical DI: Profit and Interest",
+          "Averaging the points across high-level graph sets"
+        ]
+      },
+      {
+        "chapter": "Mixed Graphics and Storytelling",
+        "topics": [
+          "Combined charts (Pie + Line, Bar + Table)",
+          "Triple mixed graphs: Extracting data inter-relatedly",
+          "Logical flow involving layered data graphics",
+          "Identifying trends and outliers in series DI visuals",
+          "Summarizing visual data into tabulated numeric results"
+        ]
+      },
+      {
+        "chapter": "Trend Projection and Analysis",
+        "topics": [
+          "Projecting values based on historical graph data",
+          "Calculating CAGR (Compound Growth) from line graphs",
+          "Identifying maximum and minimum within trend visuals",
+          "Relationship between variables in dual-axis graphs",
+          "Data condensation and graphical summarizing skills"
+        ]
+      }
+    ]
+  }
+]

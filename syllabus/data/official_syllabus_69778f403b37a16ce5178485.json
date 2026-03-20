@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Reasoning Ability (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Linear and Circular Seating",
+        "topics": [
+          "Linear seating: Single row facing North/South",
+          "Parallel rows: Persons facing each other with variables",
+          "Circular seating: Facing center and away from center",
+          "Square table arrangement: Corner and middle seating",
+          "Uncertain number of persons in a linear row"
+        ]
+      },
+      {
+        "chapter": "Puzzles",
+        "topics": [
+          "Floor arrangement: Simple 7-10 floor structures",
+          "Box arrangement: Stacking boxes with color variables",
+          "Flat and Floor puzzles: Multi-variable location logic",
+          "Tabulation of days/months for appointments logic",
+          "Finding the topmost and bottommost entity in puzzles"
+        ]
+      },
+      {
+        "chapter": "Syllogism and Inequalities",
+        "topics": [
+          "Syllogism: 'Only' and 'Only-a-few' statements",
+          "Negative and possibility based conclusions in logic",
+          "Direct inequalities: A > B, C < D type links",
+          "Comparing roots and derived values of symbols",
+          "Coded inequalities: Deciphering symbol based links"
+        ]
+      },
+      {
+        "chapter": "Relative Reasoning",
+        "topics": [
+          "Blood relations family tree construction and logic",
+          "Direction sense: Basic navigate and position orientation",
+          "Distances and relative position calculation in sets",
+          "Shadow-based direction problems in reasoning",
+          "Ranking and order in a given queue logic"
+        ]
+      },
+      {
+        "chapter": "Alpha-Numeric and Coding",
+        "topics": [
+          "Alpha-Numeric and symbol series patterns logic",
+          "Finding the next element in a letter-symbol series",
+          "Preceded and followed condition based series questions",
+          "Removing a character and finding the middle element",
+          "Simple coding-decoding: Word to word substitution"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quantitative Aptitude (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simplification and Approximation",
+        "topics": [
+          "Applying BODMAS for multi-operator equations",
+          "Square and Cube root shortcuts for speed maths",
+          "Percentage to fraction conversion for speed calculation",
+          "Rounding off values for approximation methods",
+          "Handling multi-variable equations for speed entry"
+        ]
+      },
+      {
+        "chapter": "Number Series",
+        "topics": [
+          "Finding the missing number in a numeric sequence",
+          "Identifying the wrong term in a given number series",
+          "Pattern analysis for arithmetic/geometric series",
+          "Difference of differences (Two-tier) logic series",
+          "Predicting the end-term of a non-linear series"
+        ]
+      },
+      {
+        "chapter": "Quadratic Equations",
+        "topics": [
+          "Finding roots of quadratic equations (X and Y)",
+          "Comparison of X and Y roots: Relationship finding",
+          "Solving quadratic equations using factorisation",
+          "Equations with larger coefficients and shortcuts",
+          "Linear vs Quadratic relationship comparisons"
+        ]
+      },
+      {
+        "chapter": "Ratio, Proportion and Average",
+        "topics": [
+          "Ratio scaling and sharing problems for three",
+          "Percentage: Basic calculation and changes on sum",
+          "Averages of numbers, age and weight for groups",
+          "Partnership: Investment and profit sharing ratio",
+          "Weighted mean calculations for complex sets"
+        ]
+      },
+      {
+        "chapter": "Time and Work basics",
+        "topics": [
+          "Time and Work basics: Individual and group tasks",
+          "Pipes and Cisterns: Tank filling and empty logic",
+          "Alternate day working patterns analysis in work",
+          "Efficiency comparison between two workers",
+          "Solving linear word problems on work and wages"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Knowledge (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Computer CPU and Memory",
+        "topics": [
+          "Organisation of a CPU and its components",
+          "Memory: RAM, ROM and Cache memory functions",
+          "Storage: Secondary discs (HDD, SSD) and capacity",
+          "History of computer generations (1st to 5th)",
+          "Bit, Byte and binary data representation"
+        ]
+      },
+      {
+        "chapter": "Input and Output Devices",
+        "topics": [
+          "Types and functions of input devices (Mouse, VR)",
+          "Output devices: Monitor and Printer types basics",
+          "Scanning and imaging devices: OMR, QR, Barcode",
+          "Shortcuts for copying, pasting and files navigation",
+          "Functional keys (F1-F12) the standard usage"
+        ]
+      },
+      {
+        "chapter": "Microsoft Office Basics",
+        "topics": [
+          "Document creation and formatting text in Word",
+          "Review and proofreading tools in MS Word",
+          "Organisation of cells, rows and columns in Excel",
+          "Basic formulas (Sum, Average, Percentage)",
+          "Designing of slides and standard templates in PPT"
+        ]
+      },
+      {
+        "chapter": "Computer Network and Security",
+        "topics": [
+          "Network types: LAN, WAN, MAN and PAN",
+          "Topologies: Mesh, Star, Ring, Bus topology",
+          "Security threats: Virus, Worms, Trojan Horse",
+          "Phishing and Hacking in banking contexts",
+          "Antivirus and Firewalls: Proactive protection"
+        ]
+      },
+      {
+        "chapter": "Internet and Communication",
+        "topics": [
+          "Web Browsers and Search Engine technology",
+          "Electronic Mail (Email): Folders and attachments",
+          "Social media platforms and digital interaction",
+          "Cloud computing and online storage basics",
+          "Internet terminology: HTML, HTTP, URL, DNS"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Current Affairs (National)",
+        "topics": [
+          "Recent government updates and appointments",
+          "Major events in the Indian parliament summary",
+          "Key policy changes affecting rural growth",
+          "National achievements in Sci and Technology",
+          "Reports of administrative commissions in India"
+        ]
+      },
+      {
+        "chapter": "Indices and Rankings",
+        "topics": [
+          "National and Global Index Rankings results",
+          "State-wise performance in Agri and Rural dev",
+          "Reports by NITI Aayog on aspirational districts",
+          "Ease of doing business at regional levels",
+          "Sustainability and Health index status of states"
+        ]
+      },
+      {
+        "chapter": "Awards and Honors",
+        "topics": [
+          "National Awards (Padma, Bharat Ratna) list",
+          "Sahitya Akademi and regional literary honors",
+          "Awards for village level governance and Swachhata",
+          "Noble prizes in Science and Art (Global)",
+          "Recognition for innovative farming techniques"
+        ]
+      },
+      {
+        "chapter": "Static GK Basics",
+        "topics": [
+          "Important National Parks and Wildlife Sanctuaries",
+          "Major Rivers of India and their tributaries",
+          "Important Dams and Hydroelectric projects",
+          "Classic and Folk dances of Indian states",
+          "UNESCO World Heritage sites in India list"
+        ]
+      },
+      {
+        "chapter": "Sports Events and News",
+        "topics": [
+          "Olympic, Commonwealth and Asian games highlights",
+          "Major sports championships: Tennis, Cricket, Chess",
+          "National sports awards and regional winners",
+          "Developing talent in traditional rural sports",
+          "Infrastructure for sports in regional centers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Decision Making (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Case Analysis",
+        "topics": [
+          "Identifying the central problem in a narrative",
+          "Evaluating the credibility of witnesses and clues",
+          "Sorting relevant vs irrelevant information in a case",
+          "Summarizing complex narrative for executive decisions",
+          "Identifying the objective of a given case study"
+        ]
+      },
+      {
+        "chapter": "Practical Action Choices",
+        "topics": [
+          "Determining the immediate course of action for a manager",
+          "Evaluating the feasibility of technical solutions",
+          "Cost-benefit analysis of administrative decisions",
+          "Choosing actions that align with organizational goals",
+          "Identifying the best response to crises cases"
+        ]
+      },
+      {
+        "chapter": "Ethical Considerations",
+        "topics": [
+          "Applying code of conduct rules to decisions",
+          "Managing conflicts between ethics and profitability",
+          "Transparency and accountability in decision making",
+          "Protecting whistleblowers in administrative cases",
+          "Ethics of social justice in welfare decisions"
+        ]
+      },
+      {
+        "chapter": "Outcome Predictions",
+        "topics": [
+          "Identifying secondary and tertiary effects of a choice",
+          "Risk assessment of administrative courses of action",
+          "Predicting public reaction to policy changes",
+          "Evaluating efficiency of steps based on past results",
+          "Identifying assumptions in outcome predictions"
+        ]
+      },
+      {
+        "chapter": "Summary and Conclusion",
+        "topics": [
+          "Choosing the most logical summary for a case",
+          "Identifying themes and sub-themes in decisions",
+          "Concluding the main decision from diverse views",
+          "Drafting concise reports based on case findings",
+          "Evaluating the validity of a final conclusion"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Tense and Agreement",
+        "topics": [
+          "Rules of tense: Present, Past, Future usage",
+          "Subject-Verb agreement in various sentence types",
+          "Sequence of tenses and conditional statements",
+          "Identifying tense errors in reported speech",
+          "Perfect vs Simple tense nuances for exams"
+        ]
+      },
+      {
+        "chapter": "Active/Passive and Narration",
+        "topics": [
+          "Rules for voice transformation across tenses",
+          "Active to passive voice conversion of text",
+          "Direct to indirect speech: Pronoun and tense change",
+          "Reporting interrogatives and imperatives in English",
+          "Identifying the correct speech/voice in options"
+        ]
+      },
+      {
+        "chapter": "Articles and Prepositions",
+        "topics": [
+          "A, An, The: Definite and indefinite application",
+          "Fixed prepositions following specific verbs",
+          "Prepositions of Time, Place, and Direction",
+          "Correcting article and preposition usage in text",
+          "Omitting articles in specific sentence contexts"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension Analysis",
+        "topics": [
+          "Identifying the central idea and title of agri text",
+          "Answering factual and inference based questions",
+          "Meaning of underlined words in a passage",
+          "Evaluating the author's tone and point of view",
+          "Summarizing the main points of the reading piece"
+        ]
+      },
+      {
+        "chapter": "Cloze Test / Passage Completion",
+        "topics": [
+          "Filling gaps in a passage with correct words",
+          "Logical fitting and grammatical clues in cloze",
+          "Contextual meaning identification for blanks",
+          "Choosing vocabulary based on the theme of text",
+          "Maintaining coherence in a gapped paragraph"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economic and Social Issues (ESI)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Economic Growth and GDP",
+        "topics": [
+          "Measuring growth: GDP, GNP and national income",
+          "Human Development Index: India's growth and gaps",
+          "Indian planning: Five-Year Plans to NITI Aayog",
+          "Features of the Indian economy and structural shifts",
+          "Inclusion and development trends in recent India"
+        ]
+      },
+      {
+        "chapter": "Poverty and Unemployment",
+        "topics": [
+          "Measuring poverty: Multi-dimensional Poverty Index",
+          "Types and causes of unemployment in rural areas",
+          "Poverty alleviation: Official missions and status",
+          "MGNREGA: Objectives, rules and social impact results",
+          "Financial inclusion as a social justice tool"
+        ]
+      },
+      {
+        "chapter": "Sustainable Development",
+        "topics": [
+          "Concept of sustainable development and Green GDP",
+          "UN Sustainable Development Goals (SDGs) results",
+          "Nature missions in India: Forests and Biodiversity",
+          "Climate Change: Global impact on Indian Agri economy",
+          "Organic farming as a tool for sustainability"
+        ]
+      },
+      {
+        "chapter": "Social Justice and Movements",
+        "topics": [
+          "Women's empowerment and workforce participation",
+          "Rights and welfare of Scheduled Castes and Tribes",
+          "Child rights protection missions and results",
+          "Upliftment of minorities and social cohesion trends",
+          "Ethical administrative decision in social justice"
+        ]
+      },
+      {
+        "chapter": "Indian Planning overview",
+        "topics": [
+          "History of 12 Five-Year Plans in independent India",
+          "Shift from Planning Commission to NITI Aayog (2015)",
+          "Monitoring sustainable growth through planning units",
+          "Regional planning for aspirational Indian districts",
+          "Evaluating social outcomes of planning in India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agriculture and Rural Development (ARD)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Agriculture: Crops and Seasons",
+        "topics": [
+          "Major crops of India: Food vs Cash crops",
+          "Agricultural seasons: Rabi, Kharif and Zaid",
+          "Types of farming: Mixed, Intensive, Organic",
+          "Soil health card and importance of fertilizers",
+          "Impact of climate change on Indian agriculture yield"
+        ]
+      },
+      {
+        "chapter": "Irrigation and Power",
+        "topics": [
+          "Major irrigation projects and river linking",
+          "Drip and Sprinkler irrigation technologies",
+          "Groundwater management and watershed dev",
+          "Kusum Yojana: Solar power for water pumps",
+          "Power distribution and rural electrification"
+        ]
+      },
+      {
+        "chapter": "Animal Husbandry and Allied",
+        "topics": [
+          "Animal husbandry and poultry basics in India",
+          "Dairy development: White Revolution summary",
+          "Fisheries sector: PM Matsya Sampada Yojana",
+          "Horticulture and agro-processing industries",
+          "Importance of allied sector in rural livelihoods"
+        ]
+      },
+      {
+        "chapter": "Impact of Climate Change",
+        "topics": [
+          "Global warming impact on crop yields and patterns",
+          "Adaptation strategies for farmers in dry regions",
+          "Disaster management in agriculture: Floods/Drought",
+          "Carbon sequestration through afforestation missions",
+          "Sustainable water use in the farming sector"
+        ]
+      },
+      {
+        "chapter": "Agricultural Marketing",
+        "topics": [
+          "Current state of agricultural marketing in India",
+          "e-NAM: National Agricultural Market features",
+          "Role of Cooperatives in marketing and distribution",
+          "FPO (Farmer Producer Organisation) goals and status",
+          "Price discovery and role of MSP in Indian markets"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Developmental Banking (NABARD mandate)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "History of NABARD bank",
+        "topics": [
+          "Origin from Sivaraman Committee recommendations",
+          "Foundation and the structure of the NABARD bank",
+          "Mandate: Agriculture and Rural regional growth",
+          "Relationship with the Reserve Bank of India (RBI)",
+          "NABARD's role as the apex developmental bank"
+        ]
+      },
+      {
+        "chapter": "NABARD's Refinance Function",
+        "topics": [
+          "Refinance for Agriculture and Rural Dev projects",
+          "Monitoring and evaluation of rural banking units",
+          "Lead Bank Scheme: Preparation of district plans",
+          "Kisan Credit Card (KCC) scheme provisions",
+          "NABARD's role in SHG-Bank linkage promotion"
+        ]
+      },
+      {
+        "chapter": "Developmental Projects (RIDF)",
+        "topics": [
+          "Rural Infrastructure Development Fund (RIDF) role",
+          "Financing of irrigation, roads and social sectors",
+          "NABARD's assistance to State governments in India",
+          "Sustainable Dev projects funded by the NABARD",
+          "Evaluating outcomes of RIDF in Indian villages"
+        ]
+      },
+      {
+        "chapter": "Corporate Governance in NABARD",
+        "topics": [
+          "The Board of Directors: Appointment and terms",
+          "Transparency and accountability in NABARD units",
+          "Whistleblower policies and protection for staff",
+          "Internal audit and monitoring mechanisms in bank",
+          "RBI as the supervisor of the NABARD bank unit"
+        ]
+      },
+      {
+        "chapter": "Innovations and Future Paths",
+        "topics": [
+          "Impact of Digitalisation on rural banking dev",
+          "Fintech in agriculture: Role of the NABARD bank",
+          "Climate change financing strategies for farmers",
+          "Empowering tribal regions through developmental funds",
+          "Success stories of NABARD's microfinance missions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Rural Credit Systems",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Multi-agency Approach",
+        "topics": [
+          "Role of Co-operatives in agriculture credit India",
+          "Regional Rural Banks (RRB): Structure and mission",
+          "Commercial Banks in the rural sector: Challenges",
+          "Comparison between Formal vs Informal credit units",
+          "Priority Sector Lending (PSL) specialized targets"
+        ]
+      },
+      {
+        "chapter": "Self Help Groups (SHG)",
+        "topics": [
+          "Concept and evolution of SHGs in India summary",
+          "SHG-Bank Linkage program: Status and growth",
+          "Role of NABARD in empowering village level women",
+          "NRLM (National Rural Livelihood Mission) summary",
+          "Creditworthiness and peer monitoring in SHG groups"
+        ]
+      },
+      {
+        "chapter": "Microfinance and JLGs",
+        "topics": [
+          "Joint Liability Groups (JLG) for small farmers",
+          "Microfinance institutions: Growth and regulation",
+          "Comparison between SHG vs JLG models in India",
+          "Impact of microfinance on rural poverty reduction",
+          "RBI's regulatory framework for micro-credit units"
+        ]
+      },
+      {
+        "chapter": "Lead Bank Scheme",
+        "topics": [
+          "Lead Bank Scheme: Preparation of district plans",
+          "District Consultative Committees (DCC) role info",
+          "Financial literacy missions in rural Indian schools",
+          "Financial Inclusion goals at the district level",
+          "Lead Bank responsibilities for regional growth"
+        ]
+      },
+      {
+        "chapter": "Social Audit of Credit",
+        "topics": [
+          "Social auditing of rural credit schemes at village",
+          "Transparency in the disbursement of farming credit",
+          "Grievance redressal for rural credit applicants",
+          "Role of Gram Sabha in identifying credit needs",
+          "Ethical practices in rural banking and collections"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Inclusion Schemes",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "PM Jan Dhan Yojana",
+        "topics": [
+          "Objectives, features and achievements of PMJDY",
+          "Zero balance accounts and RuPay card distribution",
+          "Impact of PMJDY on direct benefit transfers (DBT)",
+          "Overdraft facilities for Jan Dhan account users",
+          "Financial literacy as a component of the PMJDY"
+        ]
+      },
+      {
+        "chapter": "Agri and Farmer Schemes",
+        "topics": [
+          "PM-KISAN: Direct cash transfer to landholders",
+          "Kisan Credit Card: Eligibility and credit limits",
+          "Soil Health Card: Improving soil health and yield",
+          "Traditional Agri mission (Paramparagat Krishi)",
+          "Innovative agri-tech for farming modernization"
+        ]
+      },
+      {
+        "chapter": "Farming Insurance (PMFBY)",
+        "topics": [
+          "Pradhan Mantri Fasal Bima Yojana: Main features",
+          "Crop loss estimation using innovative technology",
+          "Premium support and claims settlement in PMFBY",
+          "Coverage of localized calamities and post-harvest",
+          "Digitization of land and insurance records system"
+        ]
+      },
+      {
+        "chapter": "Entrepreneurship (Mudra)",
+        "topics": [
+          "Mudra Yojana: Shishu, Kishore and Tarun loans",
+          "Stand-Up India: Empowering SC/ST and Women",
+          "Impact of micro-credit on rural entrepreneurship",
+          "Mudra cards for easy withdrawal and payments",
+          "Support for non-farm income activities in villages"
+        ]
+      },
+      {
+        "chapter": "Social Security Nets",
+        "topics": [
+          "PM Suraksha Bima Yojana: Life and accident cover",
+          "Atal Pension Yojana: Fixed pension for rural poor",
+          "PM Jeevan Jyoti Bima Yojana for village families",
+          "Universal health coverage for marginal farmers",
+          "Old age security missions for the rural vulnerable"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Movements and Justice",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Human Rights and Justice",
+        "topics": [
+          "Human Rights Commission and its functions India",
+          "Constitutional rights of SCs, STs and BCs help",
+          "Protective laws for weaker sections: Main acts",
+          "Legal recourse for victims of social injustice",
+          "Rights of children in the Indian constitution"
+        ]
+      },
+      {
+        "chapter": "Girl Child Welfare",
+        "topics": [
+          "Beti Bachao, Beti Padhao: Mission and its targets",
+          "Schemes for the nutrition and health of girls",
+          "Sukanya Samriddhi Yojana: Small savings for girls",
+          "Educating daughters in rural India: Success stories",
+          "Protecting girls from social malpractices results"
+        ]
+      },
+      {
+        "chapter": "Administrative Ethics in ARD",
+        "topics": [
+          "Code of conduct for the rural development staff",
+          "Ethics of social justice in administrative choices",
+          "Transparency and accountability in welfare tasks",
+          "Conflict of interest in developmental decisioning",
+          "Whistleblower policy in rural govt organizations"
+        ]
+      },
+      {
+        "chapter": "Land and Environmental Movements",
+        "topics": [
+          "Bhoodan and Gramdan movements: History and results",
+          "Chipko and other environmental movements in India",
+          "Movements for tribal land rights and conservation",
+          "Role of NGOs in environmental justice missions",
+          "People's movements for sustainable water usage"
+        ]
+      },
+      {
+        "chapter": "Youth and Labor Movements",
+        "topics": [
+          "History of labor movements in Indian industries",
+          "Upliftment of the unorganized workforce missions",
+          "Skill India mission as a tool for youth justice",
+          "Youth movements for quality education in villages",
+          "Role of youth in developmental banking missions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Agri Ecology and Climate Change",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sustainability and Bio-farming",
+        "topics": [
+          "Principles of Organic farming and its benefits",
+          "Bio-fertilizers and bio-pesticides application",
+          "Paramparagat Krishi Vikas Yojana (Agri mission)",
+          "Sustainable water use (Drip/Sprinkler) methods",
+          "Integrated Pest Management (IPM) for ecology"
+        ]
+      },
+      {
+        "chapter": "Global Warming and Crops",
+        "topics": [
+          "Impact of rising temperatures on crop physiology",
+          "Changing rainfall patterns and drought management",
+          "Adapting to climate change in rain-fed farming",
+          "Resilient crop varieties Development for India",
+          "Carbon footprint reduction of the farming sector"
+        ]
+      },
+      {
+        "chapter": "Green Revolution consequences",
+        "topics": [
+          "History of Green Revolution in North-West India",
+          "Impact on food security and self-sufficiency results",
+          "Soil degradation and groundwater depletion lessons",
+          "Shift towards evergreen revolution and bio-safety",
+          "Lesser-known crops (Millets) and nutri-cereals focus"
+        ]
+      },
+      {
+        "chapter": "Forestry and Bio-diversity",
+        "topics": [
+          "National Agro-forestry Policy goals and features",
+          "Afforestation and reforestation missions in India",
+          "Conservation of bio-diversity in rural landscapes",
+          "Wildlife protection Act and community involvement",
+          "Medicinal plant cultivation as a rural livelihood"
+        ]
+      },
+      {
+        "chapter": "Energy and Waste in Agri",
+        "topics": [
+          "Renewable energy (Solar/Biogas) use in villages",
+          "Management of agricultural waste and stubbles",
+          "Turning agri-waste into bio-energy (Pellets/Gas)",
+          "Composting and vermicomposting at the farm level",
+          "Reducing post-harvest losses through eco-methods"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economic Growth and Global Trends",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Global Economic Reports",
+        "topics": [
+          "World Development Report highlights for India",
+          "IMF World Economic Outlook and Growth projections",
+          "Global poverty indices and India's position results",
+          "Ease of Doing Business status across countries",
+          "UNCTAD reports on global trade and FDI trends"
+        ]
+      },
+      {
+        "chapter": "Trade and BoP",
+        "topics": [
+          "Balance of Payments (BoP) and exchange rate logic",
+          "Current vs Capital Account: Components of BoP",
+          "International trade agreements: WTO and G20 roles",
+          "Foreign trade policy of India and exports summary",
+          "Impact of global trade disputes on Indian Agri"
+        ]
+      },
+      {
+        "chapter": "UN Sustainable Dev Goals",
+        "topics": [
+          "The 17 SDGs to be achieved by the year 2030",
+          "India's progress on poverty (SDG 1) and hunger",
+          "Climate action and gender equality global results",
+          "Monitoring sustainable development through NITI",
+          "Partnerships for international developmental goals"
+        ]
+      },
+      {
+        "chapter": "FDI and Financial Trends",
+        "topics": [
+          "FDI and FPI influx in the multi-sector economy",
+          "Management of foreign exchange reserves by RBI",
+          "Global stock market trends and local Indian impact",
+          "Economic relations with neighbor countries trading",
+          "Resilience to global economic shocks in India"
+        ]
+      },
+      {
+        "chapter": "Global Welfare and Inclusion",
+        "topics": [
+          "International cooperation for primary healthcare",
+          "Global literacy and gender parity reports history",
+          "Human Development Index (HDI) reports summary",
+          "Global peace and social security indicators status",
+          "Sustainable urban development global mission plans"
+        ]
+      }
+    ]
+  }
+]

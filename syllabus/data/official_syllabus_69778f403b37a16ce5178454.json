@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Legal Research Methodology and Writing",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Legal Research Basics and Process",
+        "topics": [
+          "Meaning, objectives, and importance of research in law",
+          "Types of legal research: Descriptive, Analytical, and Explanatory",
+          "Formulation of a research topic and problem identification",
+          "Literary survey and review of previous research",
+          "Developing a research plan and schedule"
+        ]
+      },
+      {
+        "chapter": "Research Design and Hypothesis Testing",
+        "topics": [
+          "Meaning and components of research design",
+          "Exploratory and conclusive research designs",
+          "Formulation and characteristics of a good hypothesis",
+          "Types of hypotheses: Null and Alternative",
+          "Methods of testing hypotheses in legal studies"
+        ]
+      },
+      {
+        "chapter": "Data Collection Methods in Legal Research",
+        "topics": [
+          "Doctrinal research: Sources and methodologies",
+          "Empirical (Non-doctrinal) research: Significance and process",
+          "Tools of data collection: Observation, Interview, and Questionnaire",
+          "Sampling techniques in legal research",
+          "Use of technology and online legal databases"
+        ]
+      },
+      {
+        "chapter": "Legal Writing and Citation Style",
+        "topics": [
+          "Essentials of clear and effective legal writing",
+          "The Bluebook and other international citation standards",
+          "Drafting of research papers for law journals",
+          "Preparing case comments and book reviews",
+          "Structuring arguments and legal reasoning"
+        ]
+      },
+      {
+        "chapter": "Dissertation Writing and Publication Ethics",
+        "topics": [
+          "Format and structure of an LLM dissertation",
+          "Plagiarism and its legal and ethical implications",
+          "Role of peer review in legal publication",
+          "Protecting participant confidentiality in empirical studies",
+          "Dissemination and presentation of research findings"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Comparative Public Law and Governance",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Comparative Constitutional Law and Federalism",
+        "topics": [
+          "Concept and evolution of comparative constitutionalism",
+          "Federal vs Unitary systems: A comparative study",
+          "Models of federalism: USA, Canada, and India",
+          "Distribution of powers in federal structures",
+          "Centripetal and centrifugal forces in governance"
+        ]
+      },
+      {
+        "chapter": "Separation of Powers and Judicial Review",
+        "topics": [
+          "Doctrine of separation of powers and its global variations",
+          "Independence of judiciary: Provisions and challenges",
+          "Comparative study of judicial review: Marbury v Madison vs Indian experience",
+          "Constitutional courts vs Ordinary courts of law",
+          "Public Interest Litigation (PIL) in a comparative context"
+        ]
+      },
+      {
+        "chapter": "Rule of Law and Fundamental Rights",
+        "topics": [
+          "Dicey's concept vs Modern Rule of Law (World Justice Project)",
+          "Comparative study of Bill of Rights (USA) and Fundamental Rights (India)",
+          "Protection of human rights under international and national laws",
+          "Limits on fundamental rights: A comparative analysis",
+          "Emerging rights: Privacy, Digital rights, and Environment"
+        ]
+      },
+      {
+        "chapter": "Ombudsman and Administrative Justice",
+        "topics": [
+          "Institution of Ombudsman: Evolution and global models",
+          "Lokpal and Lokayukta in India: Legal framework and effectiveness",
+          "Principles of natural justice and fair hearing",
+          "Administrative tribunals vs Regular courts",
+          "Liability of government in contract and tort: Comparative view"
+        ]
+      },
+      {
+        "chapter": "Comparative Election Laws and Accountability",
+        "topics": [
+          "Election commissions and their independence (India vs USA)",
+          "Voter rights and representation models",
+          "Political party funding and financial transparency",
+          "Recall and Referendum mechanisms in different jurisdictions",
+          "Accountability of elected representatives: Legal and ethical"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Law and Justice in a Globalized World",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Globalization and its Impact on Sovereignty",
+        "topics": [
+          "Concept and dimensions of globalization",
+          "Changing nature of state sovereignty",
+          "Role of non-state actors in global governance",
+          "Impact of international treaties on national law-making",
+          "Sovereign immunity in a globalized era"
+        ]
+      },
+      {
+        "chapter": "Human Rights in a Globalized World",
+        "topics": [
+          "Universal Declaration of Human Rights (UDHR)",
+          "Regional human rights mechanisms (European, American, African)",
+          "Transnational corporations and human rights obligations",
+          "Enforcement of international human rights through domestic courts",
+          "Globalization and indigenous rights"
+        ]
+      },
+      {
+        "chapter": "Global Justice and Sustainable Development",
+        "topics": [
+          "Theories of global justice (Rawls vs Sen)",
+          "Sustainable Development Goals (SDGs) and legal framework",
+          "Climate justice and international environmental agreements",
+          "Global health law and access to medicines",
+          "Poverty alleviation and institutional responsibility"
+        ]
+      },
+      {
+        "chapter": "Transnational Crimes and Legal Responses",
+        "topics": [
+          "Nature and scope of transnational organized crime",
+          "Global efforts against terrorism and financial crime",
+          "Extradition and mutual legal assistance treaties",
+          "International Criminal Court (ICC) and its jurisdiction",
+          "Cybercrimes as a global challenge"
+        ]
+      },
+      {
+        "chapter": "Multi-culturalism and Legal Pluralism",
+        "topics": [
+          "Diversity and the challenge of legal uniformism",
+          "Protection of minority rights in a globalized society",
+          "Customary laws and their status in national legal systems",
+          "Conflict of laws in cross-border family and civil disputes",
+          "Towards a global legal culture: Possibilities and risks"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Company Law and Incorporation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Corporate Personality and Liability",
+        "topics": [
+          "Separate legal entity vs Lifting of the corporate veil",
+          "The Salomons case and its modern interpretations",
+          "Criminal and tortious liability of corporations",
+          "Classification of companies: Private, Public, and OPC",
+          "Exemptions and privileges for small and start-up companies"
+        ]
+      },
+      {
+        "chapter": "Incorporation and Compliance",
+        "topics": [
+          "Promotion and promoters: Legal duties and liabilities",
+          "Memorandum and Articles of Association: Alteration and impact",
+          "Doctrine of Ultra Vires, Constructive Notice, and Indoor Management",
+          "Pre-incorporation contracts and provisional contracts",
+          "Post-incorporation filings and statutory registers"
+        ]
+      },
+      {
+        "chapter": "Management: Directors and Meetings",
+        "topics": [
+          "Appointment, removal, and qualification of directors",
+          "Fiduciary duties and liabilities of directors",
+          "Role and independence of the Board of Directors",
+          "Types of general meetings and quorum requirements",
+          "Resolutions and voting mechanisms through electronic means"
+        ]
+      },
+      {
+        "chapter": "Oppression, Mismanagement, and Class Action",
+        "topics": [
+          "Protection of minority shareholders' rights",
+          "Grounds for relief against oppression and mismanagement",
+          "Powers of the NCLT in corporate disputes",
+          "Class action suits: Scope and procedure",
+          "Prevention of mismanagement and internal controls"
+        ]
+      },
+      {
+        "chapter": "Winding Up and Liquidation Procedures",
+        "topics": [
+          "Modes of winding up under the Companies Act",
+          "Compulsory winding up by the Tribunal",
+          "Powers and duties of the Official Liquidator",
+          "Distribution of assets and preferential payments",
+          "Dissolution of companies and restoration to register"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Corporate Governance and Ethics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Evolution and Principles of Governance",
+        "topics": [
+          "Concept and importance of corporate governance",
+          "Global models: Anglo-American vs Continental",
+          "Committees: Kadbury, Greenbury, Hampel, and Kotak",
+          "OECD principles of corporate governance",
+          "Shareholder vs Stakeholder value theories"
+        ]
+      },
+      {
+        "chapter": "Board Composition and Independent Directors",
+        "topics": [
+          "Role of the Board of Directors in strategic decision making",
+          "Definition and criteria for independence of directors",
+          "Committees of the board: Nomination, Remuneration, and Risk",
+          "Evaluation of board performance and succession planning",
+          "Separation of Chairman and CEO roles"
+        ]
+      },
+      {
+        "chapter": "Audit Committees and Transparency",
+        "topics": [
+          "Role and responsibilities of the Audit Committee",
+          "Internal and external audits: Effectiveness and independence",
+          "Related party transactions: Disclosure and approval",
+          "Financial reporting standards and transparency",
+          "Management Discussion and Analysis (MD&A) reports"
+        ]
+      },
+      {
+        "chapter": "Corporate Social Responsibility and ESG",
+        "topics": [
+          "Mandatory CSR in India: Section 135 and Rules",
+          "Environmental, Social, and Governance (ESG) frameworks",
+          "Sustainable reporting and integrated reporting",
+          "Philanthropy vs Strategic CSR",
+          "Corporate activism and environmental accountability"
+        ]
+      },
+      {
+        "chapter": "Business Ethics and Whistleblowing",
+        "topics": [
+          "Codes of ethics and professional conduct in corporations",
+          "Vigil mechanism/Whistleblowing: Protection and process",
+          "Corporate culture and ethical leadership",
+          "Managing conflicts of interest at the board level",
+          "Social audits and ethical branding"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Securities Regulation and Capital Markets",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Regulatory Framework (SEBI)",
+        "topics": [
+          "Object and constitution of SEBI",
+          "Regulatory and developmental powers of SEBI",
+          "Appellate jurisdiction: Securities Appellate Tribunal (SAT)",
+          "The Securities Contracts (Regulation) Act and Rules",
+          "Depositories Act and dematerialization of securities"
+        ]
+      },
+      {
+        "chapter": "Public Offerings and Listing",
+        "topics": [
+          "Initial Public Offering (IPO) and Further Public Offer (FPO)",
+          "Eligibility and disclosure standards under ICDR regulations",
+          "Listing Agreements and Continuous Listing Requirements",
+          "Rights Issue and Bonus Issue regulations",
+          "Delisting of securities: Voluntary and compulsory"
+        ]
+      },
+      {
+        "chapter": "Market Intermediaries and Regulation",
+        "topics": [
+          "Registration and conduct of stockbrokers",
+          "Role of Merchant Bankers in issue management",
+          "Regulation of Credit Rating Agencies",
+          "Portfolio Managers and Custodians",
+          "Asset Management Companies (AMCs) and Mutual Funds"
+        ]
+      },
+      {
+        "chapter": "Insider Trading and Manipulation",
+        "topics": [
+          "Prohibition of Insider Trading (PIT) regulations",
+          "Definition of UPSI andconnected persons",
+          "Unfair trade practices and market manipulation rules",
+          "Front-running and algorithmic trading risks",
+          "Powers of investigation and search under SEBI"
+        ]
+      },
+      {
+        "chapter": "Investor Protection and Grievance",
+        "topics": [
+          "Investor Protection Fund of stock exchanges",
+          "SEBI Complaints Redress System (SCORES)",
+          "Investor education and awareness initiatives",
+          "Protection of retail investors in public issues",
+          "Civil and criminal penalties for securities fraud"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mergers, Acquisitions, and Corporate Restructuring",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Legal Framework of M&A",
+        "topics": [
+          "Meaning and types of corporate restructuring",
+          "Scheme of Arrangement (Sections 230-232): Process and sanctions",
+          "Demergers and spin-offs: Judicial trends",
+          "Amalgamations in the public interest",
+          "Fast-track mergers under the Companies Act"
+        ]
+      },
+      {
+        "chapter": "Takeover Regulations and Strategies",
+        "topics": [
+          "SEBI (Substantial Acquisition of Shares and Takeovers) Regulations",
+          "Trigger points and mandatory open offer obligations",
+          "Hostile takeovers and anti-takeover defenses (Poison pills)",
+          "Conditional and voluntary offers",
+          "Exemptions from open offer requirements"
+        ]
+      },
+      {
+        "chapter": "Due Diligence and Valuation in Restructuring",
+        "topics": [
+          "Process and importance of legal due diligence",
+          "Financial and tax due diligence essentials",
+          "Valuation methods: Asset-based, Earning-based, and Market-based",
+          "Role of registered valuers and fairness opinions",
+          "Identifying contingent liabilities and operational risks"
+        ]
+      },
+      {
+        "chapter": "Tax and Stamp Duty Aspects",
+        "topics": [
+          "Tax neutral mergers and carry forward of losses",
+          "Capital gains implications in demergers",
+          "Stamp duty on court-sanctioned schemes",
+          "FDI in M&A: Sectoral caps and approval process",
+          "Competition law thresholds for combinations"
+        ]
+      },
+      {
+        "chapter": "Post-Merger Integration and Cross-Border",
+        "topics": [
+          "Inbound and Outbound mergers: Legal challenges",
+          "Regulation of cross-border acquisitions (FEMA)",
+          "Cultural and human resource integration post-merger",
+          "Governance and compliance in merged entities",
+          "Dispute resolution in M&A transactions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Competition Law and Consumer Protection",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Anti-Competitive Agreements and Cartels",
+        "topics": [
+          "Horizontal and vertical agreements: Per Se vs Rule of Reason",
+          "Prohibition of cartels and price fixing",
+          "Tie-in arrangements and exclusive supply agreements",
+          "Leniency programs and dawn raids in competition law",
+          "Standard essential patents (SEPs) and competition"
+        ]
+      },
+      {
+        "chapter": "Abuse of Dominant Position",
+        "topics": [
+          "Relevant market definition: Product and Geographic",
+          "Determining dominance in the market",
+          "Predatory pricing and discriminatory conditions",
+          "Refusal to deal and essential facility doctrine",
+          "Exploitative vs Exclusionary abuses"
+        ]
+      },
+      {
+        "chapter": "Regulation of Combinations",
+        "topics": [
+          "Thresholds for notification of mergers/acquisitions",
+          "The 'Standard' vs 'Fast Track' review by CCI",
+          "Gun-jumping and its penalties",
+          "Appreciable Adverse Effect on Competition (AAEC) test",
+          "Exceptions: De-minimis and Target exemptions"
+        ]
+      },
+      {
+        "chapter": "CCI and Enforcement",
+        "topics": [
+          "Structure and powers of the Competition Commission of India",
+          "Role and investigative powers of the Director General (DG)",
+          "Adjudicatory process and penalties for violations",
+          "Compensation for victims of anti-competitive practices",
+          "National Company Law Appellate Tribunal (NCLAT) jurisdiction"
+        ]
+      },
+      {
+        "chapter": "Consumer Protection in Corporate Context",
+        "topics": [
+          "Definition of consumer and rights under the 2019 Act",
+          "Unfair and restrictive trade practices",
+          "Liability of manufacturers and sellers for defective products",
+          "Consumer protection in E-commerce and digital services",
+          "Mediation and consumer dispute redressal commissions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Banking, Insurance, and Financial Institutions Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Central Banking and RBI's Role",
+        "topics": [
+          "Constitutional and legal status of RBI",
+          "RBI as a regulator of banking and payment systems",
+          "Monetary policy tools and their legal basis",
+          "Licensing and regulation of new-age banks (Small Finance, Payment)",
+          "Powers of inspection and directions to banks"
+        ]
+      },
+      {
+        "chapter": "Commercial Banking and Lending Laws",
+        "topics": [
+          "Forms of lending: Loans, Overdrafts, and Cash Credit",
+          "Secured vs Unsecured credit and prioritisation",
+          "Regulation of Non-Performing Assets (NPAs)",
+          "Banker-Customer relationship and confidentiality",
+          "Consortium lending and inter-creditor agreements"
+        ]
+      },
+      {
+        "chapter": "Regulation of Insurance Sector (IRDAI)",
+        "topics": [
+          "Legal framework for Life and General insurance",
+          "Licensing and solvency norms for insurance companies",
+          "Protection of policyholders' interests (IRDAI Regulations)",
+          "Reinsurance and global risk management",
+          "Ombudsman for insurance: Jurisdiction and powers"
+        ]
+      },
+      {
+        "chapter": "NBFCs and Microfinance",
+        "topics": [
+          "Classification of NBFCs: Systematic vs Non-systematic",
+          "Regulation of NBFC-MFIs and shadow banking",
+          "Peer-to-Peer (P2P) lending regulations",
+          "Deposit-taking vs Non-deposit-taking entities",
+          "Securitisation and reconstruction of financial assets"
+        ]
+      },
+      {
+        "chapter": "Electronic Banking and Cyber Risks",
+        "topics": [
+          "Legal status of digital payments and UPI",
+          "Regulation of payment gateways and aggregators",
+          "Information security and data sovereignty in banking",
+          "Liability for unauthorized electronic transactions",
+          "KYC/AML regulations and digital onboarding"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Insolvency and Bankruptcy Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Corporate Insolvency Resolution Process (CIRP)",
+        "topics": [
+          "Evolution of the IBC and its overarching objectives",
+          "Triggering CIRP: Financial vs Operational creditors",
+          "Admission process and the role of Adjudicating Authority (NCLT)",
+          "Moratorium and its legal consequences",
+          "Committee of Creditors (CoC): Constitution and voting"
+        ]
+      },
+      {
+        "chapter": "Insolvency Professionals and Liquidators",
+        "topics": [
+          "Role and duties of the Interim Resolution Professional (IRP)",
+          "Code of conduct for Insolvency Professionals",
+          "Professional fees and ethical standards",
+          "Powers and appointment of the Liquidator",
+          "Interim management of the corporate debtor"
+        ]
+      },
+      {
+        "chapter": "Resolution Plan and Distribution",
+        "topics": [
+          "Preparation and approval of information memorandum",
+          "Mandatory contents and feasibility of resolution plans",
+          "Waterfall mechanism for distribution of assets",
+          "Treatment of dissenting creditors and workers' dues",
+          "Final approval by NCLT and its binding effect"
+        ]
+      },
+      {
+        "chapter": "Fast-Track and Pre-packaged Insolvency",
+        "topics": [
+          "Simplified process for MSMEs and small companies",
+          "Pre-packaged insolvency vs Traditional CIRP",
+          "Timelines and benefits of fast-track mechanisms",
+          "Roles of stakeholders in pre-packaged resolutions",
+          "Challenges in implementation of shorter timelines"
+        ]
+      },
+      {
+        "chapter": "Cross-Border and Personal Guarantors",
+        "topics": [
+          "UNCITRAL model law and cross-border insolvency",
+          "Insolvency of personal guarantors to corporate debtors",
+          "Group insolvency: Emerging trends and challenges",
+          "Information utility and its role in proof of debt",
+          "IBBI: Powers, functions, and regulatory role"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Corporate Finance and Investment Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Capital Structure and Financing",
+        "topics": [
+          "Legal aspects of equity vs debt financing",
+          "Issuance of debentures and charge creation",
+          "Alteration and reduction of share capital",
+          "Buy-back of shares: Conditions and process",
+          "Inter-corporate loans and investments under Section 186"
+        ]
+      },
+      {
+        "chapter": "Foreign Direct Investment (FDI) Policy",
+        "topics": [
+          "Automatic vs Approval route in FDI",
+          "Sectoral caps and restricted sectors",
+          "Pricing guidelines and reporting under FEMA",
+          "FDI in e-commerce and retail sectors",
+          "Press Notes and their legal status in investment"
+        ]
+      },
+      {
+        "chapter": "Portfolio Investment and FII/FPI",
+        "topics": [
+          "FPI regulations: Categories and registration",
+          "Investment limits for foreign institutional investors",
+          "KYC and reporting requirements for FPIs",
+          "Offshore Derivative Instruments (ODIs) and P-Notes",
+          "Taxation of capital gains for foreign investors"
+        ]
+      },
+      {
+        "chapter": "Venture Capital and Private Equity",
+        "topics": [
+          "Regulation of Alternative Investment Funds (AIF)",
+          "Structure of VC and PE deals: Terms sheets and agreements",
+          "Exit strategies: IPO, Buy-back, and Secondary sale",
+          "Governance and oversight in PE-backed firms",
+          "Angel tax and its impact on startups"
+        ]
+      },
+      {
+        "chapter": "Financial Derivatives and Risk Management",
+        "topics": [
+          "Legal framework for futures, options, and swaps",
+          "Regulation of over-the-counter (OTC) vs exchange-traded",
+          "Corporate hedging policies and legal compliance",
+          "ISDA Master Agreements and standardization",
+          "Systemic risk and financial stability regulations"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Intellectual Property Rights in Business",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "IPR Strategies for Corporate Assets",
+        "topics": [
+          "Concept of intellectual capital in the corporate sector",
+          "IPR auditing and valuation for business",
+          "IPR policy for startups and small enterprises",
+          "Enforcement strategies and civil/criminal remedies",
+          "Commercialization of IPR through licensing and assignment"
+        ]
+      },
+      {
+        "chapter": "Patent Protection and Innovation",
+        "topics": [
+          "Patentability criteria: Novelty, Utility, and Inventive step",
+          "Process of filing and prosecution of patents",
+          "Patent management in pharmaceutical and tech sectors",
+          "Compulsory licensing and Bolar exemption",
+          "Infringement and revocation of patents"
+        ]
+      },
+      {
+        "chapter": "Trademark, Branding, and Passing Off",
+        "topics": [
+          "Registration and protection of unconventional trademarks",
+          "Brand licensing and franchising agreements",
+          "Trademark infringement and the doctrine of dilution",
+          "Passing off vs Trademark infringement",
+          "Domain name disputes and UDRP"
+        ]
+      },
+      {
+        "chapter": "Copyright and Digital Protection",
+        "topics": [
+          "Copyright protection for software and databases",
+          "Social media and liability of intermediaries",
+          "Digital Millennium Copyright Act (DMCA) vs Indian law",
+          "Fair use doctrine in a corporate/educational context",
+          "Moral rights vs Economic rights of the author"
+        ]
+      },
+      {
+        "chapter": "Trade Secrets and Confidentiality",
+        "topics": [
+          "Legal protection of trade secrets in India and globally",
+          "Confidentiality clauses in employment and vendor contracts",
+          "Non-disclosure agreements (NDAs): Drafting and enforcement",
+          "Non-compete clauses: Validity and enforceability",
+          "Trade secret misappropriation and remedies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Trade and Economic Law",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "WTO Agreements and Trade Policy",
+        "topics": [
+          "Structure and functions of the WTO",
+          "GATT principles: Most Favoured Nation and National Treatment",
+          "Agreement on TRIPS and GATS in international trade",
+          "Trade facilitation and non-tariff barriers",
+          "Doha Development Agenda and emerging issues"
+        ]
+      },
+      {
+        "chapter": "Trade Remedial Measures",
+        "topics": [
+          "Anti-dumping duties: Investigation and imposition",
+          "Countervailing duties against subsidies",
+          "Safeguard measures for domestic industry protection",
+          "Customs valuation and classification principles",
+          "Foreign Trade Policy of India and export incentives"
+        ]
+      },
+      {
+        "chapter": "International Investment Arbitration",
+        "topics": [
+          "Bilateral Investment Treaties (BITs): Protection and standards",
+          "Investor-State Dispute Settlement (ISDS) mechanism",
+          "Role of ICSID and the New York Convention",
+          "Enforcement of foreign arbitral awards",
+          "Sovereign right to regulate vs Investment protection"
+        ]
+      },
+      {
+        "chapter": "Regulation of International Sales (CISG)",
+        "topics": [
+          "Scope and application of the Vienna Convention",
+          "Formation of international sales contracts",
+          "Rights and obligations of buyers and sellers",
+          "Incoterms 2020 and risk allocation in shipping",
+          "Letters of credit and international payment instruments"
+        ]
+      },
+      {
+        "chapter": "Global Economic Governance",
+        "topics": [
+          "Role of IMF and World Bank in global finance",
+          "Regional trade blocks: EU, USMCA, and RCEP",
+          "International sanctions and trade restrictions",
+          "Tax havens and global efforts against base erosion (BEPS)",
+          "Legal framework for international debt restructuring"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Corporate Taxation and Financial Regulation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Principles of Corporate Income Tax",
+        "topics": [
+          "Residential status and tax jurisdiction for companies",
+          "Computation of profits and gains from business",
+          "Minimum Alternate Tax (MAT) and tax incentives",
+          "Corporate tax planning vs tax avoidance and evasion",
+          "Dividend Distribution Tax and its abolition"
+        ]
+      },
+      {
+        "chapter": "Indirect Taxes and GST",
+        "topics": [
+          "Constitutional framework of GST in India",
+          "Supply of goods and services: Place and Time of supply",
+          "Input Tax Credit (ITC) mechanism for corporations",
+          "GST on import and export of services",
+          "Anti-profiteering and compliance audit under GST"
+        ]
+      },
+      {
+        "chapter": "International Taxation and Transfer Pricing",
+        "topics": [
+          "Double Taxation Avoidance Agreements (DTAA)",
+          "Arm's length principle and transfer pricing methods",
+          "Significant Economic Presence and Digital Services Tax",
+          "Permanent Establishment (PE) controversy",
+          "Advance Pricing Agreements (APA) and Safe Harbour Rules"
+        ]
+      },
+      {
+        "chapter": "Tax Disputes and Appeals",
+        "topics": [
+          "Assessment process and search/seizure powers",
+          "Appeals to CIT(A), ITAT, High Court, and Supreme Court",
+          "Tax settlement commission and dispute resolution panels",
+          "Settlement schemes and Vivaad Se Vishwas",
+          "Penalties and prosecutions under the Income Tax Act"
+        ]
+      },
+      {
+        "chapter": "Anti-tax Avoidance and Financial Regulation",
+        "topics": [
+          "General Anti-Avoidance Rules (GAAR) and their implementation",
+          "Prevention of Money Laundering Act (PMLA) and corporations",
+          "Black Money Act and foreign asset reporting",
+          "Regulation of Shell Companies and Beneficial Ownership",
+          "Financial Action Task Force (FATF) standards for corporate entities"
+        ]
+      }
+    ]
+  }
+]

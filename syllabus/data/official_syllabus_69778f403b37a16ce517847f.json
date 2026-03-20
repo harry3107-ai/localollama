@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "General Awareness (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Financial Awareness",
+        "topics": [
+          "Recent banking terminology and abbreviations",
+          "Reports and circulars from RBI and SEBI",
+          "Merger and acquisitions in Indian banks",
+          "Financial benchmarks: LIBOR, MIBOR trends",
+          "Statutory regulatory bodies and its heads"
+        ]
+      },
+      {
+        "chapter": "Static GK",
+        "topics": [
+          "National Parks and Wildlife Sanctuaries in India",
+          "Dams and Rivers of Indian states overview",
+          "Indian classical and folk dances by state",
+          "UNESCO World Heritage sites in India list",
+          "Important mountain peaks and passes in India"
+        ]
+      },
+      {
+        "chapter": "Govt Schemes and Missions",
+        "topics": [
+          "PM Jan Dhan Yojana (PMJDY) phase 3 updates",
+          "Ayushman Bharat: Health mission components",
+          "Social security nets: PMJJBY, PMSBY, APY",
+          "Skill India and Startup India missions status",
+          "Livelihood missions for rural and urban poor"
+        ]
+      },
+      {
+        "chapter": "Indices and Rankings",
+        "topics": [
+          "World Economic Forum (WEF) reports summary",
+          "Human Development Index (HDI) India ranking",
+          "Global Innovation and Intellectual Property indices",
+          "Ease of doing business: Indian state rankings",
+          "Financial Stability Report (FSR) by RBI results"
+        ]
+      },
+      {
+        "chapter": "Awards and Honors",
+        "topics": [
+          "Padma Awards and Bharat Ratna list (National)",
+          "Nobel Prizes and Oscar awards (International)",
+          "Sahitya Akademi and Jnanpith literary honors",
+          "Peace prizes and environmental ecology awards",
+          "Major sports awards: Khel Ratna and Arjuna"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Tense and Agreement",
+        "topics": [
+          "Rules of tense: Present, Past, Future usage",
+          "Subject-Verb agreement in complex lines",
+          "Sequence of tenses and conditionals usage",
+          "Identifying tense errors in narrative reporting",
+          "Perfect vs Progressive aspects for conjugation"
+        ]
+      },
+      {
+        "chapter": "Active/Passive and Narration",
+        "topics": [
+          "Rules for voice transformation across tenses",
+          "Active to passive voice conversion of text",
+          "Direct to indirect speech: Pronoun and tense change",
+          "Reporting interrogatives and imperatives in English",
+          "Identifying correct speech/voice from options"
+        ]
+      },
+      {
+        "chapter": "Articles and Prepositions",
+        "topics": [
+          "A, An, The: Definite and indefinite application",
+          "Fixed prepositions following specific verbs",
+          "Prepositions of Time, Place, and Direction",
+          "Correcting article and preposition usage in text",
+          "Omitting articles in specific sentence contexts"
+        ]
+      },
+      {
+        "chapter": "Vocabulary in Usage",
+        "topics": [
+          "Finding synonyms and antonyms in sentence context",
+          "Academic and financial vocabulary high-freq list",
+          "One-word substitution for complex phrases",
+          "Idioms and phrases: Figurative meanings analysis",
+          "Collocations: Word pairs that go together logic"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension",
+        "topics": [
+          "Identifying central ideas and titles of text",
+          "Reading and answering Socio-Economic themed pieces",
+          "Meaning of underlined words in a passage",
+          "Evaluating the author's tone and point of view",
+          "Summarizing the main points of the reading piece"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quantitative Aptitude (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simplification and Approximation",
+        "topics": [
+          "Applying BODMAS for multi-operator equations",
+          "Square and Cube root shortcuts for speed maths",
+          "Decimal to Fraction conversion for calculation",
+          "Rounding off values for approximation methods",
+          "Handling multi-variable equations for speed entry"
+        ]
+      },
+      {
+        "chapter": "Number Series",
+        "topics": [
+          "Finding the missing number in a numeric sequence",
+          "Identifying the wrong term in a given number series",
+          "Pattern analysis for arithmetic/geometric series",
+          "Difference of differences (Two-tier) logic series",
+          "Predicting the end-term of a non-linear series"
+        ]
+      },
+      {
+        "chapter": "Quadratic Equations",
+        "topics": [
+          "Finding roots of quadratic equations (X and Y)",
+          "Comparison of X and Y roots: Relationship finding",
+          "Solving quadratic equations using factorisation",
+          "Equations with larger coefficients and shortcuts",
+          "Linear vs Quadratic relationship comparisons"
+        ]
+      },
+      {
+        "chapter": "Ratio, Proportion and Average",
+        "topics": [
+          "Ratio scaling and sharing problems for three",
+          "Percentage: Basic calculation and changes on sum",
+          "Averages of numbers, age and weight for groups",
+          "Partnership: Investment and profit sharing ratio",
+          "Weighted mean calculations for complex sets"
+        ]
+      },
+      {
+        "chapter": "Time, Work and Distance",
+        "topics": [
+          "Time and Work basics: Individual and group tasks",
+          "Pipes and Cisterns: Tank filling and empty logic",
+          "Time, Speed and Distance: Basic relative speed",
+          "Boats and Streams: Upstream and downstream speed",
+          "Average speed calculation for simple intervals"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reasoning Ability (Phase I)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Linear and Circular Seating",
+        "topics": [
+          "Linear arrangement: Single row facing North/South",
+          "Parallel rows: Persons facing each other with variables",
+          "Circular seating: Facing center and away from center",
+          "Square table arrangement: Corner and middle seating",
+          "Uncertain number of persons in a linear row"
+        ]
+      },
+      {
+        "chapter": "Puzzles",
+        "topics": [
+          "Floor arrangement: Simple 7-10 floor structures",
+          "Box arrangement: Stacking boxes with color variables",
+          "Flat and Floor puzzles: Multi-variable location logic",
+          "Tabulation of days/months for appointments logic",
+          "Finding the topmost and bottommost entity in puzzles"
+        ]
+      },
+      {
+        "chapter": "Syllogism and Inequalities",
+        "topics": [
+          "Syllogism: 'Only' and 'Only-a-few' statements",
+          "Negative and possibility based conclusions in logic",
+          "Direct inequalities: A > B, C < D type links",
+          "Comparing roots and derived values of symbols",
+          "Coded inequalities: Deciphering symbol based links"
+        ]
+      },
+      {
+        "chapter": "Relative Reasoning",
+        "topics": [
+          "Blood relations family tree construction and logic",
+          "Direction sense: Basic navigate and position orientation",
+          "Distances and relative position calculation in sets",
+          "Shadow-based direction problems in reasoning",
+          "Ranking and order in a given queue logic"
+        ]
+      },
+      {
+        "chapter": "Alpha-Numeric and Coding",
+        "topics": [
+          "Alpha-Numeric and symbol series patterns logic",
+          "Finding the next element in a letter-symbol series",
+          "Preceded and followed condition based series questions",
+          "Removing a character and finding the middle element",
+          "Simple coding-decoding: Word to word substitution"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economic and Social Issues (Phase II)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Growth and Development in India",
+        "topics": [
+          "Measuring growth: GDP, GNP and national income",
+          "Human Development Index: India's growth and gaps",
+          "Indian planning: Five-Year Plans to NITI Aayog",
+          "Features of the Indian economy and structural shifts",
+          "The demographic dividend: Inclusion and development"
+        ]
+      },
+      {
+        "chapter": "Poverty and Unemployment",
+        "topics": [
+          "Measuring poverty: Multi-dimensional Poverty Index",
+          "Government schemes for poverty alleviation in India",
+          "Types and causes of unemployment in rural and urban",
+          "MGNREGA and employment generation programs status",
+          "Financial inclusion as a tool for social justice"
+        ]
+      },
+      {
+        "chapter": "Sustainable Development",
+        "topics": [
+          "Concept of sustainable development and Green GDP",
+          "UN Sustainable Development Goals (SDGs) by 2030",
+          "Environmental pollution and Indian regulations summary",
+          "Climate Change: Global summits (COP) and India's role",
+          "Biodiversity conservation and nature missions in India"
+        ]
+      },
+      {
+        "chapter": "Social Movements and Justice",
+        "topics": [
+          "Women's empowerment and workforce participation gaps",
+          "Rights and welfare of Scheduled Castes and Tribes",
+          "Child rights and protection missions in India",
+          "Upliftment of minorities and social cohesion trends",
+          "Human rights and constitutional provisions in India"
+        ]
+      },
+      {
+        "chapter": "Economic Reforms since 1991",
+        "topics": [
+          "LPG: Liberalisation, Privatisation and Globalisation",
+          "Banking sector reforms and Narasimham committee",
+          "Disinvestment and the role of Public sector in India",
+          "Export-Import policy and Foreign trade dynamics",
+          "Capital Account Convertibility (CAC) debate in India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial System (Phase II)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Financial Markets: Capital and Money",
+        "topics": [
+          "Money Market: T-bills, CP, CD and Call money",
+          "Capital Market: Primary vs Secondary and IPOs",
+          "Stock Exchanges: Roles and functions of BSE and NSE",
+          "Bonds and Debentures: Features for large investors",
+          "Role of Credit Rating Agencies in India: CRISIL, ICRA"
+        ]
+      },
+      {
+        "chapter": "Regulatory Bodies and Roles",
+        "topics": [
+          "RBI as a regulator and supervisor of financial sector",
+          "SEBI: Regulation of the stock market and investors",
+          "IRDAI: Insurance sector oversight and policy norms",
+          "PFRDA: Pension fund regulation and schemes (NPS)",
+          "Financial Stability and Development Council (FSDC)"
+        ]
+      },
+      {
+        "chapter": "Banking Technology and Fintech",
+        "topics": [
+          "Digital Banking: NEFT, RTGS, IMPS, UPI and USSD",
+          "Fintech: Peer-to-peer lending and digital wallet trends",
+          "Blockchain and Cryptocurrencies: Risks and regulatory view",
+          "Cybersecurity in banking: Protecting from phishing/malware",
+          "E-wallets and online secure payment gateway methods"
+        ]
+      },
+      {
+        "chapter": "Banking Awareness and Regulation",
+        "topics": [
+          "History and Evolution of banking in India summary",
+          "Banking Regulation Act and RBI Act: Main provisions",
+          "Basel III norms: Capital and risk management framework",
+          "NPA management: Provisioning and SARFAESI Act legal",
+          "Prompt Corrective Action (PCA) and banking stability"
+        ]
+      },
+      {
+        "chapter": "Financial Inclusion mission",
+        "topics": [
+          "PM Jan Dhan Yojana goals and recent achievements",
+          "Payment Banks and Small Finance Banks role in inclusion",
+          "Microfinance institutions: Growth and regulation in India",
+          "Priority Sector Lending (PSL) specialized targets",
+          "Rural credit and Lead Bank scheme in Indian districts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Financial Management (Phase II)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Financial Statements Analysis",
+        "topics": [
+          "Understanding Balance Sheet parts: Assets and Liabilities",
+          "The Profit and Loss (P&L) statement construction",
+          "Cash Flow Statement: Operating, Investing and Financing",
+          "Financial Ratio analysis: Liquidity and Solvency",
+          "Profitability and Efficiency ratios in company finance"
+        ]
+      },
+      {
+        "chapter": "Capital Budgeting",
+        "topics": [
+          "Introduction to capital budgeting and long-term plans",
+          "Net Present Value (NPV) and IRR appraisal methods",
+          "Payback period and Accounting Rate of Return (ARR)",
+          "Risk analysis in capital budgeting and simulations",
+          "Weighted Average Cost of Capital (WACC) basics"
+        ]
+      },
+      {
+        "chapter": "Risk management in Finance",
+        "topics": [
+          "Types of financial risks: Market, Credit and Operational",
+          "Hedging techniques using Derivatives: Futures and Opt",
+          "Value at Risk (VaR) concept and monitoring logic",
+          "Liquidity risk management in banking/corporate units",
+          "Stress testing and contingency planning for shocks"
+        ]
+      },
+      {
+        "chapter": "Corporate Governance and Ethics",
+        "topics": [
+          "Concept and importance of Corporate Governance",
+          "Ethics in business and administrative decision making",
+          "Whistleblower policies and protection for employees",
+          "Transparency and accountability in financial units",
+          "Role of the Board of Directors and auditors in India"
+        ]
+      },
+      {
+        "chapter": "International Financial Management",
+        "topics": [
+          "Foreign exchange market history and determinations",
+          "Managing exchange rate risk for global transactions",
+          "International capital markets: ADRs and GDRs concepts",
+          "External Commercial Borrowings (ECB) norms in India",
+          "Foreign trade finance: Letter of Credit and Guarantees"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Management Theory (Phase II)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Evolution of Management Theory",
+        "topics": [
+          "Classical Schools: Taylor's Scientific Management",
+          "Administrative Management: Henry Fayol's 14 principles",
+          "Max Weber's Bureaucracy and its contemporary use",
+          "Human Relations School: Elton Mayo's Hawthorne studies",
+          "Modern Management: Contingency and Systems approaches"
+        ]
+      },
+      {
+        "chapter": "Leadership and Styles",
+        "topics": [
+          "Autocratic, Democratic and Laissez-faire leadership styles",
+          "Transactional vs Transformational leadership theories",
+          "Trait and Behavioral theories of effective leadership",
+          "Leader-Member Exchange (LMX) theory basic overview",
+          "Situational leadership model and its applications"
+        ]
+      },
+      {
+        "chapter": "Motivation and Behavior",
+        "topics": [
+          "Maslow's Hierarchy of Needs and its critiques",
+          "Herzberg's Two-Factor theory of job satisfaction",
+          "McClelland's Theory of Needs and Achievement motive",
+          "Reinforcement theory and its role in employee behavior",
+          "Goal-setting theory and job design for motivation"
+        ]
+      },
+      {
+        "chapter": "Communication in Organisations",
+        "topics": [
+          "The communication process and its main components",
+          "Barriers to effective communication in formal units",
+          "Formal vs Informal communication: Grapevine dynamics",
+          "Cross-cultural and non-verbal communication basics",
+          "E-communication and digital etiquette for managers"
+        ]
+      },
+      {
+        "chapter": "HR Transformation and Conflict",
+        "topics": [
+          "Evolution of Personnel Management into HRM/HRD",
+          "Performance appraisal and feedback mechanisms in India",
+          "Conflict Management: Types and resolution techniques",
+          "Negotiation and Collective Bargaining in workplaces",
+          "Organisational Change: Kotter's model and Lewin's theory"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Writing (Phase II)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Descriptive Essay writing",
+        "topics": [
+          "Structure of a professional essay: Intro to Conclusion",
+          "Essay on contemporary Socio-Economic Indian themes",
+          "Technological and Digital themes for banking essays",
+          "Argumentative vs Narrative essay writing styles",
+          "Title selection and theme adherence in descriptive writing"
+        ]
+      },
+      {
+        "chapter": "Precis Writing and Summarization",
+        "topics": [
+          "Drafting a precis: One-third of original length rule",
+          "Summarising long text into a compact executive summary",
+          "Title selection and maintaining coherence in precis",
+          "Identifying the main vs secondary points in a passage",
+          "Drafting formal reports on administrative news trends"
+        ]
+      },
+      {
+        "chapter": "Complex Reading Comprehension",
+        "topics": [
+          "Phase II Reading: Theme, Inference and Logic checks",
+          "Evaluating the author's tone in economic and news art",
+          "Meaning of underlines and phrases in Phase II context",
+          "Identifying the core argument of a complex narrative",
+          "Summarizing the main points of a Phase II reading paper"
+        ]
+      },
+      {
+        "chapter": "Formal Letter Writing",
+        "topics": [
+          "Formal Letter: Tone, addressal and structure rules",
+          "Letter to Editor/Manager on administrative issues",
+          "Standard salutations and concluding remarks in India",
+          "Drafting of official reports and circular summaries",
+          "Precis vs Summary in administrative correspondence"
+        ]
+      },
+      {
+        "chapter": "Critical Thinking in Writing",
+        "topics": [
+          "Formulating logical arguments in a descriptive paper",
+          "Identifying logical fallacies in a given narrative",
+          "Synthesis of diverse ideas into a single conclusion",
+          "Clarifying abstract concepts in written communication",
+          "Proofreading and editing of professional English text"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Monetary Policy and Regulation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "RBI: History and Preamble",
+        "topics": [
+          "Origin from Hilton Young Commission recommendations",
+          "Preamble and Structure of the Reserve Bank of India",
+          "Functions of RBI as the issuer and regulator of credit",
+          "Central Board of Directors: Appointment and terms",
+          "RBI's role as the Banker to the Government of India"
+        ]
+      },
+      {
+        "chapter": "Monetary Policy framework",
+        "topics": [
+          "Monetary Policy Committee (MPC) and its constitution",
+          "Quantitative tools: Repo, RR, MSF and Bank Rate",
+          "Qualitative tools: Margin and direct action powers",
+          "Inflation targeting and price stability framework",
+          "Liquid adjustment facility (LAF) and money supply M3"
+        ]
+      },
+      {
+        "chapter": "Inflation Control in India",
+        "topics": [
+          "Measurement of Inflation: WPI, CPI and Core indices",
+          "Causes of Inflation in India: Demand vs Cost push",
+          "Government vs RBI role in controlling high prices",
+          "Impact of Global commodity prices on Indian inflation",
+          "Fiscal deficit relationship with general price level"
+        ]
+      },
+      {
+        "chapter": "Banking Regulation and supervision",
+        "topics": [
+          "The supervisor's role in public and private banks",
+          "Regulatory oversight on NBFCs and digital lending",
+          "Prompt Corrective Action (PCA) and health of banks",
+          "Stress testing and financial stability report basics",
+          "Cybersecurity norms for regulated financial units"
+        ]
+      },
+      {
+        "chapter": "Currency and Public Debt",
+        "topics": [
+          "Management of currency notes and coin distribution",
+          "Management of Public Debt of the Union Government",
+          "Forex reserves management: Gold and SDR holdings",
+          "International financial relationships with central banks",
+          "Digital Rupee (e-Rupee) and CBDC development in India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Global Reports and Indices",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Global Economic Reports",
+        "topics": [
+          "World Development Report by the World Bank summary",
+          "World Economic Outlook by International Monetary Fund",
+          "Regional and Global poverty indices results history",
+          "Environmental performance indicators global report",
+          "Global Risk Report by World Economic Forum summary"
+        ]
+      },
+      {
+        "chapter": "Sustainability and Welfare",
+        "topics": [
+          "Reporting on UN Sustainable Development Goals (SDGs)",
+          "Human Development Index (HDI) reports and indicators",
+          "World Happiness Report status and India's position",
+          "Gender Inequality Index and empowerment report",
+          "Global Education and literacy reports highlights"
+        ]
+      },
+      {
+        "chapter": "Regulator's Reports (India)",
+        "topics": [
+          "Financial Stability Report (FSR) by RBI summary",
+          "Annual Report on Currency and Finance (RBI) goals",
+          "SEBI Annual Report on market trends and safety",
+          "Budget reports and Economic Survey highlights (Union)",
+          "Performance of public sector banks summary reports"
+        ]
+      },
+      {
+        "chapter": "Trade and Industry Reports",
+        "topics": [
+          "World Trade Report by WTO: Global trade trends",
+          "Industrial growth and IPP reports from official units",
+          "Global Innovation Index (GII) India's progress report",
+          "Foreign direct investment (FDI) data reports results",
+          "Logistics performance index and India's status report"
+        ]
+      },
+      {
+        "chapter": "Social Justice Reports",
+        "topics": [
+          "NITI Aayog reports on aspirational districts status",
+          "Health and Education index reports of Indian states",
+          "Minority and SC/ST welfare assessment reports",
+          "Digital India and rural literacy mission reports",
+          "Cleanliness and sanitation (Swachhata) ranking report"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Global Financial Markets",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "International Trade and BoP",
+        "topics": [
+          "Foreign trade policy and Balance of Payments (BoP)",
+          "Current Account vs Capital Account: Components of BoP",
+          "Balance of Trade (BoT) and commercial exchanges",
+          "Managing external shocks impact on BoP in India",
+          "Foreign Exchange Reserves: Purpose and composition"
+        ]
+      },
+      {
+        "chapter": "FDI and Foreign Investments",
+        "topics": [
+          "Foreign Direct Investment (FDI) routes and rules in India",
+          "Foreign Portfolio Investment (FPI) and volatility news",
+          "Difference between FDI and FPI in financial terms",
+          "Institutional investors role in the Indian stock market",
+          "Remittances and their impact on foreign exchange influx"
+        ]
+      },
+      {
+        "chapter": "Global Market Trends",
+        "topics": [
+          "Global stock market trends: Impact on BSE and NSE",
+          "International commodity prices and their local impact",
+          "Role of major global central banks (Fed, ECB, BoJ)",
+          "Exchange rate determination and management (RBI)",
+          "Foreign currency market (Forex) basics for managers"
+        ]
+      },
+      {
+        "chapter": "International Relations and Trades",
+        "topics": [
+          "India's economic relations with neighbor countries",
+          "Trade agreements: Bilateral vs Multilateral (FTAs)",
+          "WTO and its impact on Indian agricultural Trade",
+          "Economic summits: G20, BRICS and BIMSTEC themes",
+          "Global supply chains and India's positioning overview"
+        ]
+      },
+      {
+        "chapter": "Market Vulnerability and Risk",
+        "topics": [
+          "Impact of global geopolitical conflicts on finance",
+          "International financial safety nets and swap lines",
+          "Global cyber security threats to international finance",
+          "Money laundering and terrorism financing global norms",
+          "Crisis management across international trade hubs"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Justice and Welfare",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Rights and Upliftment",
+        "topics": [
+          "Constitutional rights of SCs, STs and BCs in India",
+          "Welfare programs for the socio-economically weak",
+          "Human rights commission in India and Its functions",
+          "Ethics for Indian administrators and ethics of justice",
+          "Social auditing of govt welfare missions at village"
+        ]
+      },
+      {
+        "chapter": "Women and Child Welfare",
+        "topics": [
+          "Schemes for women's healthcare and nourishment",
+          "Child rights protection Act and legal oversight",
+          "Upliftment of the girl child: Beti Bachao mission",
+          "Social movements for gender equality in India history",
+          "Digital literacy for rural women (DISHA) status"
+        ]
+      },
+      {
+        "chapter": "Health and Education Policy",
+        "topics": [
+          "National Education Policy (NEP) goals and features",
+          "Ayushman Bharat and primary healthcare reaching",
+          "Higher education reforms and world-class universities",
+          "National Health Mission (NHM) and pandemic lessons",
+          "Cleanliness and sanitation missions (Swachh Bharat)"
+        ]
+      },
+      {
+        "chapter": "Rural and Migration challenges",
+        "topics": [
+          "Causes and socio-economic results of rural migration",
+          "MGNREGA and employment for rural livelihood stability",
+          "Rural infrastructure development and road connectivity",
+          "Smart villages and inclusive digital connectivity",
+          "Urbanization vs Rural preservation: A balance overview"
+        ]
+      },
+      {
+        "chapter": "Administrative Ethics in Finance",
+        "topics": [
+          "Code of conduct for financial regulators and staff",
+          "Transparency and accountability in public administration",
+          "Conflict of Interest in professional banking roles",
+          "Integrity and probity in government functioning",
+          "Citizen's Charter and grievance redressal in banks"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economic History and Reform",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Economic Reforms since 1991",
+        "topics": [
+          "LPG: Liberalisation, Privatisation and Globalisation",
+          "Structural adjustment programs and Indian outcome",
+          "Disinvestment policy and PSUs evolution in India",
+          "Impact of 1991 reforms on the industrial sector",
+          "Post-1991 social sector spending and results"
+        ]
+      },
+      {
+        "chapter": "Industrial and Agri Policy",
+        "topics": [
+          "Industrial Policy Resolution 1956 vs 1991 history",
+          "Agricultural sector performance and Green Revolution",
+          "Agricultural reforms: MSP, Farm infrastructure in India",
+          "Role of MSMEs in employment and industrial growth",
+          "Make in India mission and self-reliant India overview"
+        ]
+      },
+      {
+        "chapter": "Banking and Financial history",
+        "topics": [
+          "Formation of Imperial Bank and Origin of SBI",
+          "Nationalisation of Indian banks (1969 and 1980 phases)",
+          "Narasimham committee and second-gen banking reforms",
+          "Evolution of Regional Rural Banks and Nabard roles",
+          "Insurance sector nationalisation and privatization"
+        ]
+      },
+      {
+        "chapter": "Planning and Welfare history",
+        "topics": [
+          "Evolution of Five-Year Plans in independent India",
+          "From Planning Commission to NITI Aayog: The shift",
+          "Poverty and unemployment measurement history in India",
+          "Rural development missions history: From IRDP onwards",
+          "Socialist vs Capitalist trends in Indian economic history"
+        ]
+      },
+      {
+        "chapter": "Global Financial Crisis and India",
+        "topics": [
+          "Indian response to the 2008 Global Financial Crisis",
+          "Taper Tantrum 2013 and its impact on the Indian Rupee",
+          "Resilience of the Indian financial system to global shocks",
+          "Historical exchange rate crises and policy responses",
+          "Lessons from historical global economic depressions"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "General Intelligence (Reasoning Analogies)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Analogies and Classification",
+        "topics": [
+          "Semantic analogies: Relationship between words",
+          "Numeric analogies: Identifying the pattern",
+          "Finding the odd one out in alphanumeric sets",
+          "Classification of entities in numeric symbols",
+          "Similarities and differences in visual objects"
+        ]
+      },
+      {
+        "chapter": "Logical Deductions",
+        "topics": [
+          "Statement and Conclusion: Simple cases analysis",
+          "Identifying assumptions in a given sentence",
+          "Predicting outcomes of administrative decisions",
+          "Logic derived from single vs double statements",
+          "Evaluating evidence for a logical conclusion"
+        ]
+      },
+      {
+        "chapter": "Visual Memory and Logic",
+        "topics": [
+          "Discriminating observation in visual patterns",
+          "Visual memory test: Identifying past elements",
+          "Relationship concepts in visual storytelling",
+          "Spatial orientation and non-verbal logic",
+          "Finding the missing figure in visual sequences"
+        ]
+      },
+      {
+        "chapter": "Figural Classification",
+        "topics": [
+          "Grouping of figures based on shapes and shades",
+          "Finding the figure that fits the pattern logic",
+          "Categorization of figural objects summary",
+          "Removing an outlier from a group of images",
+          "Comparing two figures for subtle differences"
+        ]
+      },
+      {
+        "chapter": "Logical Reasoning Concepts",
+        "topics": [
+          "Alphabet and letter grouping logical patterns",
+          "Selection criteria for associate banking roles",
+          "Identifying the missing link in a chain of data",
+          "Consistency of variables in numerical strings",
+          "Summarizing decision logic in administrative tasks"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Intelligence (Spatial Visualization)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Spatial Pattern Analysis",
+        "topics": [
+          "Problem solving and analysis of spatial patterns",
+          "Spatial orientation and non-verbal series patterns",
+          "Arithmetical reasoning and figure classification",
+          "Identifying the missing figure in visual sequences",
+          "Orientation of shapes in multi-level structures"
+        ]
+      },
+      {
+        "chapter": "Coding and Decoding",
+        "topics": [
+          "Simple coding-decoding: Word to word substitution",
+          "Selective coding using positional alphabet values",
+          "Coding based on prefix and suffix rules logic",
+          "Matrix coding and decryption methods for banks",
+          "Condition-based coding for number and symbol sets"
+        ]
+      },
+      {
+        "chapter": "Visual Series Patterns",
+        "topics": [
+          "Finding the next element in a visual sequence",
+          "Predicting the end-term of complex visual chains",
+          "Identifying the wrong pattern in a figure series",
+          "Mirror and water images construction from shapes",
+          "Paper folding and cutting patterns analysis"
+        ]
+      },
+      {
+        "chapter": "Relative Orientation",
+        "topics": [
+          "Determining the distance and direction of an object",
+          "Spatial relationships in three-dimensional sets",
+          "Mapping relative positions in a visual map",
+          "Navigation based on orientation clues logic",
+          "Evaluating enoughness of clues for arrangement"
+        ]
+      },
+      {
+        "chapter": "Figural Arrangement",
+        "topics": [
+          "Sorting entities based on multiple visual clues",
+          "Interpreting logical rules for advanced data sorting",
+          "Binary logic: True and False visual statements",
+          "Identifying outliers in a series DI visual sets",
+          "Summarizing visual data into a numeric result"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness (History and Culture)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ancient Indian History",
+        "topics": [
+          "Indus Valley Civilisation: Main sites and markers",
+          "Vedic Age: Literature, culture and socio-economics",
+          "History of Buddhism and Jainism in India summary",
+          "Maurya and Gupta dynasties: Major achievements",
+          "Contribution of Harsha and the Golden age markers"
+        ]
+      },
+      {
+        "chapter": "Medieval Indian History",
+        "topics": [
+          "Delhi Sultanate: Main dynasties and architecture",
+          "Mughal Empire: History, culture and monuments",
+          "Maratha and Sikh empires: Emergence and roles",
+          "Bhakti and Sufi movements: Socio-religious impact",
+          "Major medieval battles of regional importance"
+        ]
+      },
+      {
+        "chapter": "Modern Indian History",
+        "topics": [
+          "Arrival of Europeans and East India Company growth",
+          "Revolt of 1857: Causes, events and its aftermath",
+          "Indian Freedom Struggle: Moderate and radical phases",
+          "Role of Mahatma Gandhi and major mass movements",
+          "Post-independence consolidation and its achievements"
+        ]
+      },
+      {
+        "chapter": "Indian Culture and Arts",
+        "topics": [
+          "Indian classical and folk dances by state overview",
+          "Major music traditions: Hindustani and Carnatic",
+          "Important Indian festivals and religious markers",
+          "Architecture: Temples, forts and heritage sites",
+          "UNESCO World Heritage sites in India list summary"
+        ]
+      },
+      {
+        "chapter": "Freedom Fighters",
+        "topics": [
+          "Contribution of Bhagat Singh, Azad and netaji Bose",
+          "Role of women in the freedom struggle missions",
+          "Leaders of the first war of independence list",
+          "Social reformers: Raja Ram Mohan Roy and others",
+          "Evaluating impact of leaders on modern Indian state"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness (Geography and GK)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Geography of India",
+        "topics": [
+          "States, UTs and their capital cities in India",
+          "Major Rivers of India and their tributaries list",
+          "Important Mountain peaks and passes in India",
+          "Rivers, Plains and Plateaus: Geographical markers",
+          "Flora and Fauna: Bio-diversity conservation goals"
+        ]
+      },
+      {
+        "chapter": "National Parks and Dams",
+        "topics": [
+          "Important National Parks and Wildlife Sanctuaries",
+          "Major Dams and Hydroelectric projects by states",
+          "Irrigation technology and water management India",
+          "Lakes and Wetlands of national importance list",
+          "Soil types and their distribution across India"
+        ]
+      },
+      {
+        "chapter": "Indian Constitution Basics",
+        "topics": [
+          "Preamble and the basic structure of Constitution",
+          "Fundamental Rights and Duties of Indian citizens",
+          "Directive Principles of State Policy (DPSP) role",
+          "Parliamentary system: Lok Sabha and Rajya Sabha",
+          "Local Self-Government: Panchayats and municipalities"
+        ]
+      },
+      {
+        "chapter": "General Polity",
+        "topics": [
+          "Power structure: Executive, Legislature and Courts",
+          "The President and Prime Minister: Roles/Powers",
+          "State Government: Governor and Chief Minister",
+          "Elections and voting rights in the Indian democracy",
+          "Statutory regulatory bodies and its heads history"
+        ]
+      },
+      {
+        "chapter": "Current GA National",
+        "topics": [
+          "Recent government updates and appointments news",
+          "Major events in the Indian parliament summary report",
+          "Key policy changes affecting social security nets",
+          "National achievements in Sci and Technology results",
+          "Reports of administrative commissions in India status"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Elementary Mathematics (Speed/Averages)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Number Systems",
+        "topics": [
+          "Whole numbers, Integers and rational numbers ops",
+          "Divisibility rules for numbers 2 to 11 simplified",
+          "Units digit and remainder theorems basic tasks help",
+          "Fractions and Decimals: Conversion and comparison",
+          "Simplifying mixed fractions and decimals in sums"
+        ]
+      },
+      {
+        "chapter": "LCM and HCF",
+        "topics": [
+          "Finding LCM and HCF of two or three numbers",
+          "Applications of LCM/HCF in word problems logic",
+          "Relationship between products of numbers and LCM/HCF",
+          "Factoring numbers into prime constituents basics",
+          "Solving interval based puzzles using LCM rules"
+        ]
+      },
+      {
+        "chapter": "Elementary Computation",
+        "topics": [
+          "Applying BODMAS for multi-operator equations entries",
+          "Computation of whole numbers and speed maths shortcuts",
+          "Rounding off values for approximation methods tips",
+          "Decimal to Fraction conversion for calculation speed",
+          "Identifying the relationship between number sets logic"
+        ]
+      },
+      {
+        "chapter": "Ratio and Proportion",
+        "topics": [
+          "Comparing ratios of two or three variables basics",
+          "Proportion: Direct and Inverse relationship logic",
+          "Partnership: Investment and profit sharing ratio help",
+          "Scaling of ratios and group sharing problems task",
+          "Scaling values in maps and diagrams using ratios"
+        ]
+      },
+      {
+        "chapter": "Averages of groups",
+        "topics": [
+          "Averages of numbers, age and weight for groups tips",
+          "Weighted mean calculations for complex sets analysis",
+          "Standard average: Mean, Median and Mode basics news",
+          "Finding the average of a sequential number list",
+          "Impact of adding/removing an element on average"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Elementary Mathematics (Arithmetic/Mensuration)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Percentage / Profit and Loss",
+        "topics": [
+          "Percentage change on a base value calculations help",
+          "Profit and Loss on CP and SP: Basic cases report",
+          "Discount: Result of successive percentages results",
+          "Price markup and margin calculation on goods status",
+          "Profit/Loss when SP of two items is same logic"
+        ]
+      },
+      {
+        "chapter": "Time and Work",
+        "topics": [
+          "Time and Work basics: Individual and group tasks efficiency",
+          "Pipes and Cisterns: Tank filling and empty logic news",
+          "Alternate day working patterns analysis in work tasks",
+          "Efficiency comparison between two workers and wages",
+          "Solving linear word problems on work and compensation"
+        ]
+      },
+      {
+        "chapter": "Time and Distance",
+        "topics": [
+          "Relative speed: Overtaking and crossing trains report",
+          "Boats and Streams: Upstream and downstream speed logic",
+          "Time and Distance mapping in simple scenarios help",
+          "Trains crossing platform and static objects speed",
+          "Average speed calculation for simple intervals tips"
+        ]
+      },
+      {
+        "chapter": "Mensuration 2D / 3D",
+        "topics": [
+          "Area and Perimeter of 2D: Circle, Triangle shapes",
+          "Surface area and Volume of 3D: Cube, Cuboid solids",
+          "Volume calculation of Cylinder and Sphere metrics",
+          "Unit conversion in measurement metrics for exams news",
+          "Coordinate geometry: Section and distance formulas basic"
+        ]
+      },
+      {
+        "chapter": "Interest and Average Speed",
+        "topics": [
+          "Simple Interest: Yearly and monthly accumulations logic",
+          "Standard average: Mean of observations and weight group",
+          "Average speed over different distance intervals tasks",
+          "Concepts of principal and accumulation of returns tips",
+          "Identifying enough clues for interest based problems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language (Grammar/Vocab)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Synonyms and Antonyms",
+        "topics": [
+          "Choosing synonyms in context of a simple sentence",
+          "Identifying antonyms for specified terms for MCQs",
+          "Word sets with similar semantic meanings contextual",
+          "High frequency vocabulary list for SSC GD exams",
+          "Using prefixes to decode word meanings for speed"
+        ]
+      },
+      {
+        "chapter": "One-Word Substitution",
+        "topics": [
+          "Words for professional roles and skills in English",
+          "Terms for groups of people and animals classification",
+          "Substitutions for types of governments and roles rules",
+          "Identifying term from its lengthy definition report",
+          "One word for daily activities and routines context"
+        ]
+      },
+      {
+        "chapter": "Idioms and Phrases",
+        "topics": [
+          "Common English idioms and their actual meanings context",
+          "Phrases used in formal and business English communication",
+          "Proverbs and their appropriate application in text sets",
+          "Identifying the figurative usage in sentences logic",
+          "Popular phrasal verbs for everyday activities help"
+        ]
+      },
+      {
+        "chapter": "Error Detection",
+        "topics": [
+          "Rules of tense: Present, Past, Future usage errors",
+          "Subject-Verb agreement in various sentence types check",
+          "Articles and Prepositions: Fixed and Phrasal errors",
+          "Correct usage of Noun, Pronoun and Adjectives in text",
+          "Spotting the grammatical error in simple sentences"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension Analysis",
+        "topics": [
+          "Identifying the central idea and title of thematic text",
+          "Answering factual and inference based questions logic",
+          "Meaning of underlined words in a simple passage help",
+          "Evaluating the author's tone and point of view report",
+          "Summarizing the main points of the reading piece news"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi Language (Grammar/Vocab)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Vyakaran: Sangya and Sarvanam",
+        "topics": [
+          "Sangya (Noun): Classification and its types rules",
+          "Sarvanam (Pronoun): Role and sentence usage help",
+          "Kriya (Verb): Identification and its conjugation logic",
+          "Visheshan (Adjectives): Qualities and comparisons tips",
+          "Kriya-visheshan (Adverbs): Positional usage in Hindi"
+        ]
+      },
+      {
+        "chapter": "Vilom aur Samanarthi",
+        "topics": [
+          "Vilom shabd (Antonyms) for high frequency words",
+          "Samanarthi shabd (Synonyms) in a given context set",
+          "Paryayvachi shabd for everyday Hindi entities report",
+          "Choosing the best meaning option for gapped words",
+          "Word meanings decoding using roots in Hindi help"
+        ]
+      },
+      {
+        "chapter": "Muhavare aur Lokoktiyan",
+        "topics": [
+          "Hindi Muhavare: Detailed meaning and sentence usage",
+          "Lokoktiyan (Proverbs): Appropriate application in text",
+          "Identifying figurative meanings in Hindi sentences logic",
+          "Anek shabd ke liye ek shabd (One-word substitution)",
+          "Popular phrases used in regional Hindi news trends"
+        ]
+      },
+      {
+        "chapter": "Vakya Shuddh karna",
+        "topics": [
+          "Identifying grammatical errors in Hindi sentences help",
+          "Correcting syntax and spelling in ashuddh vakyas",
+          "Improving the underlined segment of Hindi text status",
+          "Choosing the best phrase for correct structure check",
+          "Common spelling variants and mistakes in Hindi sets"
+        ]
+      },
+      {
+        "chapter": "Gadyaansh Analysis",
+        "topics": [
+          "Identifying themes and central ideas of Gadyaansh",
+          "Answering factual and inference based questions in Hindi",
+          "Meaning of underlined words in a Hindi passage logic",
+          "Evaluating the author's tone and point of view report",
+          "Summarizing main points of the reading piece in Hindi"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Numerical Ability (Basic Ops)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "BODMAS and Root ops",
+        "topics": [
+          "Applying BODMAS for multi-operator equations entries",
+          "Square roots and Cube roots calculation for speed report",
+          "Fractional addition and subtraction methods results",
+          "Simplifying long numeric chains with speed status",
+          "Handling multi-variable equations for speed entry help"
+        ]
+      },
+      {
+        "chapter": "Interest and Accumulation",
+        "topics": [
+          "Simple Interest: Yearly and monthly accumulations logic",
+          "Compound Interest: Yearly vs half-yearly basis status",
+          "Profit and Loss across multiple transactions help",
+          "Effective yield on rural compounded savings results",
+          "Principal accumulation in long-term investments group"
+        ]
+      },
+      {
+        "chapter": "Simplification and Speed",
+        "topics": [
+          "Logic for finding middle numbers in tables sets",
+          "Applying arithmetic shortcuts for daily calculations",
+          "Speed calculation of interest and percentages report",
+          "Mental calculation of ratios and averages groups",
+          "Identifying trends in quick numeric charts analysis"
+        ]
+      },
+      {
+        "chapter": "Approximation methods",
+        "topics": [
+          "Estimating near values for decimals in sums help",
+          "Approximating products and divisions for speed report",
+          "Choosing the nearest option in competitive sets results",
+          "Handling multi-step approximation in arithmetic status",
+          "Rounding off rules for banking calculations logic"
+        ]
+      },
+      {
+        "chapter": "Percentage / Fraction ops",
+        "topics": [
+          "Percentage to fraction conversion for speed calculation",
+          "Fractional parts of a whole: Comparison and sum logic",
+          "Decimals: Conversion and place value in sums group",
+          "Identifying the relationship between number sets help",
+          "Calculation of percentages without using paper tips"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Logical Series and Classification",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Series patterns",
+        "topics": [
+          "Finding the next element in a letter-symbol series",
+          "Number series with specialized symbol combinations",
+          "Preceded and followed condition based questions help",
+          "Removing a character and finding the middle element",
+          "Step-wise arrangement of letters and numbers logic"
+        ]
+      },
+      {
+        "chapter": "Classification and Analogies",
+        "topics": [
+          "Finding the odd one out in alphanumeric sets report",
+          "Analogies and classification in numeric sets results",
+          "Relationship identification between pair sets group",
+          "Classification of entities in numeric symbols status",
+          "Comparing two figures for subtle differences logic"
+        ]
+      },
+      {
+        "chapter": "Series Logic",
+        "topics": [
+          "Predicting the end-term of complex numeric chains",
+          "Identifying the wrong term in a given number series",
+          "Difference of differences (Two-tier) logic series",
+          "Pattern analysis for arithmetic/geometric series help",
+          "Find next term in non-linear sequences and patterns"
+        ]
+      },
+      {
+        "chapter": "Symbol and Coding logic",
+        "topics": [
+          "Identifying logical rules for advanced data sorting",
+          "Binary logic: True and False statements puzzles report",
+          "Code-based classification for rural bank exams status",
+          "Symbol-number coding and decoding rules result",
+          "Reverse coding-decoding for advanced logic sets help"
+        ]
+      },
+      {
+        "chapter": "Predictive Sequence",
+        "topics": [
+          "Predicting outcomes of numeric administrative decisions",
+          "Identifying missing signs in an inequality string logic",
+          "Alphabet and letter grouping logical patterns group",
+          "Identifying the missing link in a chain of data results",
+          "Consistency of variables in numerical strings news"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Reading Comprehension (Basic)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Thematic Analysis",
+        "topics": [
+          "Identifying the central idea and title of simple text",
+          "Evaluating the author's tone and point of view report",
+          "Answering factual and inference based questions logic",
+          "Inference-based and contextual tone questions help",
+          "Summarizing main points and author's intent status"
+        ]
+      },
+      {
+        "chapter": "Vocabulary in simple RC",
+        "topics": [
+          "Meaning of underlined words in a simple passage help",
+          "Choosing synonyms in a specific regional context sets",
+          "Identifying antonyms for specified economic terms group",
+          "High-frequency vocabulary for bank officers list report",
+          "Choosing the best meaning option for gapped words"
+        ]
+      },
+      {
+        "chapter": "Passage Summary",
+        "topics": [
+          "Summarizing the main points of the reading piece news",
+          "Synthesizing diverse ideas into a single conclusion",
+          "Drafting concise reports based on case findings report",
+          "Evaluating the validity of a final conclusion logic",
+          "Identifying redundant data points in DI clues status"
+        ]
+      },
+      {
+        "chapter": "Order and Flow",
+        "topics": [
+          "Ordering scrambled sentences into a logical para help",
+          "Identifying the opening and closing lines results",
+          "Finding logical links between sentence pairs groups",
+          "Managing narrative flow in rearranged events logic",
+          "Connecting events in a step-wise sequence report"
+        ]
+      },
+      {
+        "chapter": "Simple Inference",
+        "topics": [
+          "Identifying the theme of a given narrative help",
+          "Predicting the end of a simple news storytelling",
+          "Interpreting the mood of a simple conversational text",
+          "Analyzing the relationship between characters in text",
+          "Deducing the core takeaway of a short article status"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Interpretation (Elementary)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Simple Table Interpretation",
+        "topics": [
+          "Extracting single variable values from a table sets",
+          "Comparing data across different rows/columns report",
+          "Total calculations and averages from table data groups",
+          "Percentage increase and decrease based questions",
+          "Ratio of variables in a single tabular set logic"
+        ]
+      },
+      {
+        "chapter": "Bar Graphics",
+        "topics": [
+          "Reading heights/lengths to find numeric values help",
+          "Comparative Bar charts: Multiple bars per group report",
+          "Percentage difference between values in bar graph",
+          "Identifying maximum/minimum using bar visuals status",
+          "Cumulative bar graph interpretation for totals logic"
+        ]
+      },
+      {
+        "chapter": "Pie Charts",
+        "topics": [
+          "Percentage to Degree conversion in a pie chart group",
+          "Interpreting sectoral data distribution on a pie results",
+          "Total value from the value of one pie segment status",
+          "Comparison between two related pie charts report",
+          "Calculation of average value per pie section help"
+        ]
+      },
+      {
+        "chapter": "Elementary DI Trends",
+        "topics": [
+          "Trend analysis over sequential time periods logic",
+          "Fluctuation mapping using line heights in graphs help",
+          "Finding percentage growth between two points report",
+          "Combined charts (Bar + Table, Line + Pie) sets group",
+          "Data mapping from table to line graph context status"
+        ]
+      },
+      {
+        "chapter": "DI Sufficiency basics",
+        "topics": [
+          "Arithmetic based graphical DI: Profit and Interest help",
+          "Data sufficiency: Statement I vs Statement II report",
+          "Consistency check across rows using formulas logic",
+          "Averaging the points across high-level graph sets",
+          "Identifying redundant data in tabular clues results"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physical Efficiency Test awareness",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "PET Standards Male",
+        "topics": [
+          "Height requirements for Male GD Constable candidates",
+          "Chest measurement criteria: Expansion and Normal",
+          "Weight standards proportional to height and age",
+          "Discipline and conduct during regional physical trials",
+          "Documentation required for PET verification tasks"
+        ]
+      },
+      {
+        "chapter": "PET Standards Female",
+        "topics": [
+          "Height requirements for Female GD Constable candidates",
+          "Weight standards proportional to height and age group",
+          "Discipline and rules during physical efficiency trials",
+          "Medical fitness criteria summary for female candidates",
+          "Verification of physical certificates and regional IDs"
+        ]
+      },
+      {
+        "chapter": "Running Requirements",
+        "topics": [
+          "5 km run for Male: Duration and track awareness",
+          "1.6 km run for Female: Duration and trial rules",
+          "Running standards for candidates from Hill areas",
+          "Disqualification rules for time and path violations",
+          "Pre-run safety and hydration tips for candidates"
+        ]
+      },
+      {
+        "chapter": "Training and Safety",
+        "topics": [
+          "Basic first-aid for minor trial injuries help",
+          "Safety rules for heavy training and running missions",
+          "Mental toughness and discipline during recruitment",
+          "Emergency protocols during regional physical tests",
+          "Understanding the role of constable in safety units"
+        ]
+      },
+      {
+        "chapter": "Recruitment Discipline",
+        "topics": [
+          "Conduct of candidates at the trial ground sets",
+          "Rules against use of performance enhancers trials",
+          "Identifying valid grievance redressal in PET results",
+          "Verification of domicile and category certificates",
+          "Role of observers and officers in trial boards"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "National Static GK",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "National Indices",
+        "topics": [
+          "National and Global Index Rankings results history",
+          "State-wise performance in Agri and Rural dev news",
+          "Reports by NITI Aayog on aspirational districts status",
+          "Ease of doing business at regional levels report",
+          "Sustainability and Health index status of states group"
+        ]
+      },
+      {
+        "chapter": "Awards and Honors",
+        "topics": [
+          "National Awards (Padma, Bharat Ratna) list groups",
+          "Sahitya Akademi and regional literary honors results",
+          "Awards for village level governance and Swachhata",
+          "Noble prizes in Science and Art (Global) report",
+          "Recognition for innovative farming techniques status"
+        ]
+      },
+      {
+        "chapter": "Summits and Events",
+        "topics": [
+          "Summits on rural development and digitization goals",
+          "Inter-state council meetings and regional meets news",
+          "International summits on agriculture (FAO, G20) theme",
+          "Bilateral treaties affecting regional trade report",
+          "Exhibitions of rural arts (Saras Mela) highlights help"
+        ]
+      },
+      {
+        "chapter": "Sports Achievements",
+        "topics": [
+          "Olympic, Commonwealth and Asian games highlights results",
+          "Major sports championships: Tennis, Cricket, Chess groups",
+          "National sports awards and regional winners list",
+          "Developing rural talent in traditional sports missions",
+          "Infrastructure for sports in regional centers news"
+        ]
+      },
+      {
+        "chapter": "National Science",
+        "topics": [
+          "Important scientific discovery milestones history",
+          "Major archaeology findings in India news summary",
+          "Historical battles of regional importance markers",
+          "Evolution of regional art and literature status",
+          "Museums and archives of regional archives list"
+        ]
+      }
+    ]
+  }
+]

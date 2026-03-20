@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Applied Basic Sciences in Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Applied Surgical Anatomy",
+        "topics": [
+          "Surgical anatomy of the neck and thyroid",
+          "Abdominal wall and inguinal canal",
+          "Mediastinum and thoracic cavity",
+          "Pelvic anatomy and neurovascular structures",
+          "Cranial and spinal surgical anatomy"
+        ]
+      },
+      {
+        "chapter": "Surgical Physiology and Biochemistry",
+        "topics": [
+          "Cardiovascular hemodynamics in surgery",
+          "Respiratory mechanics and gas exchange",
+          "Renal function and compensatory mechanisms",
+          "Endocrine regulation of metabolism",
+          "Liver function and glucose homeostasis"
+        ]
+      },
+      {
+        "chapter": "Surgical Pathology and Immunology",
+        "topics": [
+          "Mechanisms of cell death and necrosis",
+          "Granulomatous inflammation and wound healing",
+          "Host response to surgical stress",
+          "Systemic inflammatory response syndrome (SIRS)",
+          "Principles of tissue biopsy and frozen section"
+        ]
+      },
+      {
+        "chapter": "Surgical Microbiology and Infection Control",
+        "topics": [
+          "Surgical site infections (SSI) microbiology",
+          "Sterilization and disinfection protocols",
+          "Antibiotic resistance and stewardship",
+          "Hospital-acquired infections (HAI) control",
+          "Bio-safety and hazardous waste management"
+        ]
+      },
+      {
+        "chapter": "Clinical Pharmacology and Anesthesia Principles",
+        "topics": [
+          "Local and general anesthetics in surgery",
+          "Muscle relaxants and reversing agents",
+          "Analgesics and opioid sparing techniques",
+          "Pharmacokinetics of commonly used surgical drugs",
+          "Managing drug-drug interactions in peri-operative care"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Surgical Principles",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Wound Healing and Tissue Repair",
+        "topics": [
+          "Phases of wound healing (Primary vs Secondary intention)",
+          "Factors affecting tissue repair and scarring",
+          "Management of chronic and non-healing wounds",
+          "Modern wound dressings and VAC therapy",
+          "Scars: Hypertrophic, Keloid, and contractures"
+        ]
+      },
+      {
+        "chapter": "Fluid, Electrolyte and Acid-Base Balance",
+        "topics": [
+          "Maintenance and replacement fluid requirements",
+          "Management of hyponatremia and hypercalcemia",
+          "Potassium balance and emergency interventions",
+          "Metabolic acidosis and alkalosis in surgical patients",
+          "Monitoring central venous pressure and volume status"
+        ]
+      },
+      {
+        "chapter": "Metabolic Response to Injury and Nutrition",
+        "topics": [
+          "Neuroendocrine response to surgical trauma",
+          "Systemic effects of cytokines and mediators",
+          "Nutritional assessment and requirements (BMR)",
+          "Enteral vs Parenteral nutrition (TPN)",
+          "Immunonutrition and its clinical application"
+        ]
+      },
+      {
+        "chapter": "Hemostasis, Transfusion, and Thrombophylaxis",
+        "topics": [
+          "Physiology of coagulation and fibrinolysis",
+          "Principles of blood component therapy",
+          "Massive transfusion protocols",
+          "Risks and complications of blood transfusion",
+          "Venous thromboembolism (VTE) prophylaxis and management"
+        ]
+      },
+      {
+        "chapter": "Pre-operative Assessment and Post-operative Care",
+        "topics": [
+          "Risk stratification and surgical fitness (ASA)",
+          "Managing co-morbidities (Diabetes, Hypertension)",
+          "Standardized pre-operative preparation protocols",
+          "Immediate and late post-operative complications",
+          "Discharge planning and rehabilitation follow-up"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Trauma and Emergency Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Principles of Trauma Management and Triaging",
+        "topics": [
+          "ATLS protocols and primary survey",
+          "Secondary and tertiary survey in trauma",
+          "Mass casualty management and triaging",
+          "Damage control surgery (DCS) philosophy",
+          "Golden hour and silver day in trauma care"
+        ]
+      },
+      {
+        "chapter": "Thoracic and Abdominal Trauma",
+        "topics": [
+          "Tension pneumothorax and flail chest",
+          "Blunt and penetrating abdominal trauma",
+          "Management of solid organ injuries (Liver, Spleen)",
+          "Rupture of diaphragm and hollow viscus",
+          "Emergency thoracotomy and laparotomy"
+        ]
+      },
+      {
+        "chapter": "Head, Neck, and Spinal Injuries",
+        "topics": [
+          "GCS scoring and intracranial pressure (ICP) management",
+          "Traumatic brain injury (TBI) and hematomas",
+          "Cervical spine stabilization and clearance",
+          "Maxillofacial injuries and airway management",
+          "Laryngeal and esophageal trauma in the neck"
+        ]
+      },
+      {
+        "chapter": "Orthopedic Trauma and Soft Tissue Injuries",
+        "topics": [
+          "Open fractures and Gustilo-Anderson classification",
+          "Compartment syndrome: Diagnosis and release",
+          "Pelvic fractures and massive hemorrhage",
+          "Nerve and vascular injuries in extremities",
+          "Amputation: Indications and techniques"
+        ]
+      },
+      {
+        "chapter": "Management of Burns and Cold Injuries",
+        "topics": [
+          "Classification and estimation of burn area (Rule of 9s)",
+          "Fluid resuscitation protocols (Parkland formula)",
+          "Electrical and chemical burns management",
+          "Inhalation injury and respiratory support",
+          "Frostbite and hypothermia management"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Critical Care and Peri-operative Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Monitoring of the Critically Ill Patient",
+        "topics": [
+          "Hemodynamic monitoring (Arterial lines, Swan-Ganz)",
+          "Respiratory monitoring and capnography",
+          "Neurological monitoring and ICP monitoring",
+          "Renal function monitoring and output tracking",
+          "Point-of-care ultrasound (POCUS) in ICU"
+        ]
+      },
+      {
+        "chapter": "Management of Shock and Organ Failure",
+        "topics": [
+          "Classification and pathophysiology of shock",
+          "Vasoactive drugs and inotropic support",
+          "Acute kidney injury (AKI) and RRT",
+          "Acute respiratory distress syndrome (ARDS) management",
+          "High output vs Low output cardiac failure"
+        ]
+      },
+      {
+        "chapter": "Surgical Sepsis and Antibiotic Advocacy",
+        "topics": [
+          "Sepsis-3 definitions and SOFA score",
+          "Early goal-directed therapy (EGDT)",
+          "Identification of source and drainage",
+          "Multi-drug resistant (MDR) infections in ICU",
+          "Rational use of carbapenems and newer biologicals"
+        ]
+      },
+      {
+        "chapter": "Principles of Intensive Care and Resuscitation",
+        "topics": [
+          "Mechanical ventilation: Modes and weaning",
+          "Acid-base and metabolic support in ICU",
+          "Sedation, analgesia, and delirium management",
+          "CPR: BLS and ACLS guidelines",
+          "End-of-life decisions and withdrawal of care"
+        ]
+      },
+      {
+        "chapter": "Pain Management and Palliative Care in Surgery",
+        "topics": [
+          "Physiology of nociception and pain pathways",
+          "Multi-modal analgesia and epidurals",
+          "Chronic pain management in surgical patients",
+          "Principles of palliative surgery",
+          "Symptom management in advanced surgical disease"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Surgical Oncology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Molecular Biology and Genetics of Cancer",
+        "topics": [
+          "Oncogenes, tumor suppressor genes, and signaling",
+          "Carcinogenesis: Viral, Chemical, and Radiation",
+          "Genetic counseling and hereditary cancer syndromes",
+          "Flow cytometry and immunohistochemistry (IHC)",
+          "Molecular markers for targeted therapy"
+        ]
+      },
+      {
+        "chapter": "Principles of Surgical, Radiation, and Chemotherapy",
+        "topics": [
+          "Radical vs Palliative surgical resection",
+          "Radiotherapy: External beam and Brachytherapy",
+          "Chemotherapy: Neoadjuvant, Adjuvant, and Maintenance",
+          "Immunotherapy and biological response modifiers",
+          "Complications of non-surgical cancer treatments"
+        ]
+      },
+      {
+        "chapter": "Screening, Diagnosis, and Staging of Tumors",
+        "topics": [
+          "Early detection and screening programs",
+          "Imaging in oncology (PET-CT, MRI)",
+          "Principles of staging (TNM classification)",
+          "Fine needle aspiration and core biopsy",
+          "Tumor markers in diagnosis and follow-up"
+        ]
+      },
+      {
+        "chapter": "Multi-disciplinary Approach and Tumor Boards",
+        "topics": [
+          "Role of MDT in cancer management",
+          "Quality of life (QoL) considerations",
+          "Tumor board decision processing",
+          "Surveillance and survivorship programs",
+          "Clinical trials and translational research in oncology"
+        ]
+      },
+      {
+        "chapter": "Rehabilitation and End-of-life Care for Cancer Patients",
+        "topics": [
+          "Physical and psychological rehabilitation",
+          "Management of ostomies and prostheses",
+          "Nutritional support in cancer cachexia",
+          "Pain and symptom control in terminal care",
+          "Psychosocial support for family and patients"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Upper GI and Abdominal Wall Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Surgery of the Esophagus and Diaphragm",
+        "topics": [
+          "Management of GERD and hiatal hernia",
+          "Esophageal motility disorders (Achalasia)",
+          "Perforation of the esophagus and Boerhaave's",
+          "Esophageal diverticula and caustic injury",
+          "Neoplasms of the esophagus and cardia"
+        ]
+      },
+      {
+        "chapter": "Surgery of the Stomach and Duodenum",
+        "topics": [
+          "Peptic ulcer disease and its complications",
+          "Gastric outlet obstruction and its management",
+          "Benign and malignant tumors of the stomach",
+          "Gastric bypass and bariatric surgical options",
+          "Duodenal injuries and fistulae"
+        ]
+      },
+      {
+        "chapter": "Peritonitis and Intra-abdominal Abscesses",
+        "topics": [
+          "Primary, secondary, and tertiary peritonitis",
+          "Management of intra-abdominal collections",
+          "Localized vs Generalized peritonitis",
+          "Abdominal tuberculosis and its manifestations",
+          "Principles of peritoneal toilet and drainage"
+        ]
+      },
+      {
+        "chapter": "Hernias of the Abdominal Wall",
+        "topics": [
+          "Inguinal hernia: Open and laparoscopic repair",
+          "Femoral and obturator hernias",
+          "Ventral, umbilical, and epigastric hernias",
+          "Incisional hernia and component separation",
+          "Management of irreducible and strangulated hernias"
+        ]
+      },
+      {
+        "chapter": "Small Bowel Surgery and Mesenteric Disorders",
+        "topics": [
+          "Small bowel obstruction and adhesion lysis",
+          "Mesenteric ischemia: Acute and chronic",
+          "Meckel's diverticulum and other anomalies",
+          "Small bowel tumors and lymphomas",
+          "Small bowel transplantation basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hepatobiliary and Splenic Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Liver Resection and Transplantation Principles",
+        "topics": [
+          "Anatomical and non-anatomical liver resections",
+          "Management of benign liver tumors and cysts",
+          "Hepatocellular carcinoma and metastatic lesions",
+          "Liver abscesses: Amoebic and Pyogenic",
+          "Indications and outcomes of liver transplantation"
+        ]
+      },
+      {
+        "chapter": "Gallbladder and Biliary Tract Surgery",
+        "topics": [
+          "Cholelithiasis and acute cholecystitis",
+          "Complications of gallstone disease (Mirizzi)",
+          "Choledocholithiasis and biliary obstructions",
+          "Biliary atresia and choledochal cysts",
+          "Carcinoma of the gallbladder and bile ducts"
+        ]
+      },
+      {
+        "chapter": "Surgery of the Pancreas",
+        "topics": [
+          "Acute pancreatitis: Grading and severity",
+          "Chronic pancreatitis and its complications",
+          "Pancreatico-duodenectomy (Whipple's) procedure",
+          "Pancreatic pseudocysts and their drainage",
+          "Endocrine and exocrine tumors of the pancreas"
+        ]
+      },
+      {
+        "chapter": "Spleen and Portal Hypertension Management",
+        "topics": [
+          "Indications for splenectomy and its complications",
+          "Hypersplenism and splenic trauma",
+          "Pathophysiology of portal hypertension",
+          "Management of esophageal varices (Shunt/Non-shunt)",
+          "EHPVO and NCPF in the Indian context"
+        ]
+      },
+      {
+        "chapter": "Management of Jaundice and Hepatic Failure",
+        "topics": [
+          "Differential diagnosis of surgical jaundice",
+          "ERCP, PTBD, and stenting in biliary disease",
+          "Evaluation of hepatic reserve (Child-Pugh/MELD)",
+          "Management of hepatic encephalopathy",
+          "Coagulopathy in liver disease and its correction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Colorectal and Perianal Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Large Bowel Surgery and Diverticular Disease",
+        "topics": [
+          "Volvulus of the cecum and sigmoid colon",
+          "Management of diverticulitis and its complications",
+          "Lower GI bleeding: Causes and management",
+          "Ileostomy and Colostomy: Types and care",
+          "Appendicitis and the pelvic appendix"
+        ]
+      },
+      {
+        "chapter": "Surgery for Inflammatory Bowel Disease",
+        "topics": [
+          "Ulcerative colitis: Medical vs Surgical options",
+          "Crohn's disease of the colon and small bowel",
+          "Toxic megacolon and perforation in IBD",
+          "Restorative proctocolectomy and J-pouches",
+          "Extra-intestinal manifestations of IBD"
+        ]
+      },
+      {
+        "chapter": "Management of Colorectal Malignancies",
+        "topics": [
+          "Screening and polyp-cancer sequence",
+          "Principles of surgery for colon cancer",
+          "Rectal cancer: TME and APR vs LAR",
+          "Management of recurring and metastatic disease",
+          "Role of neoadjuvant therapy in rectal cancer"
+        ]
+      },
+      {
+        "chapter": "Ano-rectal Conditions (Hemorrhoids, Fissures, Fistulae)",
+        "topics": [
+          "Management of hemorrhoids (Ligation/Stapled)",
+          "Anal fissure: Acute and chronic (Sphincterotomy)",
+          "Fistula-in-ano: Goodsall's law and VAAFT",
+          "Pilonidal sinus and its surgical management",
+          "Perianal abscesses and necrotizing fasciitis"
+        ]
+      },
+      {
+        "chapter": "Functional Disorders of the Colon and Rectum",
+        "topics": [
+          "Management of rectal prolapse (Abdominal/Perineal)",
+          "Chronic constipation and Hirschsprung's disease",
+          "Fecal incontinence and sphincter repair",
+          "Solitary rectal ulcer syndrome",
+          "Pelvic floor dysfunction and its evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Endocrine and Breast Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Surgery of the Thyroid Gland",
+        "topics": [
+          "Classification of goiters and nodular thyroid",
+          "Hyperthyroidism and Graves' disease surgery",
+          "Differentiated and Medullary thyroid cancer",
+          "Total thyroidectomy and neck dissection",
+          "Complications of thyroid surgery"
+        ]
+      },
+      {
+        "chapter": "Parathyroid and Adrenal Surgery",
+        "topics": [
+          "Primary and secondary hyperparathyroidism",
+          "Surgical localization of parathyroid adenomas",
+          "Adrenal incidentalomas and Cushing's syndrome",
+          "Pheochromocytoma: Pre-op care and surgery",
+          "Laparoscopic adrenalectomy"
+        ]
+      },
+      {
+        "chapter": "Benign Breast Diseases",
+        "topics": [
+          "Assessment of the breast (Triple assessment)",
+          "ANDI classification and breast cysts",
+          "Mastalgia and inflammatory conditions",
+          "Nipple discharge: Diagnosis and management",
+          "Gynaecomastia in males"
+        ]
+      },
+      {
+        "chapter": "Management of Breast Cancer",
+        "topics": [
+          "Breast self-examination and mammography",
+          "Breast-conserving surgery (BCS) vs Mastectomy",
+          "Sentinel lymph node biopsy (SLNB) vs ALND",
+          "Oncoplastic breast surgery principles",
+          "Metastatic breast cancer management"
+        ]
+      },
+      {
+        "chapter": "Specialized Endocrine Topics",
+        "topics": [
+          "Multiple Endocrine Neoplasia (MEN) syndromes",
+          "Carcinoid tumors and syndrome",
+          "Neuroendocrine tumors of the GI tract",
+          "Autoimmune polyglandular syndromes",
+          "Genetic screening in endocrine surgery"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Urology and Genitourinary Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Renal and Ureteric Surgery",
+        "topics": [
+          "Management of renal trauma and bleeding",
+          "Hydronephrosis and PUJ obstruction",
+          "Renal cell carcinoma and Wilms' tumor",
+          "Ureteric injuries and reconstructive options",
+          "Principles of renal transplantation"
+        ]
+      },
+      {
+        "chapter": "Surgery of the Bladder and Urethra",
+        "topics": [
+          "Urinary retention and catheterization",
+          "Bladder trauma and extravasation",
+          "Bladder tumors: TURBT and Cystectomy",
+          "Urethral strictures and urethroplasty",
+          "Neuropathic bladder management"
+        ]
+      },
+      {
+        "chapter": "Prostate Surgery and Uro-oncology",
+        "topics": [
+          "Benign prostatic hyperplasia (BPH) and TURP",
+          "Prostate cancer: Screening and management",
+          "Lasers in urological surgery",
+          "Testicular tumors and seminoma",
+          "Penile carcinoma and inguinal nodes"
+        ]
+      },
+      {
+        "chapter": "Male External Genitalia and Scrotal Conditions",
+        "topics": [
+          "Hydrocele, varicocele, and spermatocele",
+          "Testicular torsion and emergency management",
+          "Fournier's gangrene and necrotizing infections",
+          "Phimosis and paraphimosis surgery",
+          "Male infertility and vasectomy"
+        ]
+      },
+      {
+        "chapter": "Management of Urolithiasis and Renal Failure",
+        "topics": [
+          "Pathogenesis and types of urinary stones",
+          "ESWL, PCNL, and URS/RIRS techniques",
+          "Metabolic workup for stone disease",
+          "Acute on chronic renal failure management",
+          "Vascular access (AV fistula) for dialysis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Vascular and Cardiothoracic Surgery",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Surgery of Arteries and Peripheral Vascular Disease",
+        "topics": [
+          "Acute limb ischemia and embolectomy",
+          "Chronic limb-threatening ischemia (CLTI)",
+          "Aortic and peripheral aneurysms",
+          "Buerger's disease and Raynaud's phenomenon",
+          "Endovascular vs Open arterial bypass"
+        ]
+      },
+      {
+        "chapter": "Venous and Lymphatic Disorders",
+        "topics": [
+          "Varicose veins: EVLA, RFA, and Stripping",
+          "Deep vein thrombosis (DVT) and PE",
+          "Chronic venous insufficiency and ulcers",
+          "Lymphedema: Classification and management",
+          "Lymphangiography and micro-vascular repair"
+        ]
+      },
+      {
+        "chapter": "Basics of Cardiothoracic Surgery",
+        "topics": [
+          "Mediastinal masses and tumors",
+          "Empyema thoracis and decortication",
+          "Thoracic outlet syndrome",
+          "Principles of CPB and cardiac valves",
+          "Lung resection: Lobectomy and Pneumonectomy"
+        ]
+      },
+      {
+        "chapter": "Management of Pleural and Lung Conditions",
+        "topics": [
+          "Pleural effusion and ICD insertion",
+          "Spontaneous and tension pneumothorax",
+          "Carcinoma of the lung: Staging and surgery",
+          "Chylothorax and thoracic duct injury",
+          "Chest wall tumors and reconstruction"
+        ]
+      },
+      {
+        "chapter": "Vascular Access and Interventional Procedures",
+        "topics": [
+          "Central venous access devices (Chemo-ports)",
+          "AV fistula and grafts for hemodialysis",
+          "Percutaneous transluminal angioplasty (PTA)",
+          "Endovascular repair of aortic aneurysms (EVAR)",
+          "Management of vascular malformations"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Neurosurgery and Plastic Surgery Basics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basics of Neurosurgery and Intracranial Lesions",
+        "topics": [
+          "Raised intracranial pressure (ICP) management",
+          "Hydrocephalus and Shunt procedures",
+          "Meningiomas and Gliomas: Surgical approach",
+          "Pituitary tumors and transsphenoidal surgery",
+          "Abscesses and tubercular lesions of the brain"
+        ]
+      },
+      {
+        "chapter": "Principles of Plastic and Reconstructive Surgery",
+        "topics": [
+          "The reconstructive ladder concept",
+          "Split and full-thickness skin grafts",
+          "Random and axial pattern flaps",
+          "Principles of tissue expansion",
+          "Aesthetics and scar management principles"
+        ]
+      },
+      {
+        "chapter": "Skin Grafting, Flaps, and Wound Coverage",
+        "topics": [
+          "Musculo-cutaneous and fasciocutaneous flaps",
+          "Free microvascular tissue transfer",
+          "Management of pressure sores",
+          "Contractures: Z-plasty and release",
+          "Complex wound reconstruction technologies"
+        ]
+      },
+      {
+        "chapter": "Hand Surgery and Peripheral Nerve Injuries",
+        "topics": [
+          "Anatomy of the hand and tendons",
+          "Management of hand infections and injuries",
+          "Peripheral nerve repair and grafting",
+          "Tendon transfers for palsy",
+          "Congenital hand anomalies"
+        ]
+      },
+      {
+        "chapter": "Micro-vascular Surgery Principles",
+        "topics": [
+          "Instrumentation and suture in microsurgery",
+          "Micro-vascular anastomosis: End-to-end vs side",
+          "Post-operative monitoring of micro-vascular flaps",
+          "Salvage techniques for failing flaps",
+          "Applications in head and neck reconstruction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Pediatric Surgery and Specialties",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Principles of Pediatric Surgery and Congenital Anomalies",
+        "topics": [
+          "Fluid and electrolyte management in neonates",
+          "Tracheoesophageal fistula and atresias",
+          "Congenital diaphragmatic hernia (CDH)",
+          "Pyloric stenosis and intestinal obstructions",
+          "Anorectal malformations (ARM)"
+        ]
+      },
+      {
+        "chapter": "Common Neonatal and Pediatric Surgical Conditions",
+        "topics": [
+          "Pediatric hernias and undescended testis",
+          "Intussusception and Volvulus neonatorum",
+          "Wilms' tumor and Neuroblastoma",
+          "Biliary atresia and Choledochal cysts",
+          "Necrotizing enterocolitis (NEC)"
+        ]
+      },
+      {
+        "chapter": "Basics of ENT and Ophthalmic Surgery for General Surgeons",
+        "topics": [
+          "Airway emergencies and tracheostomy",
+          "Epistaxis management and nasal packing",
+          "Basics of cataract and eye trauma",
+          "Thyroglossal cyst and branchial arch anomalies",
+          "Management of deep neck space infections"
+        ]
+      },
+      {
+        "chapter": "Organ Transplantation: Legal and Ethical Framework",
+        "topics": [
+          "The THOA Act and brain death declaration",
+          "Ethics of living vs deceased donation",
+          "Immunosuppression protocols and tracking",
+          "Organ procurement and preservation",
+          "Psychosocial aspects of transplantation"
+        ]
+      },
+      {
+        "chapter": "Geriatric Surgery and Special Populations",
+        "topics": [
+          "Frailty assessment and surgical risk",
+          "Cognitive decline and delirium in elderly",
+          "Polypharmacy and peri-operative optimization",
+          "Ethical dilemmas in geriatric surgery",
+          "Principles of rehabilitation for the aged"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Recent Advances and Research Methodology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Minimally Invasive Surgery: Laparoscopy and Robotics",
+        "topics": [
+          "Physics and instrumentation of laparoscopy",
+          "Physiological changes during pneumoperitoneum",
+          "Laparoscopic cholecystectomy and appendectomy",
+          "Introduction to Da Vinci robotics in surgery",
+          "Single-port and natural orifice (NOTES) surgery"
+        ]
+      },
+      {
+        "chapter": "Telemedicine, Simulation, and AI in Surgery",
+        "topics": [
+          "Role of simulation in surgical training",
+          "Tele-proctoring and remote surgical assistance",
+          "Artificial intelligence in surgical decision support",
+          "3D printing in surgical planning and prosthetics",
+          "Ethical considerations of digital health"
+        ]
+      },
+      {
+        "chapter": "Bioethics, Informed Consent, and Medico-legal Issues",
+        "topics": [
+          "Principles of bioethics: Autonomy, Justice",
+          "Process of obtaining informed surgical consent",
+          "Handling medical errors and disclosure",
+          "Medical negligence and legal frameworks in India",
+          "Documentation and record keeping in surgery"
+        ]
+      },
+      {
+        "chapter": "Research Methodology and Biostatistics for Surgeons",
+        "topics": [
+          "Designing clinical trials and cohort studies",
+          "Statistical significance and P-values",
+          "Hypothesis testing and regression models",
+          "Writing a surgical thesis and research paper",
+          "Critical appraisal of surgical literature"
+        ]
+      },
+      {
+        "chapter": "Evidence-Based Surgery and Clinical Audit",
+        "topics": [
+          "Principles of Evidence-Based Medicine (EBM)",
+          "Hierarchy of evidence and systematic reviews",
+          "The clinical audit cycle in surgical departments",
+          "Quality improvement and patient safety protocols",
+          "Surgical registry and long-term data tracking"
+        ]
+      }
+    ]
+  }
+]

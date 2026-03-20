@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "General Intelligence: Verbal Reasoning",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Analogy and Classification",
+        "topics": [
+          "Word analogy: Relationship between pairs",
+          "Letter analogy: Alphabet based patterns",
+          "Number analogy: Mathematical relationships",
+          "Odd word/number out: Classification",
+          "Symbol-based classification and matching"
+        ]
+      },
+      {
+        "chapter": "Series and Coding-Decoding",
+        "topics": [
+          "Number series: Missing/wrong number detection",
+          "Alphabet series: Character sequence patterns",
+          "Coding-Decoding by substitution and shifting",
+          "Matrix coding and decryption techniques",
+          "Alphanumeric series and symbol arrangement"
+        ]
+      },
+      {
+        "chapter": "Syllogism and Venn Diagrams",
+        "topics": [
+          "Two/Three statement syllogism problems",
+          "Standard Venn diagrams for logical relations",
+          "Identifying overlapping sets in Venn diagrams",
+          "All, Some, No logic application",
+          "Negative conclusions in syllogistic reasoning"
+        ]
+      },
+      {
+        "chapter": "Relative and Directional Reasoning",
+        "topics": [
+          "Blood relations: Deciphering family trees",
+          "Direction sense test: Distance and angle",
+          "Clockwise and anti-clockwise turns in direction",
+          "Ranking and position in a queue",
+          "Calendar-based problems and day calculation"
+        ]
+      },
+      {
+        "chapter": "Seating and Logical Arrangement",
+        "topics": [
+          "Linear seating arrangement: Single and double row",
+          "Circular seating arrangement: Facing in/out",
+          "Square and rectangular seating patterns",
+          "Floor-based puzzles with single variable",
+          "Logical sequence of words and dictionary order"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Intelligence: Non-Verbal Reasoning",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Figural Analogy and Classification",
+        "topics": [
+          "Analogy by shape transformation and rotation",
+          "Choosing the odd figure from a set",
+          "Grouping of identical figures in a matrix",
+          "Classification of non-verbal series elements",
+          "Matching of complex geometric patterns"
+        ]
+      },
+      {
+        "chapter": "Figural Series and Embedded Figures",
+        "topics": [
+          "Completion of figural series sequence",
+          "Finding the hidden/embedded figure in a block",
+          "Completing the missing part of an image",
+          "Dot situation and its placement in figures",
+          "Identifying the next pattern in abstract series"
+        ]
+      },
+      {
+        "chapter": "Mirror and Water Images",
+        "topics": [
+          "Mirror images of letters and numbers",
+          "Horizontal and vertical mirror reflection of shapes",
+          "Water images of words and complex diagrams",
+          "Reflection of clock time in water and mirror",
+          "Identifying the correct reflection of symbol sets"
+        ]
+      },
+      {
+        "chapter": "Paper Folding and Cutting",
+        "topics": [
+          "Visualizing the result of folding a paper sheet",
+          "Identifying the pattern after cutting a folded paper",
+          "Punch hole pattern visualization in paper",
+          "Unfolding of 3D layered shapes into 2D plane",
+          "Completing the symmetrical cut design"
+        ]
+      },
+      {
+        "chapter": "Cube and Dice / Counting Figures",
+        "topics": [
+          "Identifying the opposite face in standard dice",
+          "Folding of open cubes into closed boxes",
+          "Counting triangles and squares in complex images",
+          "Number of rectangles and straight lines in a figure",
+          "Visualizing the total vertices and edges of polygons"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness: History and Culture",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ancient and Medieval India",
+        "topics": [
+          "Harappan Civilisation and Vedic Age basics",
+          "Maurya and Gupta Dynasties: Main features",
+          "Delhi Sultanate: Administration and architecture",
+          "Mughal Empire: Key battles and socio-reforms",
+          "Bhakti and Sufi saints through medieval history"
+        ]
+      },
+      {
+        "chapter": "Indian National Movement",
+        "topics": [
+          "Establishment of INC and moderate-extremist split",
+          "Gandhian Satyagrahas: Non-Cooperation to Quit India",
+          "Revolutionary movements and important freedom fighters",
+          "Governor Generals and Viceroys under British rule",
+          "Constitutional development and Independence Act"
+        ]
+      },
+      {
+        "chapter": "Indian Art and Architecture",
+        "topics": [
+          "Temple architecture: Nagara and Dravida styles",
+          "Buddhist stupas and Ashokan rock pillars",
+          "Cave architecture: Ajanta, Ellora and Elephanta",
+          "Mughal monuments: Red Fort, Taj Mahal, etc.",
+          "Colonial architecture in major Indian cities"
+        ]
+      },
+      {
+        "chapter": "Dances, Music and Festivals",
+        "topics": [
+          "Indian Classical Dances and famous exponents",
+          "Folk dances of different states (Bhangra, Garba, etc.)",
+          "Carnatic and Hindustani music traditions",
+          "Important religious and harvest festivals of India",
+          "UNESCO Intangible Cultural Heritage of India list"
+        ]
+      },
+      {
+        "chapter": "Books, Authors and Awards",
+        "topics": [
+          "Ancient Indian texts: Arthashastra, Rajatarangini",
+          "Modern literature and biographies of national leaders",
+          "Nobel Laureates and Bharat Ratna awardees",
+          "Inventions, discoveries and scientific milestones",
+          "Major sports trophies and cups historical context"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness: Geography and Environment",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Physical Geography",
+        "topics": [
+          "Continents, oceans and internal structure of Earth",
+          "Plate tectonics, volcanoes and earthquakes",
+          "Atmosphere: Layers, winds and pressure belts",
+          "Climate zones and world vegetation patterns",
+          "Solar system: Planets and their characteristics"
+        ]
+      },
+      {
+        "chapter": "Indian Physical Geography",
+        "topics": [
+          "Himalayas, Northern Plains and Peninsular Plateau",
+          "Indian Drainage System: Himalayan and Peninsular rivers",
+          "Monsoons in India: Mechanism and distribution",
+          "Soil types of India and their regional significance",
+          "National Parks and Wildlife sanctuaries in India"
+        ]
+      },
+      {
+        "chapter": "Economic Geography and Minerals",
+        "topics": [
+          "Agriculture in India: Major crops and cropping seasons",
+          "Distribution of Coal, Iron, and Petroleum in India",
+          "Industries: Iron and Steel, Textiles and IT sectors",
+          "Transport: Road, Rail, Air and major Indian ports",
+          "Multipurpose river valley projects in India"
+        ]
+      },
+      {
+        "chapter": "Environmental Science",
+        "topics": [
+          "Ecosystem basics: Food chain and food web",
+          "Types of pollution: Air, Water, Soil and Noise",
+          "Greenhouse effect and Global Warming causes/impact",
+          "Ozone layer depletion and its protection",
+          "Biodiversity hotspots and endangered species conservation"
+        ]
+      },
+      {
+        "chapter": "Ecology and Global Conventions",
+        "topics": [
+          "Sustainable development goals and climate action",
+          "Important conventions: Ramsar, Kyoto, Paris Agreement",
+          "National Green Tribunal (NGT) and environmental laws",
+          "Wildlife Protection Act and Forest Conservation Act",
+          "Project Tiger and other flagship wildlife programs"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness: Indian Polity and Constitution",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Constitutional Framework",
+        "topics": [
+          "Making of the Constitution and the Preamble",
+          "Fundamental Rights and Duties of citizens",
+          "Directive Principles of State Policy (DPSP)",
+          "Union and its Territories: States reorganization",
+          "Citizenship provisions under the Indian Constitution"
+        ]
+      },
+      {
+        "chapter": "Union and State Government",
+        "topics": [
+          "President, Vice-President and Prime Minister roles",
+          "Parliament: Rajya Sabha and Lok Sabha structure",
+          "Governor and Chief Minister of states",
+          "Union-State relations: Legislative and Administrative",
+          "Emergency provisions and their implications"
+        ]
+      },
+      {
+        "chapter": "Judiciary and Local Governance",
+        "topics": [
+          "Supreme Court and High Courts of India",
+          "Subordinate courts and the judicial review process",
+          "Panchayati Raj (73rd Amend) and Municipalities (74th)",
+          "Lokpal and Lokayuktas institution in India",
+          "Judicial activism vs judicial restraint concepts"
+        ]
+      },
+      {
+        "chapter": "Constitutional Bodies",
+        "topics": [
+          "Election Commission and electoral reforms",
+          "UPSC and State Public Service Commissions",
+          "Finance Commission: Appointment and role",
+          "Comptroller and Auditor General of India (CAG)",
+          "Attorney General and Solicitor General of India"
+        ]
+      },
+      {
+        "chapter": "Important Articles and Amendments",
+        "topics": [
+          "Key Articles of the Constitution (Art 1 to 395 summary)",
+          "Scheduled Castes and Tribes special provisions",
+          "Official languages of India and 8th Schedule",
+          "Landmark amendments (42nd, 44th, 101st, etc.)",
+          "Election Laws: RPA 1950 and 1951 overview"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness: Indian Economy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Economy",
+        "topics": [
+          "Sectors of Indian Economy: Agri, Industry, Service",
+          "National Income concepts: GDP, GNP, NNP",
+          "Calculation of National Income in India",
+          "Micro vs Macro-economics fundamental differences",
+          "Infrastructure and its role in economic dev"
+        ]
+      },
+      {
+        "chapter": "Banking and Monetary Policy",
+        "topics": [
+          "Structure and functions of RBI",
+          "Monetary policy tools: Repo, RR, SLR and CRR",
+          "Indian Banking System: Public, Private and NBFCs",
+          "Digital banking and NPAs (non-performing assets)",
+          "Financial Inclusion: PMJDY and microfinance"
+        ]
+      },
+      {
+        "chapter": "Fiscal Policy and Budget",
+        "topics": [
+          "Union Budget: Revenue and Capital expenditure",
+          "Direct and Indirect taxes (GST) in India",
+          "Fiscal Deficit and FRBM Act objectives",
+          "Finance Commission recommendations",
+          "Outcome budgeting and gender budgeting concepts"
+        ]
+      },
+      {
+        "chapter": "Foreign Trade and Investment",
+        "topics": [
+          "Balance of Payments (BoP) and Foreign Trade Policy",
+          "FDI and FPI: Differences and current trends",
+          "Exchange rate management: Fixed vs Floating",
+          "Indian participation in WTO and FTAs",
+          "Special Economic Zones (SEZ) policy"
+        ]
+      },
+      {
+        "chapter": "Planning and Welfare",
+        "topics": [
+          "History of Five-Year Plans in India",
+          "NITI Aayog: Structure and objectives",
+          "Poverty and Unemployment measurement in India",
+          "Flagship welfare schemes of the Union Govt",
+          "Sustainable development and green economy efforts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Awareness: General Science",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Physics",
+        "topics": [
+          "Units and measurements, motion and laws of motion",
+          "Work, Energy and Power: Basic applications",
+          "Heat, Thermodynamics and Light (Optics)",
+          "Sound waves and Electricity/Magnetism basics",
+          "Atomic and Nuclear physics: General concepts"
+        ]
+      },
+      {
+        "chapter": "Chemistry",
+        "topics": [
+          "Structure of atom and periodic table trends",
+          "Chemical bonding and properties of matter",
+          "Acids, Bases and Salts in everyday life",
+          "Metals and Non-metals: Properties and alloys",
+          "Carbon and its compounds: Fundamental organic"
+        ]
+      },
+      {
+        "chapter": "Biology (Human Body)",
+        "topics": [
+          "Human Digestive, Circulatory and Nervous systems",
+          "Endocrine and Excretory systems function",
+          "Cell and Tissues: Structure and functions",
+          "Common human diseases: Deficiency and Lifestyle",
+          "Nutritional science and balanced diet components"
+        ]
+      },
+      {
+        "chapter": "Biology (Plants and Genetics)",
+        "topics": [
+          "Plant physiology: Photosynthesis and Respiration",
+          "Classification of living organisms: 5 Kingdoms",
+          "Genetics and Evolution: Basic principles",
+          "Economic importance of plants and animals",
+          "Environmental biology and biodiversity loss"
+        ]
+      },
+      {
+        "chapter": "Scientific Development",
+        "topics": [
+          "Indian space research: ISRO and its missions",
+          "Defense research: DRDO and missile systems",
+          "Information technology and AI developments",
+          "Basics of Biotechnology and Genetic Engineering",
+          "Major scientific inventions and award recipients"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quantitative Aptitude: Arithmetic Ability",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ratio and Proportion / Partnership",
+        "topics": [
+          "Ratio, proportion and variation problems",
+          "Partnership: Investment and profit sharing",
+          "Average and Age-based problems",
+          "Mixture and Alligation: Replacing/mixing solutions",
+          "Conceptual questions on ratios in geometry"
+        ]
+      },
+      {
+        "chapter": "Percentage / Profit and Loss",
+        "topics": [
+          "Percentage: Increase/decrease and successive change",
+          "Profit, Loss and Discount: Selling/Cost price",
+          "Dishonest dealer and successive discount cases",
+          "Simple and Compound interest calculations",
+          "Installment based problems in CI and SI"
+        ]
+      },
+      {
+        "chapter": "Time and Work / Pipes and Cistern",
+        "topics": [
+          "Time and Work: Men-days and group efficiency",
+          "Work and Wages: Ratio based distribution",
+          "Pipes and Cisterns: Tank filling/emptying logic",
+          "Alternate day working and efficiency factor",
+          "Complex work patterns and negative work cases"
+        ]
+      },
+      {
+        "chapter": "Time, Speed and Distance",
+        "topics": [
+          "Relative speed: Trains and overtaking problems",
+          "Boats and Streams: Upstream/Downstream speed",
+          "Average speed and circular track races",
+          "Escalator based problems and walk/run speed",
+          "Time-distance-speed relationship and mapping"
+        ]
+      },
+      {
+        "chapter": "Number Systems / Data Interpretation",
+        "topics": [
+          "Divisibility rules, HCF and LCM applications",
+          "Data Interpretation: Line graphs and Bar charts",
+          "Pie charts and Tables based numerical analysis",
+          "Mean and Median questions in DI sets",
+          "Simplification: BODMAS and fraction-based sums"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Quantitative Aptitude: Advance Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Algebra",
+        "topics": [
+          "Basic identities and algebraic expressions",
+          "Linear equations with two/three variables",
+          "Quadratic equations and roots relationship",
+          "Graphs of linear and quadratic functions",
+          "Factoring of polynomials and remainder theorem"
+        ]
+      },
+      {
+        "chapter": "Geometry",
+        "topics": [
+          "Lines, Rays and Angles: Basic properties",
+          "Triangles: Congruency, similarity and centers",
+          "Quadrilaterals and Polygons: Sum of angles",
+          "Circles: Tangents, secants and chords properties",
+          "Geometric proofs and constructions summary"
+        ]
+      },
+      {
+        "chapter": "Mensuration (2D and 3D)",
+        "topics": [
+          "Area and perimeter of Triangles and Quadrilaterals",
+          "Circle/Sector area and perimeter calculations",
+          "Surface area and Volume of Cube and Cuboid",
+          "Volume and CSA of Cylinder, Cone and Sphere",
+          "Frustum of a cone and Prism/Pyramid basics"
+        ]
+      },
+      {
+        "chapter": "Trigonometry",
+        "topics": [
+          "Trigonometric Ratios: Sin, Cos, Tan, etc.",
+          "Standard Trigonometric Identities and formulas",
+          "Complementary angles and height/distance",
+          "Trigonometric values of standard degree angles",
+          "Solving triangles using trigonometry (Sine rule)"
+        ]
+      },
+      {
+        "chapter": "Statistics and Probability (General)",
+        "topics": [
+          "Mean, Median and Mode calculations",
+          "Range, Mean deviation and Standard deviation",
+          "Probability: Coin, Dice and Cards problems",
+          "Mutually exclusive and independent events",
+          "Standard frequency distribution/polygons"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Grammar and Usage",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Tense and Subject-Verb Agreement",
+        "topics": [
+          "Present, past, and future tense correct usage",
+          "Rules of subject-verb agreement in complex sentences",
+          "Conditionals: If-clauses and sequence of tenses",
+          "Identifying the correct tense for reported events",
+          "Common errors in auxiliary and linking verbs"
+        ]
+      },
+      {
+        "chapter": "Active/Passive and Direct/Indirect Speech",
+        "topics": [
+          "Rules of voice transformation across tenses",
+          "Active to passive voice with multiple objects",
+          "Direct to indirect speech: Pronoun and tense change",
+          "Reporting imperatives, interrogatives and exclamations",
+          "Identifying the correct voice/speech form in sentences"
+        ]
+      },
+      {
+        "chapter": "Articles and Prepositions",
+        "topics": [
+          "Definite and indefinite articles: Correct application",
+          "Omission of articles in specific contexts",
+          "Common prepositions of time, place and direction",
+          "Fixed prepositions following verbs/adjectives",
+          "Spotting errors in prepositional phrase usage"
+        ]
+      },
+      {
+        "chapter": "Noun, Pronoun and Adjectives",
+        "topics": [
+          "Countable and uncountable nouns: Agreement rules",
+          "Types of pronouns: Relative, Reflexive and Emphatic",
+          "Comparison of adjectives: Positive, Comparative, Superlative",
+          "Ordering of multiple adjectives in a sentence",
+          "Possessive nouns and pronouns correct punctuation"
+        ]
+      },
+      {
+        "chapter": "Conjunctions and Sentence Correction",
+        "topics": [
+          "Coordinating and subordinating conjunctions",
+          "Correlative conjunctions: Either-or, Neither-nor, etc.",
+          "Sentence inversion after negative expressions",
+          "Parallelism in sentence structure rules",
+          "Finding the grammatical error in long sentences"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Vocabulary and Idioms",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Synonyms and Antonyms",
+        "topics": [
+          "Academic and high-frequency vocabulary list",
+          "Finding synonyms in contextual sentence usage",
+          "Identifying antonyms for specialized terms",
+          "Choosing the closest meaning word in MCQs",
+          "Word root-based training for meaning identification"
+        ]
+      },
+      {
+        "chapter": "One Word Substitutions",
+        "topics": [
+          "Words for types of governments and philosophies",
+          "Substitutions for professional roles and lifestyles",
+          "Scientific and literary terminology in one word",
+          "Identifying the term from its definition provided",
+          "Group/Set based terminology for people/things"
+        ]
+      },
+      {
+        "chapter": "Idioms and Phrases",
+        "topics": [
+          "Common English idioms and their actual meanings",
+          "Phrases used in formal and business English",
+          "Origin and figurative use of popular idioms",
+          "Connecting idioms to their situational usage",
+          "Distinguishing between literal and idiomatic phrases"
+        ]
+      },
+      {
+        "chapter": "Homonyms and Spelling Correction",
+        "topics": [
+          "Distinguishing between commonly confused homophones",
+          "Correcting misspelled words in a selection list",
+          "Rules for silent letters and suffix/prefix spellings",
+          "Spelling variants in British vs American English",
+          "Identifying the correctly spelled word in MCQs"
+        ]
+      },
+      {
+        "chapter": "Phrasal Verbs and Collocations",
+        "topics": [
+          "Break, Get, Keep, Look phrasal verb clusters",
+          "Common verb-noun and adjective-noun collocations",
+          "Prepositional collocations in standard English",
+          "Correcting phrasal verb errors in sentences",
+          "Usage of fixed phrases in academic/legal context"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Language: Comprehension",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cloze Passage",
+        "topics": [
+          "Filling blanks with contextually correct words",
+          "Logical flow and coherence in a cloze test",
+          "Vocabulary based choices in cloze passages",
+          "Grasping the main theme of the gapped text",
+          "Grammatical clues for word selection in blanks"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension",
+        "topics": [
+          "Identifying the central idea and title of passage",
+          "Extracting factual details and data points",
+          "Inference-based questions and author's tone",
+          "Meaning of underlined words in the passage",
+          "Evaluating the summary of the reading material"
+        ]
+      },
+      {
+        "chapter": "Jumbled Sentences (Para Jumbles)",
+        "topics": [
+          "Connecting the opening and closing sentences",
+          "Logical sequence of events in a paragraph",
+          "Identifying transition words to link sentences",
+          "Eliminating incorrect sequences in option list",
+          "Maintaining coherence in rearranged paragraphs"
+        ]
+      },
+      {
+        "chapter": "Error Detection and improvement",
+        "topics": [
+          "Spotting the grammatical error in a sentence",
+          "Improving the underlined part of a sentence",
+          "Replacing incorrect phrases with better options",
+          "Handling dangling modifiers and run-on sentences",
+          "No improvement needed: Identifying correct text"
+        ]
+      },
+      {
+        "chapter": "Active to Passive and Narrative",
+        "topics": [
+          "Transformation of sentences without meaning change",
+          "Reporting long dialogues into indirect speech",
+          "Active-Passive voice swap practice at speed",
+          "Identifying errors in speech/voice conversions",
+          "Sentence synthesis using conjunctions/relative pronouns"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Knowledge (Tier II)",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Computer Basics",
+        "topics": [
+          "Organisation of a CPU; Input/Output devices",
+          "Computer memory: RAM, ROM, Secondary cache",
+          "Operating System basics: Windows vs Linux",
+          "History of computers and hardware generations",
+          "Basic software vs System software concepts"
+        ]
+      },
+      {
+        "chapter": "MS Office Suite",
+        "topics": [
+          "MS Word: Shortcuts, Formatting and review",
+          "MS Excel: Formulas, Charts and cell formatting",
+          "MS PowerPoint: Slide design and animations",
+          "Common shortcuts across MS Office products",
+          "Data entry and documentation standards"
+        ]
+      },
+      {
+        "chapter": "Internet and Communication",
+        "topics": [
+          "Web Browsers and Search Engine technology",
+          "Electronic Mail (Email): Folders and attachments",
+          "FTP, URL and Domain names explanation",
+          "Social media platforms and digital interaction",
+          "Online banking and secure transactions basics"
+        ]
+      },
+      {
+        "chapter": "Networking and Cyber Security",
+        "topics": [
+          "Network types: LAN, WAN and MAN",
+          "Modem, Switch and Router: Networking devices",
+          "Malware, Viruses and Worms: Definitions",
+          "Antivirus and Firewalls: Protecting the system",
+          "Cyber laws and Information Technology Act summary"
+        ]
+      },
+      {
+        "chapter": "Shortcut Keys and Terminology",
+        "topics": [
+          "Windows OS shortcut keys (Universal)",
+          "File extensions list (PDF, DOC, XLS, etc.)",
+          "Abbreviation list (URL, IP, TCP, etc.)",
+          "Functional keys (F1 to F12) usage",
+          "Troubleshooting basic computer errors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Statistics and Financial Awareness",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Statistics: Central Tendency",
+        "topics": [
+          "Calculation of Mean, Median and Mode",
+          "Standard Deviation and Variance formulas",
+          "Gini Coefficient and Lorenz Curve basics",
+          "Geometric Mean and Harmonic Mean contexts",
+          "Frequency distributions and Histograms"
+        ]
+      },
+      {
+        "chapter": "Data Sampling and Collection",
+        "topics": [
+          "Methods of data collection: Primary/Secondary",
+          "Sampling techniques: Random and stratified",
+          "Index numbers: Laspeyres, Paasche and Fishers",
+          "Correlation and Regression analysis basics",
+          "Analysis of time series and forecasting"
+        ]
+      },
+      {
+        "chapter": "Financial Accounting Principles",
+        "topics": [
+          "Double entry bookkeeping and ledger Posting",
+          "Trial Balance and Financial Statements",
+          "Bank Reconciliation Statement (BRS) basics",
+          "Depreciation and inventory valuation methods",
+          "Accounting for partnership and dissolution"
+        ]
+      },
+      {
+        "chapter": "Financial Markets and Audit",
+        "topics": [
+          "Role of SEBI and stock market basics",
+          "Money Market vs Capital Market features",
+          "Principles of Internal and Statutory Audit",
+          "Role of the CAG in financial auditing",
+          "Auditing of public sector undertakings (PSUs)"
+        ]
+      },
+      {
+        "chapter": "Economics and Management",
+        "topics": [
+          "Cost accounting: Marginal and Standard costing",
+          "Budgetary control and variance analysis",
+          "Business environment and regulatory bodies",
+          "International financial institutions (World Bank, IMF)",
+          "Corporate governance and ethical businesses"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "subject": "Indian History and National Movement",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ancient India: From Indus to Gupta",
+        "topics": [
+          "Harappan Civilisation: Urban planning and socio-economic life",
+          "Vedic Period: Polity, society and religious transition",
+          "Mauryan Empire: Administrative structure and Ashoka's Dhamma",
+          "Post-Mauryan and Gupta Age: Art, sculpture and golden era",
+          "Buddhism and Jainism: Origins, tenets and spread"
+        ]
+      },
+      {
+        "chapter": "Medieval India: Sultanate to Mughals",
+        "topics": [
+          "Delhi Sultanate: Slave, Khalji, Tughlaq dynasties",
+          "Mughal Empire: Administrative reforms of Akbar and Aurangzeb",
+          "Bhakti and Sufi movements: Socio-cultural integration",
+          "Marathas and Rajputs: Resistance and administrative models",
+          "Architecture and literature under the Delhi and Mughal rulers"
+        ]
+      },
+      {
+        "chapter": "Modern India: British Rule to 1857",
+        "topics": [
+          "Advent of Europeans and establishment of British power",
+          "Economic impact of British rule: Drain of wealth and famine",
+          "Administrative and social reforms under the East India Company",
+          "Revolt of 1857: Causes, key leaders and impact",
+          "Peasant and tribal movements against colonial policies"
+        ]
+      },
+      {
+        "chapter": "Indian National Movement: 1885-1947",
+        "topics": [
+          "Foundation of INC and Moderate vs Extremist phases",
+          "The Gandhian Era: Non-Cooperation and Satyagrahas",
+          "Revolutionary movements in India and abroad",
+          "Constitutional development: Government of India Acts",
+          "Independence and Partition: Role of key national figures"
+        ]
+      },
+      {
+        "chapter": "Post-Independence Consolidation",
+        "topics": [
+          "Integration of Princely States and reorganisation of states",
+          "Linguistic states and the Pandit Nehru era (Planning)",
+          "Constitutional amendments and socio-economic reforms",
+          "India's relations with neighbors post-1947 wars",
+          "Tribal policy and Panchayati Raj evolution"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian and World Geography",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Physical Geography: Earth and Climate",
+        "topics": [
+          "Geomorphology: Plate tectonics, volcanoes and earthquakes",
+          "Climatology: Atmospheric structure, winds and humidity",
+          "Oceanography: Salinity, tides and ocean currents",
+          "Biogeography: Soil types and biome distribution",
+          "Geological time scale and evolution of Earth"
+        ]
+      },
+      {
+        "chapter": "World Geography: Continents and Resources",
+        "topics": [
+          "Major continents: Physiographic and climatic divisions",
+          "Distribution of key natural resources (Coal, Oil, Iron)",
+          "Global human settlement patterns and urbanization",
+          "International trade routes and strategic ports",
+          "Trans-continental rail and road networks"
+        ]
+      },
+      {
+        "chapter": "Physical Geography of India",
+        "topics": [
+          "Physiographic divisions: Himalayas, Indo-Gangetic Plains",
+          "Indian Drainage System: Himalayan and Peninsular rivers",
+          "Climate of India: Monsoons, seasons and rainfall distribution",
+          "Natural vegetation and wildlife zones in India",
+          "Soils of India: Classification and conservation techniques"
+        ]
+      },
+      {
+        "chapter": "Human and Economic Geography of India",
+        "topics": [
+          "Population: Distribution, density and sex ratio in India",
+          "Agriculture: Multi-cropping, cash crops and food grains",
+          "Mineral and energy resources spatial distribution",
+          "Industrial regions and development corridors in India",
+          "Transport networks: Golden Quadrilateral and inland waterways"
+        ]
+      },
+      {
+        "chapter": "Environmental Geography and Mapping",
+        "topics": [
+          "Impact of climate change on world ecosystem",
+          "Natural disasters: Floods, droughts and management in India",
+          "Map work: Important cities, mountains and passes",
+          "International boundary disputes and maritime agreements",
+          "Remote sensing and GIS applications in geography"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Polity and Governance",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Constitutional Framework",
+        "topics": [
+          "Preamble and the making of Indian Constitution",
+          "Fundamental Rights and Duties, Directive Principles",
+          "Citizenship and Union/State territories",
+          "Constitutional amendments: Basic structure doctrine",
+          "Historical underpinnings of the legal system"
+        ]
+      },
+      {
+        "chapter": "The Executive and Legislature",
+        "topics": [
+          "Union Executive: President, Prime Minister and Cabinet",
+          "Parliament: Structure, functions and legislative process",
+          "State Executive and Governor's role",
+          "State Legislature: Assembly vs Council powers",
+          "Parliamentary committees and their importance"
+        ]
+      },
+      {
+        "chapter": "The Judiciary and Federalism",
+        "topics": [
+          "Supreme Court: Jurisdiction and powers",
+          "High Courts and Subordinate Courts hierarchy",
+          "Judicial Review and Judicial Activism in India",
+          "Center-State Relations: Legislative, Administrative, Financial",
+          "Zonal Councils and Interstate Council mechanism"
+        ]
+      },
+      {
+        "chapter": "Local Governance and Constitutional Bodies",
+        "topics": [
+          "Panchayati Raj Institutions: 73rd Amendment",
+          "Urban Local Bodies: 74th Amendment",
+          "Election Commission: Powers and election process",
+          "UPSC and State Public Service Commissions",
+          "Finance Commission and its role in fiscal dev"
+        ]
+      },
+      {
+        "chapter": "Non-Constitutional and Regulatory Bodies",
+        "topics": [
+          "NITI Aayog structure and objectives",
+          "National Human Rights Commission (NHRC) powers",
+          "Central Information Commission and RTI Act",
+          "Central Vigilance Commission (CVC) role",
+          "Lokpal and Lokayuktas in India"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economic and Social Development",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "National Income and Growth",
+        "topics": [
+          "National Income concepts: GDP, GNP, NNP",
+          "Growth vs Development: Indicators and HDI",
+          "Sustainable development goals and Indian efforts",
+          "Inclusive growth and demographic dividend",
+          "Employment trends and periodic labor force surveys"
+        ]
+      },
+      {
+        "chapter": "Poverty, Inclusion and Social Welfare",
+        "topics": [
+          "Measurement of poverty and committee reports",
+          "Financial inclusion: PMJDY and digital payments",
+          "Welfare schemes for vulnerable sections (SC/ST/Women)",
+          "Social security for workers in unorganised sector",
+          "Food security and the Public Distribution System (PDS)"
+        ]
+      },
+      {
+        "chapter": "Fiscal Policy and Budgeting",
+        "topics": [
+          "Components of Government Budget: Revenue and Capital",
+          "Fiscal deficit, revenue deficit and FRBM Act",
+          "Taxation reforms: GST and Direct Tax Code",
+          "Public expenditure management and subsidies",
+          "Gender budgeting and outcome-based budgeting"
+        ]
+      },
+      {
+        "chapter": "Monetary Policy and Banking",
+        "topics": [
+          "Role of RBI and monetary policy tools (Repo, SLR)",
+          "Indian Banking Sector: Public vs Private and NBFCs",
+          "Insolvency and Bankruptcy Code (IBC) impact",
+          "Digital economy and FinTech innovations",
+          "Inflation: Types, measurement (WPI/CPI) and control"
+        ]
+      },
+      {
+        "chapter": "International Trade and Organizations",
+        "topics": [
+          "Balance of Payments: Current and Capital accounts",
+          "Foreign Direct Investment (FDI) and FPI trends",
+          "Role of WTO, IMF and World Bank in global economy",
+          "Free Trade Agreements (FTAs) and impact on India",
+          "Exchange rate management: Fixed vs Floating"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Environmental Ecology and Climate Change",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ecology and Biodiversity Principles",
+        "topics": [
+          "Ecological hierarchy: Organism, Population, Ecosystem",
+          "Energy flow: Food chain, web and ecological pyramids",
+          "Biodiversity hotspots and threatened species in India",
+          "Wetlands and Coral Reef ecosystems conservation",
+          "Ex-situ and In-situ conservation strategies"
+        ]
+      },
+      {
+        "chapter": "Pollution and Degradation",
+        "topics": [
+          "Air pollution: National Clean Air Programme",
+          "Water pollution: RAMSAR sites and river cleaning",
+          "Soil pollution and desertification in India",
+          "Electronic and Plastic waste management rules",
+          "Noise pollution and health impacts"
+        ]
+      },
+      {
+        "chapter": "Climate Change and Mitigation",
+        "topics": [
+          "Greenhouse effect and global warming trends",
+          "UNFCCC: Paris Agreement and COP objectives",
+          "National Action Plan on Climate Change (NAPCC)",
+          "Renewable energy missions and solar alliance",
+          "Ozone layer depletion and Montreal Protocol"
+        ]
+      },
+      {
+        "chapter": "Environmental Legislation and Bodies",
+        "topics": [
+          "Environment Protection Act and Wildlife Act",
+          "Biological Diversity Act and its implementation",
+          "National Green Tribunal (NGT) powers and role",
+          "Central Pollution Control Board (CPCB) functions",
+          "Coastal Regulation Zone (CRZ) norms in India"
+        ]
+      },
+      {
+        "chapter": "Wildlife Conservation and Parks",
+        "topics": [
+          "Project Tiger and Project Elephant status",
+          "National Parks and Wildlife Sanctuaries in India",
+          "Biosphere Reserves and MAB program",
+          "Ecologically sensitive areas and developmental impact",
+          "IUCN classification and species conservation status"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "General Science and Technology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Space Technology and ISRO",
+        "topics": [
+          "Orbits: LEO, MEO, GEO and GTO for satellites",
+          "Launch vehicles: SLV, PSLV, GSLV (Mk III)",
+          "Important missions: Chandrayaan, Mangalyaan, Gaganyaan",
+          "Remote sensing and communication satellite systems",
+          "Indigenous cryogenic engine development"
+        ]
+      },
+      {
+        "chapter": "Information Technology and AI",
+        "topics": [
+          "Fundamentals of computing and supercomputing",
+          "Artificial Intelligence, Machine Learning and Ethics",
+          "Cloud computing, Internet of Things (IoT) and 5G",
+          "E-governance tools and cybersecurity challenges",
+          "Blockchain technology and its applications"
+        ]
+      },
+      {
+        "chapter": "Biotechnology and Genetic Eng",
+        "topics": [
+          "Recombinant DNA technology and its uses",
+          "Genomics, Proteomics and DNA fingerprinting",
+          "Applications in agriculture: Bt crops and CRISPR",
+          "Biotechnology in healthcare: Vaccines and Stem cells",
+          "Regulatory framework for GE in India"
+        ]
+      },
+      {
+        "chapter": "Defense Technology and DRDO",
+        "topics": [
+          "Missile systems: Agni, Prithvi, Brahmos",
+          "Nuclear program of India: Civilian vs Strategic",
+          "Naval systems: Aircraft carriers and submarines",
+          "Indigenization of defense and offsets policy",
+          "UAVs and drone technology in defense"
+        ]
+      },
+      {
+        "chapter": "General Science: Biology and Physics",
+        "topics": [
+          "Human health: Diseases (Infectious/Lifestyle)",
+          "Nutritional science and balanced diet components",
+          "Basics of Physics: Energy, Motion and Fluids",
+          "Basics of Chemistry: Atomic structure and Periodic table",
+          "Nanotechnology and its future prospects"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Heritage and Culture",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Indian Architecture and Sculpture",
+        "topics": [
+          "Indus Valley and Mauryan architectural remains",
+          "Temple architecture: Nagara, Dravida, and Vesara styles",
+          "Indo-Islamic and British colonial architecture",
+          "Monolithic sculpture and rock-cut architecture",
+          "Modern and post-modern architecture in India"
+        ]
+      },
+      {
+        "chapter": "Classical and Folk Dances",
+        "topics": [
+          "Indian classical dances: Bharatanatyam, Kathakali, etc.",
+          "Folk and tribal dances across different states",
+          "Contemporary dance and theatrical forms in India",
+          "Martial arts traditions: Kalaripayattu, Gatka",
+          "Sangeet Natak Akademi and institutional patronage"
+        ]
+      },
+      {
+        "chapter": "Indian Music and Instruments",
+        "topics": [
+          "Hindustani and Carnatic classical music traditions",
+          "Musical instruments: String, wind, and percussion",
+          "Regional and folk music styles of India",
+          "Important gharanas and exponents of Indian music",
+          "Evolution of musical forms (Dhrupad, Khayal)"
+        ]
+      },
+      {
+        "chapter": "Painting and Traditional Crafts",
+        "topics": [
+          "Indian paintings: Pre-historic cave to modern",
+          "Miniature paintings: Mughal, Pahari, and Rajasthani",
+          "Handicrafts and textiles: Ikat, Pashmina, and others",
+          "Pottery, embroidery, and folk crafts regional diversity",
+          "National museums and preservation of heritage"
+        ]
+      },
+      {
+        "chapter": "Language, Literature and Philosophy",
+        "topics": [
+          "Sanskrit literature: Epics and classical dramas",
+          "Sangam literature and Dravidian linguistic heritage",
+          "Modern Indian literature and Bhakti poetry",
+          "Six schools of Indian Philosophy (Astika and Nastika)",
+          "Protection of intangible cultural heritage (UNESCO list)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Governance and Social Justice",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Good Governance and Transparency",
+        "topics": [
+          "Concept and principles of good governance",
+          "E-governance: Models, success stories, and challenges",
+          "Citizen's Charter and Service Delivery quality",
+          "Right to Information (RTI) as a tool of transparency",
+          "Social Audit and Accountable management"
+        ]
+      },
+      {
+        "chapter": "Role of Civil Services",
+        "topics": [
+          "Evolution and structure of civil services in India",
+          "Functions of IAS, IPS, and IFS in democratization",
+          "Neutrality, anonymity, and commitment in services",
+          "Civil service reforms: From recruitments to training",
+          "Lateral entry and specialization challenges"
+        ]
+      },
+      {
+        "chapter": "Social Justice and Welfare Schemes",
+        "topics": [
+          "Welfare schemes for SCs, STs, and OBCs",
+          "Policies for women and children: PMJDY, Poshan",
+          "Issues faced by the elderly and persons with disabilities",
+          "Mechanism for the protection of minority rights",
+          "Impact of social inclusion policies"
+        ]
+      },
+      {
+        "chapter": "Health, Education and HR",
+        "topics": [
+          "Issues relating to development in health sector",
+          "Education policy and skill development missions",
+          "Human resources management and employability",
+          "Issues relating to hunger and malnutrition (NFHS)",
+          "Universal health coverage and medical infrastructure"
+        ]
+      },
+      {
+        "chapter": "Civil Society and Institutional Mechanism",
+        "topics": [
+          "Role of Self Help Groups (SHG) in empowerment",
+          "Non-Governmental Organizations (NGO) and developmental process",
+          "Donors, charities, and community-based organizations",
+          "Quasi-judicial bodies and their governance role",
+          "Statutory bodies for regulating social sectors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "International Relations and World History",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "India's Foreign Policy and Neighbors",
+        "topics": [
+          "Panchsheel and non-alignment as guiding principles",
+          "Bilateral relations with Pakistan, China, and USA",
+          "Neighborhood First policy and maritime security (SAGAR)",
+          "Look East, Act East, and West Asia policies",
+          "Energy diplomacy and international connectivity projects"
+        ]
+      },
+      {
+        "chapter": "Global Groupings and Institutions",
+        "topics": [
+          "Role and relevance of UN, WTO, and IMF",
+          "Strategic groupings: QUAD, G20, BRICS, and SCO",
+          "Regional groupings: SAARC, BIMSTEC, and EU",
+          "Global environmental treaties and climate diplomacy",
+          "Nuclear non-proliferation and export control regimes"
+        ]
+      },
+      {
+        "chapter": "Industrial Revolution and World Wars",
+        "topics": [
+          "Industrial Revolution: Origins, impact, and spreading",
+          "World War I: Causes, course, and consequences",
+          "World War II: Global conflict and end of empires",
+          "Russian Revolution and its global significance",
+          "American War of Independence and French Revolution"
+        ]
+      },
+      {
+        "chapter": "Decolonization and Cold War",
+        "topics": [
+          "Decolonization of Asia and Africa in 20th century",
+          "Cold War: Bipolarity, proxy wars, and end",
+          "Integration of Europe and rise of ASEAN",
+          "Global economic crises and their political outcomes",
+          "Emergence of new nations and border disputes"
+        ]
+      },
+      {
+        "chapter": "Contemporary Global Issues",
+        "topics": [
+          "Global terrorism and international cooperation",
+          "Humanitarian crises and refugee movements",
+          "Indo-Pacific strategy and maritime freedom",
+          "Technological wars: Chips, AI, and cybersecurity",
+          "Reform of international governance (UNSC expansion)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economic Development and Agriculture",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Indian Agriculture: Irrigation and Crops",
+        "topics": [
+          "Major cropping patterns in various parts of the country",
+          "Irrigation systems and water management: PMKSY",
+          "E-technology in the aid of farmers and digital agri",
+          "Issues related to direct and indirect farm subsidies",
+          "Minimum Support Price (MSP) and food security"
+        ]
+      },
+      {
+        "chapter": "Land Reforms and Food Processing",
+        "topics": [
+          "Land reforms in India: Pre and post independence",
+          "Food processing: Scope, significance, and location",
+          "Supply chain management and agri-logistics",
+          "Upstream and downstream requirements for industry",
+          "Quality standards and food safety regulations"
+        ]
+      },
+      {
+        "chapter": "Infrastructure and Energy",
+        "topics": [
+          "Energy: Thermal, Hydro, Nuclear, and Renewable",
+          "Ports, roads, and inland waterways development",
+          "Airports and civil aviation sector in India",
+          "Digital infrastructure and rural connectivity",
+          "Industrial corridors and SEZ policy"
+        ]
+      },
+      {
+        "chapter": "Investment Models and PPP",
+        "topics": [
+          "Public-Private Partnership (PPP) models: BOT, Swiss Challenge",
+          "Investment models across different sectors",
+          "EPC (Engineering, Procurement, Construction) projects",
+          "Role of institutional investors and sovereign wealth funds",
+          "Attracting FDI in capital-intensive infrastructure"
+        ]
+      },
+      {
+        "chapter": "Agri-Science and Modernization",
+        "topics": [
+          "Precision farming and drone use in agriculture",
+          "Seed technology and organic farming trends",
+          "Livestock rearing and white revolution progress",
+          "Horticulture and floriculture potential in India",
+          "Post-harvest technology and waste reduction"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Internal Security and Disaster Management",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Extremism and Internal Challenges",
+        "topics": [
+          "Linkages between development and spread of extremism",
+          "Naxalism/Left-Wing Extremism (LWE): Causes and state response",
+          "Insurgency in North-East India and peace efforts",
+          "Cross-border terrorism and state-sponsored threats",
+          "Communalism and radicalization as internal threats"
+        ]
+      },
+      {
+        "chapter": "Security Forces and Border Management",
+        "topics": [
+          "Roles of Army, Navy, Air Force and Paramilitary",
+          "Integrated border management and smart fencing",
+          "Maritime security and coastal guarding mechanisms",
+          "Establishment and roles of NIA, CBI, and RAW",
+          "Security challenges in border areas: Drugs, smuggling"
+        ]
+      },
+      {
+        "chapter": "Cyber Security and Money Laundering",
+        "topics": [
+          "Nature of cyber threats and critical infrastructure protection",
+          "Government initiatives against cybercrime (I4C)",
+          "Prevention of Money Laundering (PMLA) and FATF",
+          "Role of social media in internal security challenges",
+          "Cryptocurrency risks and regulatory debates"
+        ]
+      },
+      {
+        "chapter": "Disaster Management Framework",
+        "topics": [
+          "Disaster management cycle: Prevention to recovery",
+          "Institutional framework: NDMA, SDMA, and NDRF",
+          "National Policy on Disaster Management (2009)",
+          "Community-based disaster risk reduction",
+          "Techniques for multi-hazard early warning systems"
+        ]
+      },
+      {
+        "chapter": "Case Studies in Internal Security",
+        "topics": [
+          "Management of urban disasters (Floods, Fires)",
+          "Lessons from major terrorist attacks and security lapses",
+          "Industrial disasters and safety protocols (Bhopal gas, etc.)",
+          "Climate-induced disasters and migration threats",
+          "Role of technology in disaster response"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Ethics, Integrity and Aptitude",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Ethics and Human Interface",
+        "topics": [
+          "Essence, determinants, and consequences of ethics",
+          "Ethics in private and public relationships",
+          "Human values: Lessons from lives of great leaders",
+          "Role of family, society, and education in ethics",
+          "Moral and political attitudes in public life"
+        ]
+      },
+      {
+        "chapter": "Attitude and Aptitude",
+        "topics": [
+          "Attitude: Content, structure, and functions",
+          "Aptitude and foundational values for Civil Service",
+          "Integrity, impartiality, and objectivity in service",
+          "Dedication to public service and empathy",
+          "Tolerance and compassion towards weaker sections"
+        ]
+      },
+      {
+        "chapter": "Emotional Intelligence and Thinkers",
+        "topics": [
+          "Concepts and utility of Emotional Intelligence (EI)",
+          "Application of EI in administration and governance",
+          "Contributions of moral thinkers and philosophers",
+          "Western vs Indian moral thinkers: A comparison",
+          "Institutionalizing ethical behavior in public systems"
+        ]
+      },
+      {
+        "chapter": "Probity in Governance",
+        "topics": [
+          "Concept of public service and philosophy of governance",
+          "Information sharing and transparency in government",
+          "Codes of Ethics and Codes of Conduct for officials",
+          "Citizen's Charters and quality of service delivery",
+          "Challenges of corruption and anti-corruption measures"
+        ]
+      },
+      {
+        "chapter": "Case Studies on Ethical Issues",
+        "topics": [
+          "Conflict of interest at high office and remedies",
+          "Whistle-blowing: Ethical dilemmas and protection",
+          "Ethical issues in international relations and funding",
+          "Corporate governance and stakeholder ethics",
+          "Environmental ethics vs developmental needs"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Logical Reasoning and Analysis",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Arithmetic and Data Analysis",
+        "topics": [
+          "Ratio, proportion, and percentage applications",
+          "Profit, loss, and discount calculations",
+          "Time, speed, and distance word problems",
+          "Data Interpretation: Charts, graphs, and tables",
+          "Basic numeracy: Number systems and hcf/lcm"
+        ]
+      },
+      {
+        "chapter": "Deductive Reasoning",
+        "topics": [
+          "Syllogisms: Conclusion from given premises",
+          "Coding-Decoding and alpha-numeric series",
+          "Blood relations and direction-based tests",
+          "Venn diagrams and their logical applications",
+          "Statement and assumptions: Critical reasoning"
+        ]
+      },
+      {
+        "chapter": "Analytical Reasoning",
+        "topics": [
+          "Puzzles: Linear, circular, and floor arrangements",
+          "Grouping and selection logic problems",
+          "Input-output tracing in logical flow",
+          "Comparison based ranking and order tests",
+          "Cause and effect relationship identification"
+        ]
+      },
+      {
+        "chapter": "Visual and Space Reasoning",
+        "topics": [
+          "Figure series completion and analogy",
+          "Mirror and water images of shapes",
+          "Paper cutting and folding visualizations",
+          "Grouping of identical figures and matrices",
+          "Embedded figures and pattern completion"
+        ]
+      },
+      {
+        "chapter": "Decision Making and Mental Ability",
+        "topics": [
+          "Administrative decision-making case problems",
+          "Course of action and problem solving logic",
+          "Data sufficiency in mathematical problems",
+          "Calendar and clocks: Basic calculations",
+          "Permutations and probability in reasoning"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Comprehension and Communication",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "English Language Comprehension",
+        "topics": [
+          "Extracting main theme and inferred ideas",
+          "Answering specific factual questions from text",
+          "Vocabulary and contextual meanings in passages",
+          "Title and tone identification of the passage",
+          "Sentence arrangement and para-jumbles"
+        ]
+      },
+      {
+        "chapter": "Interpersonal and Comm Skills",
+        "topics": [
+          "Principles of effective verbal communication",
+          "Non-verbal communication cues and impact",
+          "Active listening and conflict resolution",
+          "Emotional intelligence in interpersonal dealings",
+          "Transactional analysis in communication"
+        ]
+      },
+      {
+        "chapter": "Decision Making and Problem Solving",
+        "topics": [
+          "Steps in a rational decision-making process",
+          "Handling ethical dilemmas in administration",
+          "Prioritizing tasks and resource management",
+          "Creativity in problem solving techniques",
+          "Risk assessment and contingency planning"
+        ]
+      },
+      {
+        "chapter": "General Mental Ability",
+        "topics": [
+          "Reasoning with abstract symbols and patterns",
+          "Logical sequence of symbols and figures",
+          "Deduction of principles from examples",
+          "Aptitude for learning new information",
+          "Classification and odd-one-out logic"
+        ]
+      },
+      {
+        "chapter": "Data Sufficiency and Interpretation",
+        "topics": [
+          "Evaluating enoughness of data for questions",
+          "Interpreting trends in complex data sets",
+          "Logical conclusions from charts and maps",
+          "Relationship between diverse data points",
+          "Summarizing findings for report drafting"
+        ]
+      }
+    ]
+  }
+]

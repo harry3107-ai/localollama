@@ -1,0 +1,690 @@
+[
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "General Physics",
+        "topics": [
+          "Units and dimensions, dimensional analysis",
+          "Least count, significant figures, and error analysis",
+          "Methods of measurement using Vernier calipers and Screw gauge",
+          "Graphical representation and interpretation of data",
+          "Standard instruments and experimental uncertainties"
+        ]
+      },
+      {
+        "chapter": "Kinematics",
+        "topics": [
+          "Motion in one and two dimensions, projectile motion",
+          "Relative velocity and acceleration in 1D and 2D",
+          "Uniform circular motion and tangential acceleration",
+          "Calculus-based kinematics: Instantaneous velocity and acceleration",
+          "Motion under gravity and air resistance (Qualitative)"
+        ]
+      },
+      {
+        "chapter": "Newton's Laws of Motion and Friction",
+        "topics": [
+          "Newton's laws of motion, inertial and non-inertial frames",
+          "Pseudo forces and their applications in problem solving",
+          "Static and dynamic friction, rolling friction",
+          "Laws of friction and angle of repose",
+          "Dynamics of circular motion and banking of roads"
+        ]
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topics": [
+          "Work-energy theorem for constant and variable forces",
+          "Conservative and non-conservative forces, potential energy",
+          "Conservation of mechanical energy and its applications",
+          "Elastic and inelastic collisions in one and two dimensions",
+          "Power and its relation with force and velocity"
+        ]
+      },
+      {
+        "chapter": "Rotational Motion",
+        "topics": [
+          "Centre of mass of a system of particles and rigid bodies",
+          "Torque and angular momentum, conservation of angular momentum",
+          "Moment of inertia and radius of gyration, parallel and perpendicular axes theorems",
+          "Kinematics and dynamics of rigid body rotation about a fixed axis",
+          "Rolling motion without slipping on horizontal and inclined planes"
+        ]
+      },
+      {
+        "chapter": "Gravitation",
+        "topics": [
+          "Universal law of gravitation and gravitational constant",
+          "Acceleration due to gravity and its variation with altitude and depth",
+          "Gravitational potential and gravitational potential energy",
+          "Escape velocity and orbital velocity of satellites",
+          "Kepler's laws of planetary motion and geostationary orbits"
+        ]
+      },
+      {
+        "chapter": "Properties of Matter",
+        "topics": [
+          "Elastic behavior, Stress-strain relationship, Hooke's law",
+          "Pressure in a fluid, Pascal's law, and Archimedes' principle",
+          "Viscosity, Poiseuille's formula, Stokes' law, terminal velocity",
+          "Surface tension and surface energy, capillarity",
+          "Bernoulli's theorem and its applications in fluid flow"
+        ]
+      },
+      {
+        "chapter": "Thermal Physics - I (Laws)",
+        "topics": [
+          "Thermal expansion of solids, liquids, and gases",
+          "Calorimetry, latent heat, and specific heat capacity",
+          "First law of thermodynamics, internal energy and work done",
+          "Isothermal and adiabatic processes, molar heat capacities",
+          "Second law of thermodynamics, Carnot cycle and efficiency"
+        ]
+      },
+      {
+        "chapter": "Thermal Physics - II (Kinetic Theory & Radiation)",
+        "topics": [
+          "Ideal gas laws and kinetic theory of gases - postulates",
+          "Root mean square speed and kinetic interpretation of temperature",
+          "Law of equipartition of energy and degrees of freedom",
+          "Conduction, convection, and radiation (Black body radiation)",
+          "Stefan-Boltzmann law, Wien's displacement law, and Newton's law of cooling"
+        ]
+      },
+      {
+        "chapter": "Oscillations and Waves",
+        "topics": [
+          "Simple harmonic motion (SHM): Displacement, velocity, and acceleration",
+          "Energy in SHM: Kinetic and potential, simple and compound pendulum",
+          "Damped and forced oscillations, resonance",
+          "Transverse and longitudinal waves, speed of sound",
+          "Superposition principle, beats, and standing waves in strings/pipes"
+        ]
+      },
+      {
+        "chapter": "Electrostatics - I",
+        "topics": [
+          "Coulomb's law and superposition principle",
+          "Electric field and electric field lines, electric dipole",
+          "Gauss's law and its applications to symmetrical charges",
+          "Electric potential and potential energy for point and continuous charges",
+          "Equipotential surfaces and relationship between field and potential"
+        ]
+      },
+      {
+        "chapter": "Electrostatics - II (Capacitance & Dielectrics)",
+        "topics": [
+          "Capacitors and capacitance, parallel plate capacitor",
+          "Energy stored in a capacitor, combination of capacitors",
+          "Dielectrics and polarization, effect of dielectric on capacitance",
+          "Van de Graaff generator and its working principle",
+          "Capacitance of spherical and cylindrical capacitors"
+        ]
+      },
+      {
+        "chapter": "Current Electricity",
+        "topics": [
+          "Ohm's law, resistance, and resistivity, drift velocity",
+          "Kirchhoff's laws and their applications in circuit analysis",
+          "Potentiometer: Principles and applications (EMF, Internal resistance)",
+          "Wheatstone bridge and Meter bridge experiments",
+          "Heating effect of current and power consumption"
+        ]
+      },
+      {
+        "chapter": "Magnetic Effects of Current",
+        "topics": [
+          "Biot-Savart law and Ampere's law applications",
+          "Magnetic force on moving charges and current-carrying wires",
+          "Lorentz force and motion of charges in B and E fields",
+          "Cyclotron: Principle and limitations",
+          "Magnetic dipole moment of a current loop, torque on a loop"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topics": [
+          "Faraday's and Lenz's laws of induction, motional EMF",
+          "Self and mutual inductance, coefficients of induction",
+          "Growth and decay of current in LR and RC circuits",
+          "Eddie currents and their applications",
+          "Principles of AC generator and transformers"
+        ]
+      },
+      {
+        "chapter": "Alternating Currents",
+        "topics": [
+          "Peak, average, and RMS values of AC and voltage",
+          "Reactance and impedance, phasor diagrams",
+          "LCR series and parallel resonance circuits",
+          "Power in AC circuits, power factor and wattless current",
+          "Electromagnetic oscillations in LC circuits"
+        ]
+      },
+      {
+        "chapter": "Optics - I (Ray)",
+        "topics": [
+          "Reflection and refraction at plane and spherical surfaces",
+          "Total internal reflection and its applications",
+          "Mirror and Lens formula, magnification and power",
+          "Refraction through prisms and dispersion of light",
+          "Optical instruments: Microscopes and telescopes"
+        ]
+      },
+      {
+        "chapter": "Optics - II (Wave)",
+        "topics": [
+          "Huygens' principle and wavefronts, reflection/refraction proof",
+          "Interference of light: Young's double slit experiment",
+          "Diffraction of light: Single slit diffraction",
+          "Polarization: Malus' law and Brewster's law",
+          "Resolving power of optical instruments"
+        ]
+      },
+      {
+        "chapter": "Modern Physics - I (Atoms & Dual Nature)",
+        "topics": [
+          "Photoelectric effect and Einstein's equation",
+          "Matter waves: de Broglie wavelength and Bohr's model",
+          "Atomic spectra and energy levels of hydrogen",
+          "Heisenberg's uncertainty principle (Conceptual)",
+          "X-ray production and properties, Moseley's law"
+        ]
+      },
+      {
+        "chapter": "Modern Physics - II (Nuclei)",
+        "topics": [
+          "Composition and size of nucleus, mass defect",
+          "Binding energy per nucleon and its variation",
+          "Radioactivity: Decay constant and half-life",
+          "Alpha, Beta, and Gamma decay processes",
+          "Nuclear fission and fusion reactions"
+        ]
+      },
+      {
+        "chapter": "Modern Physics - III (Electronic Devices)",
+        "topics": [
+          "Energy bands in solids: Metals, semiconductors, insulators",
+          "P-n junction: Formation and characteristics",
+          "Rectifiers, LEDs, and Solar cells",
+          "Transistors: Characteristics and action as an amplifier",
+          "Digital electronics: Logic gates and truth tables"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Atomic Structure",
+        "topics": [
+          "Bohr's model of hydrogen atom, energy of levels",
+          "Quantum numbers and shapes of atomic orbitals",
+          "Electronic configuration of elements up to atomic number 36",
+          "Wave-particle duality, de Broglie relation",
+          "Heisenberg's uncertainty principle"
+        ]
+      },
+      {
+        "chapter": "Chemical Bonding",
+        "topics": [
+          "VSEPR theory and hybridization (sp, sp2, sp3, dsp2, d2sp3)",
+          "Molecular orbital theory for homonuclear diatomic molecules",
+          "Hydrogen bonding and its effects on physical properties",
+          "Dipole moment and ionic character of covalent bonds",
+          "Lattice enthalpy and Born-Haber cycle"
+        ]
+      },
+      {
+        "chapter": "Chemical Thermodynamics",
+        "topics": [
+          "First law: Internal energy, enthalpy, and work",
+          "Hess's law and enthalpy of various processes",
+          "Entropy and second law: Spontaneity criteria",
+          "Gibbs free energy and its relationship with equilibrium",
+          "Third law of thermodynamics and absolute entropy"
+        ]
+      },
+      {
+        "chapter": "Chemical Equilibrium",
+        "topics": [
+          "Law of mass action and equilibrium constant (Kc, Kp)",
+          "Le Chatelier's principle: Effect of concentration, P, and T",
+          "Ionic equilibrium: pH, buffer solutions, and solubility",
+          "Salt hydrolysis and Henderson equation",
+          "Common ion effect in qualitative analysis"
+        ]
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topics": [
+          "Electrolysis and Faraday's laws",
+          "Galvanic cells, EMF, and standard electrode potentials",
+          "Nernst equation and its applications",
+          "Conductivity, molar conductivity, and Kohlrausch's law",
+          "Batteries, fuel cells, and corrosion processes"
+        ]
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topics": [
+          "Rate of reaction and its dependence on T, P, and catalyst",
+          "Order and molecularity of reactions",
+          "Integrated rate expressions for zero and first order",
+          "Collision theory and activation energy",
+          "Arrhenius equation and k vs T plot"
+        ]
+      },
+      {
+        "chapter": "Solid State",
+        "topics": [
+          "Types of solids: Crystalline and amorphous",
+          "Unit cells, Packing efficiency, and density",
+          "Bragg's law and X-ray diffraction",
+          "Point defects in crystals: Schottky and Frenkel",
+          "Electrical and magnetic properties of solids"
+        ]
+      },
+      {
+        "chapter": "Solutions",
+        "topics": [
+          "Raoult's law and ideal/non-ideal solutions",
+          "Colligative properties: Vp lowering, BP elevation",
+          "FP depression and osmotic pressure",
+          "Van't Hoff factor and degree of dissociation",
+          "Solubility of gases in liquids: Henry's law"
+        ]
+      },
+      {
+        "chapter": "Surface Chemistry",
+        "topics": [
+          "Adsorption isotherms (Freundlich and Langmuir)",
+          "Catalysis: Enzymes and heterogeneous catalysts",
+          "Colloids: Preparation, properties (Tyndall, Brownian)",
+          "Emulsions and gels: Types and applications",
+          "Micelles and cleansing action of soaps"
+        ]
+      },
+      {
+        "chapter": "Inorganic Chemistry - Metallurgy",
+        "topics": [
+          "Principles of extraction of metals (Fe, Cu, Zn, Al)",
+          "Concentration of ores: Froth flotation and leaching",
+          "Thermodynamic principles: Ellingham diagrams",
+          "Electrolytic refining and zone refining",
+          "Oxide and sulphide ore processing"
+        ]
+      },
+      {
+        "chapter": "S-Block Elements",
+        "topics": [
+          "General periodic trends of alkali and alkaline earth metals",
+          "Preparation and properties of important compounds (NaOH, Na2CO3)",
+          "Biological importance of Magnesium and Calcium",
+          "Anomalous behavior of Lithium and Beryllium",
+          "Solubility and thermal stability of sulphates/carbonates"
+        ]
+      },
+      {
+        "chapter": "P-Block Elements (Group 13 & 14)",
+        "topics": [
+          "Inert pair effect and general trends",
+          "Boron and its compounds: Diborane, Boric acid",
+          "Carbon allotropes, Silicates, and Silicones",
+          "Oxides of Carbon and their properties",
+          "Aluminum and its halides"
+        ]
+      },
+      {
+        "chapter": "P-Block Elements (Group 15 to 18)",
+        "topics": [
+          "Nitrogen and Phosphorus compounds: Ammonia, PH3",
+          "Oxyacids of Phosphorus and Nitrogen",
+          "Allotropes of Sulfur and Sulfuric acid",
+          "Halogens and Interhalogen compounds",
+          "Noble gases: Properties and compounds of Xenon"
+        ]
+      },
+      {
+        "chapter": "D and F Block Elements",
+        "topics": [
+          "Transition elements: Metallic character, Alloy formation",
+          "Oxidation states and catalytic properties",
+          "Preparation and properties of K2Cr2O7 and KMnO4",
+          "Lanthanoid contraction and its consequences",
+          "Comparison of Actinoids and Lanthanoids"
+        ]
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topics": [
+          "IUPAC nomenclature and Werner's theory",
+          "Valence Bond Theory and Crystal Field Theory",
+          "Isomerism: Structural and stereoisomerism",
+          "Stability of coordination compounds and ligands",
+          "Importance in biological systems and analysis"
+        ]
+      },
+      {
+        "chapter": "Organic Chemistry - Basic Principles",
+        "topics": [
+          "Inductive, electromeric, resonance and hyperconjugation effects",
+          "IUPAC nomenclature of complex organic molecules",
+          "Stability of reactive intermediates: Carbocations, Radicals",
+          "Nucleophiles and electrophiles: Classification",
+          "Acidic and basic strength are comparative studies"
+        ]
+      },
+      {
+        "chapter": "Purification and Characterization",
+        "topics": [
+          "Techniques like Chromatography and Distillation",
+          "Qualitative and quantitative analysis of elements (Lassaigne)",
+          "Empirical and molecular formula from percentages",
+          "Spectroscopic tools in organic analysis (Introductory)",
+          "Detection of functional groups"
+        ]
+      },
+      {
+        "chapter": "Hydrocarbons - I (Alkanes & Alkenes)",
+        "topics": [
+          "Conformations of ethane and butane",
+          "Mechanism of electrophilic addition in alkenes",
+          "Ozonolysis and oxidation reactions",
+          "Markovnikov and Anti-Markovnikov addition",
+          "Preparation and properties of Alkanes"
+        ]
+      },
+      {
+        "chapter": "Hydrocarbons - II (Alkynes & Aromatic)",
+        "topics": [
+          "Acidity of alkynes and addition reactions",
+          "Structure of benzene and Huckel's rule for aromaticity",
+          "Electrophilic substitution: Nitration and Alkylation",
+          "Directive influence of functional groups",
+          "Coal tar and petroleum as sources"
+        ]
+      },
+      {
+        "chapter": "Haloalkanes and Haloarenes",
+        "topics": [
+          "SN1 and SN2 mechanisms of substitution",
+          "Elimination reactions (E1, E2) and competition with substitution",
+          "Nucleophilic substitution in Haloarenes: Benzyne mechanism",
+          "Grignard reagent and its synthetic applications",
+          "Stereochemical aspects of substitution"
+        ]
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topics": [
+          "Acidity of Phenols: Effect of substituents",
+          "Reimer-Tiemman and Kolbe's reactions",
+          "Dehydration of alcohols and Lucas test",
+          "Preparation of Ethers: Williamson synthesis",
+          "Cleavage of ethers by HI"
+        ]
+      },
+      {
+        "chapter": "Aldehydes and Ketones",
+        "topics": [
+          "Nucleophilic addition to carbonyl group",
+          "Aldol, Cannizzaro and Perkin reactions",
+          "Reduction: Wolff-Kishner and Clemmensen",
+          "Tollens' and Fehling's tests for identification",
+          "Acidity of alpha-hydrogens"
+        ]
+      },
+      {
+        "chapter": "Carboxylic Acids and Derivatives",
+        "topics": [
+          "Acidic strength of carboxylic acids",
+          "Hell-Volhard-Zelinsky reaction",
+          "Preparation and hydrolysis of acid halides/anhydrides",
+          "Esterification and saponification",
+          "Nitrilies and their hydrolysis"
+        ]
+      },
+      {
+        "chapter": "Organic Compounds Containing Nitrogen",
+        "topics": [
+          "Basicity of Amines and effect of substituents",
+          "Gabriel Phthalimide and Hoffmann Bromamide reactions",
+          "Diazonium salts: Coupling and Sandmeyer reactions",
+          "Identification of Primary, Secondary, and Tertiary amines",
+          "Nitro compounds: Preparation and reduction"
+        ]
+      },
+      {
+        "chapter": "Biomolecules",
+        "topics": [
+          "Glucose and Fructose: Structures and reactions",
+          "Amino acids, Peptide bonds, and Proteins",
+          "DNA and RNA: Bases and structure",
+          "Vitamins and their biological roles",
+          "Enzymes and their kinetics (Basic)"
+        ]
+      },
+      {
+        "chapter": "Polymers and Materials",
+        "topics": [
+          "Classification and mechanisms of polymerization",
+          "Natural and synthetic rubber: Vulcanization",
+          "Biodegradable polymers (PHBV, Nylon-2,6)",
+          "Thermoplastics and thermosetting plastics",
+          "Bakelite, Teflon, and Polyester"
+        ]
+      },
+      {
+        "chapter": "Practical Organic Chemistry",
+        "topics": [
+          "Detection of Nitrogen, Sulfur, and Halogens",
+          "Functional group tests and identification",
+          "Preparation of acetanilide and iodoform",
+          "Chemistry of silver mirror and Fehling's test",
+          "Paper and column chromatography (Experimental)"
+        ]
+      },
+      {
+        "chapter": "Principles of Practical Inorganic Chemistry",
+        "topics": [
+          "Analysis of acidic and basic radicals",
+          "Chemistry of borax bead and flame tests",
+          "Preparation of Mohr's salt and Alum",
+          "Titrimetry: Permanganometry and Iodometry",
+          "Water hardness testing"
+        ]
+      },
+      {
+        "chapter": "Nuclear Chemistry",
+        "topics": [
+          "Radioactivity and law of decay",
+          "Types of nuclear reactions (Alpha, Beta, Gamma)",
+          "Nuclear binding energy and stability",
+          "Nuclear fission and fusion principles",
+          "Isotopes and their applications (C-14 dating)"
+        ]
+      },
+      {
+        "chapter": "Environmental Chemistry",
+        "topics": [
+          "Atmospheric pollution and smog formation",
+          "Water pollution: BOD and COD parameters",
+          "Ozone layer depletion and its effects",
+          "Greenhouse effect and sustainable strategies",
+          "Soil pollution and industrial waste"
+        ]
+      },
+      {
+        "chapter": "General Chemistry Topics",
+        "topics": [
+          "Units and measurements in chemistry",
+          "Laws of chemical combination",
+          "Mole concept and concentration terms",
+          "Balancing redox and chemical equations",
+          "Scientific notation and significant figures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Algebra - I (Complex & Quadratic)",
+        "topics": [
+          "Complex numbers: Algebra, modulus, argument, and conjugate",
+          "Triangle inequality and De Moivre's theorem (Conceptual)",
+          "Roots of unity and their properties",
+          "Quadratic equations: Real and complex roots, discriminant",
+          "The relationship between roots and coefficients"
+        ]
+      },
+      {
+        "chapter": "Algebra - II (Series & Binomial)",
+        "topics": [
+          "Arithmetic and Geometric Progressions (AP, GP)",
+          "Harmonic Progression (HP) and AM, GM, HM relations",
+          "Sum to n terms of special series (n, n^2, n^3)",
+          "Binomial theorem for a positive integral index",
+          "General and middle terms, binomial coefficients properties"
+        ]
+      },
+      {
+        "chapter": "Algebra - III (Matrices & Det)",
+        "topics": [
+          "Types of matrices and elementary transformations",
+          "Determinants of order 2 and 3, properties of determinants",
+          "Adjoint and Inverse of a square matrix",
+          "Consistency of linear equations using rank and determinants",
+          "Cramer's rule and Matrix inversion method"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": [
+          "Addition and multiplication laws of probability",
+          "Conditional probability and Bayes' Theorem",
+          "Independent events and Bernoulli trials",
+          "Probability distribution of random variables",
+          "Binomial and Poisson distributions (Introductory)"
+        ]
+      },
+      {
+        "chapter": "Trigonometry",
+        "topics": [
+          "Trigonometric functions and their periodicity",
+          "Compound and multiple angles formulas",
+          "Trigonometric equations and general solutions",
+          "Inverse trigonometric functions and their properties",
+          "Properties and solutions of triangles"
+        ]
+      },
+      {
+        "chapter": "Analytical Geometry - I (Lines & Circles)",
+        "topics": [
+          "Straight lines: Slopes, intercepts, and normal form",
+          "Distance between lines, family of lines passing through point",
+          "Circles: Standard and general equation, parametric form",
+          "Tangent and Normal to a circle from a point",
+          "Orthogonality and radical axis of circles"
+        ]
+      },
+      {
+        "chapter": "Analytical Geometry - II (Conics)",
+        "topics": [
+          "Parabola: Standard equation and focal properties",
+          "Ellipse: Eccentricity, latus rectum, and major/minor axes",
+          "Hyperbola: Rectangular hyperbola and asymptotes",
+          "Tangents and Normals to conic sections",
+          "Common tangents to two conics"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus - I (Limits & Cont)",
+        "topics": [
+          "Limits of algebraic and trigonometric functions",
+          "Indeterminate forms and L'Hopital's rule",
+          "Continuity of a function at a point and in interval",
+          "Differentiability and its connection to continuity",
+          "First principles of differentiation"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus - II (Derivatives)",
+        "topics": [
+          "Differentiation of composite, inverse, and implicit functions",
+          "Logarithmic differentiation and successive differentiation",
+          "Application of derivatives: Tangents and Normals",
+          "Monotonicity: Increasing and decreasing functions",
+          "Maxima and Minima of functions of one variable"
+        ]
+      },
+      {
+        "chapter": "Integral Calculus - I (Indefinite)",
+        "topics": [
+          "Integration by parts and substitution methods",
+          "Integration of rational and irrational functions",
+          "Partial fractions in integration",
+          "Standard integrals involving special functions",
+          "Integration as reverse process of differentiation"
+        ]
+      },
+      {
+        "chapter": "Integral Calculus - II (Definite)",
+        "topics": [
+          "Fundamental theorem of calculus and its applications",
+          "Properties of definite integrals and periodic functions",
+          "Definite integral as a limit of a sum",
+          "Area bounded by curves using integration",
+          "Estimation of definite integrals"
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "Formation of differential equations (Order, Degree)",
+          "Variables separable and homogeneous equations",
+          "Linear differential equations of first order",
+          "Orthogonal trajectories and Bernoulli's equation",
+          "Applications to growth, decay, and geometry"
+        ]
+      },
+      {
+        "chapter": "Vector Algebra",
+        "topics": [
+          "Addition of vectors and scalar multiplication",
+          "Dot and Cross product of two vectors",
+          "Scalar triple product and its geometrical meaning",
+          "Vector triple product and its properties",
+          "Applications of vectors in geometry"
+        ]
+      },
+      {
+        "chapter": "Three Dimensional Geometry",
+        "topics": [
+          "Direction cosines and direction ratios of a line",
+          "Vector and Cartesian equations of a line in space",
+          "Shortest distance between two skew lines",
+          "Equation of a plane in different forms",
+          "Angle between line and plane, and between two planes"
+        ]
+      },
+      {
+        "chapter": "Logarithms and Mathematical Reasoning",
+        "topics": [
+          "Logarithms and their basic properties",
+          "Logical connectives and truth tables",
+          "Tautologies and contradictions",
+          "Contrapositive and converse of statements",
+          "Mathematical induction (Steps and examples)"
+        ]
+      }
+    ]
+  }
+]
