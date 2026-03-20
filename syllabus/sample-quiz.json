@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Knowing Our Numbers",
+        "topics": [
+          {
+            "topic": "Introduction",
+            "definition": "**Introduction**\n**What is it?**\nAn introduction is a part of a piece of writing that provides context, establishes a purpose, and introduces the main ideas or characters. It sets the stage for the rest of the piece and helps the reader understand what to expect.\n**Why is it important?**\nAn introduction is essential for several reasons:\n* **Sets the tone:** An introduction can create a positive or negative tone, set the pace of the writing, and introduce the characters or topic.\n* **Provides context:** By introducing the subject, setting the time period, and explaining the purpose, an introduction helps the reader understand the background and significance of the topic.\n* **Highlights the main ideas:** Introduction often introduces the key concepts or theorems that will be covered in the piece.\n**How to write it?**\nAn introduction typically includes the following elements:\n* **Title:** A title should be clear and concise, and it should give the reader a good idea of what the piece is about.\n* **Subheading:** A subheading can provide further context and introduce the main ideas.\n* **Introduction paragraph:** The introduction paragraph should provide a brief overview of the chapter, including the main topics covered and the overall purpose of the chapter.\n* **Examples:** Using real-world examples, figures, or historical anecdotes can help illustrate the concepts and make the topic more engaging",
+            "quizzes": [
+              {
+                "question": "Which of the following are reasons why an introduction is important?",
+                "options": [
+                  "It sets the tone.",
+                  "It provides context.",
+                  "It summarizes the entire book.",
+                  "It highlights the main ideas."
+                ],
+                "answer": [
+                  "It sets the tone.",
+                  "It provides context.",
+                  "It highlights the main ideas."
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What elements are typically included in an introduction?",
+                "options": [
+                  "Title and Subheading",
+                  "Bibliography",
+                  "Introduction paragraph",
+                  "Index"
+                ],
+                "answer": [
+                  "Title and Subheading",
+                  "Introduction paragraph"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the primary purpose of an introduction?",
+                "options": [
+                  "To provide a summary of the entire book",
+                  "To set the stage and provide context",
+                  "To list all references used",
+                  "To thank the contributors"
+                ],
+                "answer": "To set the stage and provide context",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following best describes how a title should be written?",
+                "options": [
+                  "Long and detailed",
+                  "Clear and concise",
+                  "Vague and ambiguous",
+                  "Irrelevant to the content"
+                ],
+                "answer": "Clear and concise",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can using real-world examples in an introduction help the reader?",
+                "options": [
+                  "It makes the writing unnecessarily longer.",
+                  "It illustrates concepts and makes the topic more engaging.",
+                  "It replaces the need for a title.",
+                  "It confuses the reader."
+                ],
+                "answer": "It illustrates concepts and makes the topic more engaging.",
+                "type": "single_correct"
+              }
+            ]
+          },
+          {
+            "topic": "Large Numbers In Practice",
+            "definition": "## Large Numbers In Practice\nLarge numbers are everywhere in our daily lives, from the seemingly endless digits of phone numbers to the vastness of the universe itself. Learning how to work with these enormous numbers can be challenging, but it's an essential skill for understanding the world around us.\n**Understanding Large Numbers**\nLarge numbers are typically numbers that are very large, often containing digits that are beyond the normal range of human perception. They are classified into different groups based on their size, such as **whole numbers, decimals, fractions, and percentages.**\n**Basic Operations with Large Numbers**\nWorking with large numbers requires adapted methods for addition, subtraction, multiplication, and division. These methods involve breaking down the numbers into their individual digits and manipulating them separately before combining them back together. \n**Example:**\n* 10,000 + 20,000 = 30,000\n* 0.1 x 0.2 = 0.02\n* 100,000 ÷ 500 = 200\n**Real-World Applications of Large Numbers**\nLarge numbers play a crucial role in various scientific, technological, and financial applications, including:\n* **Physics:** Understanding distances, velocities, and other physical properties requires dealing with large numbers.\n* **Engineering:** Large numbers are used in construction, infrastructure, and machine design.\n* **Finance:** Investing, trading, and risk management involve working with vast amounts of data and financial figures.\n* **Astronomy:** Studying the universe requires measuring distances to celestial objects and calculating vast amounts of data about galaxies and stars.\n**Developing Skills for Working with Large Numbers**\nLearning to work with large numbers requires practice, patience, and a systematic approach. Here are some tips:\n* **Break down large numbers into smaller parts:** This makes it easier to manage and perform operations on them.\n* **Use tools for calculation:** There are dedicated calculators and online resources that can simplify complex calculations.\n* **Develop a mental framework:** Understand the relationships between different mathematical concepts like addition, subtraction, multiplication, and division.\n* **Apply the skills to real-world examples:** Seeing large numbers in context makes them more accessible and engaging.\n**Practice Makes Perfect**\nRegular practice is essential for mastering large numbers. Solve problems, participate in math games and challenges, and seek help from teachers or mentors when needed",
+            "quizzes": [
+              {
+                "question": "Which of the following fields heavily rely on the application of large numbers?",
+                "options": ["Physics", "Creative Writing", "Astronomy", "Finance"],
+                "answer": ["Physics", "Astronomy", "Finance"],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of these are recommended tips for developing skills to work with large numbers?",
+                "options": [
+                  "Break down large numbers into smaller parts.",
+                  "Avoid using any tools for calculation.",
+                  "Use dedicated calculators and online resources.",
+                  "Apply skills to real-world examples."
+                ],
+                "answer": ["Break down large numbers into smaller parts.", "Use dedicated calculators and online resources.", "Apply skills to real-world examples."],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Why are large numbers classified into different groups?",
+                "options": ["To make them look smaller", "Based on their size", "Because they are hard to write", "To avoid using fractions"],
+                "answer": "Based on their size",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is an essential technique for performing basic operations with large numbers?",
+                "options": ["Breaking down numbers into individual digits", "Using only whole numbers", "Memorizing all calculations", "Ignoring the decimal points"],
+                "answer": "Breaking down numbers into individual digits",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can seeing large numbers in context help a learner?",
+                "options": ["It makes them harder to read.", "It makes them more accessible and engaging.", "It changes their actual value.", "It removes the need for calculations."],
+                "answer": "It makes them more accessible and engaging.",
+                "type": "single_correct"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
