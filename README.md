@@ -320,3 +320,5 @@ Possible extensions:
 
 It becomes a **full local Copilot replacement**.
 # localollama
+cd syllabus
+python generate_quizzes.py
