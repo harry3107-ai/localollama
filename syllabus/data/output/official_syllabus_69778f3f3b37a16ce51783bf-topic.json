@@ -10781,11 +10781,124 @@
           },
           {
             "topic": "Pseudo First Order Reaction",
-            "definition": "A pseudo-first order reaction is a chemical reaction that follows pseudo-first-order kinetics. Pseudo-first-order kinetics describe a reaction where the rate of the reaction is proportional to the concentration of one reactant, but not to the rate of the reaction. This means that the rate of the reaction is determined by the rate of the reaction of the reactant that is present in the largest amount.\nPseudo-first-order reactions are typically observed when the reaction involves a species that is involved in both the forward and reverse reactions of the reaction. This means that the concentration of this species is constant throughout the reaction.\nPseudo-first-order reactions can be modelled by a rate law that has the following form:\nRate = k[A]\nWhere:\nRate is the rate of the reaction\nk is the rate constant\n[A] is the concentration of the reactant A\nThe rate constant for a pseudo-first-order reaction is independent of the concentration of the reactants. This means that the rate of the reaction is the same regardless of the concentration of the reactants.\nPseudo-first-order reactions are an important class of chemical reactions that are commonly observed in many chemical systems. They are often used to model the kinetics of reactions that involve a single reactant or a reactant that is present in a large excess"
+            "definition": "A pseudo-first order reaction is a chemical reaction that follows pseudo-first-order kinetics. Pseudo-first-order kinetics describe a reaction where the rate of the reaction is proportional to the concentration of one reactant, but not to the rate of the reaction. This means that the rate of the reaction is determined by the rate of the reaction of the reactant that is present in the largest amount.\nPseudo-first-order reactions are typically observed when the reaction involves a species that is involved in both the forward and reverse reactions of the reaction. This means that the concentration of this species is constant throughout the reaction.\nPseudo-first-order reactions can be modelled by a rate law that has the following form:\nRate = k[A]\nWhere:\nRate is the rate of the reaction\nk is the rate constant\n[A] is the concentration of the reactant A\nThe rate constant for a pseudo-first-order reaction is independent of the concentration of the reactants. This means that the rate of the reaction is the same regardless of the concentration of the reactants.\nPseudo-first-order reactions are an important class of chemical reactions that are commonly observed in many chemical systems. They are often used to model the kinetics of reactions that involve a single reactant or a reactant that is present in a large excess",
+            "quizzes": [
+              {
+                "question": "Which statement best describes pseudo-first-order kinetics?",
+                "options": [
+                  "True",
+                  "False",
+                  "It depends on the concentration of the reactants"
+                ],
+                "answer": "True",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which form of the rate law is used to model pseudo-first-order reactions?",
+                "options": [
+                  "Rate = k[A] + k[B]",
+                  "Rate = k[A] - k[B]",
+                  "Rate = k[A] * k[B]",
+                  "Rate = k[A] / k[B]"
+                ],
+                "answer": "Rate = k[A]",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which condition is typically satisfied in pseudo-first-order reactions?",
+                "options": [
+                  "The concentration of the reactants is constant throughout the reaction",
+                  "The concentration of the reactants changes throughout the reaction",
+                  "The rate constant is independent of the concentration of the reactants",
+                  "The rate constant is dependent on the concentration of the reactants"
+                ],
+                "answer": "The concentration of the reactants is constant throughout the reaction",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which chemical reaction typically follows pseudo-first-order kinetics?",
+                "options": [
+                  "A single reactant reaction",
+                  "A reaction involving two reactants",
+                  "A reaction involving a large excess of one reactant",
+                  "A reaction involving a small excess of one reactant"
+                ],
+                "answer": "A reaction involving two reactants",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which mathematical expression is used to calculate the rate of a pseudo-first-order reaction?",
+                "options": [
+                  "Rate = k[A] * [B]",
+                  "Rate = k[A] + [B]",
+                  "Rate = k[A] / [B]",
+                  "Rate = k[A] / [B]"
+                ],
+                "answer": "Rate = k[A] / [B]",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Temperature Dependence of the Rate of a Reaction",
-            "definition": "## Temperature Dependence of Reaction Rates\nA reaction's rate of occurrence is directly proportional to the temperature at which it takes place. This means that as the temperature increases, the rate of the reaction also increases. \n**How does temperature affect activation energy?**\nActivation energy is the minimum amount of energy required for a reaction to occur. Higher temperatures provide more energy to the reactants, allowing them to reach the activation energy barrier more easily. This means that more reactants will reach the transition state and successfully form products, resulting in a faster reaction rate at higher temperatures.\n**Examples:**\n* **Catalyst Activity:** Catalysts speed up chemical reactions by lowering the activation energy required. This allows reactions to occur at lower temperatures, increasing their efficiency.\n* **Activation Energy Curves:** A plot of the reaction rate vs. temperature shows a characteristic upward curve. This curve reveals the activation energy and the rate constant (the rate at which the reaction occurs at a given temperature).\n* **Exothermic vs Endothermic Reactions:** Exothermic reactions release heat, while endothermic reactions absorb heat. Both types of reactions exhibit temperature dependencies, but their activation energies differ.\n**Further Discussion:**\n* Temperature can also affect the rate of a reaction by affecting the frequency of collisions between reactant molecules.\n* The Arrhenius equation relates the rate constant to temperature and activation energy.\n* Temperature dependence of reaction rates can be explained in terms of the kinetic theory of reactions"
+            "definition": "## Temperature Dependence of Reaction Rates\nA reaction's rate of occurrence is directly proportional to the temperature at which it takes place. This means that as the temperature increases, the rate of the reaction also increases. \n**How does temperature affect activation energy?**\nActivation energy is the minimum amount of energy required for a reaction to occur. Higher temperatures provide more energy to the reactants, allowing them to reach the activation energy barrier more easily. This means that more reactants will reach the transition state and successfully form products, resulting in a faster reaction rate at higher temperatures.\n**Examples:**\n* **Catalyst Activity:** Catalysts speed up chemical reactions by lowering the activation energy required. This allows reactions to occur at lower temperatures, increasing their efficiency.\n* **Activation Energy Curves:** A plot of the reaction rate vs. temperature shows a characteristic upward curve. This curve reveals the activation energy and the rate constant (the rate at which the reaction occurs at a given temperature).\n* **Exothermic vs Endothermic Reactions:** Exothermic reactions release heat, while endothermic reactions absorb heat. Both types of reactions exhibit temperature dependencies, but their activation energies differ.\n**Further Discussion:**\n* Temperature can also affect the rate of a reaction by affecting the frequency of collisions between reactant molecules.\n* The Arrhenius equation relates the rate constant to temperature and activation energy.\n* Temperature dependence of reaction rates can be explained in terms of the kinetic theory of reactions",
+            "quizzes": [
+              {
+                "question": "How does temperature affect activation energy?",
+                "options": [
+                  "Option 1: Lower",
+                  "Option 2: No change",
+                  "Option 3: Higher",
+                  "Option 4: Not applicable"
+                ],
+                "answer": "Correct Option: Higher",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which type of reaction exhibits a temperature-independent activation energy?",
+                "options": [
+                  "Option 1: Exothermic",
+                  "Option 2: Endothermic",
+                  "Option 3: Arrhenius equation",
+                  "Option 4: Kinetic theory"
+                ],
+                "answer": "Correct Option: Endothermic",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the relationship between activation energy and the rate constant?",
+                "options": [
+                  "Option 1: They are equal",
+                  "Option 2: They are inversely related",
+                  "Option 3: They are directly related",
+                  "Option 4: They are independent"
+                ],
+                "answer": "Correct Option: They are directly related",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the Arrhenius equation?",
+                "options": [
+                  "Option 1: R = k * (T)^n",
+                  "Option 2: k = R * (T)^n",
+                  "Option 3: R = k * (T)",
+                  "Option 4: k = (T)^n"
+                ],
+                "answer": "Correct Option: R = k * (T)^n",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does temperature affect the rate of a reaction?",
+                "options": [
+                  "Option 1: It has no effect",
+                  "Option 2: It increases",
+                  "Option 3: It decreases",
+                  "Option 4: It is independent"
+                ],
+                "answer": "Correct Option: It increases",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Collision Theory of Chemical Reactions",
