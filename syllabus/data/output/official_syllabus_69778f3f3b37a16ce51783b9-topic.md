@@ -63,6 +63,43 @@ The FTA has several important implications:
 3. It helps us to develop a deeper understanding of the relationship between real numbers and geometric shapes. For example, the FTA can be used to show that the area of a circle is proportional to the square of its radius.
 The FTA is a fundamental theorem in mathematics, and it has wide applications in various fields, including calculus, analysis, and geometry
 
+**Quizzes:**
+
+**Q1: Which of the following is not a real number?**
+
+- [ ] 0.5
+- [ ] π
+- [ ] √2
+- [ ] 1/0
+
+**Q2: How does the FTA allow us to represent real numbers on a geometric scale?**
+
+- [ ] The FTA allows us to represent real numbers on a geometric scale.
+- [ ] The FTA allows us to represent real numbers on a linear scale.
+- [ ] The FTA allows us to represent real numbers on a circular scale.
+- [ ] The FTA allows us to represent real numbers on a square scale.
+
+**Q3: Which of the following is an application of the FTA in calculus?**
+
+- [ ] Finding the derivative of a function
+- [ ] Finding the integral of a function
+- [ ] Calculating the area of a circle
+- [ ] Finding the slope of a line
+
+**Q4: Which of the following is an application of the FTA in analysis?**
+
+- [ ] Finding the maximum and minimum values of a function
+- [ ] Finding the roots of a function
+- [ ] Calculating the derivative of a function
+- [ ] Finding the integral of a function
+
+**Q5: Which of the following is an application of the FTA in geometry?**
+
+- [ ] Finding the area of a circle
+- [ ] Finding the circumference of a circle
+- [ ] Calculating the volume of a sphere
+- [ ] Finding the distance from a point to the center of a circle
+
 ---
 
 ### Revisiting Irrational Numbers
@@ -772,6 +809,34 @@ By multiplying these two values together, we get the following determinant:
 (2)(4) - (3)(-(-1)) = 8 + 3 = 11
 Therefore, the solution to the system of equations is x = 1 and y = 3
 
+**Quizzes:**
+
+**Q1: Question 1: Solve the following system using the cross-multiplication method:**
+
+- [ ] Option 1: (2)(4) = 8
+- [ ] Option 2: (3)(-(-1)) = 3
+- [ ] Option 3: (2)(4) - (3)(-(-1)) = 11
+
+**Q2: Question 2: Solve the following system using the cross-multiplication method:**
+
+- [ ] Option 1: 2x + 3y = 7
+- [ ] Option 2: 4x - y = 2
+
+**Q3: Question 3: Solve the following system using the cross-multiplication method:**
+
+- [ ] Option 1: 2x + 3y = 7
+- [ ] Option 2: 4x - y = 2
+
+**Q4: Question 4: Solve the following system using the cross-multiplication method:**
+
+- [ ] Option 1: 2x + 3y = 7
+- [ ] Option 2: 5x - 2y = 4
+
+**Q5: Question 5: Solve the following system using the cross-multiplication method:**
+
+- [ ] Option 1: 2x + 3y = 7
+- [ ] Option 2: 4x - y = 2
+
 ---
 
 ### Equations Reducible to a Pair of Linear Equations in Two Variables
@@ -952,6 +1017,43 @@ $$(x - 2)(x - 2) = 0.$$
 Therefore, the solutions are x = 2 and x = 2.
 **Conclusion:**
 By using factorisation, we can solve quadratic equations and find the solutions to the equation $$ax^2 + bx + c = 0$$ in terms of a, b, and c
+
+**Quizzes:**
+
+**Q1: Which property of a quadratic equation allows us to factorise it? **
+
+- [x] a + b = 0
+- [ ] a - b = 0
+- [ ] a * b = 0
+- [ ] a + c = 0
+
+**Q2: Which formula is used to solve a quadratic equation? **
+
+- [x] x = (b ± sqrt(b^2 - 4ac)) / 2a
+- [ ] x = (b - sqrt(b^2 - 4ac)) / 2a
+- [ ] x = (a + sqrt(a^2 - 4bc)) / 2a
+- [ ] x = (a - sqrt(a^2 - 4bc)) / 2a
+
+**Q3: Which method can be used to solve a quadratic equation using factorisation? **
+
+- [x] Multiple Choice
+- [ ] Single Choice
+- [ ] Programming
+- [ ] Math Olympiad
+
+**Q4: Which is the purpose of factorisation when solving a quadratic equation? **
+
+- [x] To find the solutions to the equation
+- [ ] To determine the roots of the equation
+- [ ] To check the discriminant of the equation
+- [ ] To express the equation in factored form
+
+**Q5: Which is an example of a quadratic equation that can be solved using factorisation? **
+
+- [ ] x^2 + 4x - 3 = 0
+- [ ] x^2 - 5x + 6 = 0
+- [x] x^2 + 8x + 16 = 0
+- [ ] x^2 - 9x + 25 = 0
 
 ---
 
@@ -1789,6 +1891,43 @@ where:
 Trigonometry is a branch of mathematics that deals with the relationships between the sides and angles of triangles. It builds upon geometry to explore the lengths and angles of various geometric figures, providing a deeper understanding of shapes and their properties. 
 This chapter lays the foundation for exploring trigonometry by introducing the basic concepts and definitions. It establishes a framework for further study and guides you on a journey to uncover the fascinating world of trigonometric relationships
 
+**Quizzes:**
+
+**Q1: What is the definition of Trigonometry? **
+
+- [ ] The study of angles and the sides of triangles.
+- [ ] The study of lines and angles in geometric figures.
+- [ ] The study of shapes and their properties
+- [ ] The study of geometric relationships between different shapes.
+
+**Q2: What is the sum of the angles in a triangle? **
+
+- [ ] 90 degrees
+- [ ] 120 degrees
+- [ ] 150 degrees
+- [x] 180 degrees
+
+**Q3: Which trigonometric ratio represents the ratio of the length of the opposite side to the length of the adjacent side in a right triangle? **
+
+- [ ] Sine
+- [x] Cosine
+- [ ] Tangent
+- [x] Cosine
+
+**Q4: Which trigonometric function can be used to find the angle opposite to a given side in a right triangle? **
+
+- [ ] Sine
+- [ ] Cosine
+- [ ] Tangent
+- [ ] Cosine
+
+**Q5: How can trigonometric ratios be used to find the area of a triangle? **
+
+- [x] By using the formula Heron's formula
+- [ ] By using the formula for the area of a triangle
+- [ ] By using the formula for the perimeter of a triangle
+- [ ] By using the formula for the area of a circle
+
 ---
 
 ### Trigonometric Ratios
@@ -2264,6 +2403,43 @@ The **Introduction** chapter serves as the foundational chapter of a mathematics
 * A **line segment** has two endpoints, and a **line** is a continuous, single piece of line.
 By exploring these fundamental concepts and skills in the Introduction chapter, students develop a strong foundation upon which they can build their understanding of geometry
 
+**Quizzes:**
+
+**Q1: What is a shape?**
+
+- [ ] A line
+- [ ] A circle
+- [ ] A triangle
+- [ ] A square
+
+**Q2: Which shape has three sides and three angles?**
+
+- [x] Triangle
+- [ ] Square
+- [ ] Circle
+- [ ] Polygon
+
+**Q3: How do we measure the length of a side of a shape?**
+
+- [x] Using a ruler
+- [ ] Using a compass
+- [ ] Using a protractor
+- [ ] Using a compass
+
+**Q4: Which property of a shape tells us that the sum of its angles is always 180 degrees?**
+
+- [ ] Area
+- [ ] Perimeter
+- [ ] Symmetry
+- [ ] Congruence
+
+**Q5: Which shape is made up of three equal straight sides and three equal angles?**
+
+- [x] Line segment
+- [ ] Circle
+- [ ] Triangle
+- [ ] Square
+
 ---
 
 ### Division of a Line Segment
@@ -2610,6 +2786,43 @@ Total surface area = 6 cm² + 200 cm² + 150 cm² = 216 cm²
 * The surface area of a combination of solids is equal to the sum of the surface areas of its individual components.
 * Different shapes have different surface area calculations due to variations in the number and shape of faces, edges, and corners
 
+**Quizzes:**
+
+**Q1: Which faces contribute to the surface area of the cube?**
+
+- [x] Top
+- [ ] Bottom
+- [ ] Left
+- [ ] Right
+
+**Q2: Which sides play a role in determining the surface area of the cylinder?**
+
+- [ ] Upper
+- [ ] Lower
+- [x] Both
+- [ ] None
+
+**Q3: What is the contribution of the corners of the rectangular box to its surface area?**
+
+- [ ] 4
+- [ ] 8
+- [x] 12
+- [ ] 16
+
+**Q4: Which formula is used to calculate the total surface area of the combination of solids?**
+
+- [x] S = 6 * (a + b + c)
+- [ ] S = 2 * (a + b + c)
+- [ ] S = a + b + c
+- [ ] S = 3 * (a + b + c)
+
+**Q5: What is the total surface area of the combination of the cube, cylinder, and rectangular box described in the example?**
+
+- [ ] 100
+- [ ] 150
+- [ ] 216
+- [ ] 240
+
 ---
 
 ### Volume of a Combination of Solids
@@ -2745,6 +2958,43 @@ Here are some examples of the **frustum** for different angles of depression:
 * **Right circular cone:** A straight line.
 * **Obtuse cone:** A curved path that approaches the base of the cone.
 The **frustum** is an important concept in **surface area and volume** because it helps us visualize and calculate the amount of surface area and volume a 3D object with a curved base has
+
+**Quizzes:**
+
+**Q1: What is the **frustum** of a right circular cone?**
+
+- [ ] A circle
+- [ ] A sphere
+- [ ] A straight line
+- [x] A curved path
+
+**Q2: Which type of **frustum** has a circular base?**
+
+- [x] Circular frustum
+- [ ] Spherical frustum
+- [ ] Obtuse cone
+- [ ] Right circular cone
+
+**Q3: What is the **length** of the **frustum** of a cone?**
+
+- [x] The length of the base of the cone
+- [ ] The length of the circumference of the base
+- [ ] The height of the cone
+- [ ] The radius of the base
+
+**Q4: What is the **area** of the **frustum** of a cone?**
+
+- [x] The area of the base of the cone
+- [ ] The area of the circumference of the base
+- [ ] The surface area of the cone
+- [ ] The volume of the cone
+
+**Q5: Which **frustum** has a spherical base?**
+
+- [ ] Circular frustum
+- [x] Spherical frustum
+- [ ] Obtuse cone
+- [ ] Right circular cone
 
 ---
 
@@ -3048,6 +3298,41 @@ An **introduction** is a section of a mathematical text that sets the stage for 
 * In **Mathematics for Beginners** chapter 1, the **introduction** defines key concepts like **probability, sample space, and event**, laying a foundation for further mathematical concepts explored in the chapter.
 * In **Discrete Mathematics** chapter 2, the **introduction** provides a historical context of probability theory, exploring its historical development and key milestones in the field.
 * In **Statistics** chapter 1, the **introduction** introduces essential mathematical notation and defines relevant probability concepts like **random variable, probability mass function, and cumulative distribution**
+
+**Quizzes:**
+
+**Q1: In **Mathematics for Beginners** chapter 1, the **introduction** defines which key concepts?**
+
+- [ ] Probability, sample space, and event
+- [ ] Linear equations, inequalities, and systems of equations
+- [ ] Functions and graph theory
+- [ ] Discrete mathematics
+
+**Q2: In **Discrete Mathematics** chapter 2, the **introduction** provides a historical context of which key milestone in the development of probability theory?**
+
+- [ ] 17th century
+- [ ] 18th century
+- [x] 19th century
+- [ ] 20th century
+
+**Q3: In **Statistics** chapter 1, the **introduction** introduces which mathematical notation and defines relevant probability concepts?**
+
+- [ ] Random variable, probability mass function, and cumulative distribution
+- [ ] Linear equations, inequalities, and systems of equations
+- [ ] Functions and graph theory
+- [ ] Discrete mathematics
+
+**Q4: Which of the following is NOT a main topic covered in the **Introduction** section of a mathematics chapter?**
+
+- [ ] Probability distributions
+- [ ] Random variables
+- [ ] Bayesian inference
+- [x] Statistical inference
+
+**Q5: In **Mathematics for Beginners** chapter 1, the **introduction** outlines the chapter's main topics and subtopics and how they relate to each other, what is the **key research question** that will be addressed in the chapter?**
+
+- [x] Sure
+- [ ] No
 
 ---
 
@@ -4839,6 +5124,43 @@ According to the law, the elements are arranged in a series of groups based on t
 The law was proposed by Dmitri Mendeleev in 1869 based on his observations of the chemical properties of the elements. Mendeleev noticed that the elements could be arranged in a way that the properties of the elements in each group were similar. He proposed that the elements could be divided into groups based on their atomic properties, which are determined by the number of valence electrons.
 The Newlands' Law of Octaves has been very successful in explaining the periodic properties of the elements. It has allowed scientists to organize the elements into a systematic order, which has made it easier to understand the relationships between the elements
 
+**Quizzes:**
+
+**Q1: What is the Newlands' Law of Octaves?**
+
+- [x] A principle that describes the periodic properties of the elements.
+- [ ] A law that describes the chemical properties of the elements.
+- [ ] A law that describes the atomic properties of the elements.
+- [ ] A law that describes the properties of the elements in each group.
+
+**Q2: According to the Newlands' Law of Octaves, which group of elements has the most valence electrons?**
+
+- [x] Group 1
+- [ ] Group 2
+- [ ] Group 3
+- [ ] Group 4
+
+**Q3: What is the purpose of the Newlands' Law of Octaves?**
+
+- [x] To organize the elements into a systematic order
+- [ ] To explain the chemical properties of the elements
+- [ ] To explain the atomic properties of the elements
+- [ ] To explain the properties of the elements in each group
+
+**Q4: According to the Newlands' Law of Octaves, what are the elements arranged in?**
+
+- [x] Based on their atomic numbers
+- [ ] Based on their atomic properties
+- [ ] Based on their valence electrons
+- [ ] Based on their chemical properties
+
+**Q5: Which scientist proposed the Newlands' Law of Octaves?**
+
+- [x] Dmitri Mendeleev
+- [ ] Rudolf Virchow
+- [ ] Henry Moseley
+- [ ] Otto Hahn
+
 ---
 
 ### Mendeleev's Periodic Table
@@ -6179,6 +6501,43 @@ The question of self-identity also becomes relevant when discussing the issue of
 **Conclusion:**
 The topic of exact copy mechanisms in organisms is a fascinating and complex one that continues to challenge our understanding of life. While the idea of perfect replication is intriguing, it's important to acknowledge the role of random variation and the dynamic nature of development in producing unique offspring
 
+**Quizzes:**
+
+**Q1: Which concept plays a crucial role in understanding how organisms can create genetic copies of themselves?**
+
+- [x] Genetic variation
+- [ ] Development
+- [ ] Reproduction
+- [ ] Self-identity
+
+**Q2: How does random variation affect the process of reproduction?**
+
+- [ ] It leads to the development of new traits and adaptations in offspring
+- [ ] It leads to the deletion of genetic material
+- [x] It leads to the formation of exact copies of the parent
+- [ ] It leads to the formation of identical copies of the parent
+
+**Q3: Which school of thought argues that a fully formed copy of an organism exists at the start of development, with all the necessary genetic information pre-programmed?**
+
+- [ ] Evolutionary Biology
+- [x] Developmental Biology
+- [ ] Neurobiology
+- [ ] Physiology
+
+**Q4: What is the significance of self-identity when discussing the issue of whether an organism can create a distinct copy of itself that is independent of its parent?**
+
+- [x] It is a question that has significant implications for questions of consciousness and memory
+- [ ] It is a question that has significant implications for questions of cloning and genetic engineering
+- [ ] It is a question that has significant implications for questions of the morality of cloning and genetic engineering
+- [ ] It is a question that has significant implications for questions of the origins of life
+
+**Q5: How does the question of perfect replication challenge our understanding of life?**
+
+- [ ] It challenges our understanding of what it means to be a living organism
+- [ ] It challenges our understanding of how organisms can create genetic copies of themselves
+- [ ] It challenges our understanding of how development and reproduction occur
+- [x] All of the above
+
 ---
 
 ### Modes of Reproduction Used by Single Organisms
@@ -6345,6 +6704,43 @@ During gametogenesis, reproductive cells, known as gametes, are produced. Gamete
 Fertilization occurs when a sperm and an egg come together and combine their genetic material. This process occurs in the fallopian tube during sexual intercourse. The fertilized egg then implants itself into the lining of the uterus, where it grows and develops into an embryo.
 The reproductive process in human beings is complex and regulated to ensure that offspring receive the correct genetic material from both parents. It involves various hormones and signaling pathways that control the growth, development, and reproduction of new individuals
 
+**Quizzes:**
+
+**Q1: During what stage of the reproductive process do reproductive cells, known as gametes, are produced?**
+
+- [x] Gametogenesis
+- [ ] Fertilization
+- [ ] Implantation
+- [ ] Development
+
+**Q2: What is the primary purpose of gametogenesis?**
+
+- [x] To produce eggs and sperm
+- [ ] To regulate the reproductive process
+- [ ] To produce hormones that regulate development
+- [ ] To provide genetic material for new individuals
+
+**Q3: Which stage of the reproductive process involves the merging of genetic material from two gametes?**
+
+- [ ] Gametogenesis
+- [x] Fertilization
+- [ ] Implantation
+- [ ] Development
+
+**Q4: What happens after fertilization?**
+
+- [x] The fertilized egg is implanted into the lining of the uterus
+- [ ] The embryo develops into a fetus
+- [ ] The egg and sperm separate
+- [ ] The fertilized egg is expelled from the body
+
+**Q5: What is the function of hormones in the reproductive process?**
+
+- [x] To regulate the growth and development of the embryo
+- [ ] To control the production of gametes
+- [ ] To regulate the release of hormones that control the reproductive process
+- [ ] To stimulate the release of hormones that control the menstrual cycle
+
 ---
 
 ### Male Reproductive System
@@ -6357,6 +6753,43 @@ The seminal vesicles are located on the inner surface of the testes and produce 
 The prostate gland is a small gland located below the bladder. It contributes fluid to the seminal vesicles and plays a role in producing a hormone called seminal vesicle fluid (SVF). SSF helps to nourish and protect the sperm cells and also plays a role in maintaining the pH of the semen.
 The penis is a long, flexible tube that extends from the base of the bladder. It is responsible for the delivery of sperm cells into the female reproductive tract during ejaculation. The penis also serves as a site for sexual intercourse and can also be used to deposit sperm cells during sexual arousal.
 The Male Reproductive System is a vital system for reproduction and fertilization to occur. Without this system, the production and delivery of sperm cells would not be possible, and reproduction would not occur
+
+**Quizzes:**
+
+**Q1: What is the primary function of the testes in the Male Reproductive System?**
+
+- [x] Produce sperm cells
+- [ ] Produce seminal fluid
+- [ ] Regulate blood flow
+- [ ] Control body temperature
+
+**Q2: How many sperm cells are produced by each testes?**
+
+- [x] 120 million
+- [ ] 100 million
+- [ ] 140 million
+- [ ] 160 million
+
+**Q3: Which structure is responsible for producing a fluid that nourishes and protects the sperm cells?**
+
+- [ ] Testes
+- [x] Seminal vesicles
+- [ ] Prostate gland
+- [ ] Penis
+
+**Q4: What is the role of the prostate gland in the Male Reproductive System?**
+
+- [x] Secretes seminal fluid
+- [ ] Produces testosterone
+- [ ] Stores sperm cells
+- [ ] Controls blood flow
+
+**Q5: Which structure is responsible for delivering sperm cells into the female reproductive tract during ejaculation?**
+
+- [ ] Testes
+- [ ] Seminal vesicles
+- [x] Penis
+- [ ] Urethra
 
 ---
 
@@ -7191,6 +7624,43 @@ Progress, on the other hand, refers to the continuous advancement of a society o
 The key difference lies in the timeframe: evolution unfolds over millions of years, while progress happens much more rapidly, often in the blink of an eye. This difference in timeframes reflects the distinct nature of these processes. Evolution is a slow, gradual process driven by natural selection, while progress is a much more dynamic and accelerated journey marked by rapid innovation and societal development.
 In conclusion, while evolution and progress share some similarities, it's important to recognize their fundamental differences. Evolution focuses on the ongoing changes in a species over vast stretches of time, while progress highlights the accelerated and often rapid transformations that shape societies and cultures
 
+**Quizzes:**
+
+**Q1: Which best describes the timeframe of evolution?**
+
+- [ ] Millions of years
+- [ ] Hundreds of years
+- [ ] Centuries
+- [ ] Decades
+
+**Q2: Which concept focuses on the continuous advancement of a society or culture?**
+
+- [ ] Evolution
+- [ ] Progress
+- [ ] Natural Selection
+- [ ] Technology
+
+**Q3: In what timeframe does evolution unfold?**
+
+- [ ] 100 years
+- [ ] 1,000 years
+- [ ] 10,000 years
+- [ ] 100,000 years
+
+**Q4: Which best describes an example of the gradual nature of evolution?**
+
+- [ ] The extinction of dinosaurs
+- [ ] The evolution of the peppered moth's wings
+- [ ] The development of the internet
+- [ ] The invention of the printing press
+
+**Q5: Which best describes an example of the accelerated nature of progress?**
+
+- [ ] The Industrial Revolution
+- [ ] The discovery of penicillin
+- [ ] The invention of the light bulb
+- [ ] The development of artificial intelligence
+
 ---
 
 ## Light - Reflection and Refraction
@@ -7494,6 +7964,43 @@ where:
 * $d$ is the distance between the incident and refracted rays
 The refracted ray will also be bent towards the normal, away from the side of the slab that the light entered from.
 By controlling the angle of incidence, we can control the angle of refraction and the direction of the refracted ray. This allows us to use refraction to create images on a screen, correct vision problems, and analyze the properties of different materials
+
+**Quizzes:**
+
+**Q1: What is the definition of refraction?**
+
+- [ ] Refraction is the bending of a wave when it moves from one medium to another.
+- [ ] Refraction is the change in direction of a wave when it enters a new medium.
+- [ ] Refraction is a process that causes light to slow down when it enters a new medium.
+- [ ] Refraction is the bending of a wave when it enters a medium with a higher density.
+
+**Q2: Which property of a material affects the speed of light in that material?**
+
+- [ ] Density, thickness, density, and speed of light
+- [ ] Speed of light, thickness, density, and angle of incidence
+- [ ] Speed of light, density, and angle of incidence
+- [ ] Density, angle of incidence, and speed of light
+
+**Q3: What is the angle at which the refracted ray will be bent the most?**
+
+- [ ] 45 degrees
+- [ ] 60 degrees
+- [ ] 30 degrees
+- [ ] 75 degrees
+
+**Q4: What is the relationship between the angle of incidence and the angle of refraction?**
+
+- [ ] They are equal
+- [ ] They are inversely proportional
+- [ ] They are directly proportional
+- [ ] They are unrelated
+
+**Q5: How can refraction be used to create images?**
+
+- [ ] By bending the light rays towards the object
+- [ ] By bending the light rays away from the object
+- [ ] By bending the light rays parallel to the object's surface
+- [ ] By bending the light rays through a prism
 
 ---
 
@@ -8508,6 +9015,48 @@ When an electric current is passed through a resistor, it encounters resistance 
 * **Electronics:** Resistors are used in various electronic circuits, such as resistors, capacitors, and inductors.
 * **Electrical engineering:** Resistance is an important parameter used to design and analyze electrical circuits.
 * **Physics:** Resistance is a fundamental concept in physics, used to explain the behavior of materials and devices
+
+**Quizzes:**
+
+**Q1: What is resistance?**
+
+- [ ] Resistance is the amount of opposition to the flow of electric current.
+- [ ] Resistance is a measure of how much a material allows current to flow through it.
+- [ ] Resistance is a scalar quantity.
+
+**Q2: How does resistance affect current flow?**
+
+- [ ] The current flow is increased.
+- [ ] The current flow is unchanged.
+- [ ] The current flow is decreased.
+
+**Q3: Which factor affects the resistance of a material?**
+
+- [ ] Length
+- [ ] Width
+- [ ] Material
+- [ ] All of the above
+
+**Q4: What is the total resistance in a series when multiple resistors are connected?**
+
+- [ ] The total resistance is equal to the sum of the individual resistances.
+- [ ] The total resistance is equal to the reciprocal of the total resistance of the individual resistors.
+- [ ] The total resistance is equal to the product of the individual resistances.
+- [ ] The total resistance is equal to the difference between the individual resistances.
+
+**Q5: What is the total resistance in a parallel when multiple resistors are connected?**
+
+- [ ] The total resistance is equal to the reciprocal of the total resistance of the individual resistors.
+- [ ] The total resistance is equal to the product of the individual resistances.
+- [ ] The total resistance is equal to the sum of the individual resistances.
+- [ ] The total resistance is equal to the difference between the individual resistances.
+
+**Q6: What are some applications of resistance in electronics?**
+
+- [ ] Amplifiers
+- [ ] Filters
+- [ ] Transistors
+- [ ] All of the above
 
 ---
 
@@ -9598,6 +10147,36 @@ Understanding an energy source's lifespan is crucial for several reasons:
 * **Cost-effectiveness:** By understanding the lifespan of various energy sources, we can compare their costs and choose the most cost-effective option for a specific application.
 By studying the factors influencing lifespan and measuring it effectively, we can make informed choices about energy sources and contribute to a sustainable future
 
+**Quizzes:**
+
+**Q1: What is the main factor that influences the lifespan of an energy source?**
+
+- [ ] Energy type
+- [ ] Usage patterns
+- [ ] Environmental impact
+
+**Q2: Which factor is not considered when measuring the lifespan of an energy source?**
+
+- [ ] Useful life
+- [ ] Economic life
+- [ ] Environmental life
+
+**Q3: Which unit is typically used to measure the lifespan of an energy source?**
+
+- [ ] Years
+- [ ] Months
+- [ ] Days
+
+**Q4: What is the main reason behind the shorter lifespan of fossil fuels compared to renewable sources?**
+
+- [ ] Incorrect answer: Fossil fuels have a longer lifespan due to their abundance.
+
+**Q5: Which factor is crucial for maximizing the lifespan of an energy source?**
+
+- [ ] Maintenance and replacement
+- [ ] Environmental impact
+- [ ] Cost-effectiveness
+
 ---
 
 ## Our Environment
@@ -9675,6 +10254,43 @@ Food chains and webs are intricate networks that intricately woven together the 
 - By understanding food chains and webs, we can better predict and manage ecosystem changes, such as pollution or climate change.
 **Conclusion:**
 Food chains and webs are fascinating ecosystems where species interact in intricate and interconnected ways. This intricate tapestry of life showcases the remarkable complexity and resilience of nature, reminding us of the intricate relationships that sustain life on Earth
+
+**Quizzes:**
+
+**Q1: Which level of the food chain occupies a specific trophic position?**
+
+- [x] Primary producers
+- [ ] Secondary consumers
+- [ ] Tertiary consumers
+- [ ] Producers
+
+**Q2: Which characteristic of food webs leads to specialization?**
+
+- [x] Interconnectedness
+- [ ] Complexity
+- [ ] Redundancy
+- [ ] None
+
+**Q3: Which of the following best illustrates a food chain?**
+
+- [x] A hierarchical tapestry
+- [ ] A colorful web
+- [ ] A network of interacting animals
+- [ ] A cycle of nutrients
+
+**Q4: Which of the following best describes the importance of food chains and webs?**
+
+- [x] Maintaining ecological balance and diversity
+- [ ] Preventing overpopulation of species
+- [ ] Controlling the spread of diseases
+- [ ] None
+
+**Q5: Which statement best describes a food web?**
+
+- [x] A network of interconnected species that interact with each other
+- [ ] A hierarchical system where each species occupies a specific trophic position
+- [ ] A random arrangement of organisms with no particular relationships
+- [ ] A single species that controls the entire food chain
 
 ---
 
@@ -10130,6 +10746,43 @@ The French Revolution challenged this fragmented system by establishing a **cent
 One of the most crucial aspects of the French Revolution was the **emancipation of the individual**. This revolutionary movement abolished slavery and forced the monarchy to recognize the **rights of citizens**, including their freedom of movement and speech. This principle of **human rights** significantly influenced the development of national identity, as it established a foundation for collective self-determination and political representation.
 The idea of the **nation** emerged as a natural consequence of the revolutionary spirit. It represented a group of people who shared a common language, culture, history, and aspirations. This shared identity fostered a sense of belonging and **collective identity**. The French Revolution established the concept of the nation as a **superpower** with the capacity to act on the global stage, setting a precedent for future national movements
 
+**Quizzes:**
+
+**Q1: Which historical event laid the groundwork for the modern concept of the nation?**
+
+- [ ] The American Revolution
+- [x] The French Revolution
+- [ ] The Napoleonic Wars
+- [ ] The Russian Empire
+
+**Q2: What was a key principle of the French Revolution?**
+
+- [x] Universal suffrage
+- [ ] Popular sovereignty
+- [ ] Capitalism
+- [ ] Individualism
+
+**Q3: Who was the central figure responsible for establishing the French Revolution?**
+
+- [ ] Marie Antoinette
+- [ ] Thomas Paine
+- [x] Napoleon Bonaparte
+- [ ] Louis XVI
+
+**Q4: What was a significant outcome of the French Revolution?**
+
+- [x] Abolition of slavery
+- [ ] Establishment of a centralized government
+- [ ] Universal suffrage for women
+- [ ] All of the above
+
+**Q5: Which concept emerged as a natural consequence of the revolutionary spirit?**
+
+- [x] The idea of the nation
+- [ ] The concept of the republic
+- [ ] The idea of democracy
+- [ ] The idea of human rights
+
 ---
 
 ### The Making of Nationalism in Europe
@@ -10276,6 +10929,43 @@ The unification of Germany and Italy under a single national identity, known as 
 **Additional Points:**
 * The process of German and Italian unification was not without its challenges, including political opposition, resistance from minorities, and economic disparities that needed to be addressed.
 * The legacy of nationalistic sentiments and the challenges faced in achieving unity continue to be debated and studied by historians
+
+**Quizzes:**
+
+**Q1: Which continent was most affected by the rise of nationalism in Europe?**
+
+- [ ] North America
+- [ ] Asia
+- [x] Europe
+- [ ] South America
+
+**Q2: What was the driving force behind the unification of Germany and Italy?**
+
+- [x] Economic Integration
+- [ ] Political Dissatisfaction
+- [ ] Religious Affiliation
+- [ ] Cultural Exchange
+
+**Q3: Which country played a pivotal role in the unification of Italy?**
+
+- [ ] Austria
+- [ ] France
+- [x] Germany
+- [ ] Britain
+
+**Q4: What were the consequences of the unification of Germany and Italy?**
+
+- [ ] Economic Growth
+- [ ] Political Integration
+- [ ] Cultural Fusion
+- [ ] Military Occupation
+
+**Q5: How did the legacy of nationalism continue to shape Germany and Italy's political and social identity?**
+
+- [x] Positive and Inspiring
+- [ ] Negative and Bitter
+- [ ] Neutral and Unimportant
+- [ ] Positive but Unequal
 
 ---
 
@@ -10891,6 +11581,43 @@ The Age of Industrialisation, which began in the late 19th century, marked a sig
 **Steam power** emerged as a transformative force, gradually replacing human muscle power with the efficiency of internal combustion engines. Steam engines, powered by steam, replaced human workers in various industries, leading to a significant decline in hand labour in manufacturing and production.
 **This transition had profound social and economic consequences.** While some workers were displaced, others found themselves employed in new industries like engineering, manufacturing, and transportation. This shift not only impacted the lives of individuals but also shaped the social landscape of societies, leading to urbanization, population shifts, and the development of new social classes.
 **The story of hand labour and steam power serves as a reminder of the complex interplay between technology, society, and the human workforce.** While automation and mechanization displaced physical labourers, they also created new opportunities for skilled professionals in diverse fields. This complex historical episode underscores the interconnectedness of technological advancements with the social and economic fabric of societies
+
+**Quizzes:**
+
+**Q1: What was the primary sector responsible for the majority of hand labour jobs in the Industrial Age?**
+
+- [x] Manufacturing
+- [ ] Agriculture
+- [ ] Mining
+- [ ] Construction
+
+**Q2: What was the impact of steam power on hand labour?**
+
+- [x] Increased demand for skilled labour
+- [ ] Reduced demand for skilled labour
+- [ ] No significant impact
+- [ ] Increased demand for general workers
+
+**Q3: Which industry was most heavily impacted by the transition from hand labour to steam power?**
+
+- [x] Manufacturing
+- [ ] Agriculture
+- [ ] Construction
+- [ ] Transportation
+
+**Q4: What were the social and economic consequences of the transition from hand labour to steam power?**
+
+- [x] Increased unemployment and poverty
+- [ ] Increased urbanization and population growth
+- [ ] Improved working conditions and safety
+- [ ] None of the above
+
+**Q5: What was the legacy of hand labour and steam power?**
+
+- [ ] The development of new technologies and industries
+- [ ] The rise of the middle class
+- [x] The decline of traditional social structures
+- [ ] The transition to a service-based economy
 
 ---
 
@@ -13610,6 +14337,43 @@ Non-conventional sources of energy refer to those resources and methods that are
 * However, challenges remain in terms of infrastructure development, storage, and grid integration.
 * Investing in research and development can help unlock the potential of non-conventional energy sources in India
 
+**Quizzes:**
+
+**Q1: Which among the following is not an example of a non-conventional source of energy?**
+
+- [ ] Solar energy
+- [ ] Wind energy
+- [ ] Hydropower
+- [x] Biomass energy
+
+**Q2: What is the main benefit of using non-conventional sources of energy?**
+
+- [ ] Reduced greenhouse gas emissions
+- [ ] Increased job creation
+- [ ] Improved energy security
+- [x] All of the above
+
+**Q3: Which non-conventional source of energy has the highest energy density?**
+
+- [ ] Solar energy
+- [ ] Wind energy
+- [ ] Hydropower
+- [x] Geothermal energy
+
+**Q4: Which factor can influence the output of non-conventional sources of energy?**
+
+- [ ] Weather conditions
+- [ ] Geographical location
+- [x] Both A and B
+- [ ] None
+
+**Q5: Which non-conventional source of energy can be considered a clean and sustainable option in India?**
+
+- [x] Solar energy
+- [ ] Wind energy
+- [ ] Hydropower
+- [ ] Biomass energy
+
 ---
 
 ### Conservation of Energy Resources
@@ -13820,6 +14584,43 @@ The location of an industrial facility can significantly impact its success. It 
 * **Chennai** is a major center for automotive manufacturing in India, benefiting from its access to raw materials, skilled labor, and a well-developed infrastructure.
 * **Indore** in central India is known for its textile industry, benefiting from its abundant water resources, skilled workforce, and political stability.
 Industrial location is a complex and multifaceted concept that requires careful consideration by investors and policymakers alike. It plays a crucial role in shaping the economic development of a region and the prosperity of its citizens
+
+**Quizzes:**
+
+**Q1: Which city is an industrial hub in India due to its access to natural resources, infrastructure, and a skilled workforce?**
+
+- [x] Mumbai
+- [ ] Chennai
+- [ ] Indore
+- [ ] Delhi
+
+**Q2: Which region is known for its textile industry due to its abundant water resources, skilled workforce, and political stability?**
+
+- [ ] Mumbai
+- [ ] Chennai
+- [x] Indore
+- [ ] Kolkata
+
+**Q3: Which city is a major center for automotive manufacturing in India due to its access to raw materials, skilled labor, and a well-developed infrastructure?**
+
+- [ ] Mumbai
+- [x] Chennai
+- [ ] Indore
+- [ ] Delhi
+
+**Q4: Which location is known for its potential to become an industrial hub due to its availability of natural resources, infrastructure, and a skilled workforce?**
+
+- [x] Mumbai
+- [ ] Chennai
+- [ ] Indore
+- [ ] Kolkata
+
+**Q5: Which region is known for its technological infrastructure, cultural and social factors, and easy accessibility to major markets and distribution networks?**
+
+- [ ] Mumbai
+- [ ] Chennai
+- [x] Indore
+- [ ] Kolkata
 
 ---
 
@@ -17911,6 +18712,43 @@ The WTO's main objectives include:
 * The WTO has also negotiated numerous free trade agreements, such as the North American Free Trade Agreement (NAFTA) and the European Union (EU) Single Market, which have further liberalized trade between member states.
 In conclusion, the World Trade Organisation is a significant international body that plays a crucial role in shaping the global economy. Through its comprehensive framework and negotiations, the WTO promotes free trade, enhances market access, and encourages cooperation among member states to achieve economic growth and development on a global scale
 
+**Quizzes:**
+
+**Q1: What is the main objective of the WTO?**
+
+- [x] Promoting Free Trade
+- [ ] Enhancing Market Access
+- [ ] Encouraging Government Intervention
+- [ ] Dispelling Trade Barriers
+
+**Q2: Which agreement established a single, uniform system of tariffs and trade rules for participating member states?**
+
+- [x] GATT
+- [ ] NAFTA
+- [ ] EU Single Market
+- [ ] World Bank
+
+**Q3: What is the WTO's primary role in shaping the global economy?**
+
+- [ ] Promoting sustainable development
+- [ ] Dispelling trade barriers
+- [ ] Encouraging investment
+- [ ] Facilitating the movement of goods and services
+
+**Q4: Which is an example of a free trade agreement negotiated by the WTO?**
+
+- [x] North American Free Trade Agreement (NAFTA)
+- [ ] European Union (EU) Single Market
+- [ ] GATT
+- [ ] World Bank
+
+**Q5: What is the WTO's impact on the global economy?**
+
+- [x] It promotes economic growth and development
+- [ ] It leads to increased trade barriers
+- [ ] It increases political instability
+- [ ] It promotes sustainable development
+
 ---
 
 ### Impact of Globalisation in India
@@ -18278,6 +19116,87 @@ The denial of choice can have significant consequences for individuals and the e
 **Conclusion:**
 Choice is a fundamental pillar of economic development. However, when individuals are deprived of this right due to external barriers, they are prevented from fully participating in the economic process. This can have detrimental consequences for both the individual and the economy as a whole. Therefore, ensuring access to information, resources, and fair economic policies is crucial for promoting choice and empowering individuals to contribute to a thriving society
 
+**Quizzes:**
+
+**Q1: Question text**
+
+- [ ] **Option 1**
+- [ ] **Option 2**
+- [ ] **Option 3**
+- [ ] **Option 4**
+
+**Q2: Question text**
+
+- [ ] **Access to information**
+- [ ] **Economic resources**
+- [ ] **Discrimination**
+- [ ] **Complex decision-making processes**
+
+**Q3: Question text**
+
+- [ ] *
+- [ ] *
+- [ ] C
+- [ ] o
+- [ ] r
+- [ ] r
+- [ ] e
+- [ ] c
+- [ ] t
+- [ ]  
+- [ ] O
+- [ ] p
+- [ ] t
+- [ ] i
+- [ ] o
+- [ ] n
+- [ ] *
+- [ ] *
+
+**Q4: Question text**
+
+- [ ] *
+- [ ] *
+- [ ] R
+- [ ] e
+- [ ] d
+- [ ] u
+- [ ] c
+- [ ] e
+- [ ] d
+- [ ]  
+- [ ] e
+- [ ] c
+- [ ] o
+- [ ] n
+- [ ] o
+- [ ] m
+- [ ] i
+- [ ] c
+- [ ]  
+- [ ] p
+- [ ] a
+- [ ] r
+- [ ] t
+- [ ] i
+- [ ] c
+- [ ] i
+- [ ] p
+- [ ] a
+- [ ] t
+- [ ] i
+- [ ] o
+- [ ] n
+- [ ] *
+- [ ] *
+
+**Q5: Question text**
+
+- [ ] **Reduced access to essential goods and services**
+- [ ] **Unfair outcomes**
+- [ ] **Both A and B**
+- [ ] **Neither A nor B**
+
 ---
 
 ### Where should Consumers go to get Justice?
@@ -18497,6 +19416,43 @@ Mandela's autobiography sheds light on his early life, shaped by both the hardsh
 The book vividly portrays the horrors of apartheid, including segregation, forced removals, and the brutal treatment of political opponents. Mandela's personal narrative serves as a poignant reminder of the human cost of intolerance and the unwavering pursuit of justice.
 The book also reveals Mandela's remarkable transformation into a champion of democracy. He narrates his transition from an isolated prisoner to a vocal advocate for human rights and equality. We witness his tireless efforts to dismantle apartheid and build a society where all are free and equal.
 Mandela's autobiography is not just a story of escape; it's a testament to the power of the human spirit to overcome adversity and achieve freedom. His autobiography serves as a reminder of the enduring fight for justice and the boundless potential of the human heart to break free from oppression
+
+**Quizzes:**
+
+**Q1: In what year was Nelson Mandela born?**
+
+- [ ] 1918
+- [ ] 1920
+- [x] 1922
+- [ ] 1924
+
+**Q2: What was Nelson Mandela's early home life like?**
+
+- [ ] Rich and comfortable
+- [x] Poor and disadvantaged
+- [ ] Unknown
+- [ ] Information not provided
+
+**Q3: Which historical event deeply shaped Nelson Mandela's perspective?**
+
+- [x] Apartheid laws
+- [ ] National party conference
+- [ ] Freedom struggle
+- [ ] The Sharpeville massacre
+
+**Q4: How did Mandela find his voice as an advocate for human rights?**
+
+- [ ] Through writing
+- [ ] Through music
+- [x] Through political activism
+- [ ] Through educational work
+
+**Q5: What was Nelson Mandela's biggest accomplishment as a leader?**
+
+- [x] Establishing a democratic South Africa
+- [ ] Demanding the release of political prisoners
+- [ ] Building a strong resistance network
+- [ ] Achieving freedom for all South Africans
 
 ---
 
@@ -19051,6 +20007,36 @@ Imagine a majestic tiger, with a powerful frame and a fierce gaze, caged in a zo
 The tiger, a creature of instinct and an undeniable desire for freedom, has a natural instinct to roam and explore beyond the confines of its enclosure. The zookeeper must consider the tiger's well-being and the safety of the visitors who marvel at it.
 The poem invites us to reflect on the complexities of captivity and the delicate balance between freedom and safety. It raises questions about the ethics of keeping an animal in a confined space, the potential consequences of such an act, and the challenges faced by those responsible for ensuring the well-being of captive creatures.
 The poem reminds us that even in a place where humans have created a world of wonder, animals retain their inherent freedom and a sense of belonging. It is a poignant reminder of the beauty and fragility of life, and the responsibility we have to protect and cherish all living beings, regardless of their species or captivity
+
+**Quizzes:**
+
+**Q1: Imagine a majestic tiger, with a powerful frame and a fierce gaze, caged in a zoo. The zookeeper, with a compassionate heart but a firm demeanor, faces a difficult decision: whether to let the tiger escape or maintain its safety within the zoo walls.**
+
+- [x] Let the tiger escape
+- [ ] Keep the tiger in its enclosure
+- [ ] Both A and B
+
+**Q2: The poem invites us to reflect on the complexities of captivity and the delicate balance between freedom and safety. It raises questions about the ethics of keeping an animal in a confined space, the potential consequences of such an act, and the challenges faced by those responsible for ensuring the well-being of captive creatures. What is the significance of the tiger's natural instinct to roam and explore beyond the confines of its enclosure?**
+
+- [ ] It is a reminder of the beauty and fragility of life
+- [x] It is a reminder of the ethical responsibility we have to protect and cherish all living beings
+- [ ] It is a reminder of the challenges faced by those responsible for ensuring the well-being of captive creatures
+
+**Q3: What is the main theme of the poem?**
+
+- [ ] The beauty and fragility of life
+
+**Q4: Which word best describes the zookeeper's tone in the poem?**
+
+- [x] Compassionate
+- [ ] Stern
+- [ ] Optimistic
+
+**Q5: What is the main conflict depicted in the poem?**
+
+- [ ] The conflict between freedom and safety
+- [ ] The conflict between humans and nature
+- [x] The conflict between the zookeeper and the tiger
 
 ---
 
@@ -20823,6 +21809,43 @@ Karuna, an ardent devotee of Lord Vishnu, lives with her husband Bhishma amidst 
 **Importance:**
 Manviya Karuna Ki Divya Chamak is a timeless story that reminds us of the enduring power of love. It teaches us the importance of unwavering devotion, selflessness, and overcoming adversity through the transformative power of love
 
+**Quizzes:**
+
+**Q1: What is the primary theme of Manviya Karuna Ki Divya Chamak?**
+
+- [x] Love, devotion, and sacrifice
+- [ ] War and violence
+- [ ] Friendship and loyalty
+- [ ] Illusionary love
+
+**Q2: How does Karuna's love for Bhishma challenge conventional notions of love?**
+
+- [ ] Conventional love is fleeting and dependent on material possessions
+- [x] Conventional love is often motivated by worldly benefits
+- [ ] Conventional love is conditional and easily shattered
+- [ ] Conventional love is not as strong as Karuna's love
+
+**Q3: What is the most impactful sacrifice that Karuna makes for Bhishma?**
+
+- [x] Offering her own life
+- [ ] Caring for his wounds and injuries
+- [ ] Providing him with a constant supply of food
+- [ ] Offering him a powerful weapon
+
+**Q4: What is the central message conveyed by Manviya Karuna Ki Divya Chamak?**
+
+- [x] Love is not limited by boundaries or circumstance
+- [ ] Love is a constant force that can overcome any obstacle
+- [ ] Love is the most powerful weapon one can possess
+- [ ] Love is the key to achieving success and happiness
+
+**Q5: What is the main significance of Manviya Karuna Ki Divya Chamak in the context of Indian mythology?**
+
+- [ ] It is a story of romantic love
+- [x] It is a story of sacrifice and devotion
+- [ ] It is a story of war and violence
+- [ ] It is a story of family and friendship
+
 ---
 
 ### Ek Kahani Yah Bhi
@@ -20834,6 +21857,43 @@ Ek kahani yahi bhi is often used in conjunction with other phrases in Hindi, suc
 For example, you could say:
 Ek kahani mein ladki ki raani ki taar se pyaar ki raat banati hai.
 Ek kahani ki ki raani ki taar se pyaar ki raat banati hai
+
+**Quizzes:**
+
+**Q1: Which phrase in Hindi is used to express a situation where a positive outcome would still occur, despite the negative circumstances?**
+
+- [ ] Ek kahani mein
+- [ ] Ek kahani ki
+- [x] Ek kahani yahi bhi
+- [ ] Ek kahani mein ki
+
+**Q2: Which phrase is often used in conjunction with Ek kahani yahi bhi?**
+
+- [ ] Ek kahani mein
+- [ ] Ek kahani ki
+- [ ] Ek kahani yahi bhi
+- [x] Ek kahani mein ki
+
+**Q3: Which phrase is used to create a more complex and nuanced expression?**
+
+- [ ] Ek kahani mein
+- [ ] Ek kahani ki
+- [x] Ek kahani yahi bhi
+- [ ] Ek kahani mein ki
+
+**Q4: Which phrase in Hindi is used to talk about a person who is struggling with a problem, but is still determined to find a way to overcome it?**
+
+- [x] Ek kahani mein
+- [ ] Ek kahani ki
+- [ ] Ek kahani yahi bhi
+- [ ] Ek kahani mein ki
+
+**Q5: Which phrase is often used in conjunction with Ek kahani mein ki?**
+
+- [ ] Ek kahani mein
+- [ ] Ek kahani ki
+- [ ] Ek kahani yahi bhi
+- [x] Ek kahani mein ki
 
 ---
 
@@ -20906,6 +21966,43 @@ Naubatkhane Mein Ibadat is a beautiful poem by the renowned poet Chandrakant. Th
 The poem begins by capturing the essence of human existence, depicting a tapestry of dreams woven with various threads of joy, sorrow, and hope. These dreams, like stars illuminating the night sky, illuminate the path ahead, offering solace and meaning to the seeker's inner voice.
 The lyrics beautifully capture the essence of the human experience, exploring themes of love, loss, and the search for inner peace. Through the lyrical verses, the poet encourages readers to embark on their own journey through dreams, seeking answers to life's profound questions.
 Naubatkhane Mein Ibadat is a testament to the power of poetry to transcend time and connect with the hearts of people. Its beauty lies not only in its poetic form but also in the profound and universal message it conveys about the pursuit of dreams and the journey of the soul
+
+**Quizzes:**
+
+**Q1: What is the main theme of Naubatkhane Mein Ibadat?**
+
+- [x] Love and loss
+- [ ] The search for inner peace
+- [ ] Hope and joy
+- [ ] The beauty of dreams
+
+**Q2: How does the poem capture the essence of human existence?**
+
+- [ ] Through imagery and metaphors
+- [x] Through lyrical verses
+- [ ] Through rhythmic patterns
+- [ ] Through symbolism
+
+**Q3: What is the central message of Naubatkhane Mein Ibadat?**
+
+- [x] The pursuit of dreams is a journey
+- [ ] The importance of finding inner peace
+- [ ] Dreams provide solace and meaning to the seeker
+- [ ] Dreams are the ultimate source of happiness
+
+**Q4: What is the significance of the night sky imagery in the poem?**
+
+- [x] It represents the boundless possibilities of dreams
+- [ ] It symbolizes the darkness and uncertainty of the world
+- [ ] It evokes a sense of peace and tranquility
+- [ ] It highlights the darkness of the human heart
+
+**Q5: What is the overall tone of Naubatkhane Mein Ibadat?**
+
+- [x] Serious and contemplative
+- [ ] Enthusiastic and hopeful
+- [ ] Joyful and optimistic
+- [ ] Melancholy and introspective
 
 ---
 
@@ -21418,6 +22515,43 @@ Here are some examples of Sangatkar in poetry:
 * **"Sapno ki dhadkan mein sangatkar ki tarah**" - This poem speaks of the bittersweet nature of life, with the joys and sorrows intertwined in a beautiful dance.
 Sangatkar is a powerful and universal emotion that transcends cultural and linguistic barriers. It is a reminder of the simple beauty and joy of life, and it is a powerful force for bringing people together in shared appreciation
 
+**Quizzes:**
+
+**Q1: What is the literal meaning of the word 'Sangatkar'?**
+
+- [x] To carry or hold
+- [ ] To sing, to dance
+- [ ] To sleep
+- [ ] To work
+
+**Q2: How is 'Sangatkar' often expressed in poetry?**
+
+- [x] Through traditional poetic forms
+- [ ] Through modern poetic forms
+- [ ] Through written language
+- [ ] Through visual art
+
+**Q3: Which verse captures the essence of living with laughter and joy?**
+
+- [x] Sapno ki dhadkan mein sangatkar ki tarah
+- [ ] Khel hai sangatkar mein, khushiyon mein saat
+- [ ] Naagin
+- [ ] Meri saheliyon mein saat
+
+**Q4: Which form is traditionally associated with 'Sangatkar' in poetry?**
+
+- [x] Traditional
+- [ ] Modern
+- [ ] Folk
+- [ ] Classical
+
+**Q5: Which verse speaks of the bittersweet nature of life, with the joys and sorrows intertwined?**
+
+- [x] Sapno ki dhadkan mein sangatkar ki tarah
+- [ ] Khel hai sangatkar mein, khushiyon mein saat
+- [ ] Meri saheliyon mein saat
+- [ ] Naagin
+
 ---
 
 ## Kritika
@@ -21763,6 +22897,38 @@ Pad Parichay is a very versatile verb phrase that can be used in many different 
 **Practice:**
 * Write a sentence using Pad Parichay.
 * Rewrite a sentence using Pad Parichay in a different way
+
+**Quizzes:**
+
+**Q1: Question: Which of the following is an example of a habit performed regularly?**
+
+- [ ] **I pad parichay my homework every day.**
+- [ ] **He plays the piano every evening.**
+- [ ] **She reads books every week.**
+
+**Q2: Question: Which of the following is an example of a negative habit performed regularly?**
+
+- [ ] **I pad parichay my homework every day.**
+- [ ] **She plays the piano every evening.**
+- [ ] **He reads books every week.**
+
+**Q3: Question: Which of the following is an example of a positive habit performed regularly?**
+
+- [ ] **I pad parichay my homework every day.**
+- [ ] **She plays the piano every evening.**
+- [ ] **He reads books every week.**
+
+**Q4: Question: Which of the following is an example of a negative activity performed regularly?**
+
+- [ ] **I pad parichay my homework every day.**
+- [ ] **She plays the piano every evening.**
+- [ ] **He reads books every week.**
+
+**Q5: Question: Which of the following is an example of a positive activity performed regularly?**
+
+- [ ] **I pad parichay my homework every day.**
+- [ ] **She plays the piano every evening.**
+- [ ] **He reads books every week.**
 
 ---
 

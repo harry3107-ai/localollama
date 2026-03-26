@@ -1711,6 +1711,43 @@ Understanding waves allows us to appreciate the beauty and complexity of nature'
 The vast world of chemistry is a fascinating and intricate field that explores the composition and properties of matter, how it interacts with its surroundings, and how these interactions lead to the incredibly diverse world we experience. Studying chemistry can help us to understand the materials that make up everything from everyday objects to the complex molecules that make up life itself.
 The study of chemistry also involves exploring the historical development of the field, the major discoveries that have shaped our understanding of the natural world, and the ethical and societal implications of chemical research. By delving into these fascinating topics, we gain a deep appreciation for the power and beauty of the scientific method and the endless possibilities that lie ahead in the exploration of the physical world
 
+**Quizzes:**
+
+**Q1: What is the definition of general introduction in chemistry?**
+
+- [ ] The study of the composition and properties of matter, how it interacts with its surroundings, and how these interactions lead to the incredibly diverse world we experience.
+- [ ] The study of the history of chemistry and the major discoveries that have shaped our understanding of the natural world.
+- [ ] The study of the ethical and societal implications of chemical research.
+- [ ] The study of the chemical process of photosynthesis.
+
+**Q2: Which of the following is not a major discovery in the history of chemistry?**
+
+- [ ] The discovery of electricity
+- [ ] The discovery of the atom
+- [ ] The discovery of the electron
+- [ ] The discovery of the hydrogen atom.
+
+**Q3: Which ethical and societal implications does the study of chemistry have?**
+
+- [ ] It can help to create new and innovative materials that could be used to improve our lives
+- [ ] It can help to develop new technologies that could lead to improved healthcare and sanitation
+- [ ] It can help to create new drugs that could help to treat diseases
+- [x] All of the above
+
+**Q4: What is the scientific method?**
+
+- [x] A step-by-step process for investigating a problem
+- [ ] A process for testing a hypothesis
+- [ ] A process for making a new discovery
+- [ ] A process for evaluating the accuracy of a measurement
+
+**Q5: What is the scientific method used for in chemistry?**
+
+- [x] To test a hypothesis
+- [ ] To discover a new element
+- [ ] To develop a new drug
+- [ ] To study the history of the scientific field
+
 ---
 
 ### Nature of Matter
@@ -1893,6 +1930,43 @@ Using the mole concept and molar masses, we can perform various calculations, in
 * Calculating the mass of a given amount of a substance
 * Comparing the molar mass of different compounds
 Understanding the mole concept and molar masses is crucial for comprehending the behavior of substances at the molecular level and for interpreting chemical reactions and analyses
+
+**Quizzes:**
+
+**Q1: What is the definition of a mole?**
+
+- [x] A specific amount of a substance
+- [ ] A specific number of atoms of a substance
+- [ ] A specific amount of a substance that is pure
+- [ ] A specific number of moles of a substance
+
+**Q2: What is the molar mass of water?**
+
+- [x] 18.015 g/mol
+- [ ] 18.016 g/mol
+- [ ] 18.017 g/mol
+- [ ] 18.018 g/mol
+
+**Q3: Which formula is used to calculate the number of moles of a substance?**
+
+- [x] Number of moles = mass / molar mass
+- [ ] Number of moles = mass / molar mass * Avogadro's number
+- [ ] Number of moles = mass / molar mass * Avogadro's number + 1
+- [ ] Number of moles = mass / molar mass + 1
+
+**Q4: Which equation is used to calculate the amount of a substance in a given sample?**
+
+- [x] Amount = moles * molar mass
+- [ ] Amount = mass / moles
+- [ ] Amount = volume * density
+- [ ] Amount = mass / volume
+
+**Q5: Which property of a compound depends on its molar mass?**
+
+- [ ] Density
+- [ ] Melting point
+- [ ] Boiling point
+- [x] All of the above
 
 ---
 
@@ -2182,6 +2256,43 @@ The Bohr model was a very successful model for understanding the structure of th
 One limitation of the Bohr model was that it did not take into account the spin of the electron. The Bohr model described an electron as having a specific spin, but it was later discovered that electrons can have multiple spins. This means that the Bohr model was not able to accurately describe the structure of the atom.
 Another limitation of the Bohr model was that it did not take into account the electrostatic forces between the protons and the electrons. The Bohr model described the atom as a positively charged sphere, but it was later discovered that the protons and electrons have a net negative charge. This means that the Bohr model was not able to accurately describe the electrostatic forces between the protons and the electrons.
 Despite its limitations, the Bohr model remains a valuable tool for understanding the structure of the atom. It is a good starting model for understanding the atom, and it can be used to explain a number of experimental results
+
+**Quizzes:**
+
+**Q1: Which postulate was not included in the Bohr model?**
+
+- [ ] Electron can only move in specific circular orbits around the nucleus.
+- [x] The atom is a small, positively charged sphere with a negatively charged electron orbiting around it.
+- [ ] The nucleus of the atom is located at the center of the atom.
+- [ ] The electron has a specific energy level, or orbital, around the nucleus.
+
+**Q2: Which experiment supported the Bohr model?**
+
+- [x] Rutherford gold foil experiment
+- [ ] Atomic orbital model experiment
+- [ ] Quantum mechanics experiment
+- [ ] Emission and absorption of light by atoms
+
+**Q3: What was the main limitation of the Bohr model?**
+
+- [ ] It did not take into account the spin of the electron
+- [x] It did not take into account the electrostatic forces between the protons and the electrons
+- [ ] It did not take into account the quantum mechanical properties of the atom
+- [ ] It did not take into account the nuclear forces between the protons and the electrons
+
+**Q4: What is the Bohr model primarily used for?**
+
+- [ ] Understanding the structure of the atom
+- [ ] Explaining a number of experimental results
+- [ ] Making new scientific discoveries
+- [x] All of the above
+
+**Q5: What is the Bohr model's contribution to the understanding of the atom?**
+
+- [x] It provided a starting model for understanding the atom
+- [ ] It was a very successful model for understanding the atom
+- [ ] It had some limitations and was eventually replaced by more accurate models
+- [ ] It was the first model to describe the atom
 
 ---
 
@@ -3801,6 +3912,38 @@ An enthalpy of ionization represents the energy required to remove an electron f
 A solution is a mixture of two or more substances that is homogeneous on a macroscopic scale. An enthalpy of solution represents the energy change when a solid or liquid solute is dissolved in a solvent. It is typically negative because energy is released when the solute and solvent molecules combine.
 **Example:** When sodium dissolves in water, the enthalpy of solution is negative because energy is released as the solid sodium dissolves into the liquid water
 
+**Quizzes:**
+
+**Q1: Which describes the energy change involved in the formation of a compound from its constituent elements?**
+
+- [ ] Positive, Negative, Zero
+- [ ] Positive, Negative, Infinite
+- [ ] Positive, Negative, Undefined
+
+**Q2: Which describes the energy change involved when a solid directly transforms into a gas?**
+
+- [ ] Positive, Negative, Zero
+- [ ] Positive, Negative, Infinite
+- [ ] Positive, Negative, Undefined
+
+**Q3: Which describes the energy change involved when a solid loses an electron to form a positive ion?**
+
+- [ ] Positive, Negative, Zero
+- [ ] Positive, Negative, Infinite
+- [ ] Positive, Negative, Undefined
+
+**Q4: Which describes the energy change involved when a solution is formed?**
+
+- [ ] Positive, Negative, Zero
+- [ ] Positive, Negative, Infinite
+- [ ] Positive, Negative, Undefined
+
+**Q5: Which describes the energy change involved when a solid dissolves into a liquid?**
+
+- [ ] Positive, Negative, Zero
+- [ ] Positive, Negative, Infinite
+- [ ] Positive, Negative, Undefined
+
 ---
 
 ### Second Law of Thermodynamics (brief introduction)
@@ -3822,6 +3965,43 @@ Imagine a closed loop in a system that completely surrounds a heat reservoir at 
 * Imagine a perfectly insulated coffee cup kept at a constant temperature. While the temperature of the surrounding air increases, the coffee's temperature remains constant due to the second law.
 * Conversely, a perfectly efficient heat engine operating between two reservoirs at different temperatures would reach 100% efficiency.
 The Second Law is a powerful tool that helps us understand and predict the efficiency of energy transfer processes. It has numerous applications in various fields, from engineering and energy production to astrophysics and materials science
+
+**Quizzes:**
+
+**Q1: What is the key point of the Second Law of Thermodynamics?**
+
+- [ ] It establishes a connection between the maximum efficiency achievable and the temperature of its surrounding environment.
+- [x] It states that the efficiency of energy conversion is always lower than 100%.
+- [ ] It implies that for a given system, increasing the temperature of the hot reservoir or the temperature of the cold reservoir leads to an increase in the maximum achievable efficiency.
+- [ ] None of the above.
+
+**Q2: According to the Second Law, what is the highest efficiency achievable for a system at constant temperature?**
+
+- [x] 100%
+- [ ] 101%
+- [ ] 102%
+- [ ] 103%
+
+**Q3: In which scenario does the Second Law imply that the efficiency is highest?**
+
+- [x] When the temperature difference between the hot and cold reservoirs is the greatest
+- [ ] When the temperature of the hot reservoir is higher than the temperature of the cold reservoir
+- [ ] When the system is operating at a constant temperature
+- [ ] None of the above
+
+**Q4: According to the Second Law, what is the efficiency of a system that operates between two reservoirs at different temperatures?**
+
+- [ ] 0%
+- [ ] 50%
+- [ ] 75%
+- [x] 100%
+
+**Q5: What is the practical application of the Second Law?**
+
+- [x] It helps explain the practical limitations of real-world heat engines and devices
+- [ ] It provides a theoretical basis for calculating the efficiency of various energy transfer processes
+- [ ] Both a and b
+- [ ] None of the above
 
 ---
 
@@ -4641,6 +4821,43 @@ If the concentration of hydrogen ions (H+) is increased, it will shift the equil
 2. Similarly, increasing the concentration of hydroxide ions (OH-) will shift the equilibrium towards the right, favoring the formation of hydroxide ions and fewer hydrogen ions.
 The Common Ion Effect is a fundamental concept in chemical equilibrium and helps chemists understand how changes in concentration affect the position of equilibrium
 
+**Quizzes:**
+
+**Q1: How does the Common Ion Effect work?**
+
+- [ ] **Shifting the equilibrium towards the left**
+- [ ] Shifting the equilibrium towards the right
+- [ ] There is no effect on the equilibrium
+- [ ] The equilibrium remains the same
+
+**Q2: Which ions compete with the reactants for binding to the surface of the solid or liquid phase of the reactants?**
+
+- [ ] Hydrogen ion (H+)
+- [ ] Sodium ion (Na+)
+- [ ] Chloride ion (Cl-)
+- [x] Hydroxide ion (OH-)
+
+**Q3: Consider the reaction between hydrogen (H2) and oxygen (O2) to form water (H2O). If the concentration of hydrogen ions (H+) is increased, what will happen to the equilibrium?**
+
+- [ ] The equilibrium shifts towards the left
+- [ ] The equilibrium remains the same
+- [x] The equilibrium shifts towards the right
+- [ ] The equilibrium shifts towards the center
+
+**Q4: Which is an example of the Common Ion Effect?**
+
+- [ ] **The reaction between hydrogen (H2) and oxygen (O2) to form water (H2O)**
+- [ ] The reaction between sodium and chloride ions
+- [ ] The reaction between hydrogen (H2) and chlorine gas
+- [ ] The reaction between hydroxide ions (OH-) and hydrogen ions (H+)
+
+**Q5: What is the main effect of increasing the concentration of common ions on the equilibrium constant of a chemical reaction?**
+
+- [x] Increases the equilibrium constant
+- [ ] Decreases the equilibrium constant
+- [ ] Does not affect the equilibrium constant
+- [ ] It depends on the chemical reaction
+
 ---
 
 ## Redox Reactions
@@ -4666,6 +4883,43 @@ Oxidation and reduction are chemical processes that involve the transfer of elec
 * Oxidation and reduction reactions are essential for understanding many chemical processes, including photosynthesis, combustion, and respiration.
 * They help predict the products of redox reactions and the overall reaction stoichiometry.
 * Understanding oxidation and reduction is crucial for interpreting real-world chemical phenomena, such as corrosion, rusting, and the efficiency of batteries
+
+**Quizzes:**
+
+**Q1: Which statement best defines oxidation?**
+
+- [x] A substance gains electrons during oxidation.
+- [ ] A substance loses electrons during oxidation.
+- [ ] A substance gains ions during oxidation.
+- [ ] A substance loses ions during oxidation.
+
+**Q2: During which chemical process do substances undergo oxidation? **
+
+- [ ] Photosynthesis
+- [ ] Combustion
+- [x] Respiration
+- [ ] Electrolysis
+
+**Q3: Which chemical process involves the transfer of electrons between species? **
+
+- [x] Oxidation
+- [ ] Reduction
+- [ ] Combination
+- [ ] Decomposition
+
+**Q4: What is an example of a reduction reaction? **
+
+- [x] The reaction of copper and zinc with acid
+- [ ] The burning of wood
+- [ ] The reaction of hydrogen and oxygen
+- [ ] The decomposition of water
+
+**Q5: Which of the following is an example of an oxidation-reduction reaction? **
+
+- [x] The reaction of sodium and chlorine
+- [ ] The reaction of copper and hydrogen
+- [ ] The burning of gasoline
+- [ ] The reaction of calcium and vinegar
 
 ---
 
@@ -5838,6 +6092,43 @@ The **Cell Cycle** is a tightly orchestrated series of interconnected phases tha
 **Mitosis** is the phase where the cell divides into two identical daughter cells. Mitosis involves four distinct stages: prophase, metaphase, anaphase, and telophase. During prophase, the chromosomes become visible and the nuclear membrane begins to break down. In metaphase, the chromosomes line up in the center of the cell. In anaphase, the chromosomes are pulled to opposite ends of the cell. In telophase, the chromosomes arrive at the cell's poles and the nuclear membrane reforms around each one.
 **Telophase** is the final phase of mitosis and is similar to prophase in meiosis. During telophase, the two daughter cells receive a complete copy of the genetic material from the parent cell. This ensures that each daughter cell receives the correct number of chromosomes to maintain the cell's genetic integrity.
 Cell division ensures that each daughter cell receives a complete set of chromosomes, resulting in the growth and development of new organisms. This process is crucial for growth, tissue repair, and the replacement of old or damaged cells
+
+**Quizzes:**
+
+**Q1: Which phase of the cell cycle takes up the majority of the cell's life?**
+
+- [x] **Interphase**
+- [ ] Mitosis
+- [ ] Telophase
+- [ ] Prophase
+
+**Q2: During what phase of the cell cycle does the cell divide into two identical daughter cells?**
+
+- [ ] Prophase
+- [ ] Metaphase
+- [ ] Anaphase
+- [ ] Telophase
+
+**Q3: Which phase of the cell cycle ensures that each daughter cell receives a complete set of chromosomes?**
+
+- [ ] **Prophase**
+- [ ] Metaphase
+- [ ] Anaphase
+- [ ] Telophase
+
+**Q4: Which phase of the cell cycle involves the breakdown of the nuclear membrane and the formation of new chromosomes?**
+
+- [x] **Prophase**
+- [ ] Metaphase
+- [ ] Anaphase
+- [ ] Telophase
+
+**Q5: What is the main purpose of cell division?**
+
+- [ ] To ensure the proper growth and development of new organisms
+- [ ] To replace old or damaged cells
+- [ ] To create gametes
+- [ ] To regulate the cell population
 
 ---
 
@@ -7564,6 +7855,43 @@ International business is the intricate and ever-evolving interplay between comp
 * **International Taxes:** Multinational companies may face tax liabilities in different countries, requiring specialized tax reporting and compliance measures.
 By understanding these concepts and applying them in practice, international businesses can achieve success in a globalized market
 
+**Quizzes:**
+
+**Q1: Which concept involves exchanging currencies to ensure smooth payment operations and international trade?**
+
+- [x] Foreign exchange
+- [ ] International accounting
+- [ ] International taxation
+- [ ] International logistics
+
+**Q2: What is crucial for accurate financial reporting across diverse jurisdictions?**
+
+- [ ] Foreign exchange
+- [x] International accounting
+- [ ] International logistics
+- [ ] International marketing
+
+**Q3: Which concept involves meticulous planning and coordination for managing the flow of goods and services across international borders?**
+
+- [ ] Foreign exchange
+- [ ] International accounting
+- [x] International logistics
+- [ ] International marketing
+
+**Q4: How can international companies achieve success in a globalized market?**
+
+- [ ] Foreign exchange
+- [ ] International accounting
+- [ ] International logistics
+- [x] International marketing
+
+**Q5: Which concept involves navigating complex tax laws and regulations across various countries?**
+
+- [ ] Foreign exchange
+- [ ] International accounting
+- [x] International taxation
+- [ ] Global supply chain
+
 ---
 
 # Economics (Year 2026)
@@ -8931,6 +9259,43 @@ The Tale of Melon City is a captivating and bittersweet tale that explores theme
 The narrative follows the journey of a young girl named Anya, who returns to Melon City after years of exile. Her return is marked by a sense of longing and a desire for belonging. However, she soon encounters the harsh realities of life in the city, where the survivors struggle to survive amidst the devastation.
 Through Anya's poignant narration, the story conveys the profound impact of the tragedy on the entire community. The characters, both human and mythical, grapple with the loss of loved ones, the pain of betrayal, and the uncertainty of the future. The tale also highlights the enduring spirit of community, as people come together to support each other and find solace in shared experiences.
 The Tale of Melon City is a powerful and poignant story that offers a glimpse into a world where humanity and nature coexist in harmony. It is a story about resilience, the importance of hope, and the enduring power of human connection
+
+**Quizzes:**
+
+**Q1: What is the central theme explored in the Tale of Melon City?**
+
+- [ ] Loss of loved ones
+- [ ] Pain of betrayal
+- [ ] Uncertainty of the future
+- [x] All of the above
+
+**Q2: What is the name of the fantastical land where the story unfolds?**
+
+- [x] Melon City
+- [ ] Everland
+- [ ] The Enchanted Forest
+- [ ] Unknown
+
+**Q3: What happens when a deadly plague sweeps through Melon City?**
+
+- [ ] The plague kills everyone
+- [x] The plague kills only a single melon
+- [ ] The plague kills half of the city's population
+- [ ] The plague kills everyone except Anya
+
+**Q4: How does the narrative convey the profound impact of the tragedy on the entire community?**
+
+- [x] Through the poignant narration of Anya
+- [ ] Through the flashbacks to the past
+- [ ] Through the vivid descriptions of the city
+- [ ] Through the harsh realities of life in the city
+
+**Q5: What is the main message of The Tale of Melon City?**
+
+- [ ] The importance of hope
+- [x] The enduring spirit of community
+- [ ] The power of imagination
+- [ ] The beauty of life
 
 ---
 

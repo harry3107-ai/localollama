@@ -1875,7 +1875,63 @@
           {
             "topic": "General Introduction",
             "definition": "## General Introduction\nThe vast world of chemistry is a fascinating and intricate field that explores the composition and properties of matter, how it interacts with its surroundings, and how these interactions lead to the incredibly diverse world we experience. Studying chemistry can help us to understand the materials that make up everything from everyday objects to the complex molecules that make up life itself.\nThe study of chemistry also involves exploring the historical development of the field, the major discoveries that have shaped our understanding of the natural world, and the ethical and societal implications of chemical research. By delving into these fascinating topics, we gain a deep appreciation for the power and beauty of the scientific method and the endless possibilities that lie ahead in the exploration of the physical world",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of general introduction in chemistry?",
+                "options": [
+                  "The study of the composition and properties of matter, how it interacts with its surroundings, and how these interactions lead to the incredibly diverse world we experience.",
+                  "The study of the history of chemistry and the major discoveries that have shaped our understanding of the natural world.",
+                  "The study of the ethical and societal implications of chemical research.",
+                  "The study of the chemical process of photosynthesis."
+                ],
+                "answer": "The definition given in the passage is the correct answer.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is not a major discovery in the history of chemistry?",
+                "options": [
+                  "The discovery of electricity",
+                  "The discovery of the atom",
+                  "The discovery of the electron",
+                  "The discovery of the hydrogen atom."
+                ],
+                "answer": "The discovery of the hydrogen atom",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which ethical and societal implications does the study of chemistry have?",
+                "options": [
+                  "It can help to create new and innovative materials that could be used to improve our lives",
+                  "It can help to develop new technologies that could lead to improved healthcare and sanitation",
+                  "It can help to create new drugs that could help to treat diseases",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the scientific method?",
+                "options": [
+                  "A step-by-step process for investigating a problem",
+                  "A process for testing a hypothesis",
+                  "A process for making a new discovery",
+                  "A process for evaluating the accuracy of a measurement"
+                ],
+                "answer": "A step-by-step process for investigating a problem",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the scientific method used for in chemistry?",
+                "options": [
+                  "To test a hypothesis",
+                  "To discover a new element",
+                  "To develop a new drug",
+                  "To study the history of the scientific field"
+                ],
+                "answer": "To test a hypothesis",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Nature of Matter",
@@ -2061,7 +2117,63 @@
           {
             "topic": "Mole Concept and Molar Masses",
             "definition": "## The Mole Concept and Molar Masses\nA **mole** is a specific amount of a substance, usually a pure compound or element. It is represented by the symbol **mol** and is equal to the number of moles of that substance in a given sample. \nThe **molar mass** is the sum of the atomic masses of all the atoms in one mole of a compound. It is expressed in the units of **grams per mole (g/mol)**. \nFor example, consider the compound water (H2O). The molar mass of water is equal to 18.015 g/mol, meaning that there are 18.015 grams of hydrogen and 1.008 grams of oxygen in one mole of water.\nUsing the mole concept and molar masses, we can perform various calculations, including:\n* Determining the number of moles of a given substance\n* Calculating the amount of a substance in a given sample\n* Calculating the mass of a given amount of a substance\n* Comparing the molar mass of different compounds\nUnderstanding the mole concept and molar masses is crucial for comprehending the behavior of substances at the molecular level and for interpreting chemical reactions and analyses",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of a mole?",
+                "options": [
+                  "A specific amount of a substance",
+                  "A specific number of atoms of a substance",
+                  "A specific amount of a substance that is pure",
+                  "A specific number of moles of a substance"
+                ],
+                "answer": "A specific amount of a substance",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the molar mass of water?",
+                "options": [
+                  "18.015 g/mol",
+                  "18.016 g/mol",
+                  "18.017 g/mol",
+                  "18.018 g/mol"
+                ],
+                "answer": "18.015 g/mol",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which formula is used to calculate the number of moles of a substance?",
+                "options": [
+                  "Number of moles = mass / molar mass",
+                  "Number of moles = mass / molar mass * Avogadro's number",
+                  "Number of moles = mass / molar mass * Avogadro's number + 1",
+                  "Number of moles = mass / molar mass + 1"
+                ],
+                "answer": "Number of moles = mass / molar mass",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which equation is used to calculate the amount of a substance in a given sample?",
+                "options": [
+                  "Amount = moles * molar mass",
+                  "Amount = mass / moles",
+                  "Amount = volume * density",
+                  "Amount = mass / volume"
+                ],
+                "answer": "Amount = moles * molar mass",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of a compound depends on its molar mass?",
+                "options": [
+                  "Density",
+                  "Melting point",
+                  "Boiling point",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Stoichiometry and Stoichiometric Calculations",
@@ -2370,7 +2482,63 @@
           {
             "topic": "Bohr's Model and its Limitations",
             "definition": "The Bohr model was proposed by Niels Bohr in 1913 as a model for the structure of the atom. This model was based on the following postulates:\n* The atom is a small, positively charged sphere with a negatively charged electron orbiting around it.\n* The nucleus of the atom is located at the center of the atom.\n* The electron has a specific energy level, or orbital, around the nucleus.\n* The electron can only move in specific circular orbits around the nucleus.\nThese postulates were supported by a number of experiments, including the results of the Rutherford gold foil experiment. The Rutherford gold foil experiment showed that a small amount of radiation was scattered by the gold foil, indicating that the atom must be mostly empty. This meant that the nucleus must be a very small part of the atom.\nThe Bohr model was a very successful model for understanding the structure of the atom. It was able to explain a number of experimental results, including the emission and absorption of light by atoms. However, the Bohr model had some limitations.\nOne limitation of the Bohr model was that it did not take into account the spin of the electron. The Bohr model described an electron as having a specific spin, but it was later discovered that electrons can have multiple spins. This means that the Bohr model was not able to accurately describe the structure of the atom.\nAnother limitation of the Bohr model was that it did not take into account the electrostatic forces between the protons and the electrons. The Bohr model described the atom as a positively charged sphere, but it was later discovered that the protons and electrons have a net negative charge. This means that the Bohr model was not able to accurately describe the electrostatic forces between the protons and the electrons.\nDespite its limitations, the Bohr model remains a valuable tool for understanding the structure of the atom. It is a good starting model for understanding the atom, and it can be used to explain a number of experimental results",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which postulate was not included in the Bohr model?",
+                "options": [
+                  "Electron can only move in specific circular orbits around the nucleus.",
+                  "The atom is a small, positively charged sphere with a negatively charged electron orbiting around it.",
+                  "The nucleus of the atom is located at the center of the atom.",
+                  "The electron has a specific energy level, or orbital, around the nucleus."
+                ],
+                "answer": "The atom is a small, positively charged sphere with a negatively charged electron orbiting around it.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which experiment supported the Bohr model?",
+                "options": [
+                  "Rutherford gold foil experiment",
+                  "Atomic orbital model experiment",
+                  "Quantum mechanics experiment",
+                  "Emission and absorption of light by atoms"
+                ],
+                "answer": "Rutherford gold foil experiment",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was the main limitation of the Bohr model?",
+                "options": [
+                  "It did not take into account the spin of the electron",
+                  "It did not take into account the electrostatic forces between the protons and the electrons",
+                  "It did not take into account the quantum mechanical properties of the atom",
+                  "It did not take into account the nuclear forces between the protons and the electrons"
+                ],
+                "answer": "It did not take into account the electrostatic forces between the protons and the electrons",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the Bohr model primarily used for?",
+                "options": [
+                  "Understanding the structure of the atom",
+                  "Explaining a number of experimental results",
+                  "Making new scientific discoveries",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the Bohr model's contribution to the understanding of the atom?",
+                "options": [
+                  "It provided a starting model for understanding the atom",
+                  "It was a very successful model for understanding the atom",
+                  "It had some limitations and was eventually replaced by more accurate models",
+                  "It was the first model to describe the atom"
+                ],
+                "answer": "It provided a starting model for understanding the atom",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Concept of Shells and Subshells",
@@ -4196,12 +4364,119 @@
           {
             "topic": "Enthalpies of Bond Dissociation, Combustion, Formation, Atomization, Sublimation, Phase Transition, Ionization, Solution and Dilution",
             "definition": "**Enthalpy of Bond Dissociation:**\nAn enthalpy of bond dissociation represents the energy required to break or separate bonds between atoms or molecules in a compound. It is a positive value because energy is released when bonds are broken, and a negative value indicates that energy is absorbed when bonds are formed.\n**Example:** When water molecules dissociate (H2O -> H2O), the enthalpy of bond dissociation is positive because it requires energy to break the O-H bonds between the hydrogen and oxygen atoms.\n**Combustion:**\nA combustion reaction involves the complete combustion of a fuel with oxygen, releasing energy in the form of heat and light. The enthalpy of combustion is the total amount of energy released during a combustion reaction, and it is typically positive.\n**Example:** The combustion of methane (CH4) with oxygen releases a significant amount of energy, resulting in a positive enthalpy of combustion.\n**Formation:**\nAn enthalpy of formation represents the energy change associated with the formation of a compound from its constituent elements in their standard states. It is a negative value because energy is released during the formation process, as the bonds between atoms are broken to form new bonds.\n**Example:** When an atom of hydrogen combines with an atom of oxygen to form a molecule of water (H2O), the enthalpy of formation is negative because energy is released, breaking the bonds between hydrogen and oxygen atoms.\n**Atomization:**\nAn enthalpy of atomization represents the energy required to break bonds between atoms of an element or molecule into their individual atoms or molecules. It is a positive value because energy is released during the atomization process.\n**Example:** When an atom of hydrogen breaks bonds with two atoms of oxygen to form two molecules of water (H2O), the enthalpy of atomization is positive because energy is released.\n**Sublimation:**\nA sublimation reaction involves the direct transition of a solid directly into a gas without passing through the liquid phase. The enthalpy of sublimation is always positive because energy is absorbed during the transition.\n**Example:** When solid iodine sublimates directly into a gas, the enthalpy of sublimation is positive because energy is absorbed, breaking the bonds between atoms in the solid state.\n**Phase Transition:**\nA phase transition involves a change in the physical state of a substance without passing through the solid, liquid, or gas phase. These transitions are typically characterized by a change in entropy (S) and heat flow (Q), which can be positive or negative depending on the specific phase transition.\n**Example:** When water evaporates from a lake, the phase transition is characterized by a positive change in entropy (S) and a positive or negative change in heat flow (Q).\n**Ionization:**\nAn enthalpy of ionization represents the energy required to remove an electron from an atom or molecule, resulting in a positively charged ion. It is a positive value because energy is released when the atom loses an electron.\n**Example:** When an atom of hydrogen loses an electron to form a hydrogen ion (H+), the enthalpy of ionization is positive because energy is released.\n**Solution and Dilution:**\nA solution is a mixture of two or more substances that is homogeneous on a macroscopic scale. An enthalpy of solution represents the energy change when a solid or liquid solute is dissolved in a solvent. It is typically negative because energy is released when the solute and solvent molecules combine.\n**Example:** When sodium dissolves in water, the enthalpy of solution is negative because energy is released as the solid sodium dissolves into the liquid water",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which describes the energy change involved in the formation of a compound from its constituent elements?",
+                "options": [
+                  "Positive, Negative, Zero",
+                  "Positive, Negative, Infinite",
+                  "Positive, Negative, Undefined"
+                ],
+                "answer": "Negative",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which describes the energy change involved when a solid directly transforms into a gas?",
+                "options": [
+                  "Positive, Negative, Zero",
+                  "Positive, Negative, Infinite",
+                  "Positive, Negative, Undefined"
+                ],
+                "answer": "Positive",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which describes the energy change involved when a solid loses an electron to form a positive ion?",
+                "options": [
+                  "Positive, Negative, Zero",
+                  "Positive, Negative, Infinite",
+                  "Positive, Negative, Undefined"
+                ],
+                "answer": "Positive",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which describes the energy change involved when a solution is formed?",
+                "options": [
+                  "Positive, Negative, Zero",
+                  "Positive, Negative, Infinite",
+                  "Positive, Negative, Undefined"
+                ],
+                "answer": "Negative",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which describes the energy change involved when a solid dissolves into a liquid?",
+                "options": [
+                  "Positive, Negative, Zero",
+                  "Positive, Negative, Infinite",
+                  "Positive, Negative, Undefined"
+                ],
+                "answer": "Negative",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Second Law of Thermodynamics (brief introduction)",
             "definition": "## Second Law of Thermodynamics: A Deeper Dive\nThe Second Law of Thermodynamics, also known as the Carnot Cycle Theorem, is a fundamental principle in thermodynamics that describes the efficiency of energy conversion processes. It establishes a connection between the maximum efficiency achievable for a given system and the temperature of its surrounding environment.\nImagine a closed loop in a system that completely surrounds a heat reservoir at a constant temperature. As heat enters the system at a higher temperature, it's transferred to the cold reservoir at a lower temperature. According to the Second Law, the system can only reach a maximum efficiency, which is determined by the temperatures of the hot and cold reservoirs and the system itself.\n**Key points of the Second Law:**\n* It states that the efficiency of energy conversion is always lower than 100%. This means that some energy will always be lost as waste.\n* At constant temperature, the efficiency is highest when the temperature difference between the hot and cold reservoirs is the greatest.\n* It implies that for a given system, increasing the temperature of the hot reservoir or the temperature of the cold reservoir leads to an increase in the maximum achievable efficiency.\n* The efficiency is independent of the type of energy conversion process and depends only on the initial and final states of the system and the temperature difference between the hot and cold reservoirs.\n**Implications of the Second Law:**\n* It helps explain the practical limitations of real-world heat engines and devices.\n* It provides a theoretical basis for calculating the efficiency of various energy transfer processes.\n* It allows scientists to optimize and design energy conversion systems for maximum efficiency.\n**Examples:**\n* Imagine a perfectly insulated coffee cup kept at a constant temperature. While the temperature of the surrounding air increases, the coffee's temperature remains constant due to the second law.\n* Conversely, a perfectly efficient heat engine operating between two reservoirs at different temperatures would reach 100% efficiency.\nThe Second Law is a powerful tool that helps us understand and predict the efficiency of energy transfer processes. It has numerous applications in various fields, from engineering and energy production to astrophysics and materials science",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the key point of the Second Law of Thermodynamics?",
+                "options": [
+                  "It establishes a connection between the maximum efficiency achievable and the temperature of its surrounding environment.",
+                  "It states that the efficiency of energy conversion is always lower than 100%.",
+                  "It implies that for a given system, increasing the temperature of the hot reservoir or the temperature of the cold reservoir leads to an increase in the maximum achievable efficiency.",
+                  "None of the above."
+                ],
+                "answer": "It states that the efficiency of energy conversion is always lower than 100%.",
+                "type": "single_correct"
+              },
+              {
+                "question": "According to the Second Law, what is the highest efficiency achievable for a system at constant temperature?",
+                "options": [
+                  "100%",
+                  "101%",
+                  "102%",
+                  "103%"
+                ],
+                "answer": "100%",
+                "type": "single_correct"
+              },
+              {
+                "question": "In which scenario does the Second Law imply that the efficiency is highest?",
+                "options": [
+                  "When the temperature difference between the hot and cold reservoirs is the greatest",
+                  "When the temperature of the hot reservoir is higher than the temperature of the cold reservoir",
+                  "When the system is operating at a constant temperature",
+                  "None of the above"
+                ],
+                "answer": "When the temperature difference between the hot and cold reservoirs is the greatest",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "According to the Second Law, what is the efficiency of a system that operates between two reservoirs at different temperatures?",
+                "options": [
+                  "0%",
+                  "50%",
+                  "75%",
+                  "100%"
+                ],
+                "answer": "100%",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the practical application of the Second Law?",
+                "options": [
+                  "It helps explain the practical limitations of real-world heat engines and devices",
+                  "It provides a theoretical basis for calculating the efficiency of various energy transfer processes",
+                  "Both a and b",
+                  "None of the above"
+                ],
+                "answer": "It helps explain the practical limitations of real-world heat engines and devices",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Introduction of Entropy as a State Function",
@@ -5106,7 +5381,63 @@
           {
             "topic": "Common Ion Effect (with illustrative examples)",
             "definition": "The Common Ion Effect is a phenomenon that describes how the equilibrium constant of a chemical reaction changes when the concentration of common ions is varied. Common ions are ions that appear in multiple chemical species, such as hydrogen ion (H+), sodium ion (Na+), chloride ion (Cl-), and hydroxide ion (OH-) in aqueous solutions.\n**How does the Common Ion Effect work?**\nThe Common Ion Effect arises due to the influence of common ions on the equilibrium constant of a chemical reaction. When the concentration of common ions increases, it shifts the equilibrium towards the side of the reaction where the concentration of these ions is lower. This is because the common ions compete with the reactants for binding to the surface of the solid or liquid phase of the reactants.\n**Examples:**\n1. Consider the reaction between hydrogen (H2) and oxygen (O2) to form water (H2O):\nH2(g) + O2(g) -> H2O(l)\nIf the concentration of hydrogen ions (H+) is increased, it will shift the equilibrium towards the left, resulting in fewer hydrogen molecules and more water molecules being formed.\n2. Similarly, increasing the concentration of hydroxide ions (OH-) will shift the equilibrium towards the right, favoring the formation of hydroxide ions and fewer hydrogen ions.\nThe Common Ion Effect is a fundamental concept in chemical equilibrium and helps chemists understand how changes in concentration affect the position of equilibrium",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "How does the Common Ion Effect work?",
+                "options": [
+                  "**Shifting the equilibrium towards the left**",
+                  "Shifting the equilibrium towards the right",
+                  "There is no effect on the equilibrium",
+                  "The equilibrium remains the same"
+                ],
+                "answer": "Shifting the equilibrium towards the left",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which ions compete with the reactants for binding to the surface of the solid or liquid phase of the reactants?",
+                "options": [
+                  "Hydrogen ion (H+)",
+                  "Sodium ion (Na+)",
+                  "Chloride ion (Cl-)",
+                  "Hydroxide ion (OH-)"
+                ],
+                "answer": "Hydroxide ion (OH-)",
+                "type": "single_correct"
+              },
+              {
+                "question": "Consider the reaction between hydrogen (H2) and oxygen (O2) to form water (H2O). If the concentration of hydrogen ions (H+) is increased, what will happen to the equilibrium?",
+                "options": [
+                  "The equilibrium shifts towards the left",
+                  "The equilibrium remains the same",
+                  "The equilibrium shifts towards the right",
+                  "The equilibrium shifts towards the center"
+                ],
+                "answer": "The equilibrium shifts towards the right",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which is an example of the Common Ion Effect?",
+                "options": [
+                  "**The reaction between hydrogen (H2) and oxygen (O2) to form water (H2O)**",
+                  "The reaction between sodium and chloride ions",
+                  "The reaction between hydrogen (H2) and chlorine gas",
+                  "The reaction between hydroxide ions (OH-) and hydrogen ions (H+)"
+                ],
+                "answer": "The reaction between hydrogen (H2) and oxygen (O2) to form water (H2O)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main effect of increasing the concentration of common ions on the equilibrium constant of a chemical reaction?",
+                "options": [
+                  "Increases the equilibrium constant",
+                  "Decreases the equilibrium constant",
+                  "Does not affect the equilibrium constant",
+                  "It depends on the chemical reaction"
+                ],
+                "answer": "Increases the equilibrium constant",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -5116,7 +5447,63 @@
           {
             "topic": "Concept of Oxidation and Reduction",
             "definition": "**Concept of Oxidation and Reduction:**\nOxidation and reduction are chemical processes that involve the transfer of electrons between species. In oxidation, a substance loses electrons, becoming positively charged. Conversely, in reduction, a substance gains electrons, becoming negatively charged.\n**Oxidation:**\n* A substance that loses electrons is said to undergo oxidation.\n* During oxidation, the substance gains oxygen, which is reduced to a more stable form.\n* Examples of oxidation include the burning of wood, rusting of metal, and respiration by organisms.\n**Reduction:**\n* A substance that gains electrons is said to undergo reduction.\n* During reduction, the substance loses electrons, becoming positively charged.\n* Examples of reduction include the reaction of copper and zinc with acid, where the copper is reduced to copper ions, and the zinc is oxidized to zinc ions.\n**Oxidation and Reduction Reactions:**\n* Oxidation and reduction reactions occur simultaneously in a redox reaction.\n* During a redox reaction, electrons are transferred between species, resulting in a change in oxidation state.\n* An oxidation-reduction reaction can be represented using half-reactions, which are one-half of the overall reaction.\n**Importance of Oxidation and Reduction:**\n* Oxidation and reduction reactions are essential for understanding many chemical processes, including photosynthesis, combustion, and respiration.\n* They help predict the products of redox reactions and the overall reaction stoichiometry.\n* Understanding oxidation and reduction is crucial for interpreting real-world chemical phenomena, such as corrosion, rusting, and the efficiency of batteries",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which statement best defines oxidation?",
+                "options": [
+                  "A substance gains electrons during oxidation.",
+                  "A substance loses electrons during oxidation.",
+                  "A substance gains ions during oxidation.",
+                  "A substance loses ions during oxidation."
+                ],
+                "answer": "A substance gains electrons during oxidation.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "During which chemical process do substances undergo oxidation? ",
+                "options": [
+                  "Photosynthesis",
+                  "Combustion",
+                  "Respiration",
+                  "Electrolysis"
+                ],
+                "answer": "Respiration",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which chemical process involves the transfer of electrons between species? ",
+                "options": [
+                  "Oxidation",
+                  "Reduction",
+                  "Combination",
+                  "Decomposition"
+                ],
+                "answer": "Oxidation",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is an example of a reduction reaction? ",
+                "options": [
+                  "The reaction of copper and zinc with acid",
+                  "The burning of wood",
+                  "The reaction of hydrogen and oxygen",
+                  "The decomposition of water"
+                ],
+                "answer": "The reaction of copper and zinc with acid",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is an example of an oxidation-reduction reaction? ",
+                "options": [
+                  "The reaction of sodium and chlorine",
+                  "The reaction of copper and hydrogen",
+                  "The burning of gasoline",
+                  "The reaction of calcium and vinegar"
+                ],
+                "answer": "The reaction of sodium and chlorine",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Redox Reactions",
@@ -6492,7 +6879,63 @@
           {
             "topic": "Cell Cycle and Cell Division",
             "definition": "## Cell Cycle and Cell Division\nThe **Cell Cycle** is a tightly orchestrated series of interconnected phases that cells go through to create new individuals. This process involves a series of distinct stages, including interphase, mitosis, and telophase.\n**Interphase** is the longest phase of the cell cycle and accounts for roughly 95% of the cell's life. During interphase, the cell grows, repairs any damage, and prepares for mitosis. The cell also carries out various important cellular processes, such as protein synthesis and DNA replication.\n**Mitosis** is the phase where the cell divides into two identical daughter cells. Mitosis involves four distinct stages: prophase, metaphase, anaphase, and telophase. During prophase, the chromosomes become visible and the nuclear membrane begins to break down. In metaphase, the chromosomes line up in the center of the cell. In anaphase, the chromosomes are pulled to opposite ends of the cell. In telophase, the chromosomes arrive at the cell's poles and the nuclear membrane reforms around each one.\n**Telophase** is the final phase of mitosis and is similar to prophase in meiosis. During telophase, the two daughter cells receive a complete copy of the genetic material from the parent cell. This ensures that each daughter cell receives the correct number of chromosomes to maintain the cell's genetic integrity.\nCell division ensures that each daughter cell receives a complete set of chromosomes, resulting in the growth and development of new organisms. This process is crucial for growth, tissue repair, and the replacement of old or damaged cells",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which phase of the cell cycle takes up the majority of the cell's life?",
+                "options": [
+                  "**Interphase**",
+                  "Mitosis",
+                  "Telophase",
+                  "Prophase"
+                ],
+                "answer": "**Interphase**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "During what phase of the cell cycle does the cell divide into two identical daughter cells?",
+                "options": [
+                  "Prophase",
+                  "Metaphase",
+                  "Anaphase",
+                  "Telophase"
+                ],
+                "answer": "**Mitosis**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which phase of the cell cycle ensures that each daughter cell receives a complete set of chromosomes?",
+                "options": [
+                  "**Prophase**",
+                  "Metaphase",
+                  "Anaphase",
+                  "Telophase"
+                ],
+                "answer": "**Telophase**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which phase of the cell cycle involves the breakdown of the nuclear membrane and the formation of new chromosomes?",
+                "options": [
+                  "**Prophase**",
+                  "Metaphase",
+                  "Anaphase",
+                  "Telophase"
+                ],
+                "answer": "**Prophase**",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main purpose of cell division?",
+                "options": [
+                  "To ensure the proper growth and development of new organisms",
+                  "To replace old or damaged cells",
+                  "To create gametes",
+                  "To regulate the cell population"
+                ],
+                "answer": "**To ensure the proper growth and development of new organisms**",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -8353,7 +8796,63 @@
           {
             "topic": "International Business",
             "definition": "## International Business: A Global Perspective\nInternational business is the intricate and ever-evolving interplay between companies operating in different countries. This chapter delves into the intricacies of managing a business across borders, encompassing various aspects of international finance and trade.\n**Key Concepts:**\n* **Foreign exchange:** This complex yet crucial area involves exchanging currencies to ensure smooth payment operations and international trade.\n* **International accounting:** Understanding and applying accounting standards across diverse jurisdictions is essential for accurate financial reporting.\n* **International logistics:** Managing the flow of goods and services across international borders involves meticulous planning and coordination.\n* **International marketing and sales:** Understanding local cultures and tailoring marketing strategies to attract customers in different regions is critical for success.\n* **International taxation:** Navigating complex tax laws and regulations across various countries can be a challenge.\n* **Global supply chain:** Companies need to be aware of the intricate network of suppliers, manufacturers, and distributors operating globally.\n* **International competition:** Operating in a global market demands a deep understanding of international competition and market dynamics.\n**Examples:**\n* **Currency Exchange:** A multinational company operating in different countries might need to convert local currencies to USD for payment to suppliers in the US.\n* **International Trade:** A clothing manufacturer might set up production facilities in countries with lower labor costs to reduce production costs.\n* **International Logistics:** A tech company might partner with a logistics provider in a country with advanced infrastructure for efficient product delivery.\n* **International Marketing:** A global brand may hire international marketing agencies to reach local audiences with culturally relevant strategies.\n* **International Taxes:** Multinational companies may face tax liabilities in different countries, requiring specialized tax reporting and compliance measures.\nBy understanding these concepts and applying them in practice, international businesses can achieve success in a globalized market",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which concept involves exchanging currencies to ensure smooth payment operations and international trade?",
+                "options": [
+                  "Foreign exchange",
+                  "International accounting",
+                  "International taxation",
+                  "International logistics"
+                ],
+                "answer": "Foreign exchange",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is crucial for accurate financial reporting across diverse jurisdictions?",
+                "options": [
+                  "Foreign exchange",
+                  "International accounting",
+                  "International logistics",
+                  "International marketing"
+                ],
+                "answer": "International accounting",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which concept involves meticulous planning and coordination for managing the flow of goods and services across international borders?",
+                "options": [
+                  "Foreign exchange",
+                  "International accounting",
+                  "International logistics",
+                  "International marketing"
+                ],
+                "answer": "International logistics",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How can international companies achieve success in a globalized market?",
+                "options": [
+                  "Foreign exchange",
+                  "International accounting",
+                  "International logistics",
+                  "International marketing"
+                ],
+                "answer": "International marketing",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which concept involves navigating complex tax laws and regulations across various countries?",
+                "options": [
+                  "Foreign exchange",
+                  "International accounting",
+                  "International taxation",
+                  "Global supply chain"
+                ],
+                "answer": "International taxation",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       }
@@ -9953,7 +10452,63 @@
           {
             "topic": "The Tale of Melon City",
             "definition": "## The Tale of Melon City\nThe Tale of Melon City is a captivating and bittersweet tale that explores themes of loss, resilience, and the power of community. The story unfolds in a fantastical land called Melon City, where people are known for their unique talents and abilities. Despite this vibrant society, tragedy strikes when a deadly plague sweeps through the city, leaving only a single melon as a survivor.\nThe narrative follows the journey of a young girl named Anya, who returns to Melon City after years of exile. Her return is marked by a sense of longing and a desire for belonging. However, she soon encounters the harsh realities of life in the city, where the survivors struggle to survive amidst the devastation.\nThrough Anya's poignant narration, the story conveys the profound impact of the tragedy on the entire community. The characters, both human and mythical, grapple with the loss of loved ones, the pain of betrayal, and the uncertainty of the future. The tale also highlights the enduring spirit of community, as people come together to support each other and find solace in shared experiences.\nThe Tale of Melon City is a powerful and poignant story that offers a glimpse into a world where humanity and nature coexist in harmony. It is a story about resilience, the importance of hope, and the enduring power of human connection",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the central theme explored in the Tale of Melon City?",
+                "options": [
+                  "Loss of loved ones",
+                  "Pain of betrayal",
+                  "Uncertainty of the future",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the name of the fantastical land where the story unfolds?",
+                "options": [
+                  "Melon City",
+                  "Everland",
+                  "The Enchanted Forest",
+                  "Unknown"
+                ],
+                "answer": "Melon City",
+                "type": "single_correct"
+              },
+              {
+                "question": "What happens when a deadly plague sweeps through Melon City?",
+                "options": [
+                  "The plague kills everyone",
+                  "The plague kills only a single melon",
+                  "The plague kills half of the city's population",
+                  "The plague kills everyone except Anya"
+                ],
+                "answer": "The plague kills only a single melon",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the narrative convey the profound impact of the tragedy on the entire community?",
+                "options": [
+                  "Through the poignant narration of Anya",
+                  "Through the flashbacks to the past",
+                  "Through the vivid descriptions of the city",
+                  "Through the harsh realities of life in the city"
+                ],
+                "answer": "Through the poignant narration of Anya",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main message of The Tale of Melon City?",
+                "options": [
+                  "The importance of hope",
+                  "The enduring spirit of community",
+                  "The power of imagination",
+                  "The beauty of life"
+                ],
+                "answer": "The enduring spirit of community",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },

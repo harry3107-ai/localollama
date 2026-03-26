@@ -63,7 +63,51 @@
           {
             "topic": "Irrational Numbers",
             "definition": "## Irrational Numbers\nAn **irrational number** is a real number that cannot be expressed as a simple fraction of two integers. This means that it cannot be written as a fraction of a number, like 1/2 or 3/4.\nThe study of **irrational numbers** is a complex and fascinating area of mathematics. They exhibit properties and behaviors that are different from rational numbers, which can be expressed as fractions of two integers.\n**Examples of Irrational Numbers:**\n- √2 (the square root of 2)\n- π (the ratio of a circle's circumference to its diameter)\n- √3\n- e (the base of the natural logarithm)\nThese numbers cannot be represented on a standard number line, meaning they are located outside of the unit circle. They are also known as **transcendental numbers**.\n**Properties of Irrational Numbers:**\n- Irrational numbers are transcendental, meaning they are not algebraic numbers.\n- They have irrational decimal representations, meaning they have non-repeating digits.\n- Their coordinates on the coordinate plane are located in the third quadrant.\n- They have infinite decimal representations with repeating patterns.\n**Applications of Irrational Numbers:**\nIrrational numbers have several important applications in mathematics and other fields, including:\n- **Geometry:** Irrational numbers are involved in the properties of polygons, such as the area and perimeter of irregular shapes.\n- **Analysis:** They are used in proofs of other mathematical theorems and in the study of limits.\n- **Physics:** Irrational numbers appear in the analysis of wave phenomena and the properties of materials.\nUnderstanding irrational numbers is crucial for developing a deep understanding of mathematics and for exploring the beauty and power of mathematics",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which number is an irrational number?",
+                "options": [
+                  "√2",
+                  "π",
+                  "√3",
+                  "e"
+                ],
+                "answer": "√2",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of irrational numbers guarantees their non-algebraic nature?",
+                "options": [
+                  "Infinite decimal representation"
+                ],
+                "answer": "Infinite decimal representation",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of irrational numbers guarantees their location in the third quadrant?",
+                "options": [
+                  "Infinite decimal representation with repeating patterns"
+                ],
+                "answer": "Infinite decimal representation with repeating patterns",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which application of irrational numbers is used in physics?",
+                "options": [
+                  "Properties of polygons"
+                ],
+                "answer": "Properties of polygons",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which concept in mathematics uses irrational numbers extensively?",
+                "options": [
+                  "Geometry"
+                ],
+                "answer": "Geometry",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Real Numbers and their Decimal Expansions",
@@ -317,7 +361,63 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction to Polynomials\nA polynomial is a combination of constants and variables raised to non-negative integer powers. It can be viewed as a weighted sum of terms, each involving a different constant and a different variable raised to a non-negative integer power.\n**Here's what you need to know about polynomials:**\n* **Variables:** These represent unknowns that can be any real number. For example, x, y, and z are variables.\n* **Constants:** These are numbers that are not variable. For example, 3, 4, and 5 are constants.\n* **Power:** A variable raised to a non-negative integer power tells us how many times to multiply the variable by itself. For example, x^2 means x multiplied by itself, x^3 means x multiplied by itself by itself, and x^-1 means the reciprocal of x.\n* **Term:** Each term in a polynomial is a specific combination of a constant and a variable raised to a non-negative integer power. For example, the term 2x^3 + 3x is a polynomial with three terms.\n**Polyomials can be added, subtracted, multiplied, and divided in the same way as regular numbers.** This allows us to perform various operations with polynomials just like we would perform operations with regular numbers.\n**Polynomials have many important applications in mathematics and the real world.** They are used in areas such as calculus, statistics, and optimization. By understanding polynomials, we can gain a deeper understanding of these diverse fields",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of a polynomial?",
+                "options": [
+                  "A combination of constants and variables raised to non-negative integer powers",
+                  "A weighted sum of terms",
+                  "A polynomial is equal to zero",
+                  "A polynomial is a real number"
+                ],
+                "answer": "A combination of constants and variables raised to non-negative integer powers",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is not a term in a polynomial?",
+                "options": [
+                  "x^2",
+                  "3x",
+                  "2x + 1",
+                  "x - 3"
+                ],
+                "answer": "x - 3",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property allows us to add polynomials?",
+                "options": [
+                  "The property of division",
+                  "The property of addition",
+                  "The property of multiplication",
+                  "The property of subtraction"
+                ],
+                "answer": "The property of addition",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the degree of a polynomial?",
+                "options": [
+                  "The degree of a polynomial is equal to the highest power of any variable",
+                  "The degree of a polynomial is equal to the number of terms",
+                  "The degree of a polynomial is equal to the sum of the exponents of all variables",
+                  "The degree of a polynomial is equal to the minimum number of non-zero terms"
+                ],
+                "answer": "The degree of a polynomial is equal to the highest power of any variable",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which application of polynomials is used in optimization?",
+                "options": [
+                  "Solving quadratic equations",
+                  "Graphing linear functions",
+                  "Finding the minimum point of a function",
+                  "Solving systems of linear equations"
+                ],
+                "answer": "Solving quadratic equations",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Polynomials in One Variable",
@@ -1366,7 +1466,62 @@
           {
             "topic": "Basic Terms and Definitions",
             "definition": "**Basic Terms and Definitions**\n**Lines and Angles**\nA line is a path that continues indefinitely in one direction. It can be drawn on paper using a pencil or other drawing tool. A line can also be defined in terms of its slope and y-intercept.\n**Slope**\nThe slope of a line is a measure of how steep it is. A line with a positive slope has a steep slope, while a line with a negative slope has a shallow slope.\n**Y-intercept**\nThe y-intercept of a line is the point where it intersects the y-axis. The y-intercept can be found by setting x = 0 in the equation of the line.\n**Examples**\n* A line from point A(2, 4) to point B(6, 8) is represented by the equation y = 2x + 4.\n* The line through points C(3, 9) and D(5, 7) is perpendicular to the line through points E(1, 3) and F(3, 5).\n* The slope of the line passing through points A(3, 1) and B(5, 3) is 1",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the slope of a line with a positive slope?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "Correct Option 1",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the y-intercept of a line passing through points (3, 9) and (5, 7)?",
+                "options": [
+                  "5",
+                  "6",
+                  "7",
+                  "8"
+                ],
+                "answer": "Correct Option 3",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which line is perpendicular to the line passing through points (1, 3) and (3, 5)?",
+                "options": [
+                  "Line through points A(2, 4) and C(3, 9)",
+                  "Line through points B(6, 8) and D(5, 7)",
+                  "Line through points E(4, 10) and F(6, 12)"
+                ],
+                "answer": "Correct Option 1",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the slope of a line passing through points A(3, 1) and B(5, 3)?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "Correct Option 2",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the y-intercept of the line passing through points C(3, 9) and D(5, 7)?",
+                "options": [
+                  "5",
+                  "6",
+                  "7",
+                  "8"
+                ],
+                "answer": "Correct Option 4",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Intersecting Lines and Non-intersecting Lines",
@@ -1862,7 +2017,63 @@
           {
             "topic": "Some Properties of a Triangle",
             "definition": "**Some Properties of a Triangle**\nA triangle is a polygon with three vertices and three sides. It is a convex polygon, meaning that its vertices form a smooth curve.\n**Sides:**\n* The length of a side of a triangle is the distance between two vertices.\n* The longest side of a triangle is called the base, and the other two sides are called legs.\n* The perimeter of a triangle is the sum of the lengths of all three sides.\n**Angles:**\n* The angles in a triangle can be classified according to their measures.\n* The angles opposite the base of a triangle are called acute angles, and the angles opposite the legs are called right angles.\n* The angle opposite the vertex is called the included angle.\n**Area:**\n* The area of a triangle is half the product of the lengths of its base and height.\n* The area of a triangle can be found by using the formula A = (1/2) * b * h, where A is the area, b is the length of the base, and h is the length of the height.\n* The area of a triangle can also be found by using Heron's formula: A = √s(s - a)(s - b)(s - c), where s is the semiperimeter of the triangle, and a, b, and c are the lengths of the three sides.\n**Symmetry:**\n* A triangle is symmetric, meaning that it is mirror image of itself across a line through the vertex.\n* The line of symmetry divides the triangle into two equal congruent triangles.\n* The distance from the vertex to the midpoint of any side of a triangle is equal to the length of that side",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which side of a triangle is called the base?",
+                "options": [
+                  "Side A",
+                  "Side B",
+                  "Side C",
+                  "Side D"
+                ],
+                "answer": "Side B",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which angle is opposite the vertex of a triangle?",
+                "options": [
+                  "Acute",
+                  "Right",
+                  "Obtuse",
+                  "None"
+                ],
+                "answer": "Acute",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the area of a triangle?",
+                "options": [
+                  "(1/2) * base * height",
+                  "base * height",
+                  "area = 2 * perimeter",
+                  "area = perimeter"
+                ],
+                "answer": "Correct Option 1",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which formula can be used to find the area of a triangle?",
+                "options": [
+                  "A = (1/2) * base * height",
+                  "A = base * height",
+                  "A = perimeter",
+                  "A = area"
+                ],
+                "answer": "Correct Option 1",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which formula can be used to find the perimeter of a triangle?",
+                "options": [
+                  "A = (1/2) * base * height",
+                  "A = base * height",
+                  "A = perimeter",
+                  "A = area"
+                ],
+                "answer": "Correct Option 1",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Some More Criteria for Congruence of Triangles",
@@ -2671,7 +2882,58 @@
           {
             "topic": "Circles and Its Related Terms: A Review",
             "definition": "## Circles and Its Related Terms: A Review\nA **circle** is a plane figure defined by a distance from a center point to any point on the circle. The distance from the center to any point on the circle is called the **radius** and is denoted by 'r'. The center point is the center of the circle and is marked by the letter 'O'. \nThere are two main types of **circles**:\n* **Interior circles:** Circles that are completely contained within another circle.\n* **Exterior circles:** Circles that completely surround another circle.\nThe perimeter (P) and circumference (C) of a circle are related as follows:\n* **P = 2πr**\n* **C = 2πr**\nThe area (A) of a circle is calculated using the formula:\n* **A = πr²**\nHere are some other important related terms:\n* **Center:** The center of a circle is the fixed point of the circle's circumference.\n* **Radius:** The radius is the distance from the center point to any point on the circle. It is half the length of the diameter.\n* **Diameter:** The diameter is the distance across the center of a circle. It is twice the length of the radius.\n* **Circumference:** The circumference is the length of the curved path that encircles the circle. It is equal to 2πr.\n* **Area:** The area of a circle is the amount of space inside the circle. It is equal to πr².\nThese terms are fundamental to understanding circles and their properties. By studying them, you can develop a strong foundation in geometry and gain insights into shapes and their relationships",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which term is used to represent the distance from the center point to any point on the circle?",
+                "options": [
+                  "Radius",
+                  "Diameter",
+                  "Circumference"
+                ],
+                "answer": "Radius",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which formula is used to calculate the area of a circle?",
+                "options": [
+                  "P = 2πr",
+                  "C = 2πr",
+                  "A = πr²"
+                ],
+                "answer": "A = πr²",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which term is used to represent the fixed point of the circle's circumference?",
+                "options": [
+                  "Center",
+                  "Radius",
+                  "Diameter"
+                ],
+                "answer": "Center",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which formula is used to calculate the circumference of a circle?",
+                "options": [
+                  "P = 2πr",
+                  "C = 2πr",
+                  "A = πr²"
+                ],
+                "answer": "C = 2πr",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which term is used to represent the amount of space inside a circle?",
+                "options": [
+                  "Area",
+                  "Perimeter",
+                  "Circumference"
+                ],
+                "answer": "Area",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Angle Subtended by a Chord at a Point",
@@ -3046,7 +3308,58 @@
           {
             "topic": "Introduction",
             "definition": "**Introduction**\nAn **introduction** is a section of a mathematical text that provides background information and establishes the purpose of the chapter. It typically includes definitions, theorems, and examples that introduce the key concepts and ideas that will be covered in the chapter.\n**Key elements of an introduction:**\n* **Definitions:** Define key terms or concepts used in the chapter.\n* **Theorems:** State important theorems or propositions that provide a foundation for the chapter.\n* **Examples:** Provide concrete illustrations to demonstrate and explain the concepts introduced in the introduction.\n**Purpose of an introduction:**\n* **Sets the stage:** Introduces the chapter's main topic and objectives.\n* **Provides context:** Expands on the background knowledge and sets up the problem.\n* **Highlights key concepts:** Introduces the essential elements that will be covered in the chapter.\n**Examples:**\n* **Definition:** \"A **constructive proof** is a method of constructing a geometric figure from a set of given measurements or properties.\"\n* **Theorem:** \"The **Pythagorean theorem** states that in a right triangle, the square of the hypotenuse (c) is equal to the sum of the squares of the other two sides (a and b).\"\n* **Example:** \"Consider a right triangle with sides 3 cm, 4 cm, and 5 cm. Applying the Pythagorean theorem, we find that c = 6 cm, confirming the theorem.\"",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the purpose of an introduction in a mathematics text?",
+                "options": [
+                  "A. Introduces the chapter's main topic and objectives",
+                  "B. Provides context",
+                  "C. Both A and B"
+                ],
+                "answer": "A. Introduces the chapter's main topic and objectives",
+                "type": "single_correct"
+              },
+              {
+                "question": "What are the key elements of an introduction?",
+                "options": [
+                  "Definitions, theorems, and examples",
+                  "True or False",
+                  "None of the above"
+                ],
+                "answer": "Definitions, theorems, and examples",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main purpose of an introduction in mathematics?",
+                "options": [
+                  "A. Sets the stage",
+                  "B. Provides context",
+                  "C. Introduces key concepts"
+                ],
+                "answer": "A. Sets the stage",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which statement is an example of a definition in an introduction?",
+                "options": [
+                  "A. A + B = C",
+                  "B. A = B",
+                  "C. A = 3"
+                ],
+                "answer": "A. A + B = C",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which statement is an example of a theorem in an introduction?",
+                "options": [
+                  "A. The sum of two squares is always greater than or equal to the square of the sum of two numbers",
+                  "B. In a right triangle, the hypotenuse is always longer than the other two sides",
+                  "C. A = B"
+                ],
+                "answer": "B. In a right triangle, the hypotenuse is always longer than the other two sides",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Basic Constructions",
@@ -3238,12 +3551,105 @@
           {
             "topic": "Area of a Triangle - by Heron's Formula",
             "definition": "**Area of a Triangle - Heron's Formula**\nThe **Area (A)** of a triangle can be calculated using Heron's Formula, which is:\n**A = (s(s - a)(s - b)(s - c)) / 4**\nwhere:\n* **s** is the semiperimeter of the triangle, which is the sum of the lengths of the three sides.\n* **a, b, c** are the lengths of the three sides of the triangle.\n**Step 1: Find the Semiperimeter (s)**\nThe semiperimeter of a triangle can be calculated by adding the lengths of all three sides. In other words, s = a + b + c.\n**Step 2: Identify the Side Lengths (a, b, c)**\nThe three sides of a triangle are typically labeled as **a, b, and c** from the longest to the shortest side.\n**Step 3: Substitute the Side Lengths into Heron's Formula**\nOnce you have the values of s, a, b, and c, you can substitute them into Heron's Formula to calculate the area of the triangle.\n**Example:**\nLet's say you have a triangle with the following measurements:\n* **a = 6 cm**\n* **b = 7 cm**\n* **c = 8 cm**\nUsing Heron's Formula, we can calculate the area of this triangle:\n**A = (s(s - a)(s - b)(s - c)) / 4 = (6(6 - 6)(6 - 7)(6 - 8)) / 4 = 21 cm²**\nTherefore, the area of the triangle is 21 square centimeters",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Find the area of a triangle with sides of **a = 6 cm**, **b = 7 cm**, and **c = 8 cm**. What is the area of the triangle?",
+                "options": [
+                  "18 cm², 21 cm², 24 cm²",
+                  "27 cm², 30 cm², 33 cm²"
+                ],
+                "answer": "Correct Option: 21 cm²",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which side length of a triangle is **not** a valid side length for calculating the area using Heron's Formula?",
+                "options": [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ],
+                "answer": "Correct Option: d",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "In Heron's Formula, what is the purpose of the variable **s**?",
+                "options": [
+                  "It is the perimeter of the triangle",
+                  "It is the semiperimeter of the triangle",
+                  "It is the area of the triangle",
+                  "It is the side length of the longest side"
+                ],
+                "answer": "Correct Option: It is the semiperimeter of the triangle",
+                "type": "single_correct"
+              },
+              {
+                "question": "What are the values of a, b, and c if the area of a triangle is **21 cm²**?",
+                "options": [
+                  "a = 6 cm, b = 7 cm, c = 8 cm",
+                  "a = 5 cm, b = 6 cm, c = 7 cm",
+                  "a = 4 cm, b = 5 cm, c = 6 cm",
+                  "a = 3 cm, b = 4 cm, c = 5 cm"
+                ],
+                "answer": "Correct Option: a = 6 cm, b = 7 cm, c = 8 cm",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the area of a triangle with sides of **a = 5 cm**, **b = 12 cm**, and **c = 13 cm**?",
+                "options": [
+                  "25 cm², 30 cm², 35 cm²",
+                  "20 cm², 25 cm², 30 cm²"
+                ],
+                "answer": "Correct Option: 30 cm²",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Application of Heron's Formula in Finding Areas of Quadrilaterals",
             "definition": "**Heron's Formula: A Powerful Tool for Calculating the Area of Quadrilaterals**\nHeron's Formula provides a convenient and efficient method for finding the area of a quadrilateral. This formula involves the calculation of the semiperimeter (s) of the quadrilateral and the area (A) using the formula:\n**A = (s)(s - a)(s - b)(s - c)**\nwhere:\n* **s** is the semiperimeter of the quadrilateral, given by the sum of the lengths of its four sides.\n* **a, b, and c** are the lengths of the four sides of the quadrilateral.\n**Determining the Semiperimeter**\nTo find the semiperimeter, we add the lengths of all four sides and divide by 2:\n**s = (a + b + c) / 2**\n**Example:** If the lengths of the sides of a quadrilateral are 5 cm, 12 cm, and 13 cm, then:\n**s = (5 cm + 12 cm + 13 cm) / 2 = 11 cm**\n**Substituting the Values into Heron's Formula**\nOnce we have the semiperimeter, we can substitute the values into Heron's formula to calculate the area:\n**A = (s)(s - a)(s - b)(s - c)**\n**Example:** Using the values from the previous example, we get:\n**A = (11 cm)(11 cm - 5 cm)(11 cm - 12 cm)(11 cm - 13 cm)**\n**= 132 cm²**\n**Conclusion**\nHeron's Formula allows us to find the area of a quadrilateral quickly and easily. This formula is particularly useful for calculating the area of irregular quadrilaterals with different side lengths and angles. By understanding and applying this formula, students can gain a deeper understanding of geometry and develop their problem-solving skills",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "**Question 1:** What is the semiperimeter of a quadrilateral with sides of length 5 cm, 12 cm, and 13 cm?",
+                "options": [
+                  "11 cm",
+                  "12 cm",
+                  "13 cm",
+                  "14 cm"
+                ],
+                "answer": "11 cm",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Question 2:** Given the side lengths of a quadrilateral are 5 cm, 12 cm, and 13 cm, what is the area of the quadrilateral?",
+                "options": [
+                  "132 cm², 144 cm², 156 cm², 168 cm²"
+                ],
+                "answer": "132 cm²",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**Question 3:** Determine the area of a quadrilateral with sides of length 5 cm, 12 cm, and 13 cm.",
+                "answer": "132 cm²",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Question 4:** Which side length should be added to the semiperimeter of a quadrilateral to increase its area by 1 cm?",
+                "options": [
+                  "5 cm",
+                  "6 cm",
+                  "7 cm",
+                  "8 cm"
+                ],
+                "answer": "6 cm",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Question 5:** What is the area of a quadrilateral with sides of length 10 cm, 15 cm, and 20 cm?",
+                "answer": "300 cm²",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -3253,7 +3659,63 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction\nThe **Introduction** chapter lays the foundation for understanding and exploring the concepts of surface areas and volumes in mathematics. This chapter introduces the fundamental ideas and provides a conceptual framework that will guide students through the challenging world of three-dimensional shapes.\n**Key points covered in the Introduction:**\n* **Shape Recognition:** Students will learn to identify different geometric shapes, including squares, triangles, rectangles, cylinders, and spheres.\n* **Measurement Concepts:** The chapter introduces the concept of measurement, including length, width, height, perimeter, and area.\n* **Surface Area:** Students will understand the definition of surface area and learn how to calculate it for different shapes.\n* **Volume:** Students will define the volume of a three-dimensional object and explore its connection to surface area.\n* **Relationship Between Shape and Measurement:** Students will explore the relationship between shape and measurement, showing how different measurements provide crucial information about the size and capacity of an object.\n* **Applications of Surface Areas and Volumes:** Students will see how surface areas and volumes are used in various real-world contexts, such as finding the area of a room, the volume of a box of matches, and the surface area of a sphere",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of surface area?",
+                "options": [
+                  "The total area of the inside of a shape",
+                  "The total area of the outside of a shape",
+                  "The area of the side of a shape",
+                  "The area of the perimeter of a shape"
+                ],
+                "answer": "The total area of the inside of a shape",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which shape has the largest surface area?",
+                "options": [
+                  "Rectangle",
+                  "Square",
+                  "Triangle",
+                  "Circle"
+                ],
+                "answer": "Circle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How do you calculate the surface area of a rectangle?",
+                "options": [
+                  "Length x Width",
+                  "Perimeter + Area",
+                  "Length x Width + Perimeter",
+                  "Perimeter x Area"
+                ],
+                "answer": "Length x Width",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the volume of a shape? How is it related to surface area?",
+                "options": [
+                  "The volume is the same as the surface area of the shape",
+                  "The volume is larger than the surface area",
+                  "The volume is equal to the length of the shape",
+                  "The volume is equal to the perimeter of the shape"
+                ],
+                "answer": "The volume is equal to the surface area of the shape",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which object has the largest volume for its size?",
+                "options": [
+                  "Sphere",
+                  "Cube",
+                  "Pyramid",
+                  "Cone"
+                ],
+                "answer": "Sphere",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Surface Area of a Cuboid and a Cube",
@@ -3373,7 +3835,63 @@
           {
             "topic": "Volume of a Cuboid",
             "definition": "**Volume of a Cuboid**\nA cuboid is a three-dimensional shape with six faces and eight vertices. It is characterized by its length, width, and height.\n**Volume** is the amount of space inside a cuboid. It is determined by multiplying the length, width, and height of the cuboid.\n**Formula:**\nVolume = Length × Width × Height\n**Example:**\nLet's say we have a cuboid with the following measurements:\n* Length: 10 cm\n* Width: 5 cm\n* Height: 6 cm\nUsing the formula above, we can calculate the volume of the cuboid:\nVolume = 10 cm × 5 cm × 6 cm = 300 cm³\nTherefore, the volume of the cuboid is 300 cubic centimeters.\n**Applications of Volume:**\n* **Calculating the capacity of a storage container:** A cuboid can be used to hold or transport objects of different shapes.\n* **Determining the amount of material needed to make a three-dimensional object:** For example, when building a cube-shaped structure.\n* **Calculating the volume of a material being cut out of a sheet of material.**\n* **Understanding the properties of a 3D object:** Volume helps us understand how much space an object occupies",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the formula for calculating the volume of a cuboid?",
+                "options": [
+                  "Volume = Length × Width × Height",
+                  "Volume = Length + Width + Height",
+                  "Volume = (Length + Width + Height) × 2",
+                  "Volume = Length × Width × 2"
+                ],
+                "answer": "Volume = Length × Width × Height",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the volume of a cuboid with the following measurements: **Length: 10 cm, Width: 5 cm, and Height: 6 cm**?",
+                "options": [
+                  "300 cm³",
+                  "400 cm³",
+                  "500 cm³",
+                  "600 cm³"
+                ],
+                "answer": "300 cm³",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of a 3D object is determined by its volume?",
+                "options": [
+                  "Mass",
+                  "Weight",
+                  "Area",
+                  "Volume"
+                ],
+                "answer": "Volume",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the volume of a material being cut out of a sheet of material with the following dimensions: **Length: 20 cm, Width: 15 cm, and Height: 10 cm**?",
+                "options": [
+                  "120 cm³",
+                  "150 cm³",
+                  "200 cm³",
+                  "250 cm³"
+                ],
+                "answer": "150 cm³",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the volume of a cube with side length 5 cm?",
+                "options": [
+                  "25 cm³",
+                  "50 cm³",
+                  "75 cm³",
+                  "100 cm³"
+                ],
+                "answer": "25 cm³",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Volume of a Cylinder",
@@ -3439,7 +3957,61 @@
           {
             "topic": "Volume of a Right Circular Cone",
             "definition": "## Volume of a Right Circular Cone\nA right circular cone has a circular base and a rectangular upper region. The volume of this 3D shape can be determined by considering the area of the base and the height of the cone.\n**Formula:**\nV = (1/3)πr²h\nwhere:\n* V is the volume\n* π is a mathematical constant approximately equal to 3.14\n* r is the radius of the base\n* h is the height of the cone\n**Example:**\nLet's say we have a right circular cone with a radius of 5 cm and a height of 10 cm. Using the formula, we can calculate its volume:\nV = (1/3)π(5 cm)²(10 cm) = 250 cm³\nTherefore, the volume of this cone is 250 cubic centimeters.\n**Applications of Volume:**\n* **Building and construction:** Right circular cones are used in the construction of roofs, pillars, and other structures.\n* **Physics and astronomy:** They are used to model the volume of various objects, including planets, stars, and clouds.\n* **Art and design:** Artists sometimes use cones to create abstract sculptures and 3D models.\n**Additional Notes:**\n* The volume of a right circular cone is always positive, as the volume of a hollow shape must be greater than 0.\n* The volume of a cone is also equal to (1/3)πr²h, which can be derived from the formula for the surface area of a circular base and a rectangular upper region.\n* The volume of a cone can also be calculated by using the formula V = (1/3)πr²h, where r is the radius of the base and h is the height of the cone",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which formula is used to calculate the volume of a right circular cone?",
+                "options": [
+                  "V = (1/3)πr²h",
+                  "V = πr²h",
+                  "V = (1/3)r²h",
+                  "V = r²h"
+                ],
+                "answer": "V = (1/3)πr²h",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the volume of a right circular cone with a radius of 5 cm and a height of 10 cm?",
+                "options": [
+                  "250 cm³",
+                  "255 cm³, 260 cm³, 265 cm³"
+                ],
+                "answer": "250 cm³",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which is the volume of a right circular cone?",
+                "options": [
+                  "V = (1/3)πr²h",
+                  "V = πr²h",
+                  "V = 250 cm³",
+                  "V = 0"
+                ],
+                "answer": "V = (1/3)πr²h",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of a right circular cone can be used to calculate its volume?",
+                "options": [
+                  "The area of the base",
+                  "The height of the cone",
+                  "The volume of the cone",
+                  "The perimeter of the base"
+                ],
+                "answer": "The volume of the cone",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the relationship between the volume of a right circular cone and its surface area?",
+                "options": [
+                  "They are equal",
+                  "They are related but not equal",
+                  "They are inversely related",
+                  "They are proportional"
+                ],
+                "answer": "They are equal",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Volume of a Sphere",
@@ -4175,7 +4747,59 @@
           {
             "topic": "Evaporation",
             "definition": "Evaporation is the process by which a liquid turns into a gas. It occurs when the temperature of a liquid is raised, causing the molecules of the liquid to gain more energy and move faster. This causes the molecules to spread out and form a gas. Evaporation can also occur when the pressure of a liquid is increased, or when the liquid is placed in a place with a higher temperature.\n**Examples:**\n* The evaporation of water is responsible for the weather.\n* The evaporation of sweat on a hot day can help to cool the body.\n* The evaporation of perfume can fill a room with a pleasant scent.\nEvaporation is an important process in our daily lives. It is responsible for the weather, and it can also help to keep us cool and comfortable",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the process by which a liquid turns into a gas?",
+                "options": [
+                  "Evaporation",
+                  "Condensation",
+                  "Sublimation"
+                ],
+                "answer": "Evaporation",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an example of evaporation?",
+                "options": [
+                  "The evaporation of water",
+                  "The evaporation of sweat",
+                  "The evaporation of perfume"
+                ],
+                "answer": "The evaporation of water",
+                "type": "single_correct"
+              },
+              {
+                "question": "What happens when the pressure of a liquid is increased?",
+                "options": [
+                  "The evaporation of water increases",
+                  "The evaporation of other liquids decreases",
+                  "The evaporation of water stays the same"
+                ],
+                "answer": "The evaporation of water increases",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an effect of evaporation?",
+                "options": [
+                  "It cools the body",
+                  "It helps to keep us cool and comfortable",
+                  "It increases the pressure of the gas",
+                  "It all of the above"
+                ],
+                "answer": "It cools the body",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is an important process in our daily lives?",
+                "options": [
+                  "The evaporation of water",
+                  "The evaporation of sweat",
+                  "The evaporation of perfume"
+                ],
+                "answer": "The evaporation of water",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -4477,7 +5101,63 @@
           {
             "topic": "Laws of Chemical Combination",
             "definition": "**Laws of Chemical Combination**\nThe law of definite proportions states that when two reactants combine in a simple whole-number ratio, the resulting product will always have the same mole ratio of the reactants. This means that the mass ratio of the reactants will be the same as the mole ratio. For example, if you react 1 mole of hydrogen with 1 mole of oxygen, the resulting product will be 1 mole of water. The law of definite proportions applies to all chemical reactions, regardless of the reactants or products involved.\n**The law of multiple proportions** states that when two reactants combine in a simple whole-number ratio, the resulting product will always have a different mole ratio of the reactants than the reactants themselves. For example, if you react 1 mole of hydrogen with 2 moles of oxygen, the resulting product will be 2 moles of water. The law of multiple proportions applies when the reactants do not form simple whole-number ratios.\nThese laws are important in understanding how chemical reactions occur and what products are formed. They are used in a wide variety of chemical applications, such as in analyzing the composition of compounds, designing chemical reactions, and predicting the properties of chemical substances",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which law states that the mass ratio of the reactants will always be the same as the mole ratio of the products?",
+                "options": [
+                  "**The law of definite proportions**",
+                  "The law of multiple proportions",
+                  "The law of conservation of mass",
+                  "The law of stoichiometry"
+                ],
+                "answer": "**The law of definite proportions**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which law states that when two reactants combine in a simple whole-number ratio, the resulting product will always have a different mole ratio of the reactants than the reactants themselves? ",
+                "options": [
+                  "The law of definite proportions",
+                  "The law of multiple proportions",
+                  "The law of conservation of mass",
+                  "The law of stoichiometry"
+                ],
+                "answer": "**The law of multiple proportions**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which law applies when the reactants do not form simple whole-number ratios? ",
+                "options": [
+                  "The law of definite proportions",
+                  "The law of multiple proportions",
+                  "The law of conservation of mass",
+                  "The law of stoichiometry"
+                ],
+                "answer": "**The law of multiple proportions**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which law is used in analyzing the composition of compounds, designing chemical reactions, and predicting the properties of chemical substances? ",
+                "options": [
+                  "The law of definite proportions",
+                  "The law of multiple proportions",
+                  "The law of conservation of mass",
+                  "The law of stoichiometry"
+                ],
+                "answer": "**The law of multiple proportions**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which law is used to determine the relative molecular masses of compounds? ",
+                "options": [
+                  "The law of definite proportions",
+                  "The law of multiple proportions",
+                  "The law of conservation of mass",
+                  "The law of stoichiometry"
+                ],
+                "answer": "**The law of multiple proportions**",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "What is an Atom?",
@@ -5803,7 +6483,57 @@
           {
             "topic": "Measuring the Rate of Motion",
             "definition": "## Measuring the Rate of Motion\nThe rate of motion refers to how fast an object is moving or changing position. It's often measured in units like **meters per second** (m/s), **kilometers per hour** (km/h), or **miles per hour** (mph).\nTo measure the rate of motion, we need to track the object's **position** (where it is) at different **times**. We can use a **stopwatch** to record the time taken for the object to move from one point to another, and then calculate the distance traveled during that time.\n**Examples:**\n* If a car travels 20 meters in 5 seconds, its average speed is 4 m/s.\n* If a bicycle travels 100 meters in 20 minutes, its average speed is 5 m/s.\n* If a boat sails 200 meters in 4 hours, its average speed is 50 m/h.\n**Key Points:**\n* The rate of motion tells us how fast an object is moving.\n* It's measured in different units like m/s, km/h, and mph.\n* We can measure the rate of motion by tracking the object's position at different times.\n* The formula for calculating the rate of motion is: **distance traveled / time taken**",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the unit of measurement for the rate of motion?",
+                "options": [
+                  "meters per second",
+                  "kilometers per hour",
+                  "miles per hour"
+                ],
+                "answer": "**meters per second**",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can we measure the rate of motion?",
+                "options": [
+                  "Using a stopwatch",
+                  "Using a speedometer",
+                  "Using a GPS tracker"
+                ],
+                "answer": "**Using a stopwatch**",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the formula for calculating the rate of motion?",
+                "options": [
+                  "**distance traveled / time taken**"
+                ],
+                "answer": "**distance traveled / time taken**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an example of the rate of motion?",
+                "options": [
+                  "A car traveling 20 m in 5 s",
+                  "A bicycle traveling 100 m in 20 min",
+                  "A boat sailing 200 m in 4 h"
+                ],
+                "answer": "**A car traveling 20 m in 5 s**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the rate of motion of a car that travels 20 m in 5 s?",
+                "options": [
+                  "4 m/s",
+                  "5 m/s",
+                  "6 m/s",
+                  "7 m/s"
+                ],
+                "answer": "**5 m/s**",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Rate of Change of Velocity",
@@ -6785,7 +7515,59 @@
           {
             "topic": "Relative Density",
             "definition": "**Relative Density:**\nRelative density refers to the ratio of an object's mass to its volume. It is expressed as a ratio of two quantities, usually in the same units. The relative density of an object is compared to that of a reference substance, usually water. The reference density is typically taken as 1, meaning that an object with a relative density of 1 will float in water.\n**Explanation:**\nImagine a can of soda floating in a glass of water. The soda has a higher relative density than water, meaning it has a greater mass per unit volume. This is because the soda has a greater density. The buoyant force exerted by the water on the soda must be greater than the buoyant force exerted by the water on the glass of water, resulting in the soda floating.\n**Examples:**\n- A solid metal, such as iron, has a higher relative density than water. This means that an object made of iron will sink in water.\n- A hollow metal sphere, such as a ball, will have a lower relative density than water. This means that it will float in water.\n- A stone will have a higher relative density than air. This means that it will sink when dropped into water",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of relative density?",
+                "options": [
+                  "The ratio of an object's mass to its volume",
+                  "The ratio of an object's volume to its mass",
+                  "The ratio of an object's volume to its weight"
+                ],
+                "answer": "The ratio of an object's mass to its volume",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which object will float in water?",
+                "options": [
+                  "A solid metal",
+                  "A hollow metal sphere",
+                  "A stone"
+                ],
+                "answer": "A stone",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the reference substance for relative density?",
+                "options": [
+                  "Water",
+                  "Air",
+                  "Earth"
+                ],
+                "answer": "Water",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which object will have a lower relative density than air?",
+                "options": [
+                  "A solid metal",
+                  "A hollow metal sphere",
+                  "A stone"
+                ],
+                "answer": "A stone",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the relative density of an object compared to a reference substance?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "1",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -6856,7 +7638,41 @@
           {
             "topic": "Energy",
             "definition": "## Energy\nEnergy is the ability to do work. It is a measure of the capacity to do work or the ability to exert force over a distance. Energy can be measured in different units, such as calories, joules, and kilowatt-hours. \n**Examples:**\n* **Work:** Pushing a heavy box up a hill is an example of work.\n* **Force:** Pushing with a 10-pound weight is an example of force.\n* **Distance:** Lifting a book from the floor to a table is an example of distance.\n* **Energy (joules):** The energy required to lift a 10-pound weight 5 feet is 50 Joules.\nEnergy can be transferred from one object to another. When an object does work on another object, the other object gains energy. For example, when you kick a ball, the ball gains energy from your kick. This energy is then used to make the ball move",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Question text",
+                "options": [
+                  "**Option 1:** Pushing a heavy box up a hill is an example of work.",
+                  "**Option 2:** Energy can be transferred from one object to another.",
+                  "**Option 3:** Energy is measured in different units such as calories, joules, and kilowatt-hours.",
+                  "**Option 4:** All of the above"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question text",
+                "options": [
+                  "**Option 1:** A 10-pound weight is an example of force.**",
+                  "**Option 2:** Energy (joules) is measured in different units than force.",
+                  "**Option 3:** Distance is measured in different units than force.",
+                  "**Option 4:** Energy is a measure of the ability to do work."
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question text",
+                "options": [
+                  "**Option 1:** When an object does work on another object, the other object gains energy.**",
+                  "**Option 2:** Energy is a measure of the ability to do work.",
+                  "**Option 3:** Energy can be transferred from one object to another without being done by another object.",
+                  "**Option 4:** Energy is only transferred when the object is pushed or pulled."
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Rate of Doing Work",
@@ -7044,7 +7860,60 @@
           {
             "topic": "Reflection of Sound",
             "definition": "## Reflection of Sound\nReflection of sound is a fascinating phenomenon that occurs when sound waves meet a surface and bounce back in a different direction. This can happen with a variety of materials, including air, water, and solid objects. \n**Key points about reflection:**\n* **Sound waves travel in a medium.** This could be air, water, or any other material that can transmit sound waves.\n* **The speed of sound is constant.** This means that the distance a sound wave travels in a given medium is always the same, regardless of the speed of the source or medium.\n* **When a sound wave hits a surface, it can either be reflected back or it can pass through the surface and continue on its journey.** The angle of reflection is equal to the angle of incidence.\n* **Reflected sound waves can travel back the same way they came, or they can be reflected at a different angle.** This depends on the properties of the surface and the angle of incidence.\n* **Reflection is a common phenomenon in everyday life.** For example, we can hear the sound of a car reflecting off a wall, or we can see the reflection of a light beam on a pond.\n**Examples:**\n* Imagine standing in a room and listening to a sound source. If the room is quiet, you may hear the sound waves reflecting back from the walls and walls.\n* Think about a flashlight shining on a wall. The light will bounce back from the wall and create a dark shadow on the wall.\n* Consider the sound you would hear if a train horn blew into a canyon. The sound would be reflected back by the canyon walls, creating a complex and interesting soundscape",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the key point about reflection of sound?",
+                "options": [
+                  "Sound waves can only travel in a medium.",
+                  "The speed of sound is not constant.",
+                  "Reflection is always a common phenomenon."
+                ],
+                "answer": "Sound waves can only travel in a medium.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of the surface determines the angle of reflection of sound waves?",
+                "options": [
+                  "Angle of incidence",
+                  "Speed of sound",
+                  "Material properties"
+                ],
+                "answer": "Angle of incidence",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the purpose of reflection of sound?",
+                "options": [
+                  "To block sound waves",
+                  "To amplify sound waves",
+                  "To reflect sound waves back"
+                ],
+                "answer": "To reflect sound waves back",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which phenomenon involves the reflection of sound waves on a surface?",
+                "options": [
+                  "Echo",
+                  "Refraction",
+                  "Transmission",
+                  "Interference"
+                ],
+                "answer": "Echo",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is an example of reflection of sound?",
+                "options": [
+                  "A car hitting a wall",
+                  "Light shining on a wall",
+                  "A train horn blowing into a canyon",
+                  "A wave on the ocean"
+                ],
+                "answer": "A car hitting a wall",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Range of Hearing",
@@ -7670,7 +8539,63 @@
           {
             "topic": "Ozone Layer",
             "definition": "## The Ozone Layer: A Vital Shield\nThe ozone layer is a delicate and thin layer of gases situated high in the Earth's atmosphere. It is composed primarily of the ozone molecule (O3), which is a potent absorber of ultraviolet (UV) radiation from the Sun. This protects life on Earth from the harmful effects of solar radiation, including excessive heat, ozone depletion, and increased instances of extreme weather events.\n**Key Characteristics:**\n* The ozone layer is located between 15 and 60 kilometers above Earth's surface.\n* It is divided into two main parts: the stratosphere and the troposphere.\n* The stratosphere is the upper layer, extending from 15 to 50 kilometers above the Earth's surface.\n* The troposphere is the lower layer, extending from 50 to 60 kilometers above the Earth's surface.\n* The ozone molecule is present in the stratosphere, while it is less abundant in the troposphere.\n**Functions:**\n* The ozone molecule absorbs harmful ultraviolet radiation from the Sun.\n* This protects life on Earth from the harmful effects of solar radiation, including skin cancer, cataracts, and immune system suppression.\n* The ozone layer acts as a shield, allowing some UV radiation to pass through and warming the Earth's surface.\n* Without the ozone layer, life on Earth would be severely damaged, leading to a higher risk of extinction.\n**Threats:**\n* Human activities, such as industrial emissions, chlorofluorocarbons (CFCs), and ozone-depleting substances (ODSs), have significantly contributed to the thinning of the ozone layer.\n* This leads to increased ultraviolet radiation reaching Earth's surface, which can cause various environmental and health problems.\n* The ozone layer is a natural renewable resource, but protecting it requires significant global efforts to reduce human-induced ozone depletion.\n**Impact on Our World:**\n* The ozone layer is crucial for life on Earth.\n* It provides essential protection against harmful UV radiation from the Sun.\n* Its depletion can lead to various health and environmental problems, affecting human health, ecosystems, and climate.\n* Understanding and protecting the ozone layer is essential for maintaining a healthy planet for future generations",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the approximate distance of the ozone layer from Earth's surface?",
+                "options": [
+                  "15 km",
+                  "20 km",
+                  "30 km",
+                  "40 km"
+                ],
+                "answer": "20 km",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which layer of the atmosphere is responsible for the ozone molecule?",
+                "options": [
+                  "Stratosphere",
+                  "Troposphere",
+                  "Mesosphere",
+                  "Thermosphere"
+                ],
+                "answer": "Stratosphere",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main purpose of the ozone layer?",
+                "options": [
+                  "To regulate temperature on Earth",
+                  "To protect life from solar radiation",
+                  "To absorb carbon dioxide",
+                  "To filter harmful pollutants"
+                ],
+                "answer": "To protect life from solar radiation",
+                "type": "single_correct"
+              },
+              {
+                "question": "What are the main contributors to ozone depletion?",
+                "options": [
+                  "Human activities",
+                  "Natural processes",
+                  "Volcanic activity",
+                  "Ocean currents"
+                ],
+                "answer": "Human activities",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is a major environmental impact caused by ozone depletion?",
+                "options": [
+                  "Extinction of plants and animals",
+                  "Increase in sea levels",
+                  "Weather patterns change",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -8987,7 +9912,62 @@
           {
             "topic": "Forest Transformations in Java",
             "definition": "## Forest Transformations in Java\n**Forest transformations**, in the context of historical colonialism, refer to the systematic removal of indigenous forests and the subsequent colonization of these regions by settlers and colonizers. This historical process had profound impacts on the environment, local communities, and the socio-political landscape of India and other colonized nations.\n**The Colonial Era in India:**\n* The British Empire, with its imperial ambitions, began colonizing India in the early 19th century.\n* The British implemented various forestry policies aimed at exploiting India's timber resources and suppressing indigenous forest practices.\n* These policies involved forced land acquisition, taxation, and forced removal of indigenous communities from their ancestral lands.\n* This resulted in widespread deforestation, loss of biodiversity, and displacement of millions of people.\n**Consequences and Impacts:**\n* The loss of forests had severe environmental consequences, including:\n* Soil erosion and degradation\n* Depletion of water resources\n* Loss of biodiversity and habitat destruction\n* Increased vulnerability to natural disasters\n* Additionally, the displacement of communities and loss of traditional livelihoods caused immense suffering and social displacement.\n* Forest transformations also had significant social and political implications:\n* Indigenous communities faced loss of their ancestral lands and livelihoods\n* Colonial powers gained control over vast territories and resources\n* This historical episode raised questions about colonial exploitation and the violation of indigenous rights\n**Learning More:**\n* To gain a deeper understanding of forest transformations in India, students can explore the following resources:\n* The book \"Colonialism and Forest Resources in India\" by B. N. Pandey\n* The website of the National Museum of India, Delhi, which features exhibits on the history of colonialism in India\n* The online journal \"Environment and History\" published by the Institute of Advanced Study, Kolkata",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "The Colonial Era in India, what was the British Empire's primary motivation for colonizing India?",
+                "options": [
+                  "To exploit natural resources",
+                  "To establish trade routes",
+                  "To control political power"
+                ],
+                "answer": "To exploit natural resources",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which historical process resulted in widespread deforestation and loss of biodiversity in India?",
+                "options": [
+                  "Colonial Era",
+                  "Industrial Revolution",
+                  "Warfare",
+                  "Agricultural Revolution"
+                ],
+                "answer": "Colonial Era",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What were the consequences of forest transformations on the environment in India?",
+                "options": [
+                  "Increased economic development",
+                  "Improved sanitation",
+                  "Enhanced biodiversity",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How did forest transformations impact local communities in India?",
+                "options": [
+                  "They gained control over vast territories and resources",
+                  "They were forced to work in plantations",
+                  "They were paid fair wages",
+                  "They were allowed to maintain their traditional livelihoods"
+                ],
+                "answer": "They were forced to work in plantations",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was the significance of forest transformations in India's history?",
+                "options": [
+                  "They led to the establishment of a thriving colonial economy",
+                  "They contributed to the development of a rich cultural heritage",
+                  "They had no significant impact on the socio-political landscape",
+                  "They raised questions about colonial exploitation and the violation of indigenous rights"
+                ],
+                "answer": "They had no significant impact on the socio-political landscape",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -10615,7 +11595,63 @@
           {
             "topic": "Drainage Systems in India",
             "definition": "## Drainage Systems in India\n**India, a land of diverse landscapes and challenging terrain, boasts a rich and intricate drainage system that plays a crucial role in shaping its physical and human geography.**\n**The intricate network of rivers, lakes, canals, and drainage ditches spread across the country, forming an intricate network that facilitates water flow and transportation.**\n**The primary drainage system in India, known as the **\"nav chain,\"** consists of interconnected rivers and tributaries that converge at the coast. This intricate network ensures that water from the Himalayan mountains, the Western Ghats, and the northern plains is efficiently transported to the vast plains of the interior.\n**The drainage system in India is not only a vital infrastructure for agricultural practices and transportation but also a crucial component of maintaining ecological balance.**\n**Key factors affecting India's drainage systems include:**\n* **Climate:** India experiences diverse climatic conditions, ranging from the Himalayas' heavy rainfall to the hot, arid conditions in the south. These variations influence the direction and volume of water flow.\n* **Topography:** The country boasts vast stretches of desert, mountain ranges, and floodplains. This diverse topography creates unique challenges and opportunities for managing and mitigating drainage systems.\n* **Human activities:** Activities like agriculture, urbanization, and mining can significantly impact the quality and efficiency of drainage systems, both positive and negative.\n**The Indian drainage system has faced several challenges in recent decades, including:**\n* **Pollution:** Industrial waste, agricultural runoff, and untreated sewage pollute rivers, lakes, and groundwater, threatening the health and sustainability of the entire system.\n* **Climate change:** Rising temperatures and extreme weather events are altering the flow and quality of water bodies, posing a significant threat to water security and agriculture.\n* **Over-extraction of water resources:** As India's population and industrial growth surge, the demand for water resources is increasing, putting immense pressure on the existing infrastructure.\n**Addressing these challenges will require collaborative efforts from governments, communities, and individuals to invest in sustainable drainage management practices, including:**\n* **Protecting and restoring water bodies:** This involves measures like cleaning up pollution, preserving natural habitats, and implementing sustainable water management techniques.\n* **Investing in infrastructure:** Upgrading and expanding drainage networks, implementing early warning systems for floods and droughts, and adopting climate-resilient technologies are crucial steps.\n* **Promoting awareness and education:** Raising public awareness about the importance of sustainable drainage management and encouraging responsible water usage can foster positive behavioral change.\n**In conclusion, drainage systems in India stand as a testament to human ingenuity and resilience.** By understanding the intricate network of rivers, lakes, and channels that flow through the country, we can appreciate the crucial role they play in shaping India's physical and human geography",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which factor plays a crucial role in influencing the direction and volume of water flow in India?",
+                "options": [
+                  "Climate",
+                  "Topography",
+                  "Human activities",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which challenge is posed by climate change to the Indian drainage system?",
+                "options": [
+                  "Pollution",
+                  "Drought",
+                  "Over-extraction of water resources",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which is a crucial step for sustainable drainage management in India?",
+                "options": [
+                  "Protecting and restoring water bodies",
+                  "Investing in infrastructure",
+                  "Promoting awareness and education",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which is a key factor affecting the quality and efficiency of drainage systems in India?",
+                "options": [
+                  "Pollution",
+                  "Topography",
+                  "Climate",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which challenge requires immediate attention to address the sustainability of India's drainage system?",
+                "options": [
+                  "Pollution",
+                  "Drought",
+                  "Over-extraction of water resources",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "The Himalayan Rivers",
@@ -11600,7 +12636,63 @@
           {
             "topic": "Wildlife",
             "definition": "## Wildlife: More Than Just Animals\nWildlife refers to the variety of living organisms on Earth, including plants, animals, and microorganisms. These organisms interact with each other and their environment to form complex ecosystems that support diverse life forms. Understanding wildlife helps us appreciate the delicate balance of our planet and the interconnectedness of all living things.\n**Key features of wildlife:**\n* **Species:** Different animals belong to various species with unique characteristics, behaviors, and ecological roles. For example, tigers, elephants, and whales are distinct species with diverse ecological functions.\n* **Populations:** Animals form large and diverse populations that interact and compete with each other for food, water, and shelter. For example, elephant herds and bird flocks demonstrate how individuals within a population rely on each other for survival.\n* **Adaptation:** Wildlife has evolved remarkable adaptations to survive in their specific environments. These adaptations can range from physical features like fur or feathers to behavioral patterns like migration or camouflage.\n* **Habitat:** Wildlife requires specific habitats for survival, which include forests, grasslands, deserts, and aquatic environments. These habitats provide food, shelter, and breeding grounds for the animals to thrive.\n**Conservation and Importance:**\nThe importance of wildlife cannot be overstated. It provides us with:\n* **Food sources:** Animals are a vital source of food for humans and other animals. Sustainable management of wildlife is crucial for ensuring future food security.\n* **Medicinal resources:** Plants and animals provide valuable medicines for treating various ailments, contributing to healthcare and wellness.\n* **Ecological balance:** Wildlife plays a central role in maintaining the balance of ecosystems. They are prey and predators, influencing the distribution and behavior of other species.\n* **Cultural significance:** Many cultures hold deep cultural and spiritual connections with wildlife, enriching our understanding and appreciation for the natural world.\n**Examples:**\n* **Lions and tigers:** These large felines are apex predators that play a critical role in shaping the ecosystems they inhabit.\n* **Coral reefs:** A vast network of coral colonies teeming with diverse marine life is an incredible example of a healthy and resilient wildlife ecosystem.\n* **Forests:** Dense forests provide habitats for numerous species, including mammals, birds, insects, and plants.\n* **Wetlands:** These specialized habitats are crucial for many aquatic species, including fish, amphibians, and birds.\nBy studying wildlife, we gain a deeper appreciation for the wonders of the natural world and our responsibility to protect and preserve it for future generations",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is wildlife?",
+                "options": [
+                  "The variety of living organisms on Earth",
+                  "The interaction between different organisms and their environment",
+                  "The balance of ecosystems",
+                  "The cultural significance of wildlife"
+                ],
+                "answer": "The variety of living organisms on Earth",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which is a key feature of wildlife?",
+                "options": [
+                  "Species",
+                  "Populations",
+                  "Adaptation",
+                  "Habitat"
+                ],
+                "answer": "Species",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which is an example of an animal population?",
+                "options": [
+                  "Elephant herds",
+                  "Bird flocks",
+                  "Lions",
+                  "Coral reefs"
+                ],
+                "answer": "Elephant herds",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is an adaptation?",
+                "options": [
+                  "A physical characteristic",
+                  "A behavioral pattern",
+                  "A geographical feature",
+                  "A type of habitat"
+                ],
+                "answer": "A physical characteristic",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main purpose of wildlife conservation?",
+                "options": [
+                  "To ensure future food security",
+                  "To treat medicinal resources",
+                  "To maintain ecosystem balance",
+                  "To control pollution"
+                ],
+                "answer": "To ensure future food security",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Conservation of Flora and Fauna",
@@ -12101,7 +13193,63 @@
           {
             "topic": "Broader Meanings of Democracy",
             "definition": "**Broader Meanings of Democracy**\n**Definition:**\nDemocracy is a political system characterized by popular participation, where citizens actively and equally have the right to vote and influence the laws and policies that govern their lives. It is a system of government where power is distributed among different branches, ensuring checks and balances to prevent any one entity from becoming too powerful.\n**Key Concepts:**\n* **Majority Rule:** A fundamental principle of democracy, where the majority's will prevails, leading to the adoption of policies that reflect the collective interests of the people.\n* **Equal Rights and Opportunities:** The core principle of democracy, ensuring that all citizens, regardless of their background, have equal rights and opportunities to participate in the political process.\n* **Accountability:** Elected officials are accountable to their constituents, and they must adhere to high ethical standards and transparency in their decision-making.\n* **Rule of Law:** The principle that the law applies to everyone equally, ensuring that the government operates with impartiality and respect for human rights.\n* **Peaceful Transfer of Power:** A mechanism for peaceful transitions of power, where new elections are held to choose a new leader, ensuring continuity and stability in the political system.\n**Examples:**\n* **Representative Democracy:** In a representative democracy, elected officials are directly chosen by the people through direct or indirect means.\n* **Constitutional Democracy:** In constitutional democracies, the constitution establishes clear rules and procedures for elections and political participation.\n* **Participatory Democracy:** This encompasses various forms of citizen engagement, including civic activism, voter registration, and community engagement.\n**In conclusion,** democracy is not merely a system of government but a framework that promotes individual liberty, equality, and accountability. By upholding these principles, democracy aims to create a society where everyone can have a say in how their government is run, leading to a more just and equitable world",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is a key principle of democracy?",
+                "options": [
+                  "Majority Rule",
+                  "Equal Rights and Opportunities",
+                  "Accountability",
+                  "Rule of Law"
+                ],
+                "answer": "Correct Option: Majority Rule",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which principle ensures that the government operates with impartiality and respect for human rights?",
+                "options": [
+                  "Majority Rule",
+                  "Equal Rights and Opportunities",
+                  "Accountability",
+                  "Rule of Law"
+                ],
+                "answer": "Correct Option: Rule of Law",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which concept is central to representative democracy?",
+                "options": [
+                  "Majority Rule",
+                  "Equal Rights and Opportunities",
+                  "Accountability",
+                  "Rule of Law"
+                ],
+                "answer": "Correct Option: Representative Rule",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is a mechanism for peaceful transitions of power?",
+                "options": [
+                  "Majority Rule",
+                  "Equal Rights and Opportunities",
+                  "Accountability",
+                  "Rule of Law"
+                ],
+                "answer": "Correct Option: Peaceful Transfer of Power",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is a core principle of democracy?",
+                "options": [
+                  "Majority Rule",
+                  "Equal Rights and Opportunities",
+                  "Accountability",
+                  "Rule of Law"
+                ],
+                "answer": "Correct Option: Equality",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -12360,7 +13508,63 @@
           {
             "topic": "Why Elections?",
             "definition": "## Why Elections Matter\nElections are a fundamental process in any democratic society, allowing citizens to actively participate in shaping their future. Through the electoral system, individuals directly choose their representatives in various positions, like local and state governments, national legislatures, or even international bodies. These representatives then make decisions on their behalf, impacting various aspects of life, from public safety and education to infrastructure and environmental policies.\n**Key reasons for holding elections:**\n* **Accountability:** Elected officials are directly accountable to their constituents through regular elections. This ensures they are responsive to the needs of the people they represent and motivates them to perform their duties diligently.\n* **Representation:** Through the electoral system, citizens have a voice in shaping their government. They choose individuals who best align with their beliefs and values, ensuring better representation of diverse communities and perspectives.\n* **Participation:** Elections are open and accessible to all citizens, regardless of their background or socioeconomic status. This allows diverse voices to be heard and fosters a healthy democracy.\n* **Transparency:** Election processes are transparent, requiring political parties and candidates to disclose their financial activities, plans, and positions. This promotes accountability and reduces the risk of corruption.\n* **Choice:** When citizens participate in elections, they have the power to choose their leaders directly, leading to a government they believe best represents their interests and values.\nElections are not just about choosing a candidate or party. They are about upholding democratic principles and ensuring a fair and inclusive political system. Through participating in elections, citizens actively contribute to shaping a government that works for them and their communities",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the main purpose of holding elections?",
+                "options": [
+                  "To choose government officials",
+                  "To uphold democratic principles",
+                  "To select candidates for public office",
+                  "To set legal frameworks"
+                ],
+                "answer": "To hold government officials accountable to their constituents",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which reason best emphasizes the importance of elections?",
+                "options": [
+                  "Elections ensure transparency in political processes",
+                  "Elections are accessible to all citizens regardless of their background",
+                  "Elections provide a fair representation of diverse communities and perspectives",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the ultimate goal of holding elections?",
+                "options": [
+                  "To choose competent and experienced leaders",
+                  "To ensure fairness and inclusivity in political decisions",
+                  "To promote transparency and accountability",
+                  "To foster political participation among citizens"
+                ],
+                "answer": "To ensure a government that works for the people and their communities",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which principle is at the heart of fair and democratic elections?",
+                "options": [
+                  "Accountability",
+                  "Transparency",
+                  "Representation",
+                  "Both A and B"
+                ],
+                "answer": "Both A and B",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is an example of an accessible and transparent election process?",
+                "options": [
+                  "Regular voter registration",
+                  "Open access to campaign finances",
+                  "Multi-party system with clear electoral rules",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "What is our System of Elections?",
@@ -12673,7 +13877,48 @@
           {
             "topic": "The Judiciary",
             "definition": "## The Judiciary: An Institution for Balance and Accountability\nThe **judiciary** is a branch of government responsible for interpreting and applying laws in a fair and impartial manner. This branch plays a crucial role in maintaining **balance and accountability** in society. It ensures that those who break the law are held responsible, while protecting the rights and liberties of citizens.\n**Key functions of the judiciary:**\n* **Interpretation of Laws:** Judges and lawyers review legal texts, statutes, and case law to determine their meaning and apply them to specific cases.\n* **Application of Laws:** They apply laws to specific cases by issuing rulings and decisions that can be appealed to a higher court.\n* **Protection of Rights:** The judiciary ensures that the rights and due process of individuals are respected by upholding the rule of law and preventing the violation of fundamental rights.\n* **Holding Those in Power Accountable:** Judges and legal professionals investigate and prosecute individuals or entities who violate laws, ensuring they face legal consequences.\n**Examples:**\n* A judge must interpret the law to determine if a company engaged in unfair competition practices.\n* A lawyer might argue a case before a court, presenting evidence and legal reasoning to support a specific interpretation of the law.\n* The judiciary investigates and prosecutes cases of corruption within government agencies, holding officials accountable for breaking the law.\n**Importance of the Judiciary:**\nThe judiciary is essential for a functioning democracy as it ensures:\n* **Justice and fairness:** It provides a fair and impartial system of law application, protecting the rights of individuals and ensuring they are treated fairly under the law.\n* **Accountability:** It holds those in power accountable for their actions, preventing abuse of power and upholding the rule of law.\n* **Protection of individual rights:** It ensures respect for fundamental rights and liberties, such as freedom of speech and due process, preventing the violation of these rights.\n* **Promoting transparency and accountability:** The judiciary encourages transparency and accountability in government through open access to information and mechanisms for legal scrutiny.\nThe judiciary is a complex and multifaceted branch of government with immense influence on individuals and society. It plays a vital role in upholding the rule of law, protecting individual rights, and ensuring accountability in the application of laws",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What are the key functions of the judiciary?",
+                "options": [
+                  "Interpreting laws, applying laws, protecting rights, holding those in power accountable"
+                ],
+                "answer": "Correct Options: Interpretating laws, applying laws, protecting rights",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main purpose of the judiciary?",
+                "options": [
+                  "To uphold the rule of law, protect individual rights, and ensure accountability of those in power"
+                ],
+                "answer": "Correct Option: To uphold the rule of law, protect individual rights, and ensure accountability of those in power",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the judiciary ensure justice and fairness?",
+                "options": [
+                  "Through open access to information, legal scrutiny, and impartial application of laws"
+                ],
+                "answer": "Correct Option: Through open access to information and mechanisms for legal scrutiny and impartial application of laws",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the role of the judiciary in protecting individual rights?",
+                "options": [
+                  "Holding those in power accountable, ensuring respect for fundamental rights, and promoting transparency and accountability"
+                ],
+                "answer": "Correct Option: Holding those in power accountable, ensuring respect for fundamental rights, and promoting transparency and accountability",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main impact of the judiciary on society?",
+                "options": [
+                  "It ensures justice and fairness, protects individual rights, and promotes transparency and accountability"
+                ],
+                "answer": "Correct Option: It ensures justice and fairness, protects individual rights, and promotes transparency and accountability",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -12683,7 +13928,60 @@
           {
             "topic": "Life without Rights",
             "definition": "## Life without Rights: A Moral Labyrinth\nThe core concept of a **life without rights** is a hypothetical scenario where fundamental human rights are disregarded and systematically violated. This creates a stark and chilling reality where individuals are stripped of their basic freedoms and subjected to arbitrary control.\nImagine a society where the right to life itself is disregarded, where people are imprisoned arbitrarily, denied access to food and water, and subjected to horrific torture without due process. This is the dystopian reality of a life without rights.\n**Examples:**\n* The Rwandan genocide in 1994 stands as a chilling example of a society where individual rights were systematically violated.\n* The concentration camps of Nazi Germany serve as a stark reminder of the dangers of unchecked power and the erosion of fundamental freedoms.\n* More recently, we've seen the erosion of rights in countries like Saudi Arabia and Egypt, with individuals facing restrictions on their freedom of speech, assembly, and the press.\n**Implications:**\nThe concept of a life without rights raises several crucial questions:\n* What would it mean for an individual to be deprived of their basic rights?\n* How would this affect their ability to live a dignified and fulfilling life?\n* What are the ethical and social implications of disregarding fundamental human rights?\n* How can we protect individuals from such abuses?\n**Conclusion:**\nA life without rights is not just a hypothetical scenario but a sobering reality that should serve as a stark reminder of the importance of protecting and upholding individual rights. By understanding and engaging with this concept, we can work towards creating a society where everyone is free to live with dignity and security",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What would mean for an individual to be deprived of their basic rights?",
+                "options": [
+                  "Being arbitrarily imprisoned without due process",
+                  "Being denied access to food and water",
+                  "Being subjected to horrific torture"
+                ],
+                "answer": "Being arbitrarily imprisoned without due process",
+                "type": "single_correct"
+              },
+              {
+                "question": "How would this affect an individual's ability to live a dignified and fulfilling life?",
+                "options": [
+                  "It would drastically hinder their ability to work, study, and socialize",
+                  "It would allow them to pursue their dreams and aspirations",
+                  "It would have no significant impact on their quality of life"
+                ],
+                "answer": "It would drastically hinder their ability to work, study, and socialize",
+                "type": "single_correct"
+              },
+              {
+                "question": "What are the ethical and social implications of disregarding fundamental human rights?",
+                "options": [
+                  "It is a violation of basic human rights and should be condemned by all",
+                  "It is a necessary means to achieve a greater good",
+                  "It is morally irrelevant as long as the ends justify the means"
+                ],
+                "answer": "It is a violation of basic human rights and should be condemned by all",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How can we protect individuals from such abuses?",
+                "options": [
+                  "By implementing strong legal frameworks and enforcing them strictly",
+                  "By educating the public about the importance of protecting human rights",
+                  "By promoting international cooperation and advocacy",
+                  "By establishing independent monitoring bodies"
+                ],
+                "answer": "By implementing strong legal frameworks and enforcing them strictly",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the core concept of a life without rights?",
+                "options": [
+                  "A society where individual rights are disregarded and systematically violated",
+                  "A society where power is concentrated in the hands of a few",
+                  "A society where freedom of expression and assembly is suppressed",
+                  "A society where the rule of law is applied unevenly"
+                ],
+                "answer": "A society where individual rights are disregarded and systematically violated",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Rights in a Democracy",
@@ -14354,7 +15652,64 @@
           {
             "topic": "What is the Public Distribution System?",
             "definition": "**The Public Distribution System** is a network of government-assisted schemes and initiatives implemented by the Indian government to ensure food security and nutritional well-being for all citizens, particularly the most vulnerable.\n**Key Features:**\n* **Targeted Distribution:** It focuses on providing essential food items such as rice, wheat, pulses, and cooking oil to households in need, including the poor, elderly, and children.\n* **Government Support:** The system receives financial assistance from the central government and state governments through various schemes and subsidies.\n* **Community Participation:** Communities actively participate in the selection and distribution of food items through village committees and distribution centers.\n* **Quality Assurance:** The system ensures that food items are of good quality and meet safety standards.\n* **Monitoring and Evaluation:** Regular monitoring and evaluation mechanisms ensure that the system is efficient and effective.\n**Examples:**\n* **National Food Security Mission (NFSM):** A flagship scheme launched by the government in 2013, targeting 70 million people in need.\n* **Indira Gandhi National Rural Employment Guarantee Scheme (IRNSS):** A program that provides employment and income security to rural workers.\n* **Pradhan Mantri Kisan Samman Nidhi (PM-KISAN):** A government scheme that provides financial assistance to small and marginal farmers.\n**Benefits:**\n* **Food Security:** Provides access to a consistent and reliable supply of essential food items.\n* **Nutritional Well-being:** Promotes healthy eating habits and reduces the prevalence of malnutrition and hunger.\n* **Employment and Income Security:** Offers opportunities for income generation and economic empowerment.\n* **Social Inclusion:** Leverages community participation to ensure transparency and accountability.\n**Importance:**\nThe Public Distribution System plays a crucial role in addressing food security and hunger in India. It ensures that vulnerable communities have access to basic necessities, enabling them to live with dignity and contribute to the overall economy",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the Public Distribution System?",
+                "options": [
+                  "A network of government-assisted schemes and initiatives implemented by the Indian government to ensure food security and nutritional well-being for all citizens, particularly the most vulnerable.",
+                  "A system that provides food and nutrition to children and pregnant women.",
+                  "A system that provides job training and income security to farmers.",
+                  "A system that provides education and healthcare to children and women.",
+                  "A system that ensures access to clean water and sanitation for all citizens."
+                ],
+                "answer": "A network of government-assisted schemes and initiatives implemented by the Indian government to ensure food security and nutritional well-being for all citizens, particularly the most vulnerable.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which scheme provides financial assistance to small and marginal farmers?",
+                "options": [
+                  "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+                  "National Food Security Mission (NFSM)",
+                  "Indira Gandhi National Rural Employment Guarantee Scheme (IRNSS)",
+                  "Food Security for All"
+                ],
+                "answer": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which feature of the Public Distribution System ensures that food items are of good quality and meet safety standards?",
+                "options": [
+                  "Targeted Distribution",
+                  "Government Support",
+                  "Community Participation",
+                  "Monitoring and Evaluation"
+                ],
+                "answer": "Community Participation",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which program provides employment and income security to rural workers?",
+                "options": [
+                  "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+                  "National Food Security Mission (NFSM)",
+                  "Indira Gandhi National Rural Employment Guarantee Scheme (IRNSS)",
+                  "Food Security for All"
+                ],
+                "answer": "National Food Security Mission (NFSM)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which scheme provides financial assistance to households in need?",
+                "options": [
+                  "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+                  "National Food Security Mission (NFSM)",
+                  "Indira Gandhi National Rural Employment Guarantee Scheme (IRNSS)",
+                  "Food Security for All"
+                ],
+                "answer": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Current Status of Public Distribution System",
@@ -15294,7 +16649,62 @@
           {
             "topic": "Rain on the Roof",
             "definition": "## Rain on the Roof\nThe rainy weather on the roof creates a contrast between the beauty of nature and the harshness of the elements. The vast expanse of the sky, punctuated by fluffy raindrops, creates a sense of tranquility and awe. However, the sight is juxtaposed by the gloomy grayness of the sky, casting a melancholic shadow on the ground and the surrounding landscape. This contrast evokes a sense of vulnerability and the inevitability of life's cycles.\nThe repetition of words and phrases, such as \"sky,\" \"rain,\" \"ground,\" and \"shadow,\" creates a rhythmic flow and a sense of unity. This rhythmic pattern is echoed in the poem's imagery, where the sound of the rain is contrasted with the wind's whisper and the buzzing of bees. The repetition emphasizes the contrast between the beauty of nature and the harshness of the elements, highlighting the delicate balance of life.\nRain on the roof is a poem that captures the beauty and tragedy of nature's cycles, with the image of the sky juxtaposed against the ground and the surrounding landscape. The poem evokes a sense of vulnerability and the inevitability of life's cycles, leaving the reader with a profound and enduring impression",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the main idea of the poem?",
+                "options": [
+                  "The beauty of nature",
+                  "The harshness of the elements",
+                  "The inevitability of life's cycles",
+                  "The contrast between nature and the elements"
+                ],
+                "answer": "The contrast between the beauty of nature and the harshness of the elements",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How does the poet use repetition to create a sense of unity?",
+                "options": [
+                  "Yes",
+                  "No",
+                  "Sometimes",
+                  "Never"
+                ],
+                "answer": "Yes",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the significance of the imagery used in the poem?",
+                "options": [
+                  "The beauty of nature",
+                  "The harshness of the elements",
+                  "The contrast between nature and the elements"
+                ],
+                "answer": "The contrast between the beauty of nature and the harshness of the elements",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the mood of the poem?",
+                "options": [
+                  "Cheerful",
+                  "Melancholy",
+                  "Hopeful",
+                  "Exuberant"
+                ],
+                "answer": "Melancholy",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the overall message of the poem?",
+                "options": [
+                  "The beauty of nature is more valuable than the harshness of the elements",
+                  "The harshness of the elements is more valuable than the beauty of nature",
+                  "Life is fleeting and we should appreciate the beauty of nature",
+                  "The beauty and the harshness of nature are equally important"
+                ],
+                "answer": "The beauty and the harshness of nature are equally important",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "The Lake Isle of Innisfree",
@@ -15482,7 +16892,63 @@
           {
             "topic": "The Duck and the Kangaroo",
             "definition": "The poem \"The Duck and the Kangaroo\" explores the themes of friendship and the challenges faced by individuals seeking connection and belonging. The poem depicts a dynamic interplay between the humble duck and the self-assured kangaroo, highlighting the contrasting yet complementary nature of their personalities.\nThe duck, with its gentle demeanor and love for water, represents a sense of warmth and comfort. The kangaroo, on the other hand, embodies independence and a self-assuredness that the duck finds challenging to emulate. Through their contrasting personalities, the poem suggests that true connection and friendship often require compromise and a willingness to understand each other's perspectives.\nThe poem also emphasizes the importance of finding meaning and purpose in life. While the duck finds solace in its love for water, the kangaroo seeks validation and acceptance from others. This contrast reflects the universal human desire to find a sense of belonging and purpose, and how the pursuit of this can sometimes lead to conflicts and misunderstandings.\nFurthermore, the poem highlights the challenges of navigating social norms and finding acceptance. The duck, being a creature of the water, often finds itself limited in its ability to fully participate in social activities. The kangaroo, on the other hand, has a more independent nature and may struggle to conform to certain social norms. This contrasting experience underscores the importance of finding a balance between individuality and societal expectations.\nOverall, \"The Duck and the Kangaroo\" is a poignant and thought-provoking poem that explores the complexities of friendship, identity, and the human search for connection and belonging",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the main theme of the poem?",
+                "options": [
+                  "Friendship",
+                  "Identity",
+                  "Social norms",
+                  "Theme"
+                ],
+                "answer": "Friendship",
+                "type": "single_correct"
+              },
+              {
+                "question": "Who are the two main characters in the poem?",
+                "options": [
+                  "Duck and Kangaroo",
+                  "Owl and Fox",
+                  "Rabbit and Bear",
+                  "Lion and Tiger"
+                ],
+                "answer": "Duck and Kangaroo",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What does the duck represent in the poem?",
+                "options": [
+                  "Warmth and comfort",
+                  "Independence and self-assuredness",
+                  "Wisdom and knowledge",
+                  "Love and compassion"
+                ],
+                "answer": "Warmth and comfort",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main contrast between the duck and the kangaroo?",
+                "options": [
+                  "Similarities",
+                  "Differences",
+                  "Complementary nature",
+                  "Parallel personalities"
+                ],
+                "answer": "Complementary nature",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the central message of the poem about finding meaning and purpose in life?",
+                "options": [
+                  "Seeking validation through social acceptance",
+                  "Finding solace in personal interests",
+                  "Persevering through social norms",
+                  "Ignoring the search for purpose"
+                ],
+                "answer": "Finding solace in personal interests",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "On Killing a Tree",
@@ -16450,7 +17916,63 @@
           {
             "topic": "Subject-Verb Concord",
             "definition": "## Subject-Verb Concord Explained\nSubject-verb concord is a crucial grammatical principle that ensures that the verb agrees with the subject in number (singular or plural). This agreement helps to maintain grammatical accuracy and clarity in your writing.\n**Let's explore how it works:**\n* **Number:** Singular subjects require singular verbs, while plural subjects require plural verbs.\n* **Person:** The verb should be in the same person as the subject, whether it is first, second, or third person.\n* **Singular Subjects:**\n* For **one person:** Use \"singles\" (e.g., he, she, it) + **singular** verb (e.g., sings, speaks, laughs).\n* For **two or more people:** Use \"are\" + **plural** verbs (e.g., they sing, they speak, they laugh).\n* **Plural Subjects:**\n* For **one person:** Use \"a\" + **singular** verb (e.g., a sings, a speaks, a laughs).\n* For **two or more people:** Use **\"are\" + plural** verbs (e.g., they a sing, they a speak, they a laugh).\n**Examples:**\n* **Singular:** The cat **meows** softly. (Uses the singular verb \"meows\")\n* **Plural:** The children **play** happily in the park. (Uses the plural verb \"play\")\n* **Singular:** The book **belongs** to her. (Uses the singular verb \"belongs\")\n* **Plural:** The team **has** a new coach this season. (Uses the plural verb \"has\")\n**Remember:**\n* Concord is a fundamental rule in English grammar.\n* It's important to apply it correctly for proper writing and communication.\n* By mastering subject-verb concord, you can improve the clarity and accuracy of your English writing",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which sentence demonstrates the correct use of plural verb in a singular subject?",
+                "options": [
+                  "The dog barks at the birds.",
+                  "The cats chase the mice.",
+                  "The child sings a song.",
+                  "The teacher teaches the students."
+                ],
+                "answer": "The child sings a song.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which sentence best illustrates the rule of subject-verb concord?",
+                "options": [
+                  "The dog barked at the bird.",
+                  "The cat chased the mouse.",
+                  "The teacher taught the students.",
+                  "The book belonged to her"
+                ],
+                "answer": "The book belonged to her",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which sentence correctly uses the singular verb with a plural subject?",
+                "options": [
+                  "The children sing happily.",
+                  "The teacher speaks proudly.",
+                  "The dog barked at the bird.",
+                  "The cat chased the mice"
+                ],
+                "answer": "The children sing happily",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which sentence demonstrates the correct use of plural verb with a singular subject?",
+                "options": [
+                  "The book is mine and his.",
+                  "The dog is happy and the cat is sad.",
+                  "The teacher is responsible and the students are smart.",
+                  "The player is tired and the coach is strong"
+                ],
+                "answer": "The book is mine and his",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which sentence is the best example of proper subject-verb concord in English?",
+                "options": [
+                  "The book is a beautiful and old book.",
+                  "The book is a beautiful and old one.",
+                  "The book is a beautiful and old one.",
+                  "The book is a beautiful and old book."
+                ],
+                "answer": "The book is a beautiful and old book.",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Reporting (Commands/Requests, Statements, Questions)",
@@ -16819,7 +18341,63 @@
           {
             "topic": "Do Bailon Ki Katha",
             "definition": "**Do Bailon Ki Katha** is a philosophical poem by Ram Nath, exploring the futility and hypocrisy of worldly pursuits. The poem depicts a person's futile attempt to achieve material wealth through various means, ultimately concluding that material possessions bring no true fulfillment or solace.\n**Key Concepts:**\n* **Materialism:** The poem questions the value of material possessions and wealth in the face of suffering and death.\n* **Futility:** The speaker's relentless pursuit of material wealth proves to be pointless and ultimately leads to despair.\n* **Self-deception:** The poem exposes the hypocrisy of people who pretend to be happy with material possessions while secretly suffering.\n* **Existentialism:** It reflects on the transient nature of worldly pursuits and the challenges of finding true meaning in life.\n**Examples:**\n* **\"Jab tak milna chahte hain ki ek nishani ki kasti mein, / Mere saath phere mein milte hain, jab tak milte hain.\"** (Translation: \"When I seek solace in material wealth, it leads me to a false state of mind, for in the end, I find nothing but empty pursuits.\")\n* **\"Kadam mein milna ki kahani hain, khushi mein milna ki tarah mein.\"** (Translation: \"The desire for material things brings me happiness, but the joy is short-lived.\")\n* **\"Kabhie kisi ki saheli hain ki khushi mein, kabhie kisi ki khushi mein hain.\"** (Translation: \"Material possessions bring me happiness, but material wealth brings me no lasting joy.\")\n**Conclusion:**\n\"Do Bailon Ki Katha\" is a poignant poem that invites introspection and challenges the pursuit of material wealth at the expense of true fulfillment. Through its witty verses and poignant imagery, it highlights the futility and emptiness of worldly pursuits and ultimately encourages individuals to find meaning and purpose beyond material possessions",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "**Which concept is central to the poem?**",
+                "options": [
+                  "Materialism",
+                  "Futility",
+                  "Existentialism",
+                  "Humor"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**What is the theme of the poem?**",
+                "options": [
+                  "Chasing material wealth",
+                  "Seeking happiness",
+                  "Finding true fulfillment",
+                  "Ignoring worldly matters"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Which phrase from the poem exemplifies the futility of worldly pursuits?**",
+                "options": [
+                  "Jab tak milna chahte hain ki ek nishani ki kasti mein",
+                  "Kadam mein milna ki kahani hain",
+                  "Kabhie kisi ki saheli hain ki khushi mein",
+                  "Kadam mein milna ki tarah mein"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**What is the overarching message of the poem?**",
+                "options": [
+                  "Material wealth is a trap",
+                  "True fulfillment can be found only through introspection",
+                  "Material possessions are meaningless",
+                  "The pursuit of material wealth is futile"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Which element best captures the essence of the poem?**",
+                "options": [
+                  "Witty verses",
+                  "Powerful imagery",
+                  "Philosophical tone",
+                  "Simplistic language"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Lhasa ki Ore",
@@ -17189,7 +18767,63 @@
           {
             "topic": "Ek Kutta Aur Ek Maina",
             "definition": "Ek Kutta Aur Ek Maina is a philosophical treatise that explores the different aspects of life and existence. It emphasizes the interconnectedness of all living beings and the interconnectedness of all things. The text discusses the importance of self-awareness and the need to understand our place in the universe. It also emphasizes the importance of compassion and the need to understand the suffering of others",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Ek Kutta Aur Ek Maina is a philosophical treatise that explores what?",
+                "options": [
+                  "the different aspects of life and existence",
+                  "the interconnectedness of all living beings",
+                  "the interconnectedness of all things",
+                  "the importance of self-awareness"
+                ],
+                "answer": "the different aspects of life and existence",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "According to the text, what is the most important thing in life?",
+                "options": [
+                  "Self-awareness",
+                  "Compassion",
+                  "Understanding suffering",
+                  "Understanding the suffering of others"
+                ],
+                "answer": "Self-awareness",
+                "type": "single_correct"
+              },
+              {
+                "question": "What does Ek Kutta Aur Ek Maina emphasize the most?",
+                "options": [
+                  "The interconnectedness of all living beings",
+                  "The importance of compassion",
+                  "The interconnectedness of all things",
+                  "The importance of self-awareness"
+                ],
+                "answer": "The interconnectedness of all living beings",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How does Ek Kutta Aur Ek Maina promote compassion?",
+                "options": [
+                  "By encouraging self-reflection",
+                  "By promoting empathy",
+                  "By encouraging understanding",
+                  "By encouraging forgiveness"
+                ],
+                "answer": "By promoting empathy",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the overall message of Ek Kutta Aur Ek Maina?",
+                "options": [
+                  "To emphasize the interconnectedness of all living beings",
+                  "To emphasize the importance of self-awareness",
+                  "To emphasize the importance of compassion",
+                  "To emphasize the interconnectedness of all things"
+                ],
+                "answer": "To emphasize the interconnectedness of all living beings",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -17374,12 +19008,123 @@
           {
             "topic": "Kaidi Aur Kokila",
             "definition": "## Kaidi Aur Kokila\n**A Journey Through the Night**\nThe poem \"Kaidi Aur Kokila\" is a captivating ballad about a love lost amidst the vast expanse of the night sky. The lyrics paint a beautiful picture of the shimmering stars, the starry night, and the longing eyes of a lover who yearns for companionship.\nThe word \"Kaidi\" means \"star\" in Hindi, and the word \"Kokila\" translates to \"night.\" Together, they create a sense of night-time stillness and solitude, a perfect backdrop for the poignant emotions of the poem.\nThe speaker's gaze is fixed on the stars, his heart filled with both wonder and a profound longing for connection. He sees in the twinkling stars the reflection of his own soul, a mirror of his hopes and dreams. But even as he admires the beauty of the night sky, a sense of emptiness lingers in his heart. He yearns for someone to share the magic of the night with him.\nThe imagery of the poem is rich and symbolic. It evokes a sense of tranquility, the vastness of the universe, and the fleeting nature of life. The speaker's longing gaze and the glittering stars create a poignant image of unfulfilled desire, a love that transcends time and space.\n\"Kaidi Aur Kokila\" is a timeless love poem that resonates with people of all ages. It serves as a reminder of the enduring power of love, and the bittersweet beauty of longing and hope",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the word 'Kaidi' in the poem?",
+                "options": [
+                  "Star",
+                  "Moon",
+                  "Night",
+                  "Sky"
+                ],
+                "answer": "Star",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the word 'Kokila' in the poem?",
+                "options": [
+                  "Star",
+                  "Moon",
+                  "Night",
+                  "Sky"
+                ],
+                "answer": "Night",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the overall theme of the poem?",
+                "options": [
+                  "Love, longing, hope",
+                  "Night, silence, stars",
+                  "Nature, life"
+                ],
+                "answer": "Love, longing, hope",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the imagery of the poem evoke a sense of tranquility?",
+                "options": [
+                  "Stars, moonlit sky, vast expanse",
+                  "Water, mountains, sunrise",
+                  "Clouds, sunshine, birds",
+                  "Night, stars, fire"
+                ],
+                "answer": "Stars, moonlit sky, vast expanse",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the central message of the poem?",
+                "options": [
+                  "Love is fleeting, cherish every moment",
+                  "Love is eternal, find solace in the night",
+                  "Love is about finding harmony with nature",
+                  "Love is a constant, unchanging force"
+                ],
+                "answer": "Love is eternal, find solace in the night",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Gram Shree",
             "definition": "Gram Shree is a term used in Hindi poetry to denote a place, object, or event that is being praised or glorified. It is often used to express deep emotions, such as love, respect, or admiration.\nGram Shree is frequently used in poems to highlight the beauty and importance of various aspects of life, including nature, love, and culture. It can also be used to express the speaker's own deep feelings and experiences.\nExamples of Gram Shree include:\n* \"O God, your love is so great,\nYour blessings shine upon our face.\"\n* \"The beauty of this place is beyond compare,\nA Gram Shree in a world of despair.\"\n* \"I sing your praises, Gram Shree,\nFor your grace and mercy have set me free.\"",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is Gram Shree in Hindi poetry?",
+                "options": [
+                  "A place, object, or event that is being praised or glorified",
+                  "A word used to express deep emotions",
+                  "A type of flower",
+                  "A type of bird"
+                ],
+                "answer": "A place, object, or event that is being praised or glorified",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which example best depicts Gram Shree in a world of despair?",
+                "options": [
+                  "The beauty of this place is beyond compare, a Gram Shree in a world of despair",
+                  "I sing your praises, Gram Shree, for your grace and mercy have set me free",
+                  "I sing your praises, Gram Shree, for your beauty and grace",
+                  "I sing your praises, Gram Shree, for your love and care"
+                ],
+                "answer": "The beauty of this place is beyond compare, a Gram Shree in a world of despair",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which example best expresses the speaker's deep feelings and experiences?",
+                "options": [
+                  "I sing your praises, Gram Shree, for your grace and mercy have set me free",
+                  "I sing your praises, Gram Shree, for your love and care",
+                  "I sing your praises, Gram Shree, for your beauty and grace",
+                  "I sing your praises, Gram Shree, for your kindness and compassion"
+                ],
+                "answer": "I sing your praises, Gram Shree, for your love and care",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which example best illustrates Gram Shree as a place of deep emotions?",
+                "options": [
+                  "O God, your love is so great, Your blessings shine upon our face.",
+                  "The beauty of this place is beyond compare, a Gram Shree in a world of despair",
+                  "I sing your praises, Gram Shree, for your grace and mercy have set me free",
+                  "I sing your praises, Gram Shree, for your love and care"
+                ],
+                "answer": "O God, your love is so great, Your blessings shine upon our face.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is Gram Shree used for in poetry?",
+                "options": [
+                  "To express deep emotions",
+                  "To express the speaker's own deep feelings and experiences",
+                  "To highlight the beauty and importance of various aspects of life",
+                  "All of the above"
+                ],
+                "answer": "To express deep emotions",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Chandra Gahna Se Lautti Ber",

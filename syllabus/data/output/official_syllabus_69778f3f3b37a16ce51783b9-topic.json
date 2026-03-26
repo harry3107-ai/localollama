@@ -70,7 +70,63 @@
           {
             "topic": "The Fundamental Theorem of Arithmetic",
             "definition": "The **Fundamental Theorem of Arithmetic (FTA)** states that any real number, regardless of its decimal representation, can be expressed as a unique ratio of two integers. In other words, every real number can be uniquely expressed as a fraction of two integers.\nA fraction is a number that can be expressed as a division of two integers. For example, the fraction 0.5 can be expressed as 1/2, meaning that 0.5 is equivalent to 1/2.\nThe FTA has several important implications:\n1. It allows us to represent real numbers on a geometric scale. For example, the decimal representation of the number 0.5 would correspond to the segment of the unit circle that lies between the x-axis and the point representing 0.\n2. It allows us to perform mathematical operations on real numbers that are not fractions. For example, we can add, subtract, multiply, and divide real numbers using the same rules as we would use with fractions.\n3. It helps us to develop a deeper understanding of the relationship between real numbers and geometric shapes. For example, the FTA can be used to show that the area of a circle is proportional to the square of its radius.\nThe FTA is a fundamental theorem in mathematics, and it has wide applications in various fields, including calculus, analysis, and geometry",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which of the following is not a real number?",
+                "options": [
+                  "0.5",
+                  "π",
+                  "√2",
+                  "1/0"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the FTA allow us to represent real numbers on a geometric scale?",
+                "options": [
+                  "The FTA allows us to represent real numbers on a geometric scale.",
+                  "The FTA allows us to represent real numbers on a linear scale.",
+                  "The FTA allows us to represent real numbers on a circular scale.",
+                  "The FTA allows us to represent real numbers on a square scale."
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an application of the FTA in calculus?",
+                "options": [
+                  "Finding the derivative of a function",
+                  "Finding the integral of a function",
+                  "Calculating the area of a circle",
+                  "Finding the slope of a line"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an application of the FTA in analysis?",
+                "options": [
+                  "Finding the maximum and minimum values of a function",
+                  "Finding the roots of a function",
+                  "Calculating the derivative of a function",
+                  "Finding the integral of a function"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is an application of the FTA in geometry?",
+                "options": [
+                  "Finding the area of a circle",
+                  "Finding the circumference of a circle",
+                  "Calculating the volume of a sphere",
+                  "Finding the distance from a point to the center of a circle"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Revisiting Irrational Numbers",
@@ -679,7 +735,54 @@
           {
             "topic": "Cross-Multiplication Method",
             "definition": "The **cross-multiplication method** is a technique used to solve a system of two linear equations in two variables. This method involves multiplying the constants associated with the variables in the two equations to get a single, determinant value. \nLet's consider the following system of linear equations:\n**Equation 1:** 2x + 3y = 7\n**Equation 2:** 4x - y = 2\nTo solve this system using the cross-multiplication method, we multiply the constants of the variables in the two equations:\n**Cross-multiplication:**\n(2)(4) = 8\n(3)(-(-1)) = 3\nBy multiplying these two values together, we get the following determinant:\n(2)(4) - (3)(-(-1)) = 8 + 3 = 11\nTherefore, the solution to the system of equations is x = 1 and y = 3",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Question 1: Solve the following system using the cross-multiplication method:",
+                "options": [
+                  "Option 1: (2)(4) = 8",
+                  "Option 2: (3)(-(-1)) = 3",
+                  "Option 3: (2)(4) - (3)(-(-1)) = 11"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question 2: Solve the following system using the cross-multiplication method:",
+                "options": [
+                  "Option 1: 2x + 3y = 7",
+                  "Option 2: 4x - y = 2"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question 3: Solve the following system using the cross-multiplication method:",
+                "options": [
+                  "Option 1: 2x + 3y = 7",
+                  "Option 2: 4x - y = 2"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question 4: Solve the following system using the cross-multiplication method:",
+                "options": [
+                  "Option 1: 2x + 3y = 7",
+                  "Option 2: 5x - 2y = 4"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question 5: Solve the following system using the cross-multiplication method:",
+                "options": [
+                  "Option 1: 2x + 3y = 7",
+                  "Option 2: 4x - y = 2"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Equations Reducible to a Pair of Linear Equations in Two Variables",
@@ -848,7 +951,63 @@
           {
             "topic": "Solution of a Quadratic Equation by Factorisation",
             "definition": "**Solution of a Quadratic Equation by Factorisation:**\nA quadratic equation in the form of $$ax^2 + bx + c = 0$$ can be solved using factorisation. This method involves factoring the quadratic expression into two linear factors and then solving for the values of a, b, and c that make the equation true.\n**Factorisation:**\nTo factorise a quadratic equation, we need to rewrite it in the form of $$ax^2 + bx + c = (a - b + c)x^2 + bx + c.$$\n**Solving the Equation:**\nOnce the quadratic equation is factored, we can solve for the values of a, b, and c by comparing the coefficients of the linear factors to the coefficients of the original quadratic equation. These values are then used to rewrite the solution as:\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.$$\n**Example:**\nConsider the quadratic equation $$x^2 - 4x + 4 = 0.$$\nFactoring this equation, we get:\n$$(x - 2)(x - 2) = 0.$$\nTherefore, the solutions are x = 2 and x = 2.\n**Conclusion:**\nBy using factorisation, we can solve quadratic equations and find the solutions to the equation $$ax^2 + bx + c = 0$$ in terms of a, b, and c",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which property of a quadratic equation allows us to factorise it? ",
+                "options": [
+                  "a + b = 0",
+                  "a - b = 0",
+                  "a * b = 0",
+                  "a + c = 0"
+                ],
+                "answer": "a + b = 0",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which formula is used to solve a quadratic equation? ",
+                "options": [
+                  "x = (b ± sqrt(b^2 - 4ac)) / 2a",
+                  "x = (b - sqrt(b^2 - 4ac)) / 2a",
+                  "x = (a + sqrt(a^2 - 4bc)) / 2a",
+                  "x = (a - sqrt(a^2 - 4bc)) / 2a"
+                ],
+                "answer": "x = (b ± sqrt(b^2 - 4ac)) / 2a",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which method can be used to solve a quadratic equation using factorisation? ",
+                "options": [
+                  "Multiple Choice",
+                  "Single Choice",
+                  "Programming",
+                  "Math Olympiad"
+                ],
+                "answer": "Multiple Choice",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which is the purpose of factorisation when solving a quadratic equation? ",
+                "options": [
+                  "To find the solutions to the equation",
+                  "To determine the roots of the equation",
+                  "To check the discriminant of the equation",
+                  "To express the equation in factored form"
+                ],
+                "answer": "To find the solutions to the equation",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which is an example of a quadratic equation that can be solved using factorisation? ",
+                "options": [
+                  "x^2 + 4x - 3 = 0",
+                  "x^2 - 5x + 6 = 0",
+                  "x^2 + 8x + 16 = 0",
+                  "x^2 - 9x + 25 = 0"
+                ],
+                "answer": "x^2 + 8x + 16 = 0",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Solution of a Quadratic Equation by Completing the Square",
@@ -1738,7 +1897,63 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction to Trigonometry\nTrigonometry is a branch of mathematics that deals with the relationships between the sides and angles of triangles. It builds upon geometry to explore the lengths and angles of various geometric figures, providing a deeper understanding of shapes and their properties. \nThis chapter lays the foundation for exploring trigonometry by introducing the basic concepts and definitions. It establishes a framework for further study and guides you on a journey to uncover the fascinating world of trigonometric relationships",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of Trigonometry? ",
+                "options": [
+                  "The study of angles and the sides of triangles.",
+                  "The study of lines and angles in geometric figures.",
+                  "The study of shapes and their properties",
+                  "The study of geometric relationships between different shapes."
+                ],
+                "answer": "The definition of Trigonometry is the study of angles and the sides of triangles.",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the sum of the angles in a triangle? ",
+                "options": [
+                  "90 degrees",
+                  "120 degrees",
+                  "150 degrees",
+                  "180 degrees"
+                ],
+                "answer": "180 degrees",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which trigonometric ratio represents the ratio of the length of the opposite side to the length of the adjacent side in a right triangle? ",
+                "options": [
+                  "Sine",
+                  "Cosine",
+                  "Tangent",
+                  "Cosine"
+                ],
+                "answer": "Cosine",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which trigonometric function can be used to find the angle opposite to a given side in a right triangle? ",
+                "options": [
+                  "Sine",
+                  "Cosine",
+                  "Tangent",
+                  "Cosine"
+                ],
+                "answer": "Sin",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can trigonometric ratios be used to find the area of a triangle? ",
+                "options": [
+                  "By using the formula Heron's formula",
+                  "By using the formula for the area of a triangle",
+                  "By using the formula for the perimeter of a triangle",
+                  "By using the formula for the area of a circle"
+                ],
+                "answer": "By using the formula Heron's formula",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Trigonometric Ratios",
@@ -2237,7 +2452,63 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction\nThe **Introduction** chapter serves as the foundational chapter of a mathematics textbook on constructions. It introduces the basic concepts and tools used throughout the book, preparing students for their exploration of geometric shapes and their relationships.\n**Key concepts covered in the Introduction:**\n* **Shape:** A shape is a two-dimensional figure that has specific properties like sides and angles.\n* **Construction:** A construction is a method for drawing a shape using a set of given shapes and tools.\n* **Measurement:** We learn how to measure the lengths and angles of shapes using various tools and techniques.\n* **Geometric properties:** We explore various properties of shapes, such as area, perimeter, symmetry, and congruence.\n* **Elements and figures:** This section introduces the basic shapes, including lines, circles, triangles, and polygons, along with their properties and relationships.\n**Examples:**\n* A **circle** is a shape with a fixed radius, which is the distance from the center to any point on the circle.\n* A **triangle** has three sides and three angles, and the sum of the angles in a triangle is always 180 degrees.\n* A **line segment** has two endpoints, and a **line** is a continuous, single piece of line.\nBy exploring these fundamental concepts and skills in the Introduction chapter, students develop a strong foundation upon which they can build their understanding of geometry",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is a shape?",
+                "options": [
+                  "A line",
+                  "A circle",
+                  "A triangle",
+                  "A square"
+                ],
+                "answer": "A shape is a two-dimensional figure with specific properties like sides and angles.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which shape has three sides and three angles?",
+                "options": [
+                  "Triangle",
+                  "Square",
+                  "Circle",
+                  "Polygon"
+                ],
+                "answer": "Triangle",
+                "type": "single_correct"
+              },
+              {
+                "question": "How do we measure the length of a side of a shape?",
+                "options": [
+                  "Using a ruler",
+                  "Using a compass",
+                  "Using a protractor",
+                  "Using a compass"
+                ],
+                "answer": "Using a ruler",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a shape tells us that the sum of its angles is always 180 degrees?",
+                "options": [
+                  "Area",
+                  "Perimeter",
+                  "Symmetry",
+                  "Congruence"
+                ],
+                "answer": "Sum of angles = 180 degrees",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which shape is made up of three equal straight sides and three equal angles?",
+                "options": [
+                  "Line segment",
+                  "Circle",
+                  "Triangle",
+                  "Square"
+                ],
+                "answer": "Line segment",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Division of a Line Segment",
@@ -2564,7 +2835,63 @@
           {
             "topic": "Surface Area of a Combination of Solids",
             "definition": "## Surface Area of a Combination of Solids\nSurface area is the total area of the entire outer boundary of a 3D object. Calculating surface area involves adding the areas of all the different faces and edges that make up the object. \nLet's consider a combination of multiple solids, such as a cube, a cylinder, and a rectangular box. The total surface area of this combination can be found by adding the surface areas of each individual solid.\n* **Faces:** Each face of the cube, cylinder, and box contributes to the overall surface area. \n* **Edges:** The edges of the cube and cylinder play a role in determining their surface area.\n* **Corners:** The corners of the square base of the rectangular box contribute to its surface area.\nTherefore, the surface area of the combined object is equal to the sum of the surface areas of all its individual components.\n**Example:**\nConsider a cube with side length 3 cm. Its surface area would be:\nSurface area = 6 cm²\nSimilarly, the surface area of a cylinder with diameter 5 cm and height 10 cm would be:\nSurface area = 2π(5 cm)(10 cm) = 200 cm²\nThe surface area of the rectangular box with dimensions 10 cm × 5 cm × 3 cm would be:\nSurface area = 10 cm × 5 cm × 3 cm = 150 cm²\nAdding the surface areas of the cube, cylinder, and box, we get the total surface area:\nTotal surface area = 6 cm² + 200 cm² + 150 cm² = 216 cm²\n**Key Points:**\n* Surface area is the total area of the entire outer boundary.\n* It is calculated by adding the surface areas of all individual faces, edges, and corners.\n* The surface area of a combination of solids is equal to the sum of the surface areas of its individual components.\n* Different shapes have different surface area calculations due to variations in the number and shape of faces, edges, and corners",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which faces contribute to the surface area of the cube?",
+                "options": [
+                  "Top",
+                  "Bottom",
+                  "Left",
+                  "Right"
+                ],
+                "answer": "Top",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which sides play a role in determining the surface area of the cylinder?",
+                "options": [
+                  "Upper",
+                  "Lower",
+                  "Both",
+                  "None"
+                ],
+                "answer": "Both",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the contribution of the corners of the rectangular box to its surface area?",
+                "options": [
+                  "4",
+                  "8",
+                  "12",
+                  "16"
+                ],
+                "answer": "12",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which formula is used to calculate the total surface area of the combination of solids?",
+                "options": [
+                  "S = 6 * (a + b + c)",
+                  "S = 2 * (a + b + c)",
+                  "S = a + b + c",
+                  "S = 3 * (a + b + c)"
+                ],
+                "answer": "S = 6 * (a + b + c)",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the total surface area of the combination of the cube, cylinder, and rectangular box described in the example?",
+                "options": [
+                  100,
+                  150,
+                  216,
+                  240
+                ],
+                "answer": "216",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Volume of a Combination of Solids",
@@ -2693,7 +3020,67 @@
           {
             "topic": "Frustum of a Cone",
             "definition": "## Frustum of a Cone\nA **frustum of a cone** is a curve that lies outside the base of a cone but inside the cone itself. It's the curved path traced by a point on the circumference of the base as it rolls down the cone's side.\nImagine rolling a ball down a cone. The point on the circumference of the base at the bottom of the cone is the starting point for the rolling process. The curve that this point traces out is the **frustum**.\nThe **frustum's** shape is determined by the **angle of depression** (the angle between the base of the cone and the line of sight from the top of the cone to the point on the circumference). \nThere are **two main types of frustums**:\n* **Circular frustum:** This occurs when the cone has a circular base.\n* **Spherical frustum:** This occurs when the cone has a spherical base.\nThe **frustum's** length and area depend on the length and angle of the cone, as well as its base radius.\nHere are some examples of the **frustum** for different angles of depression:\n* **Circular frustum:** A circle.\n* **Spherical frustum:** A sphere.\n* **Right circular cone:** A straight line.\n* **Obtuse cone:** A curved path that approaches the base of the cone.\nThe **frustum** is an important concept in **surface area and volume** because it helps us visualize and calculate the amount of surface area and volume a 3D object with a curved base has",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the **frustum** of a right circular cone?",
+                "options": [
+                  "A circle",
+                  "A sphere",
+                  "A straight line",
+                  "A curved path"
+                ],
+                "answer": [
+                  "A curved path"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which type of **frustum** has a circular base?",
+                "options": [
+                  "Circular frustum",
+                  "Spherical frustum",
+                  "Obtuse cone",
+                  "Right circular cone"
+                ],
+                "answer": [
+                  "Circular frustum"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the **length** of the **frustum** of a cone?",
+                "options": [
+                  "The length of the base of the cone",
+                  "The length of the circumference of the base",
+                  "The height of the cone",
+                  "The radius of the base"
+                ],
+                "answer": "The length of the base of the cone",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the **area** of the **frustum** of a cone?",
+                "options": [
+                  "The area of the base of the cone",
+                  "The area of the circumference of the base",
+                  "The surface area of the cone",
+                  "The volume of the cone"
+                ],
+                "answer": "The area of the base of the cone",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which **frustum** has a spherical base?",
+                "options": [
+                  "Circular frustum",
+                  "Spherical frustum",
+                  "Obtuse cone",
+                  "Right circular cone"
+                ],
+                "answer": "Spherical frustum",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -3002,7 +3389,61 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction\nAn **introduction** is a section of a mathematical text that sets the stage for the entire chapter or section it belongs to. It typically does the following:\n* **Define the key concepts and variables** used in the chapter. \n* **Provide a historical context** of the chapter's topic.\n* **Introduce the main research questions or hypotheses** that will be addressed in the chapter.\n* **Outline the chapter's main topics and subtopics** and how they relate to each other.\n* **Define mathematical notation** and provide appropriate definitions for key terms.\n**Examples:**\n* In **Mathematics for Beginners** chapter 1, the **introduction** defines key concepts like **probability, sample space, and event**, laying a foundation for further mathematical concepts explored in the chapter.\n* In **Discrete Mathematics** chapter 2, the **introduction** provides a historical context of probability theory, exploring its historical development and key milestones in the field.\n* In **Statistics** chapter 1, the **introduction** introduces essential mathematical notation and defines relevant probability concepts like **random variable, probability mass function, and cumulative distribution**",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "In **Mathematics for Beginners** chapter 1, the **introduction** defines which key concepts?",
+                "options": [
+                  "Probability, sample space, and event",
+                  "Linear equations, inequalities, and systems of equations",
+                  "Functions and graph theory",
+                  "Discrete mathematics"
+                ],
+                "answer": "Probability, sample space and event",
+                "type": "single_correct"
+              },
+              {
+                "question": "In **Discrete Mathematics** chapter 2, the **introduction** provides a historical context of which key milestone in the development of probability theory?",
+                "options": [
+                  "17th century",
+                  "18th century",
+                  "19th century",
+                  "20th century"
+                ],
+                "answer": "19th century",
+                "type": "single_correct"
+              },
+              {
+                "question": "In **Statistics** chapter 1, the **introduction** introduces which mathematical notation and defines relevant probability concepts?",
+                "options": [
+                  "Random variable, probability mass function, and cumulative distribution",
+                  "Linear equations, inequalities, and systems of equations",
+                  "Functions and graph theory",
+                  "Discrete mathematics"
+                ],
+                "answer": "Random variable, probability mass function and cumulative distribution",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is NOT a main topic covered in the **Introduction** section of a mathematics chapter?",
+                "options": [
+                  "Probability distributions",
+                  "Random variables",
+                  "Bayesian inference",
+                  "Statistical inference"
+                ],
+                "answer": "Statistical inference",
+                "type": "single_correct"
+              },
+              {
+                "question": "In **Mathematics for Beginners** chapter 1, the **introduction** outlines the chapter's main topics and subtopics and how they relate to each other, what is the **key research question** that will be addressed in the chapter?",
+                "options": [
+                  "Sure",
+                  "No"
+                ],
+                "answer": "Sure",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Probability - A Theoretical Approach",
@@ -5069,7 +5510,63 @@
           {
             "topic": "Newlands' Law of Octaves",
             "definition": "The Newlands' Law of Octaves is a principle that describes the periodic properties of the elements. This law proposes that the properties of the elements can be arranged in a repeating pattern based on their atomic number and the number of valence electrons in their atoms.\nAccording to the law, the elements are arranged in a series of groups based on the number of valence electrons they have. The elements in each group exhibit similar chemical properties and react with the same set of elements.\nThe law was proposed by Dmitri Mendeleev in 1869 based on his observations of the chemical properties of the elements. Mendeleev noticed that the elements could be arranged in a way that the properties of the elements in each group were similar. He proposed that the elements could be divided into groups based on their atomic properties, which are determined by the number of valence electrons.\nThe Newlands' Law of Octaves has been very successful in explaining the periodic properties of the elements. It has allowed scientists to organize the elements into a systematic order, which has made it easier to understand the relationships between the elements",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the Newlands' Law of Octaves?",
+                "options": [
+                  "A principle that describes the periodic properties of the elements.",
+                  "A law that describes the chemical properties of the elements.",
+                  "A law that describes the atomic properties of the elements.",
+                  "A law that describes the properties of the elements in each group."
+                ],
+                "answer": "A principle that describes the periodic properties of the elements.",
+                "type": "single_correct"
+              },
+              {
+                "question": "According to the Newlands' Law of Octaves, which group of elements has the most valence electrons?",
+                "options": [
+                  "Group 1",
+                  "Group 2",
+                  "Group 3",
+                  "Group 4"
+                ],
+                "answer": "Group 1",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the purpose of the Newlands' Law of Octaves?",
+                "options": [
+                  "To organize the elements into a systematic order",
+                  "To explain the chemical properties of the elements",
+                  "To explain the atomic properties of the elements",
+                  "To explain the properties of the elements in each group"
+                ],
+                "answer": "To organize the elements into a systematic order",
+                "type": "single_correct"
+              },
+              {
+                "question": "According to the Newlands' Law of Octaves, what are the elements arranged in?",
+                "options": [
+                  "Based on their atomic numbers",
+                  "Based on their atomic properties",
+                  "Based on their valence electrons",
+                  "Based on their chemical properties"
+                ],
+                "answer": "Based on their atomic numbers",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which scientist proposed the Newlands' Law of Octaves?",
+                "options": [
+                  "Dmitri Mendeleev",
+                  "Rudolf Virchow",
+                  "Henry Moseley",
+                  "Otto Hahn"
+                ],
+                "answer": "Dmitri Mendeleev",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Mendeleev's Periodic Table",
@@ -6556,7 +7053,63 @@
           {
             "topic": "Do Organisms Create Exact Copies of Themselves?",
             "definition": "## Do Organisms Create Exact Copies of Themselves?\nThe question of whether organisms can perfectly replicate themselves through an exact copy mechanism is a complex and intriguing topic in the field of science. It poses deep questions about the nature of self-identity, the role of genetic variation, and the mechanisms of development and reproduction.\n**Understanding Genetic Variation:**\nThe concept of genetic variation plays a crucial role in understanding how organisms can create genetic copies of themselves. Genetic variation allows for mutations and genetic changes to occur, which can contribute to the development of new traits and adaptations in offspring.\n**Perfect Replication vs. Random Variation:**\nWhile it's important to understand the potential for perfect replication, in reality, the process of reproduction involves a high degree of random variation. This variation can lead to slight differences in offspring compared to their parents, even when they share identical genetic information.\n**The \"Clonality\" Debate:**\nThe field of developmental biology has a long-standing debate on the level of \"clonality\" within organisms. Some researchers argue that a fully formed copy of an organism exists at the start of development, with all the necessary genetic information pre-programmed. Others argue for a more dynamic approach, where cells can reuse and modify existing genetic material to create new structures.\n**The Importance of Self-Identity:**\nThe question of self-identity also becomes relevant when discussing the issue of whether an organism can create a distinct copy of itself that is independent of its parent. This question has significant implications for questions of consciousness, memory, and the ethics of cloning and genetic engineering.\n**Conclusion:**\nThe topic of exact copy mechanisms in organisms is a fascinating and complex one that continues to challenge our understanding of life. While the idea of perfect replication is intriguing, it's important to acknowledge the role of random variation and the dynamic nature of development in producing unique offspring",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which concept plays a crucial role in understanding how organisms can create genetic copies of themselves?",
+                "options": [
+                  "Genetic variation",
+                  "Development",
+                  "Reproduction",
+                  "Self-identity"
+                ],
+                "answer": "Genetic variation",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does random variation affect the process of reproduction?",
+                "options": [
+                  "It leads to the development of new traits and adaptations in offspring",
+                  "It leads to the deletion of genetic material",
+                  "It leads to the formation of exact copies of the parent",
+                  "It leads to the formation of identical copies of the parent"
+                ],
+                "answer": "It leads to the formation of exact copies of the parent",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which school of thought argues that a fully formed copy of an organism exists at the start of development, with all the necessary genetic information pre-programmed?",
+                "options": [
+                  "Evolutionary Biology",
+                  "Developmental Biology",
+                  "Neurobiology",
+                  "Physiology"
+                ],
+                "answer": "Developmental Biology",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the significance of self-identity when discussing the issue of whether an organism can create a distinct copy of itself that is independent of its parent?",
+                "options": [
+                  "It is a question that has significant implications for questions of consciousness and memory",
+                  "It is a question that has significant implications for questions of cloning and genetic engineering",
+                  "It is a question that has significant implications for questions of the morality of cloning and genetic engineering",
+                  "It is a question that has significant implications for questions of the origins of life"
+                ],
+                "answer": "It is a question that has significant implications for questions of consciousness and memory",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the question of perfect replication challenge our understanding of life?",
+                "options": [
+                  "It challenges our understanding of what it means to be a living organism",
+                  "It challenges our understanding of how organisms can create genetic copies of themselves",
+                  "It challenges our understanding of how development and reproduction occur",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Modes of Reproduction Used by Single Organisms",
@@ -6744,12 +7297,124 @@
           {
             "topic": "Reproduction in Human Beings",
             "definition": "Reproduction in human beings is the process by which an organism produces offspring genetically similar to itself. It involves two main stages: gametogenesis and fertilization.\nDuring gametogenesis, reproductive cells, known as gametes, are produced. Gametes are sex cells in humans, which are sperm for males and eggs for females. Gametogenesis occurs in the testes for males and the ovaries for females.\nFertilization occurs when a sperm and an egg come together and combine their genetic material. This process occurs in the fallopian tube during sexual intercourse. The fertilized egg then implants itself into the lining of the uterus, where it grows and develops into an embryo.\nThe reproductive process in human beings is complex and regulated to ensure that offspring receive the correct genetic material from both parents. It involves various hormones and signaling pathways that control the growth, development, and reproduction of new individuals",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "During what stage of the reproductive process do reproductive cells, known as gametes, are produced?",
+                "options": [
+                  "Gametogenesis",
+                  "Fertilization",
+                  "Implantation",
+                  "Development"
+                ],
+                "answer": "Gametogenesis",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the primary purpose of gametogenesis?",
+                "options": [
+                  "To produce eggs and sperm",
+                  "To regulate the reproductive process",
+                  "To produce hormones that regulate development",
+                  "To provide genetic material for new individuals"
+                ],
+                "answer": "To produce eggs and sperm",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which stage of the reproductive process involves the merging of genetic material from two gametes?",
+                "options": [
+                  "Gametogenesis",
+                  "Fertilization",
+                  "Implantation",
+                  "Development"
+                ],
+                "answer": "Fertilization",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What happens after fertilization?",
+                "options": [
+                  "The fertilized egg is implanted into the lining of the uterus",
+                  "The embryo develops into a fetus",
+                  "The egg and sperm separate",
+                  "The fertilized egg is expelled from the body"
+                ],
+                "answer": "The fertilized egg is implanted into the lining of the uterus",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the function of hormones in the reproductive process?",
+                "options": [
+                  "To regulate the growth and development of the embryo",
+                  "To control the production of gametes",
+                  "To regulate the release of hormones that control the reproductive process",
+                  "To stimulate the release of hormones that control the menstrual cycle"
+                ],
+                "answer": "To regulate the growth and development of the embryo",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Male Reproductive System",
             "definition": "The Male Reproductive System is a complex and intricate system responsible for the production, storage, and delivery of sperm cells. This intricate system works to ensure the successful reproduction and fertilization of an organism. \nThe Male Reproductive System comprises various structures, including the testes, seminal vesicles, prostate gland, and penis. Each part plays a specific role in facilitating and supporting the reproductive process.\nThe testes, located on the exterior of the body, are responsible for producing sperm cells through a process called spermatogenesis. Each testes contains about 120 million sperm cells, each with a unique genetic makeup that provides the blueprint for an offspring.\nThe seminal vesicles are located on the inner surface of the testes and produce a fluid that nourishes and protects the sperm cells. This fluid also helps to transport the sperm cells to the penis during ejaculation.\nThe prostate gland is a small gland located below the bladder. It contributes fluid to the seminal vesicles and plays a role in producing a hormone called seminal vesicle fluid (SVF). SSF helps to nourish and protect the sperm cells and also plays a role in maintaining the pH of the semen.\nThe penis is a long, flexible tube that extends from the base of the bladder. It is responsible for the delivery of sperm cells into the female reproductive tract during ejaculation. The penis also serves as a site for sexual intercourse and can also be used to deposit sperm cells during sexual arousal.\nThe Male Reproductive System is a vital system for reproduction and fertilization to occur. Without this system, the production and delivery of sperm cells would not be possible, and reproduction would not occur",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the primary function of the testes in the Male Reproductive System?",
+                "options": [
+                  "Produce sperm cells",
+                  "Produce seminal fluid",
+                  "Regulate blood flow",
+                  "Control body temperature"
+                ],
+                "answer": "Produce sperm cells",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How many sperm cells are produced by each testes?",
+                "options": [
+                  "120 million",
+                  "100 million",
+                  "140 million",
+                  "160 million"
+                ],
+                "answer": "120 million",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which structure is responsible for producing a fluid that nourishes and protects the sperm cells?",
+                "options": [
+                  "Testes",
+                  "Seminal vesicles",
+                  "Prostate gland",
+                  "Penis"
+                ],
+                "answer": "Seminal vesicles",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the role of the prostate gland in the Male Reproductive System?",
+                "options": [
+                  "Secretes seminal fluid",
+                  "Produces testosterone",
+                  "Stores sperm cells",
+                  "Controls blood flow"
+                ],
+                "answer": "Secretes seminal fluid",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which structure is responsible for delivering sperm cells into the female reproductive tract during ejaculation?",
+                "options": [
+                  "Testes",
+                  "Seminal vesicles",
+                  "Penis",
+                  "Urethra"
+                ],
+                "answer": "Penis",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Female Reproductive System",
@@ -7674,7 +8339,63 @@
           {
             "topic": "Evolution should not be equated with 'Progress'",
             "definition": "## Evolution vs. Progress: A Scientific Distinction\nEvolution and progress are often discussed interchangeably, but it's crucial to understand their distinct meanings. Evolution refers to the gradual modification of a species over long periods of time, resulting in the emergence of new traits and the extinction of others. **Examples:** The evolution of the peppered moth's wings allowed it to survive and thrive in a changing environment, while the extinction of dinosaurs showcased the gradual nature of this process.\nProgress, on the other hand, refers to the continuous advancement of a society or culture, driven by innovation, technological advancements, and social transformations. **Examples:** The rapid progress of the Industrial Revolution highlights the impact of progress on human societies.\nThe key difference lies in the timeframe: evolution unfolds over millions of years, while progress happens much more rapidly, often in the blink of an eye. This difference in timeframes reflects the distinct nature of these processes. Evolution is a slow, gradual process driven by natural selection, while progress is a much more dynamic and accelerated journey marked by rapid innovation and societal development.\nIn conclusion, while evolution and progress share some similarities, it's important to recognize their fundamental differences. Evolution focuses on the ongoing changes in a species over vast stretches of time, while progress highlights the accelerated and often rapid transformations that shape societies and cultures",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which best describes the timeframe of evolution?",
+                "options": [
+                  "Millions of years",
+                  "Hundreds of years",
+                  "Centuries",
+                  "Decades"
+                ],
+                "answer": "Correct Option: Millions of years",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which concept focuses on the continuous advancement of a society or culture?",
+                "options": [
+                  "Evolution",
+                  "Progress",
+                  "Natural Selection",
+                  "Technology"
+                ],
+                "answer": "Correct Option: Progress",
+                "type": "single_correct"
+              },
+              {
+                "question": "In what timeframe does evolution unfold?",
+                "options": [
+                  "100 years",
+                  "1,000 years",
+                  "10,000 years",
+                  "100,000 years"
+                ],
+                "answer": "Correct Option: Millions of years",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which best describes an example of the gradual nature of evolution?",
+                "options": [
+                  "The extinction of dinosaurs",
+                  "The evolution of the peppered moth's wings",
+                  "The development of the internet",
+                  "The invention of the printing press"
+                ],
+                "answer": "Correct Option: The extinction of dinosaurs",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which best describes an example of the accelerated nature of progress?",
+                "options": [
+                  "The Industrial Revolution",
+                  "The discovery of penicillin",
+                  "The invention of the light bulb",
+                  "The development of artificial intelligence"
+                ],
+                "answer": "Correct Option: The Industrial Revolution",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -7980,7 +8701,63 @@
           {
             "topic": "Refraction through a Rectangular Glass Slab",
             "definition": "## Refraction through a Rectangular Glass Slab\nRefraction is the bending of a wave when it moves from one medium to another. This can cause the wave to change direction and travel at a different speed.\nImagine a ray of light entering a rectangular glass slab at an angle. The angle of incidence (the angle between the incoming ray and the normal to the slab's surface) is different from the angle of refraction (the angle between the refracted ray and the normal).\nAs the light passes through the slab, it refracts, meaning it bends away from its original direction. The amount and direction of the refraction depends on the properties of the glass, such as its thickness, density, and the speed of light in the glass.\nIn most cases, the refracted ray will travel at a speed that is greater than the speed of light in the original medium. This means that the refracted ray will travel past the normal, away from the side of the slab that the light entered from.\nThe angle of refraction can be calculated using Snell's law:\n$$\\theta_i = \\theta_r$$\n$$\\frac{1}{v_i} + \\frac{1}{v_r} = \\frac{1}{d}$$\nwhere:\n* $\\theta_i$ is the angle of incidence\n* $\\theta_r$ is the angle of refraction\n* $v_i$ is the speed of light in the original medium\n* $v_r$ is the speed of light in the new medium\n* $d$ is the distance between the incident and refracted rays\nThe refracted ray will also be bent towards the normal, away from the side of the slab that the light entered from.\nBy controlling the angle of incidence, we can control the angle of refraction and the direction of the refracted ray. This allows us to use refraction to create images on a screen, correct vision problems, and analyze the properties of different materials",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of refraction?",
+                "options": [
+                  "Refraction is the bending of a wave when it moves from one medium to another.",
+                  "Refraction is the change in direction of a wave when it enters a new medium.",
+                  "Refraction is a process that causes light to slow down when it enters a new medium.",
+                  "Refraction is the bending of a wave when it enters a medium with a higher density."
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a material affects the speed of light in that material?",
+                "options": [
+                  "Density, thickness, density, and speed of light",
+                  "Speed of light, thickness, density, and angle of incidence",
+                  "Speed of light, density, and angle of incidence",
+                  "Density, angle of incidence, and speed of light"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the angle at which the refracted ray will be bent the most?",
+                "options": [
+                  "45 degrees",
+                  "60 degrees",
+                  "30 degrees",
+                  "75 degrees"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the relationship between the angle of incidence and the angle of refraction?",
+                "options": [
+                  "They are equal",
+                  "They are inversely proportional",
+                  "They are directly proportional",
+                  "They are unrelated"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can refraction be used to create images?",
+                "options": [
+                  "By bending the light rays towards the object",
+                  "By bending the light rays away from the object",
+                  "By bending the light rays parallel to the object's surface",
+                  "By bending the light rays through a prism"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "The Refractive Index",
@@ -9003,7 +9780,72 @@
           {
             "topic": "Resistance of a System of Resistors",
             "definition": "## Resistance of a System of Resistors\n**What is resistance?**\nResistance is a measure of how much a material opposes the flow of electric current. It is expressed in ohms (Ω) and is a scalar quantity, meaning it has only magnitude and no direction.\n**How does resistance affect current flow?**\nWhen an electric current is passed through a resistor, it encounters resistance and the current flow is restricted. The amount of resistance a material offers depends on its properties, such as its length, width, and material composition.\n**Factors affecting resistance:**\n* **Length:** As the length of a conductor increases, the resistance also increases. This is because the current has a longer path to travel, resulting in greater opposition.\n* **Width:** Similarly, the width of a conductor also affects its resistance. A wider conductor allows more current to flow through it, resulting in lower resistance.\n* **Material:** The resistance of a material also depends on its material. Materials with a high electron density, such as metals, have a lower resistance compared to materials with a low electron density, such as semiconductors.\n* **Resistance in a series:** When multiple resistors are connected in a series, the total resistance is equal to the sum of the individual resistances. This is because the current flows through each resistor independently, and their resistances add up.\n* **Resistance in a parallel:** In a parallel connection, the total resistance is equal to the reciprocal of the total resistance of the individual resistors. This is because the current divides equally among the resistors, resulting in a lower overall resistance.\n**Examples:**\n* A 10-ohm resistor has a resistance of 10 Ω when connected in a series with a 1-volt battery.\n* A 2-ohm resistor has a resistance of 0.5 Ω when connected in a parallel with a 12-volt battery.\n* A 5-ohm resistor has a higher resistance of 5 Ω when connected in a series with a 220-volt battery.\n**Applications of resistance:**\n* **Electronics:** Resistors are used in various electronic circuits, such as resistors, capacitors, and inductors.\n* **Electrical engineering:** Resistance is an important parameter used to design and analyze electrical circuits.\n* **Physics:** Resistance is a fundamental concept in physics, used to explain the behavior of materials and devices",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is resistance?",
+                "options": [
+                  "Resistance is the amount of opposition to the flow of electric current.",
+                  "Resistance is a measure of how much a material allows current to flow through it.",
+                  "Resistance is a scalar quantity."
+                ],
+                "answer": "Correct Answer: Resistance is the amount of opposition to the flow of electric current.",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does resistance affect current flow?",
+                "options": [
+                  "The current flow is increased.",
+                  "The current flow is unchanged.",
+                  "The current flow is decreased."
+                ],
+                "answer": "Correct Answer: The current flow is decreased.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which factor affects the resistance of a material?",
+                "options": [
+                  "Length",
+                  "Width",
+                  "Material",
+                  "All of the above"
+                ],
+                "answer": "Correct Answer: Material",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the total resistance in a series when multiple resistors are connected?",
+                "options": [
+                  "The total resistance is equal to the sum of the individual resistances.",
+                  "The total resistance is equal to the reciprocal of the total resistance of the individual resistors.",
+                  "The total resistance is equal to the product of the individual resistances.",
+                  "The total resistance is equal to the difference between the individual resistances."
+                ],
+                "answer": "Correct Answer: The total resistance is equal to the sum of the individual resistances.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the total resistance in a parallel when multiple resistors are connected?",
+                "options": [
+                  "The total resistance is equal to the reciprocal of the total resistance of the individual resistors.",
+                  "The total resistance is equal to the product of the individual resistances.",
+                  "The total resistance is equal to the sum of the individual resistances.",
+                  "The total resistance is equal to the difference between the individual resistances."
+                ],
+                "answer": "Correct Answer: The total resistance is equal to the reciprocal of the total resistance of the individual resistors.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What are some applications of resistance in electronics?",
+                "options": [
+                  "Amplifiers",
+                  "Filters",
+                  "Transistors",
+                  "All of the above"
+                ],
+                "answer": "Correct Answer: All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Resistors in Series",
@@ -10155,7 +10997,56 @@
           {
             "topic": "How long will an Energy Source Last?",
             "definition": "## How Long Will an Energy Source Last?\nAn **energy source's lifespan** refers to how long it can be used to produce the required energy to perform a specific task or provide a specific service. This includes all the processes involved in generating and distributing the energy, from raw material extraction to energy conversion and distribution.\n**Factors influencing lifespan:**\n* **Energy type:** Different energy sources have different lifespans based on their physical properties and conversion processes. For example, fossil fuels like coal and oil have a shorter lifespan than renewable sources like solar and wind power.\n* **Usage patterns:** The amount and type of energy used per unit of time significantly affect the lifespan of the source. For instance, nuclear power sources generally have a longer lifespan than coal-fired power plants due to their efficient energy generation.\n* **Maintenance and replacement:** Regular maintenance and replacement of equipment used in energy production and distribution are crucial for maintaining efficiency and lifespan.\n* **Environmental impact:** The environmental impact of an energy source can also influence its lifespan. For example, hydroelectric power sources can have a lower environmental impact than coal-fired power plants due to their lower greenhouse gas emissions.\n**Measuring lifespan:**\nThe lifespan of an energy source can be measured in various ways, depending on the context:\n* **Useful life:** This refers to the total time the energy source can be used for a specific purpose before it requires replacement or maintenance.\n* **Economic life:** This measures the time at which the energy source becomes uneconomical to produce compared to other alternatives.\n* **Environmental life:** This assesses the amount of pollution produced or saved by switching to a particular energy source.\n**Importance of lifespan:**\nUnderstanding an energy source's lifespan is crucial for several reasons:\n* **Planning and policy:** It helps us plan and develop new energy sources to replace existing ones with longer lifespans.\n* **Sustainability:** It provides insights into the environmental impact of different energy sources and helps us make informed choices for the future.\n* **Cost-effectiveness:** By understanding the lifespan of various energy sources, we can compare their costs and choose the most cost-effective option for a specific application.\nBy studying the factors influencing lifespan and measuring it effectively, we can make informed choices about energy sources and contribute to a sustainable future",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the main factor that influences the lifespan of an energy source?",
+                "options": [
+                  "Energy type",
+                  "Usage patterns",
+                  "Environmental impact"
+                ],
+                "answer": "Correct Option: Energy type",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which factor is not considered when measuring the lifespan of an energy source?",
+                "options": [
+                  "Useful life",
+                  "Economic life",
+                  "Environmental life"
+                ],
+                "answer": "Correct Option: Useful life",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which unit is typically used to measure the lifespan of an energy source?",
+                "options": [
+                  "Years",
+                  "Months",
+                  "Days"
+                ],
+                "answer": "Correct Option: Years",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main reason behind the shorter lifespan of fossil fuels compared to renewable sources?",
+                "options": [
+                  "Incorrect answer: Fossil fuels have a longer lifespan due to their abundance."
+                ],
+                "answer": "Correct Option: Fossil fuels have a shorter lifespan due to their physical properties and conversion processes.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which factor is crucial for maximizing the lifespan of an energy source?",
+                "options": [
+                  "Maintenance and replacement",
+                  "Environmental impact",
+                  "Cost-effectiveness"
+                ],
+                "answer": "Correct Option: Maintenance and replacement",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -10221,7 +11112,63 @@
           {
             "topic": "Food Chains and Webs",
             "definition": "## Food Chains and Webs: A Structured Tapestry\nFood chains and webs are intricate networks that intricately woven together the entire food web. These intricate ecosystems serve as ecological bridges, allowing different species to interact and thrive in a balanced and dynamic ecosystem.\n**A Hierarchical Tapestry:**\n- A food chain begins with **primary producers**, organisms that convert sunlight into energy through photosynthesis. Plants are primary producers, and some animals, like herbivores, feed on plants.\n- **Secondary consumers** are herbivores that feed on plants. They are eaten by carnivores, which are animals that feed on other animals.\n- **Tertiary consumers** are carnivores that feed on other carnivores.\n- Each level of this hierarchy occupies a specific trophic position, with each trophic level consisting of progressively larger and more complex organisms.\n**A Colorful Web:**\n- Food webs are characterized by specialization and interconnectedness. Each species in the ecosystem plays a specific role in the food chain, having a unique set of adaptations for feeding and survival.\n- This specialization leads to specialization in feeding habits and ecological niches.\n- These intricate interactions create diverse food webs, fostering ecological balance and stability.\n**Examples:**\n- **Prairie ecosystem:** Grass, insects, birds, foxes, and coyotes are all interconnected in this food chain. Grass serves as a primary producer, insects are eaten by birds, birds are eaten by foxes, and foxes are eaten by coyotes.\n- **Ocean ecosystem:** Corals, plankton, zooplankton, fish, sharks, and whales form a complex food web. Corals build reefs that provide shelter and breeding grounds for fish, while fish are eaten by sharks and other predators.\n**Importance of Food Chains and Webs:**\n- Food chains and webs are essential for maintaining ecological balance and diversity.\n- They help regulate populations of various species, preventing any one species from becoming overpopulated and disrupting the ecosystem's stability.\n- By understanding food chains and webs, we can better predict and manage ecosystem changes, such as pollution or climate change.\n**Conclusion:**\nFood chains and webs are fascinating ecosystems where species interact in intricate and interconnected ways. This intricate tapestry of life showcases the remarkable complexity and resilience of nature, reminding us of the intricate relationships that sustain life on Earth",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which level of the food chain occupies a specific trophic position?",
+                "options": [
+                  "Primary producers",
+                  "Secondary consumers",
+                  "Tertiary consumers",
+                  "Producers"
+                ],
+                "answer": "Primary producers",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which characteristic of food webs leads to specialization?",
+                "options": [
+                  "Interconnectedness",
+                  "Complexity",
+                  "Redundancy",
+                  "None"
+                ],
+                "answer": "Interconnectedness",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following best illustrates a food chain?",
+                "options": [
+                  "A hierarchical tapestry",
+                  "A colorful web",
+                  "A network of interacting animals",
+                  "A cycle of nutrients"
+                ],
+                "answer": "A hierarchical tapestry",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following best describes the importance of food chains and webs?",
+                "options": [
+                  "Maintaining ecological balance and diversity",
+                  "Preventing overpopulation of species",
+                  "Controlling the spread of diseases",
+                  "None"
+                ],
+                "answer": "Maintaining ecological balance and diversity",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which statement best describes a food web?",
+                "options": [
+                  "A network of interconnected species that interact with each other",
+                  "A hierarchical system where each species occupies a specific trophic position",
+                  "A random arrangement of organisms with no particular relationships",
+                  "A single species that controls the entire food chain"
+                ],
+                "answer": "A network of interconnected species that interact with each other",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "How do our Activities Affect the Environment?",
@@ -10669,7 +11616,63 @@
           {
             "topic": "The French Revolution and the Idea of the Nation",
             "definition": "## The French Revolution and the Idea of the Nation\nThe French Revolution, a pivotal historical event in the 18th century, laid the groundwork for the modern concept of the nation. Before this era, the political and economic power structures in Europe were often fragmented, with diverse groups of people holding varying interests.\nThe French Revolution challenged this fragmented system by establishing a **centralized government** focused on the common good. This government promoted **universal suffrage** and **popular sovereignty**, empowering citizens to participate in the political process. This notion of **shared identity** and **collective decision-making** became a cornerstone of the modern nation-state.\nOne of the most crucial aspects of the French Revolution was the **emancipation of the individual**. This revolutionary movement abolished slavery and forced the monarchy to recognize the **rights of citizens**, including their freedom of movement and speech. This principle of **human rights** significantly influenced the development of national identity, as it established a foundation for collective self-determination and political representation.\nThe idea of the **nation** emerged as a natural consequence of the revolutionary spirit. It represented a group of people who shared a common language, culture, history, and aspirations. This shared identity fostered a sense of belonging and **collective identity**. The French Revolution established the concept of the nation as a **superpower** with the capacity to act on the global stage, setting a precedent for future national movements",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which historical event laid the groundwork for the modern concept of the nation?",
+                "options": [
+                  "The American Revolution",
+                  "The French Revolution",
+                  "The Napoleonic Wars",
+                  "The Russian Empire"
+                ],
+                "answer": "The French Revolution",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was a key principle of the French Revolution?",
+                "options": [
+                  "Universal suffrage",
+                  "Popular sovereignty",
+                  "Capitalism",
+                  "Individualism"
+                ],
+                "answer": "Universal suffrage",
+                "type": "single_correct"
+              },
+              {
+                "question": "Who was the central figure responsible for establishing the French Revolution?",
+                "options": [
+                  "Marie Antoinette",
+                  "Thomas Paine",
+                  "Napoleon Bonaparte",
+                  "Louis XVI"
+                ],
+                "answer": "Napoleon Bonaparte",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was a significant outcome of the French Revolution?",
+                "options": [
+                  "Abolition of slavery",
+                  "Establishment of a centralized government",
+                  "Universal suffrage for women",
+                  "All of the above"
+                ],
+                "answer": "Abolition of slavery",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which concept emerged as a natural consequence of the revolutionary spirit?",
+                "options": [
+                  "The idea of the nation",
+                  "The concept of the republic",
+                  "The idea of democracy",
+                  "The idea of human rights"
+                ],
+                "answer": "The idea of the nation",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "The Making of Nationalism in Europe",
@@ -10796,7 +11799,63 @@
           {
             "topic": "The Making of Germany and Italy",
             "definition": "## The Making of Germany and Italy\nThe unification of Germany and Italy under a single national identity, known as **Nationalism**, was a complex and multifaceted process that spanned several decades and multiple historical contexts.\n**Factors Contributing to Nationalistic Sentiment:**\n* **Economic Integration:** Trade barriers and shared economic interests between the two nations facilitated a sense of shared identity and economic interdependence.\n* **Cultural Intertwinedness:** Language, art, literature, and religious practices were highly influential in shaping both cultures, leading to a deep emotional bond.\n* **Demographic Integration:** Both countries shared a significant population overlap, creating a natural sense of belonging and shared cultural heritage.\n* **Political Dissatisfaction:** Unequal political representation and limited democratic participation in the late 19th and early 20th centuries fueled nationalist sentiments.\n**The Rise of Nationalism:**\n* **German Empire:** The unification of Germany under the Hohenzollern dynasty consolidated the nation's political and economic power.\n* **Italian Kingdom:** The unification of Italy under Victor Emmanuel II established a unified Italy with a shared language, culture, and political system.\n* **The Rise of Italian Unification:** Italian nationalists actively promoted a common Italian identity, culminating in the creation of the Italian Republic in 1945.\n**Consequences of Unification:**\n* **Political Integration:** Germany and Italy established the Federal Republic of Germany (1949) and the Italian Republic (1945), respectively.\n* **Economic Integration:** A strong economic union, known as the Eurozone, was formed in 1999, further cementing the economic interdependence between the two countries.\n* **Cultural Exchange:** The unification led to a significant cultural exchange, including the integration of Italian and German cultural institutions and literature into the German and Austrian cultural landscapes.\n**The Legacy of Nationalism:**\n* **Nationalism continues to play a crucial role in shaping Germany and Italy's political and social identity.**\n* **The European experience of unification and the consequences of cultural fusion have shaped modern-day political discourse and international relations.**\n**Additional Points:**\n* The process of German and Italian unification was not without its challenges, including political opposition, resistance from minorities, and economic disparities that needed to be addressed.\n* The legacy of nationalistic sentiments and the challenges faced in achieving unity continue to be debated and studied by historians",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which continent was most affected by the rise of nationalism in Europe?",
+                "options": [
+                  "North America",
+                  "Asia",
+                  "Europe",
+                  "South America"
+                ],
+                "answer": "Europe",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was the driving force behind the unification of Germany and Italy?",
+                "options": [
+                  "Economic Integration",
+                  "Political Dissatisfaction",
+                  "Religious Affiliation",
+                  "Cultural Exchange"
+                ],
+                "answer": "Economic Integration",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which country played a pivotal role in the unification of Italy?",
+                "options": [
+                  "Austria",
+                  "France",
+                  "Germany",
+                  "Britain"
+                ],
+                "answer": "Germany",
+                "type": "single_correct"
+              },
+              {
+                "question": "What were the consequences of the unification of Germany and Italy?",
+                "options": [
+                  "Economic Growth",
+                  "Political Integration",
+                  "Cultural Fusion",
+                  "Military Occupation"
+                ],
+                "answer": "Economic Integration",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How did the legacy of nationalism continue to shape Germany and Italy's political and social identity?",
+                "options": [
+                  "Positive and Inspiring",
+                  "Negative and Bitter",
+                  "Neutral and Unimportant",
+                  "Positive but Unequal"
+                ],
+                "answer": "Positive and Inspiring",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Visualising the Nation",
@@ -11485,7 +12544,63 @@
           {
             "topic": "Hand Labour and Steam Power",
             "definition": "## Hand Labour and Steam Power: A Tale of Two Industries\n**The Age of Industrialisation** saw the rise of powerful new forces: machines and industrial systems. While the rise of machinery ushered in an era of unprecedented production and efficiency, it also exposed the precarious existence of **hand labour**, a sector that relied heavily on the skilled application of physical force.\n**Hand labour** comprised various jobs, from heavy manual labour in factories and mines to operating machinery and performing intricate tasks in workshops and on farms. Workers who performed these tasks were not only physically demanding but also highly skilled, requiring expertise in specific skills like carpentry, engineering, blacksmithing, and tailoring.\n**Steam power** emerged as a transformative force, gradually replacing human muscle power with the efficiency of internal combustion engines. Steam engines, powered by steam, replaced human workers in various industries, leading to a significant decline in hand labour in manufacturing and production.\n**This transition had profound social and economic consequences.** While some workers were displaced, others found themselves employed in new industries like engineering, manufacturing, and transportation. This shift not only impacted the lives of individuals but also shaped the social landscape of societies, leading to urbanization, population shifts, and the development of new social classes.\n**The story of hand labour and steam power serves as a reminder of the complex interplay between technology, society, and the human workforce.** While automation and mechanization displaced physical labourers, they also created new opportunities for skilled professionals in diverse fields. This complex historical episode underscores the interconnectedness of technological advancements with the social and economic fabric of societies",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What was the primary sector responsible for the majority of hand labour jobs in the Industrial Age?",
+                "options": [
+                  "Manufacturing",
+                  "Agriculture",
+                  "Mining",
+                  "Construction"
+                ],
+                "answer": "Manufacturing",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was the impact of steam power on hand labour?",
+                "options": [
+                  "Increased demand for skilled labour",
+                  "Reduced demand for skilled labour",
+                  "No significant impact",
+                  "Increased demand for general workers"
+                ],
+                "answer": "Increased demand for skilled labour",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which industry was most heavily impacted by the transition from hand labour to steam power?",
+                "options": [
+                  "Manufacturing",
+                  "Agriculture",
+                  "Construction",
+                  "Transportation"
+                ],
+                "answer": "Manufacturing",
+                "type": "single_correct"
+              },
+              {
+                "question": "What were the social and economic consequences of the transition from hand labour to steam power?",
+                "options": [
+                  "Increased unemployment and poverty",
+                  "Increased urbanization and population growth",
+                  "Improved working conditions and safety",
+                  "None of the above"
+                ],
+                "answer": "Increased unemployment and poverty",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was the legacy of hand labour and steam power?",
+                "options": [
+                  "The development of new technologies and industries",
+                  "The rise of the middle class",
+                  "The decline of traditional social structures",
+                  "The transition to a service-based economy"
+                ],
+                "answer": "The decline of traditional social structures",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Industrialisation in the Colonies",
@@ -14271,7 +15386,63 @@
           {
             "topic": "Non-Conventional Sources of Energy",
             "definition": "## Non-Conventional Sources of Energy\nNon-conventional sources of energy refer to those resources and methods that are not commonly used or exploited in conventional energy production processes. These sources often involve alternative energy technologies, renewable energy sources, and decentralized energy solutions.\n**Key characteristics of non-conventional sources of energy:**\n* **Lower Energy Density:** They often have lower energy densities compared to conventional sources like coal and natural gas. \n* **Variability:** Their output is influenced by external factors like weather, temperature, and geographical location.\n* **Environmental Impact:** Some non-conventional sources, like geothermal energy and hydropower, can have a greater environmental impact compared to conventional sources.\n**Examples of non-conventional sources of energy:**\n* **Solar Energy:** Collection and conversion of sunlight into electricity through photovoltaic panels.\n* **Wind Energy:** Harnessing kinetic energy from wind to generate electricity.\n* **Hydropower:** Capturing and generating electricity from flowing water.\n* **Biomass Energy:** Burning organic matter to generate electricity or heat.\n* **Geothermal Energy:** Harnessing heat from the Earth's core to generate electricity or heating.\n* **Tidal Energy:** Generating electricity from the rising and falling of tides in coastal areas.\n* **Wave Energy:** Capturing energy from waves using tidal turbines or other technologies.\n* **Biofuels:** Using organic matter or waste materials to generate fuels for transportation.\n**Benefits and Challenges of Non-Conventional Sources of Energy:**\n* **Benefits:**\n* Can reduce dependence on fossil fuels, leading to reduced greenhouse gas emissions.\n* Can create new jobs and economic opportunities.\n* Offer alternative energy sources to address energy security concerns.\n* Can contribute to sustainable development and environmental conservation.\n* **Challenges:**\n* Initial investment costs can be high, especially for renewable technologies.\n* Infrastructure development and transmission can be complex and costly.\n* Data collection and forecasting of energy output can be challenging.\n* Environmental impacts of some non-conventional sources may need careful consideration.\n**Impacts of Non-Conventional Energy on India:**\n* India has substantial potential for renewable energy resources, with vast solar, wind, and hydro resources.\n* The country is already a significant player in wind energy and solar energy, with ambitious renewable energy targets.\n* However, challenges remain in terms of infrastructure development, storage, and grid integration.\n* Investing in research and development can help unlock the potential of non-conventional energy sources in India",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which among the following is not an example of a non-conventional source of energy?",
+                "options": [
+                  "Solar energy",
+                  "Wind energy",
+                  "Hydropower",
+                  "Biomass energy"
+                ],
+                "answer": "Biomass energy",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main benefit of using non-conventional sources of energy?",
+                "options": [
+                  "Reduced greenhouse gas emissions",
+                  "Increased job creation",
+                  "Improved energy security",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which non-conventional source of energy has the highest energy density?",
+                "options": [
+                  "Solar energy",
+                  "Wind energy",
+                  "Hydropower",
+                  "Geothermal energy"
+                ],
+                "answer": "Geothermal energy",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which factor can influence the output of non-conventional sources of energy?",
+                "options": [
+                  "Weather conditions",
+                  "Geographical location",
+                  "Both A and B",
+                  "None"
+                ],
+                "answer": "Both A and B",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which non-conventional source of energy can be considered a clean and sustainable option in India?",
+                "options": [
+                  "Solar energy",
+                  "Wind energy",
+                  "Hydropower",
+                  "Biomass energy"
+                ],
+                "answer": "Solar energy",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Conservation of Energy Resources",
@@ -14462,7 +15633,63 @@
           {
             "topic": "Industrial Location",
             "definition": "## Industrial Location\nAn **industrial location** is a specific geographical area where a manufacturing or industrial facility is situated. It encompasses various factors that contribute to the location's suitability for industrial activities, including:\n* **Natural resources:** Availability of raw materials, water, and other resources required for production.\n* **Infrastructure:** Availability of transportation networks, electricity, water supply, and other infrastructure necessary for efficient production and transportation.\n* **Market access:** Accessibility to a large and diverse customer base, both domestically and internationally.\n* **Demographic factors:** Availability of skilled and semi-skilled labor, a skilled workforce, and a readily available workforce.\n* **Political and legal environment:** Favorable government policies and regulations that promote industry development and protect investments.\n* **Accessibility to markets and distribution networks:** Efficient access to major markets and efficient distribution channels for products.\n* **Social amenities:** Availability of housing, healthcare facilities, schools, and other amenities that attract employees and support the workforce.\n* **Technological infrastructure:** Access to the latest technological advancements and infrastructure for production and research.\n* **Cultural and social factors:** Availability of a skilled workforce, a conducive cultural environment, and a supportive community.\nThe location of an industrial facility can significantly impact its success. It directly influences the cost of production, the quality of goods, and the overall economic activity of the region.\n**Examples:**\n* **Mumbai** is an industrial hub in India due to its access to natural resources, infrastructure, and a skilled workforce, making it a favorable location for manufacturing and IT companies.\n* **Chennai** is a major center for automotive manufacturing in India, benefiting from its access to raw materials, skilled labor, and a well-developed infrastructure.\n* **Indore** in central India is known for its textile industry, benefiting from its abundant water resources, skilled workforce, and political stability.\nIndustrial location is a complex and multifaceted concept that requires careful consideration by investors and policymakers alike. It plays a crucial role in shaping the economic development of a region and the prosperity of its citizens",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which city is an industrial hub in India due to its access to natural resources, infrastructure, and a skilled workforce?",
+                "options": [
+                  "Mumbai",
+                  "Chennai",
+                  "Indore",
+                  "Delhi"
+                ],
+                "answer": "Mumbai",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which region is known for its textile industry due to its abundant water resources, skilled workforce, and political stability?",
+                "options": [
+                  "Mumbai",
+                  "Chennai",
+                  "Indore",
+                  "Kolkata"
+                ],
+                "answer": "Indore",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which city is a major center for automotive manufacturing in India due to its access to raw materials, skilled labor, and a well-developed infrastructure?",
+                "options": [
+                  "Mumbai",
+                  "Chennai",
+                  "Indore",
+                  "Delhi"
+                ],
+                "answer": "Chennai",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which location is known for its potential to become an industrial hub due to its availability of natural resources, infrastructure, and a skilled workforce?",
+                "options": [
+                  "Mumbai",
+                  "Chennai",
+                  "Indore",
+                  "Kolkata"
+                ],
+                "answer": "Mumbai",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which region is known for its technological infrastructure, cultural and social factors, and easy accessibility to major markets and distribution networks?",
+                "options": [
+                  "Mumbai",
+                  "Chennai",
+                  "Indore",
+                  "Kolkata"
+                ],
+                "answer": "Indore",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Classification of Industries",
@@ -18744,7 +19971,63 @@
           {
             "topic": "World Trade Organisation",
             "definition": "**World Trade Organisation**\nThe World Trade Organisation (WTO) is an intergovernmental organisation that regulates international trade, aiming to achieve greater trade stability, open markets, and higher living standards for all member countries. Established in 1995, the WTO has grown to encompass 169 member states, which collectively represent a significant portion of the global population and economy.\nThe WTO's main objectives include:\n* **Promoting Free Trade:** The WTO encourages member states to eliminate trade barriers, reduce tariffs and quotas, and implement open trade policies. This promotes investment, facilitates the movement of goods and services across borders, and boosts economic growth.\n* **Enhancing Market Access:** The WTO facilitates trade agreements and negotiations between member states, allowing them to access each other's markets and expand their reach. This boosts trade volumes and contributes to economic integration.\n* **Encouraging Government Intervention:** The WTO also encourages member states to participate in various trade-related agreements that aim to address domestic policies, protect intellectual property, and promote sustainable development.\n* **Dispelling Trade Barriers:** The WTO provides a platform for resolving trade disputes between member states. This ensures transparency and predictability in trade relations, fostering confidence and reducing trade barriers.\n**Examples:**\n* The WTO's General Agreement on Tariffs and Trade (GATT) established a single, uniform system of tariffs and trade rules for participating member states. This aims to simplify trade processes and promote growth.\n* The WTO has also negotiated numerous free trade agreements, such as the North American Free Trade Agreement (NAFTA) and the European Union (EU) Single Market, which have further liberalized trade between member states.\nIn conclusion, the World Trade Organisation is a significant international body that plays a crucial role in shaping the global economy. Through its comprehensive framework and negotiations, the WTO promotes free trade, enhances market access, and encourages cooperation among member states to achieve economic growth and development on a global scale",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the main objective of the WTO?",
+                "options": [
+                  "Promoting Free Trade",
+                  "Enhancing Market Access",
+                  "Encouraging Government Intervention",
+                  "Dispelling Trade Barriers"
+                ],
+                "answer": "Promoting Free Trade",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which agreement established a single, uniform system of tariffs and trade rules for participating member states?",
+                "options": [
+                  "GATT",
+                  "NAFTA",
+                  "EU Single Market",
+                  "World Bank"
+                ],
+                "answer": "GATT",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the WTO's primary role in shaping the global economy?",
+                "options": [
+                  "Promoting sustainable development",
+                  "Dispelling trade barriers",
+                  "Encouraging investment",
+                  "Facilitating the movement of goods and services"
+                ],
+                "answer": "Promoting free trade",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which is an example of a free trade agreement negotiated by the WTO?",
+                "options": [
+                  "North American Free Trade Agreement (NAFTA)",
+                  "European Union (EU) Single Market",
+                  "GATT",
+                  "World Bank"
+                ],
+                "answer": "North American Free Trade Agreement (NAFTA)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the WTO's impact on the global economy?",
+                "options": [
+                  "It promotes economic growth and development",
+                  "It leads to increased trade barriers",
+                  "It increases political instability",
+                  "It promotes sustainable development"
+                ],
+                "answer": "It promotes economic growth and development",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Impact of Globalisation in India",
@@ -19118,7 +20401,53 @@
           {
             "topic": "When Choice is Denied",
             "definition": "## When Choice is Denied: A Right to Choose in Economic Development\nChoice is the cornerstone of a thriving economy. It allows individuals to express their preferences and participate in shaping how goods and services are produced. However, when individuals lack the ability to make these choices due to external factors, such as lack of access to resources or information, they are deprived of their right to choose. This situation can hinder their participation in economic activities and limit their access to essential goods and services, ultimately hindering their development and well-being.\n**Understanding Choice in Economics:**\nChoice is a fundamental principle of economic theory. It refers to the ability of an individual or group to select among available alternatives. In an economic context, this choice involves individuals' ability to purchase goods and services, invest their savings, or choose a particular career path.\n**Barriers to Choice:**\nObstacles to choice can manifest in various forms, including:\n* **Lack of access to information:** Individuals may be unable to access accurate and relevant information about available products, services, or investment opportunities. This can limit their ability to make informed choices.\n* **Limited economic resources:** Individuals may have limited access to capital, credit, or savings to invest in desired goods or services.\n* **Discrimination:** Individuals from disadvantaged backgrounds may face barriers like limited access to quality education and healthcare, further hindering their choices.\n* **Complex decision-making processes:** Complex choices involving multiple factors can be overwhelming and difficult to navigate, reducing choice opportunities.\n**Consequences of Denied Choice:**\nThe denial of choice can have significant consequences for individuals and the economy as a whole:\n* **Reduced economic participation:** Individuals deprived of choice may have fewer opportunities to participate in the workforce, contribute to tax revenue, and enjoy other economic benefits.\n* **Limited access to essential goods and services:** Individuals may struggle to afford basic necessities such as housing, healthcare, education, and transportation.\n* **Reduced innovation:** Limited choices can discourage individuals from exploring new products, services, and ideas, hindering economic growth and innovation.\n* **Unfair outcomes:** The denial of choice can perpetuate social inequality and limit access to essential resources, perpetuating existing economic disparities.\n**Conclusion:**\nChoice is a fundamental pillar of economic development. However, when individuals are deprived of this right due to external barriers, they are prevented from fully participating in the economic process. This can have detrimental consequences for both the individual and the economy as a whole. Therefore, ensuring access to information, resources, and fair economic policies is crucial for promoting choice and empowering individuals to contribute to a thriving society",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Question text",
+                "options": [
+                  "**Option 1**",
+                  "**Option 2**",
+                  "**Option 3**",
+                  "**Option 4**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question text",
+                "options": [
+                  "**Access to information**",
+                  "**Economic resources**",
+                  "**Discrimination**",
+                  "**Complex decision-making processes**"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question text",
+                "options": "**Correct Option**",
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question text",
+                "options": "**Reduced economic participation**",
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question text",
+                "options": [
+                  "**Reduced access to essential goods and services**",
+                  "**Unfair outcomes**",
+                  "**Both A and B**",
+                  "**Neither A nor B**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Where should Consumers go to get Justice?",
@@ -19350,7 +20679,63 @@
           {
             "topic": "Nelson Mandela: Long Walk to Freedom",
             "definition": "## The Long Walk to Freedom: A Journey of Transformation\nNelson Mandela's autobiography, \"Long Walk to Freedom,\" chronicles his extraordinary journey from apartheid prisoner to a democratic leader. Born into a life of hardship and injustice, he faced constant discrimination and segregation. However, through sheer determination and unwavering resilience, he found a path to freedom.\nMandela's autobiography sheds light on his early life, shaped by both the hardships of apartheid and the rich cultural heritage of South Africa. We learn about his unwavering commitment to education, his dedication to political activism, and his unwavering hope for a better future.\nThe book vividly portrays the horrors of apartheid, including segregation, forced removals, and the brutal treatment of political opponents. Mandela's personal narrative serves as a poignant reminder of the human cost of intolerance and the unwavering pursuit of justice.\nThe book also reveals Mandela's remarkable transformation into a champion of democracy. He narrates his transition from an isolated prisoner to a vocal advocate for human rights and equality. We witness his tireless efforts to dismantle apartheid and build a society where all are free and equal.\nMandela's autobiography is not just a story of escape; it's a testament to the power of the human spirit to overcome adversity and achieve freedom. His autobiography serves as a reminder of the enduring fight for justice and the boundless potential of the human heart to break free from oppression",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "In what year was Nelson Mandela born?",
+                "options": [
+                  "1918",
+                  "1920",
+                  "1922",
+                  "1924"
+                ],
+                "answer": "1922",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was Nelson Mandela's early home life like?",
+                "options": [
+                  "Rich and comfortable",
+                  "Poor and disadvantaged",
+                  "Unknown",
+                  "Information not provided"
+                ],
+                "answer": "Poor and disadvantaged",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which historical event deeply shaped Nelson Mandela's perspective?",
+                "options": [
+                  "Apartheid laws",
+                  "National party conference",
+                  "Freedom struggle",
+                  "The Sharpeville massacre"
+                ],
+                "answer": "Apartheid laws",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How did Mandela find his voice as an advocate for human rights?",
+                "options": [
+                  "Through writing",
+                  "Through music",
+                  "Through political activism",
+                  "Through educational work"
+                ],
+                "answer": "Through political activism",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was Nelson Mandela's biggest accomplishment as a leader?",
+                "options": [
+                  "Establishing a democratic South Africa",
+                  "Demanding the release of political prisoners",
+                  "Building a strong resistance network",
+                  "Achieving freedom for all South Africans"
+                ],
+                "answer": "Establishing a democratic South Africa",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Two Stories about Flying",
@@ -20002,7 +21387,56 @@
           {
             "topic": "A Tiger in the Zoo",
             "definition": "**A Tiger in the Zoo**\nImagine a majestic tiger, with a powerful frame and a fierce gaze, caged in a zoo. The zookeeper, with a compassionate heart but a firm demeanor, faces a difficult decision: whether to let the tiger escape or maintain its safety within the zoo walls.\nThe tiger, a creature of instinct and an undeniable desire for freedom, has a natural instinct to roam and explore beyond the confines of its enclosure. The zookeeper must consider the tiger's well-being and the safety of the visitors who marvel at it.\nThe poem invites us to reflect on the complexities of captivity and the delicate balance between freedom and safety. It raises questions about the ethics of keeping an animal in a confined space, the potential consequences of such an act, and the challenges faced by those responsible for ensuring the well-being of captive creatures.\nThe poem reminds us that even in a place where humans have created a world of wonder, animals retain their inherent freedom and a sense of belonging. It is a poignant reminder of the beauty and fragility of life, and the responsibility we have to protect and cherish all living beings, regardless of their species or captivity",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Imagine a majestic tiger, with a powerful frame and a fierce gaze, caged in a zoo. The zookeeper, with a compassionate heart but a firm demeanor, faces a difficult decision: whether to let the tiger escape or maintain its safety within the zoo walls.",
+                "options": [
+                  "Let the tiger escape",
+                  "Keep the tiger in its enclosure",
+                  "Both A and B"
+                ],
+                "answer": "Let the tiger escape",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "The poem invites us to reflect on the complexities of captivity and the delicate balance between freedom and safety. It raises questions about the ethics of keeping an animal in a confined space, the potential consequences of such an act, and the challenges faced by those responsible for ensuring the well-being of captive creatures. What is the significance of the tiger's natural instinct to roam and explore beyond the confines of its enclosure?",
+                "options": [
+                  "It is a reminder of the beauty and fragility of life",
+                  "It is a reminder of the ethical responsibility we have to protect and cherish all living beings",
+                  "It is a reminder of the challenges faced by those responsible for ensuring the well-being of captive creatures"
+                ],
+                "answer": "It is a reminder of the ethical responsibility we have to protect and cherish all living beings",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main theme of the poem?",
+                "options": [
+                  "The beauty and fragility of life"
+                ],
+                "answer": "The main theme of the poem is the beauty and fragility of life",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which word best describes the zookeeper's tone in the poem?",
+                "options": [
+                  "Compassionate",
+                  "Stern",
+                  "Optimistic"
+                ],
+                "answer": "Compassionate",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main conflict depicted in the poem?",
+                "options": [
+                  "The conflict between freedom and safety",
+                  "The conflict between humans and nature",
+                  "The conflict between the zookeeper and the tiger"
+                ],
+                "answer": "The conflict between the zookeeper and the tiger",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "How to Tell Wild Animals",
@@ -21972,12 +23406,124 @@
           {
             "topic": "Manviya Karuna Ki Divya Chamak",
             "definition": "## Manviya Karuna Ki Divya Chamak\nManviya Karuna Ki Divya Chamak is a profound story from the Indian epic Mahabharata. It narrates the journey of Karuna, the wife of Bhishma, and her unwavering devotion to her husband and his cause.\n**The Story:**\nKaruna, an ardent devotee of Lord Vishnu, lives with her husband Bhishma amidst the chaos of the Kurukshetra war. Despite Bhishma's repeated attempts to dissuade her, Karuna remains steadfast in her love. Her unwavering devotion shines through her actions, including the constant care she takes of her husband and the selfless sacrifices she makes.\n**Key Points:**\n* **Unconditional love:** Karuna's love for Bhishma transcends worldly boundaries and unwavering commitment.\n* **Overcoming adversity:** Karuna's devotion becomes a testament to the power of love overcoming even the most difficult of challenges.\n* **Selfless service:** Karuna prioritizes the well-being of her husband and family above her own.\n* **Unconditional acceptance:** Karuna accepts and embraces Bhishma's flaws and imperfections, demonstrating the transformative power of love.\n**Examples:**\n* Though Bhishma is a powerful warrior, Karuna constantly attends to his physical and emotional well-being.\n* She consistently reminds him to prioritize his duties as a warrior and not be swayed by the allure of power.\n* When Bhishma feels guilty for his actions, Karuna offers unconditional support and forgiveness.\n**Importance:**\nManviya Karuna Ki Divya Chamak is a timeless story that reminds us of the enduring power of love. It teaches us the importance of unwavering devotion, selflessness, and overcoming adversity through the transformative power of love",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the primary theme of Manviya Karuna Ki Divya Chamak?",
+                "options": [
+                  "Love, devotion, and sacrifice",
+                  "War and violence",
+                  "Friendship and loyalty",
+                  "Illusionary love"
+                ],
+                "answer": "Love, devotion, and sacrifice",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How does Karuna's love for Bhishma challenge conventional notions of love?",
+                "options": [
+                  "Conventional love is fleeting and dependent on material possessions",
+                  "Conventional love is often motivated by worldly benefits",
+                  "Conventional love is conditional and easily shattered",
+                  "Conventional love is not as strong as Karuna's love"
+                ],
+                "answer": "Conventional love is often motivated by worldly benefits",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the most impactful sacrifice that Karuna makes for Bhishma?",
+                "options": [
+                  "Offering her own life",
+                  "Caring for his wounds and injuries",
+                  "Providing him with a constant supply of food",
+                  "Offering him a powerful weapon"
+                ],
+                "answer": "Offering her own life",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the central message conveyed by Manviya Karuna Ki Divya Chamak?",
+                "options": [
+                  "Love is not limited by boundaries or circumstance",
+                  "Love is a constant force that can overcome any obstacle",
+                  "Love is the most powerful weapon one can possess",
+                  "Love is the key to achieving success and happiness"
+                ],
+                "answer": "Love is not limited by boundaries or circumstance",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main significance of Manviya Karuna Ki Divya Chamak in the context of Indian mythology?",
+                "options": [
+                  "It is a story of romantic love",
+                  "It is a story of sacrifice and devotion",
+                  "It is a story of war and violence",
+                  "It is a story of family and friendship"
+                ],
+                "answer": "It is a story of sacrifice and devotion",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Ek Kahani Yah Bhi",
             "definition": "Ek kahani yahi bhi is a phrase in Hindi that means \"sometimes even though\". It is often used to express a situation where a positive outcome would still occur, despite the negative circumstances.\nEk kahani yahi bhi could be used to talk about a person who is struggling with a problem, but is still determined to find a way to overcome it. It could also be used to talk about a situation where something good will eventually happen, even though there is a lot of negative information or circumstances surrounding it.\nEk kahani yahi bhi is often used in conjunction with other phrases in Hindi, such as ek kahani mein or ek kahani ki. These phrases can be used to create a more complex and nuanced expression.\nFor example, you could say:\nEk kahani mein ladki ki raani ki taar se pyaar ki raat banati hai.\nEk kahani ki ki raani ki taar se pyaar ki raat banati hai",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which phrase in Hindi is used to express a situation where a positive outcome would still occur, despite the negative circumstances?",
+                "options": [
+                  "Ek kahani mein",
+                  "Ek kahani ki",
+                  "Ek kahani yahi bhi",
+                  "Ek kahani mein ki"
+                ],
+                "answer": "Ek kahani yahi bhi",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which phrase is often used in conjunction with Ek kahani yahi bhi?",
+                "options": [
+                  "Ek kahani mein",
+                  "Ek kahani ki",
+                  "Ek kahani yahi bhi",
+                  "Ek kahani mein ki"
+                ],
+                "answer": "Ek kahani mein ki",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which phrase is used to create a more complex and nuanced expression?",
+                "options": [
+                  "Ek kahani mein",
+                  "Ek kahani ki",
+                  "Ek kahani yahi bhi",
+                  "Ek kahani mein ki"
+                ],
+                "answer": "Ek kahani yahi bhi",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which phrase in Hindi is used to talk about a person who is struggling with a problem, but is still determined to find a way to overcome it?",
+                "options": [
+                  "Ek kahani mein",
+                  "Ek kahani ki",
+                  "Ek kahani yahi bhi",
+                  "Ek kahani mein ki"
+                ],
+                "answer": "Ek kahani mein",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which phrase is often used in conjunction with Ek kahani mein ki?",
+                "options": [
+                  "Ek kahani mein",
+                  "Ek kahani ki",
+                  "Ek kahani yahi bhi",
+                  "Ek kahani mein ki"
+                ],
+                "answer": "Ek kahani mein ki",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Stree Shiksha Ke Virodhi Kutarkon Ka Khandan",
@@ -22042,7 +23588,63 @@
           {
             "topic": "Naubatkhane Mein Ibadat",
             "definition": "## Naubatkhane Mein Ibadat: A Journey Through Dreams\nNaubatkhane Mein Ibadat is a beautiful poem by the renowned poet Chandrakant. This poetic journey takes the reader on a captivating voyage through the realm of dreams.\nThe poem begins by capturing the essence of human existence, depicting a tapestry of dreams woven with various threads of joy, sorrow, and hope. These dreams, like stars illuminating the night sky, illuminate the path ahead, offering solace and meaning to the seeker's inner voice.\nThe lyrics beautifully capture the essence of the human experience, exploring themes of love, loss, and the search for inner peace. Through the lyrical verses, the poet encourages readers to embark on their own journey through dreams, seeking answers to life's profound questions.\nNaubatkhane Mein Ibadat is a testament to the power of poetry to transcend time and connect with the hearts of people. Its beauty lies not only in its poetic form but also in the profound and universal message it conveys about the pursuit of dreams and the journey of the soul",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the main theme of Naubatkhane Mein Ibadat?",
+                "options": [
+                  "Love and loss",
+                  "The search for inner peace",
+                  "Hope and joy",
+                  "The beauty of dreams"
+                ],
+                "answer": "Love and loss",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the poem capture the essence of human existence?",
+                "options": [
+                  "Through imagery and metaphors",
+                  "Through lyrical verses",
+                  "Through rhythmic patterns",
+                  "Through symbolism"
+                ],
+                "answer": "Through lyrical verses",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the central message of Naubatkhane Mein Ibadat?",
+                "options": [
+                  "The pursuit of dreams is a journey",
+                  "The importance of finding inner peace",
+                  "Dreams provide solace and meaning to the seeker",
+                  "Dreams are the ultimate source of happiness"
+                ],
+                "answer": "The pursuit of dreams is a journey",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the significance of the night sky imagery in the poem?",
+                "options": [
+                  "It represents the boundless possibilities of dreams",
+                  "It symbolizes the darkness and uncertainty of the world",
+                  "It evokes a sense of peace and tranquility",
+                  "It highlights the darkness of the human heart"
+                ],
+                "answer": "It represents the boundless possibilities of dreams",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the overall tone of Naubatkhane Mein Ibadat?",
+                "options": [
+                  "Serious and contemplative",
+                  "Enthusiastic and hopeful",
+                  "Joyful and optimistic",
+                  "Melancholy and introspective"
+                ],
+                "answer": "Serious and contemplative",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Sanskriti",
@@ -22601,7 +24203,63 @@
           {
             "topic": "Sangatkar",
             "definition": "## Sangatkar: A Celebration of Life\nThe word \"Sangatkar\" is a Hindi word that can be understood on two different levels. Literally, it means \"to carry or hold\". However, in the context of poetry, it often refers to the vibrant spirit of a person or community, their enthusiasm and joy in celebrating life's joys and achievements.\nSangatkar is often expressed through ** rhythmic verses and poetic forms** in Hindi poetry. These forms can be traditional or modern, but they always emphasize the **joy and happiness** found in life.\nHere are some examples of Sangatkar in poetry:\n* **\"Sangatkar ki raani hai jo rani ki tarah mein**\" - This verse from the poem \"Naagin\" expresses the boundless joy and love of a woman for her partner.\n* **\"Khel hai sangatkar mein, khushiyon mein saat\"** - This simple yet beautiful verse captures the essence of living with laughter and joy.\n* **\"Sapno ki dhadkan mein sangatkar ki tarah**\" - This poem speaks of the bittersweet nature of life, with the joys and sorrows intertwined in a beautiful dance.\nSangatkar is a powerful and universal emotion that transcends cultural and linguistic barriers. It is a reminder of the simple beauty and joy of life, and it is a powerful force for bringing people together in shared appreciation",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the literal meaning of the word 'Sangatkar'?",
+                "options": [
+                  "To carry or hold",
+                  "To sing, to dance",
+                  "To sleep",
+                  "To work"
+                ],
+                "answer": "To carry or hold",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How is 'Sangatkar' often expressed in poetry?",
+                "options": [
+                  "Through traditional poetic forms",
+                  "Through modern poetic forms",
+                  "Through written language",
+                  "Through visual art"
+                ],
+                "answer": "Through traditional poetic forms",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which verse captures the essence of living with laughter and joy?",
+                "options": [
+                  "Sapno ki dhadkan mein sangatkar ki tarah",
+                  "Khel hai sangatkar mein, khushiyon mein saat",
+                  "Naagin",
+                  "Meri saheliyon mein saat"
+                ],
+                "answer": "Sapno ki dhadkan mein sangatkar ki tarah",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which form is traditionally associated with 'Sangatkar' in poetry?",
+                "options": [
+                  "Traditional",
+                  "Modern",
+                  "Folk",
+                  "Classical"
+                ],
+                "answer": "Traditional",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which verse speaks of the bittersweet nature of life, with the joys and sorrows intertwined?",
+                "options": [
+                  "Sapno ki dhadkan mein sangatkar ki tarah",
+                  "Khel hai sangatkar mein, khushiyon mein saat",
+                  "Meri saheliyon mein saat",
+                  "Naagin"
+                ],
+                "answer": "Sapno ki dhadkan mein sangatkar ki tarah",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -22982,7 +24640,58 @@
           {
             "topic": "Pad Parichay",
             "definition": "## Pad Parichay\nPad Parichay is a verb phrase that means \"to do something\" or \"to perform an action.\" It is used to talk about habits, routines, or activities that people engage in regularly.\n**Examples:**\n* **I pad parichay my homework every day.** (I perform my homework daily.)\n* **She pads parichay the piano every evening.** (She practices the piano every evening.)\n* **He pad parichay the gym three times a week.** (He performs gym exercises three times a week.)\nPad Parichay is a very versatile verb phrase that can be used in many different contexts. It can be used to talk about both positive and negative habits and activities.\n**Practice:**\n* Write a sentence using Pad Parichay.\n* Rewrite a sentence using Pad Parichay in a different way",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Question: Which of the following is an example of a habit performed regularly?",
+                "options": [
+                  "**I pad parichay my homework every day.**",
+                  "**He plays the piano every evening.**",
+                  "**She reads books every week.**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question: Which of the following is an example of a negative habit performed regularly?",
+                "options": [
+                  "**I pad parichay my homework every day.**",
+                  "**She plays the piano every evening.**",
+                  "**He reads books every week.**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question: Which of the following is an example of a positive habit performed regularly?",
+                "options": [
+                  "**I pad parichay my homework every day.**",
+                  "**She plays the piano every evening.**",
+                  "**He reads books every week.**"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question: Which of the following is an example of a negative activity performed regularly?",
+                "options": [
+                  "**I pad parichay my homework every day.**",
+                  "**She plays the piano every evening.**",
+                  "**He reads books every week.**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question: Which of the following is an example of a positive activity performed regularly?",
+                "options": [
+                  "**I pad parichay my homework every day.**",
+                  "**She plays the piano every evening.**",
+                  "**He reads books every week.**"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Ras",
