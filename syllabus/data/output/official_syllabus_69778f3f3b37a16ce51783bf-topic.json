@@ -6970,7 +6970,65 @@
           {
             "topic": "Force between Two Parallel Currents, the Ampere",
             "definition": "**Force between Two Parallel Currents**\nThe force between two parallel currents is an attractive or repulsive force that acts on the charges in the currents. The force between two parallel currents is directly proportional to the magnitude of the currents and inversely proportional to the square of the distance between the currents.\nThe magnetic force between two parallel currents is given by the formula:\n$$F = \\frac{I_1 I_2}{4 \\pi \\varepsilon_0} \\frac{1}{r^2}$$\nwhere:\n* F is the force in newton (N)\n* I1 and I2 are the currents in amperes (A)\n* r is the distance between the currents in meters (m)\n* \\(\\varepsilon_0\\) is the vacuum permittivity constant (\\(8.85 \\times 10^{-12}\\) C²)\n**The Ampere**\nThe ampere is a unit of measure for the electric current. The ammeter reads the amount of current flowing through a conductor. An ammeter is used to measure the total current in a circuit and to ensure that the current is flowing correctly.\n**Examples**\n* When two parallel wires carrying the same current are close together, they experience an attractive force.\n* When two wires carrying different currents are close together, they experience a repulsive force.\n* When two wires carrying the same current are separated by a greater distance, the force between them is weaker.\n**Applications of the Force between Two Parallel Currents and the Ampere**\nThe force between two parallel currents is used in various applications, including:\n* Magnetic fields\n* Electromagnets\n* Circuits\n* Magnetic resonance imaging (MRI)",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the force between two parallel currents?",
+                "options": [
+                  "Attractive or repulsive",
+                  "Equal to the force between two point charges",
+                  "It depends on the distance between the currents",
+                  "It depends on the magnitude of the currents"
+                ],
+                "answer": "Attractive or repulsive",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the unit of measure for electric current?",
+                "options": [
+                  "Ampere (A)",
+                  "Coulomb (C)",
+                  "Volt (V)",
+                  "Ohm (Ω)"
+                ],
+                "answer": "Ampere (A)",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the force between two parallel currents?",
+                "options": [
+                  "Positive",
+                  "Negative",
+                  "Zero",
+                  "It depends on the distance between the currents"
+                ],
+                "answer": "Positive",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the formula for the force between two parallel currents?",
+                "options": [
+                  "F = I1 I2 / 4πε₀ r^2",
+                  "F = I1 I2 / r",
+                  "F = I1 I2 / (2πε₀ r)",
+                  "F = I1 I2 / (8πε₀ r)",
+                  "F = I1 I2 / r²"
+                ],
+                "answer": "F = I1 I2 / 4πε₀ r^2",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the application of the force between two parallel currents?",
+                "options": [
+                  "Magnetic fields",
+                  "Electromagnets",
+                  "Circuits",
+                  "Magnetic resonance imaging (MRI)",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Torque on Current Loop, Magnetic Dipole",

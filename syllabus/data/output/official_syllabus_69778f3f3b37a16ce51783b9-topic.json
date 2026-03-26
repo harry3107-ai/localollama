@@ -2999,7 +2999,56 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction\nAn **introduction** is a section of a document, chapter, or presentation that provides a brief overview of the topic or subject matter. It sets the stage for the main content and introduces the concepts and ideas that will be discussed. \nIn this chapter, we will explore the fascinating world of **surface areas and volumes**. By understanding these concepts, we can learn how to calculate the amount of material needed to cover a surface or how much space is inside a 3D object. \n**Examples:**\n* Imagine a rectangular box with a length of 10 cm and a width of 5 cm. The **surface area** of this box would be calculated as 10 cm * 5 cm = 50 cm².\n* A sphere has a constant radius of 3 cm. Its **volume** would be calculated as 4/3 * π * r³, where r is the radius.\nThrough the study of surface areas and volumes, we can solve real-world problems involving geometric figures and develop critical thinking skills for analyzing and interpreting visual information",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the surface area of a rectangular box with a length of 10 cm and a width of 5 cm?",
+                "options": [
+                  "50 cm², 100 cm², 150 cm²",
+                  "None"
+                ],
+                "answer": "50 cm²",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which shape has a constant radius of 3 cm?",
+                "options": [
+                  "Circle, Triangle, Square",
+                  "Sphere",
+                  "Rectangle"
+                ],
+                "answer": "Sphere",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the volume of a sphere with a radius of 3 cm?",
+                "options": [
+                  "9π cm³, 27π cm³, 45π cm³",
+                  "None"
+                ],
+                "answer": "9π cm³",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property helps us calculate the surface area of a curved surface?",
+                "options": [
+                  "Circumference, Diameter, Perimeter",
+                  "Area"
+                ],
+                "answer": "Area",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the purpose of studying surface areas and volumes?",
+                "options": [
+                  "To solve real-world problems involving geometric figures, develop critical thinking skills for analyzing and interpreting visual information",
+                  "To learn about the properties of geometric figures",
+                  "To explore the history of mathematics",
+                  "None"
+                ],
+                "answer": "To solve real-world problems involving geometric figures",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Surface Area of a Combination of Solids",

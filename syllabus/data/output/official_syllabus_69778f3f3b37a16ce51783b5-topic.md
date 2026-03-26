@@ -12960,6 +12960,43 @@ Palampur's agricultural history is a fascinating tale woven into the fabric of t
 **Community Resilience:** Despite these challenges, the spirit of the people remained resilient. They adopted innovative techniques like **organic farming** and **sustainable practices** to maintain the ecological balance of their land. This commitment to preserving the environment earned Palampur the title of a **"Model District for Organic Agriculture"** in the state.
 **The Future of Farming:** The story of Palampur's farming is not over. It is a testament to the enduring human spirit and the adaptability of a community that continues to strive for a sustainable future. As the village embraces modern technology and adapts to changing market demands, the agricultural landscape of Palampur will continue to evolve, offering a fascinating glimpse into the life and times of its people
 
+**Quizzes:**
+
+**Q1: In what century did evidence of farming first emerge in Palampur?**
+
+- [x] 15th
+- [ ] 16th
+- [ ] 17th
+- [ ] 18th
+
+**Q2: What was the primary crop that replaced traditional grains in the 19th century?**
+
+- [x] Rice
+- [ ] Wheat
+- [ ] Coffee
+- [ ] Sugarcane
+
+**Q3: What was the main reason for the shift from traditional farming to rice cultivation?**
+
+- [ ] Abundant rainfall
+- [x] Improved market prices
+- [ ] Land availability
+- [ ] Irrigation facilities
+
+**Q4: What were some innovative techniques adopted by Palampur farmers to maintain ecological balance?**
+
+- [x] Organic farming
+- [ ] Monoculture
+- [ ] Sustainable land management
+- [ ] Crop rotation
+
+**Q5: What is the title of Palampur that earned it recognition as a model district for organic agriculture?**
+
+- [ ] Model District for Sustainable Agriculture
+- [ ] Model District for Organic Farming
+- [ ] Model District for Village Development
+- [ ] Model District for Renewable Energy
+
 ---
 
 ### Non-Farm Activities in Palampur

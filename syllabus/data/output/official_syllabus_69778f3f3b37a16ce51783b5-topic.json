@@ -14347,7 +14347,63 @@
           {
             "topic": "Farming in Palampur",
             "definition": "## Farming in Palampur: A Historical Journey\nPalampur's agricultural history is a fascinating tale woven into the fabric of the village's culture, environment, and social dynamics. Over centuries, the community has cultivated diverse crops and raised livestock, reflecting the changing needs of the people and the environment.\n**Early Cultivators:** The earliest evidence of farming in Palampur dates back to the **15th century**, marked by the presence of ancient fields and settlements. These early farmers, primarily **tribal communities**, subsisted primarily on farming, producing staple crops like millet, sorghum, and pulses.\n**Shifting Landscape:** In the **19th century**, the landscape underwent significant changes as **colonial influences** took hold. Rice, a cash crop, replaced traditional grains like millet and sorghum. This shift resulted in a **migration of farmers** to neighboring regions in search of better opportunities.\n**Modern Challenges:** The 20th and 21st centuries brought new challenges to Palampur's agricultural sector. **Climate change** and fluctuating market prices posed significant obstacles to farmers. Additionally, **land fragmentation** and urbanization encroached upon traditional agricultural lands, impacting the community's food security.\n**Community Resilience:** Despite these challenges, the spirit of the people remained resilient. They adopted innovative techniques like **organic farming** and **sustainable practices** to maintain the ecological balance of their land. This commitment to preserving the environment earned Palampur the title of a **\"Model District for Organic Agriculture\"** in the state.\n**The Future of Farming:** The story of Palampur's farming is not over. It is a testament to the enduring human spirit and the adaptability of a community that continues to strive for a sustainable future. As the village embraces modern technology and adapts to changing market demands, the agricultural landscape of Palampur will continue to evolve, offering a fascinating glimpse into the life and times of its people",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "In what century did evidence of farming first emerge in Palampur?",
+                "options": [
+                  "15th",
+                  "16th",
+                  "17th",
+                  "18th"
+                ],
+                "answer": "15th",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was the primary crop that replaced traditional grains in the 19th century?",
+                "options": [
+                  "Rice",
+                  "Wheat",
+                  "Coffee",
+                  "Sugarcane"
+                ],
+                "answer": "Rice",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was the main reason for the shift from traditional farming to rice cultivation?",
+                "options": [
+                  "Abundant rainfall",
+                  "Improved market prices",
+                  "Land availability",
+                  "Irrigation facilities"
+                ],
+                "answer": "Improved market prices",
+                "type": "single_correct"
+              },
+              {
+                "question": "What were some innovative techniques adopted by Palampur farmers to maintain ecological balance?",
+                "options": [
+                  "Organic farming",
+                  "Monoculture",
+                  "Sustainable land management",
+                  "Crop rotation"
+                ],
+                "answer": "Organic farming",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the title of Palampur that earned it recognition as a model district for organic agriculture?",
+                "options": [
+                  "Model District for Sustainable Agriculture",
+                  "Model District for Organic Farming",
+                  "Model District for Village Development",
+                  "Model District for Renewable Energy"
+                ],
+                "answer": "Model District for Organic Agriculture",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Non-Farm Activities in Palampur",

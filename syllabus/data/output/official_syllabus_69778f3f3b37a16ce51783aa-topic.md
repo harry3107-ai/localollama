@@ -6482,6 +6482,43 @@ For example, the name "China" comes from the ancient Chinese term "Chína", whic
 The name of the United States is also derived from its past inhabitants, the Native Americans. The name "America" comes from the Algonquian word "Americ", which meant "island" or "continent". The Europeans who first came to the Americas named the continent "America" because they believed it was an extension of the Asian continent.
 Understanding the names of the land can help us to appreciate the rich diversity of human culture and history. By learning about the stories behind these names, we can gain a deeper understanding of the world around us
 
+**Quizzes:**
+
+**Q1: What was the name of the tribe who gave the name China to the country?**
+
+- [ ] The Taipings
+- [ ] The Han Chinese
+- [ ] The Mongols
+- [ ] The Japanese
+
+**Q2: Which Native American tribe is believed to have originated the name America?**
+
+- [ ] The Sioux
+- [ ] The Apache
+- [ ] The Cheyenne
+- [ ] The Iroquois
+
+**Q3: What was the purpose of the name America for the European explorers who first came to the continent?**
+
+- [ ] To differentiate the continent from Asia
+- [ ] To indicate the presence of mountains and plains
+- [ ] To represent the size of the continent
+- [ ] To indicate the presence of fertile land
+
+**Q4: Which empire was the first to use the name China as a country name?**
+
+- [ ] The Roman Empire
+- [ ] The Greek Empire
+- [ ] The Han Dynasty
+- [ ] The Tang Dynasty
+
+**Q5: Which European country changed the name America to America in the 19th century?**
+
+- [ ] The United States
+- [ ] Canada
+- [ ] Mexico
+- [ ] Russia
+
 ---
 
 ### Finding Out About the Past
@@ -7260,6 +7297,43 @@ Words are an essential tool for describing people, allowing us to paint a mental
 * **Informal:** "He's a real charmer, always making people laugh with his witty remarks."
 **Conclusion:**
 Words are the building blocks of human communication, allowing us to express a wide range of ideas and emotions about people. By understanding the various types of words we can use, we can paint a more comprehensive and nuanced portrait of those we know and meet
+
+**Quizzes:**
+
+**Q1: What is an essential tool for describing people, allowing us to paint a mental picture of who they are and how they come across?**
+
+- [x] Words
+- [ ] Images
+- [ ] Music
+- [ ] Art
+
+**Q2: Which category of words describes a person's physical attributes?**
+
+- [x] Formal
+- [ ] Informal
+- [ ] Both
+- [ ] Neither
+
+**Q3: Which category of words describes a person's personality traits?**
+
+- [ ] Formal
+- [x] Informal
+- [ ] Both
+- [ ] Neither
+
+**Q4: Which category of words describes a person's professional pursuits?**
+
+- [x] Formal
+- [ ] Informal
+- [ ] Both
+- [ ] Neither
+
+**Q5: Which category of words describes a person's social status?**
+
+- [ ] Formal
+- [x] Informal
+- [ ] Both
+- [ ] Neither
 
 ---
 

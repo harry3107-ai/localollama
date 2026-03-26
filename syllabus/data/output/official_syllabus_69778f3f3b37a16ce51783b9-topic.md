@@ -2871,6 +2871,36 @@ In this chapter, we will explore the fascinating world of **surface areas and vo
 * A sphere has a constant radius of 3 cm. Its **volume** would be calculated as 4/3 * π * r³, where r is the radius.
 Through the study of surface areas and volumes, we can solve real-world problems involving geometric figures and develop critical thinking skills for analyzing and interpreting visual information
 
+**Quizzes:**
+
+**Q1: What is the surface area of a rectangular box with a length of 10 cm and a width of 5 cm?**
+
+- [ ] 50 cm², 100 cm², 150 cm²
+- [ ] None
+
+**Q2: Which shape has a constant radius of 3 cm?**
+
+- [ ] Circle, Triangle, Square
+- [x] Sphere
+- [ ] Rectangle
+
+**Q3: What is the volume of a sphere with a radius of 3 cm?**
+
+- [ ] 9π cm³, 27π cm³, 45π cm³
+- [ ] None
+
+**Q4: Which property helps us calculate the surface area of a curved surface?**
+
+- [ ] Circumference, Diameter, Perimeter
+- [x] Area
+
+**Q5: What is the purpose of studying surface areas and volumes?**
+
+- [ ] To solve real-world problems involving geometric figures, develop critical thinking skills for analyzing and interpreting visual information
+- [ ] To learn about the properties of geometric figures
+- [ ] To explore the history of mathematics
+- [ ] None
+
 ---
 
 ### Surface Area of a Combination of Solids
