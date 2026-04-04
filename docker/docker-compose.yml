@@ -41,6 +41,21 @@ services:
     volumes:
       - openwebui_data:/app/backend/data
 
+  comfyui:
+    image: comfyui-kolors
+    build: .
+    container_name: comfyui
+    ports:
+      - "8188:8188"
+    volumes:
+      - ./models:/app/models
+      - ./output:/app/output
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    runtime: nvidia
 volumes:
   ollama_data:
   openwebui_data:
