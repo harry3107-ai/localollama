@@ -7,7 +7,7 @@ import time
 TEMPLATE_FILE = "bestbook-template.json"
 OUTPUT_FILE = "best-books-updated.json"
 API_URL = "http://localhost:11434/api/generate"
-MODEL = "gemma:2b"
+MODEL = "mistral"
 DELAY = 1  # seconds between requests
 # Removed ADDITIONAL_TAG - will create subject-specific tags instead
 
