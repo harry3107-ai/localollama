@@ -44,7 +44,9 @@ def generate_book_info(subject_name, sub_exam_name):
                 "model": MODEL,
                 "prompt": prompt,
                 "stream": False,
-                "temperature": 0.7
+                "temperature": 0.7,
+                "top_p": 0.7,
+                "num_predict": 200
             },
             timeout=30
         )
@@ -114,7 +116,9 @@ def generate_contextual_tags(subject_name):
                 "model": MODEL,
                 "prompt": prompt,
                 "stream": False,
-                "temperature": 0.6
+                "temperature": 0.6,
+                "top_p": 0.7,
+                "num_predict": 100
             },
             timeout=30
         )

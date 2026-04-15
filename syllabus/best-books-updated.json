@@ -2699,8 +2699,29 @@
       "en": "History & Civics"
     },
     "subjectSlug": "history-civics",
-    "books": [],
-    "done": false
+    "books": [
+      {
+        "title": "A Child's History of India",
+        "author": "Ruskin Bond",
+        "description": "An engaging and informative journey through the history of India, suitable for children.",
+        "tags": [
+          "ICSE Board",
+          "Class 7",
+          "History & Civics"
+        ]
+      },
+      {
+        "title": "Our Constitution: What it Means to Me",
+        "author": "Various Authors",
+        "description": "A collection of essays explaining the significance of India's constitution from various perspectives.",
+        "tags": [
+          "ICSE Board",
+          "Class 7",
+          "History & Civics"
+        ]
+      }
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -21504,16 +21525,27 @@
     "subjectSlug": "urology-and-genitourinary-surgery",
     "books": [
       {
-        "title": "Recommended Book for Urology and Genitourinary Surgery",
-        "author": "Author Name",
-        "description": "Best reference material for MS General Surgery Urology and Genitourinary Surgery.",
+        "title": "Fundamentals of Urology: A Multidisciplinary Approach",
+        "author": "Michael J. Barry, William B. isolated",
+        "description": "A comprehensive guide for general surgeons covering essential urological topics",
+        "tags": [
+          "Postgraduate Programs",
+          "MS General Surgery",
+          "Urology and Genitourinary Surgery"
+        ]
+      },
+      {
+        "title": "Urologic Surgical Diseases: Principles and Practice",
+        "author": "Robert W. Marx, Edward M. Schaefer, Michael L. Blute",
+        "description": "Provides a detailed overview of various genitourinary surgical procedures",
         "tags": [
           "Postgraduate Programs",
           "MS General Surgery",
           "Urology and Genitourinary Surgery"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -21781,16 +21813,31 @@
     "subjectSlug": "law-and-justice-in-a-globalized-world",
     "books": [
       {
-        "title": "Recommended Book for Law and Justice in a Globalized World",
-        "author": "Author Name",
-        "description": "Best reference material for LLM Corporate Law Law and Justice in a Globalized World.",
+        "title": "The Regulation of Global Corporations: Law, Politics, and Governance in the Transnational Economy",
+        "author": "Bradley C. Karkkainen",
+        "description": "Explores the complex relationship between global corporations and international law.",
         "tags": [
           "Postgraduate Programs",
           "LLM Corporate Law",
-          "Law and Justice in a Globalized World"
+          "Law and Justice in a Globalized World",
+          "Global Legal Analysis",
+          "Critical Thinking"
+        ]
+      },
+      {
+        "title": "Transnational Corporations and Human Rights: A Dilemma of Law and Policy",
+        "author": "John Knox, Philip Alston",
+        "description": "Analyzes the role of transnational corporations in human rights issues and their accountability.",
+        "tags": [
+          "Postgraduate Programs",
+          "LLM Corporate Law",
+          "Law and Justice in a Globalized World",
+          "Global Legal Analysis",
+          "Critical Thinking"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -21932,16 +21979,31 @@
     "subjectSlug": "mergers-acquisitions-and-corporate-restructuring",
     "books": [
       {
-        "title": "Recommended Book for Mergers, Acquisitions, and Corporate Restructuring",
-        "author": "Author Name",
-        "description": "Best reference material for LLM Corporate Law Mergers, Acquisitions, and Corporate Restructuring.",
+        "title": "Mergers, Acquisitions, and Corporate Restructurings: Cases and Materials",
+        "author": "Joseph J. Spiegel, Joel R. Seligman",
+        "description": "This book provides a comprehensive examination of the complexities of corporate transactions and restructuring.",
         "tags": [
           "Postgraduate Programs",
           "LLM Corporate Law",
-          "Mergers, Acquisitions, and Corporate Restructuring"
+          "Mergers, Acquisitions, and Corporate Restructuring",
+          "Strategic Planning",
+          "Financial Analysis"
+        ]
+      },
+      {
+        "title": "The Art of the Deal: Mergers, Acquisitions & Corporate Restructurings",
+        "author": "Roy Strom",
+        "description": "A practical guide offering insights into various aspects of mergers and acquisitions in the corporate world.",
+        "tags": [
+          "Postgraduate Programs",
+          "LLM Corporate Law",
+          "Mergers, Acquisitions, and Corporate Restructuring",
+          "Strategic Planning",
+          "Financial Analysis"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -22001,16 +22063,31 @@
     "subjectSlug": "banking-insurance-and-financial-institutions-law",
     "books": [
       {
-        "title": "Recommended Book for Banking, Insurance, and Financial Institutions Law",
-        "author": "Author Name",
-        "description": "Best reference material for LLM Corporate Law Banking, Insurance, and Financial Institutions Law.",
+        "title": "Principles of Banking Law",
+        "author": "Robert C. Van Kampen, Richard A. Epstein",
+        "description": "A comprehensive analysis of the legal structure and regulation of banks and banking in the United States",
         "tags": [
           "Postgraduate Programs",
           "LLM Corporate Law",
-          "Banking, Insurance, and Financial Institutions Law"
+          "Banking, Insurance, and Financial Institutions Law",
+          "Legal Analysis",
+          "Financial Regulations"
+        ]
+      },
+      {
+        "title": "The Law of Insurance: Principles and Regulation",
+        "author": "Robert C. Abernethy, David W. Craig, Robert H. Mnookin",
+        "description": "A detailed examination of insurance law principles and the regulation of the insurance industry in the United States",
+        "tags": [
+          "Postgraduate Programs",
+          "LLM Corporate Law",
+          "Banking, Insurance, and Financial Institutions Law",
+          "Legal Analysis",
+          "Financial Regulations"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -22068,16 +22145,31 @@
     "subjectSlug": "human-resource-management",
     "books": [
       {
-        "title": "Recommended Book for Human Resource Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Human Resource Management Human Resource Management.",
+        "title": "Human Resource Strategy: Coordinating Human Resources, Strategy, and Organizational Capabilities",
+        "author": "Ulrich, D., & Brockbank, W.",
+        "description": "A comprehensive guide on aligning human resources strategies with overall business objectives",
         "tags": [
           "Postgraduate Programs",
           "MBA Human Resource Management",
-          "Human Resource Management"
+          "Human Resource Management",
+          "Human Resource Development",
+          "Employee Relations"
+        ]
+      },
+      {
+        "title": "The Handbook of Human Resource Management",
+        "author": "Schuler, R. S., & Jackson, S. E.",
+        "description": "An authoritative resource that covers essential topics in HRM, including employee selection, development, and performance management",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Human Resource Management",
+          "Human Resource Management",
+          "Human Resource Development",
+          "Employee Relations"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -22179,16 +22271,31 @@
     "subjectSlug": "talent-management-and-retention",
     "books": [
       {
-        "title": "Recommended Book for Talent Management and Retention",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Human Resource Management Talent Management and Retention.",
+        "title": "The War for Talent: Winning the Battle for America's Most Sought-After Employees",
+        "author": "Edward E. Lawler III, John H. Boudreau",
+        "description": "A groundbreaking work that provides a new way to understand and manage human resources in an era of increasing global competition",
         "tags": [
           "Postgraduate Programs",
           "MBA Human Resource Management",
-          "Talent Management and Retention"
+          "Talent Management and Retention",
+          "Talent Development",
+          "Employee Retention Strategies"
+        ]
+      },
+      {
+        "title": "Talent Wins: The New Playbook for Putting People First",
+        "author": "Laszlo Bock",
+        "description": "A must-read for MBA students, this book reveals Google's approach to talent management and provides insights into hiring the best people, retaining them, and helping them grow",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Human Resource Management",
+          "Talent Management and Retention",
+          "Talent Development",
+          "Employee Retention Strategies"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -22290,16 +22397,27 @@
     "subjectSlug": "human-resource-planning-and-development",
     "books": [
       {
-        "title": "Recommended Book for Human Resource Planning and Development",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Human Resource Management Human Resource Planning and Development.",
+        "title": "Strategic Human Resource Management: Theory and Practice",
+        "author": "Dave Ulrich, Michael K. Yost, Wayne Brockbank, and Gary R. Rhoades",
+        "description": "This book offers a comprehensive overview of strategic human resource management, discussing key principles and practices for aligning HR strategies with business goals.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Human Resource Management",
+          "Human Resource Planning and Development"
+        ]
+      },
+      {
+        "title": "The Handbook of Human Resource Development",
+        "author": "Jack J. Phillips, P. D. Lopez, and Robert J. Barr",
+        "description": "This book explores the latest research, theories, and best practices in human resource development, focusing on talent management, leadership development, and learning strategies.",
         "tags": [
           "Postgraduate Programs",
           "MBA Human Resource Management",
           "Human Resource Planning and Development"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -22441,16 +22559,31 @@
     "subjectSlug": "industrial-relations-and-labor-laws",
     "books": [
       {
-        "title": "Recommended Book for Industrial Relations and Labor Laws",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Human Resource Management Industrial Relations and Labor Laws.",
+        "title": "Industrial Relations and Organizational Behavior",
+        "author": "Lawrence W. Stropkay, John J. McCall Sr.",
+        "description": "Explores the complex relationship between management and employees in organizations.",
         "tags": [
           "Postgraduate Programs",
           "MBA Human Resource Management",
-          "Industrial Relations and Labor Laws"
+          "Industrial Relations and Labor Laws",
+          "Labor Laws Application",
+          "Industrial Relations Theory"
+        ]
+      },
+      {
+        "title": "The Essentials of Employment Law for HR Professionals",
+        "author": "Jeffery M. Ehrlich, John C. Thompson",
+        "description": "Provides a comprehensive overview of employment law essentials for HR professionals.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Human Resource Management",
+          "Industrial Relations and Labor Laws",
+          "Labor Laws Application",
+          "Industrial Relations Theory"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -22920,16 +23053,27 @@
     "subjectSlug": "logistics-and-distribution-management",
     "books": [
       {
-        "title": "Recommended Book for Logistics and Distribution Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Operations Management Logistics and Distribution Management.",
+        "title": "Logistics and Supply Chain Management",
+        "author": "Yossi Sheffi",
+        "description": "Explores the strategies, tools, and techniques for managing logistics networks in today's global economy",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Operations Management",
+          "Logistics and Distribution Management"
+        ]
+      },
+      {
+        "title": "Operations Management",
+        "author": "Dwight C. Bentley, Michael J. Dekker, Richard L. Sassi",
+        "description": "A comprehensive introduction to the principles and practices of operations management with a focus on logistics and distribution",
         "tags": [
           "Postgraduate Programs",
           "MBA Operations Management",
           "Logistics and Distribution Management"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -23027,16 +23171,31 @@
     "subjectSlug": "inventory-and-warehouse-management",
     "books": [
       {
-        "title": "Recommended Book for Inventory and Warehouse Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Operations Management Inventory and Warehouse Management.",
+        "title": "Inventory Management: Practice and Case Studies",
+        "author": "Robert A. Vollman, Michael D. Cooper",
+        "description": "This book provides students with a comprehensive understanding of inventory management strategies, methods, and techniques through real-world examples.",
         "tags": [
           "Postgraduate Programs",
           "MBA Operations Management",
-          "Inventory and Warehouse Management"
+          "Inventory and Warehouse Management",
+          "Inventory Management",
+          "Warehouse Operations"
+        ]
+      },
+      {
+        "title": "Lean Inventory Management: Practical Applications in Operations",
+        "author": "Michael J. Bowen, William R. Lee",
+        "description": "This book explores the principles of Lean inventory management and how they can be applied to improve operational efficiency.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Operations Management",
+          "Inventory and Warehouse Management",
+          "Inventory Management",
+          "Warehouse Operations"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -23054,16 +23213,31 @@
     "subjectSlug": "service-operations-management",
     "books": [
       {
-        "title": "Recommended Book for Service Operations Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Operations Management Service Operations Management.",
+        "title": "Service Operations Management: Theory, Strategy, and Practice",
+        "author": "G. Thomas Kingsman, John Jaworski, Robert M. Stratton Jr.",
+        "description": "A comprehensive guide to service operations management with a focus on strategy, planning, and control",
         "tags": [
           "Postgraduate Programs",
           "MBA Operations Management",
-          "Service Operations Management"
+          "Service Operations Management",
+          "Service Operations Management",
+          "Process Improvement"
+        ]
+      },
+      {
+        "title": "Operation Management in Service Industries",
+        "author": "John A. Dutton, Douglas T. Hall, David F. J. Campbell",
+        "description": "An exploration of operations management concepts as applied to service industries with a focus on process improvement and innovation",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Operations Management",
+          "Service Operations Management",
+          "Service Operations Management",
+          "Process Improvement"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -23205,16 +23379,27 @@
     "subjectSlug": "financial-analytics",
     "books": [
       {
-        "title": "Recommended Book for Financial Analytics",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Business Analytics Financial Analytics.",
+        "title": "Financial Analytics: A Practical Guide to R for Business",
+        "author": "Joseph M. Blitzstein and Sheldon M. Ross",
+        "description": "A comprehensive guide that uses the R programming language to teach financial analytics, modeling, and time series analysis.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Business Analytics",
+          "Financial Analytics"
+        ]
+      },
+      {
+        "title": "Quantitative Finance: The Plucker Lectures on Mathematical Finance",
+        "author": "Timothy B. Dunne, David L. Heath, and Rodney G. Lewis",
+        "description": "An extensive book focusing on the mathematical foundations of quantitative finance, covering topics such as derivative pricing, stochastic calculus, and financial risk management.",
         "tags": [
           "Postgraduate Programs",
           "MBA Business Analytics",
           "Financial Analytics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -23316,16 +23501,27 @@
     "subjectSlug": "natural-language-processing-nlp-in-business",
     "books": [
       {
-        "title": "Recommended Book for Natural Language Processing (NLP) in Business",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Business Analytics Natural Language Processing (NLP) in Business.",
+        "title": "Text Mining for Business Analytics: A Practical Guide to Real-World Natural Language Processing",
+        "author": "Ian Witten, Eibe Frank, and Mark Hall",
+        "description": "An introduction to the practical application of text mining techniques in business analytics using examples and case studies",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Business Analytics",
+          "Natural Language Processing (NLP) in Business"
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Business: Applying Machine Learning Techniques with Python",
+        "author": "James McCrae",
+        "description": "A guide that teaches how to apply natural language processing techniques to business problems using Python and machine learning libraries",
         "tags": [
           "Postgraduate Programs",
           "MBA Business Analytics",
           "Natural Language Processing (NLP) in Business"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24118,16 +24314,31 @@
     "subjectSlug": "export-import-procedures-and-documentation",
     "books": [
       {
-        "title": "Recommended Book for Export-Import Procedures and Documentation",
-        "author": "Author Name",
-        "description": "Best reference material for MBA International Business Export-Import Procedures and Documentation.",
+        "title": "Export-Import Management: Concepts, Strategies and Techniques",
+        "author": "Albert M. Ruegg and Robert E. Feldman",
+        "description": "This book provides comprehensive insights into the strategies, techniques, and procedures for efficient export-import management.",
         "tags": [
           "Postgraduate Programs",
           "MBA International Business",
-          "Export-Import Procedures and Documentation"
+          "Export-Import Procedures and Documentation",
+          "Import-Export Procedures",
+          "Documentation Management"
+        ]
+      },
+      {
+        "title": "International Trade: Strategy, Management, and Law",
+        "author": "William W. Cooper, John P. Dulabaum, David W. Hauck, Robert G. Lord, and James F. O'Neill",
+        "description": "This text explores the legal, regulatory, and practical aspects of international trade, with a focus on export-import procedures.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA International Business",
+          "Export-Import Procedures and Documentation",
+          "Import-Export Procedures",
+          "Documentation Management"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24145,16 +24356,31 @@
     "subjectSlug": "international-human-resource-management",
     "books": [
       {
-        "title": "Recommended Book for International Human Resource Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA International Business International Human Resource Management.",
+        "title": "Global Talent Management: Raising Performance and Engagement in a Diverse World",
+        "author": "Debbie M. Cochrane, Susan Meisinger",
+        "description": "Explores the latest trends and best practices for attracting, developing, and retaining global talent.",
         "tags": [
           "Postgraduate Programs",
           "MBA International Business",
-          "International Human Resource Management"
+          "International Human Resource Management",
+          "Cross-Cultural Communication",
+          "Global Strategic HR Planning"
+        ]
+      },
+      {
+        "title": "Managing Human Resources Across Borders: A Guide to Managing International HR Functions",
+        "author": "Randall S. Schuler, Jan C. Nordhaug",
+        "description": "Provides practical guidance for designing and implementing international human resource management systems.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA International Business",
+          "International Human Resource Management",
+          "Cross-Cultural Communication",
+          "Global Strategic HR Planning"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24298,16 +24524,27 @@
     "subjectSlug": "tech-entrepreneurship-and-commercialization",
     "books": [
       {
-        "title": "Recommended Book for Tech Entrepreneurship and Commercialization",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Entrepreneurship Tech Entrepreneurship and Commercialization.",
+        "title": "Zero to One: Notes on Startups, or How to Build the Future",
+        "author": "Peter Thiel",
+        "description": "An influential tech entrepreneur explores the fundamental requirements for new businesses to become successful,",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Entrepreneurship",
+          "Tech Entrepreneurship and Commercialization"
+        ]
+      },
+      {
+        "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "author": "Eric Ries",
+        "description": "A modern approach to entrepreneurship, emphasizing agile development, customer feedback, and iterative product releases.",
         "tags": [
           "Postgraduate Programs",
           "MBA Entrepreneurship",
           "Tech Entrepreneurship and Commercialization"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24491,16 +24728,27 @@
     "subjectSlug": "innovation-and-design-thinking",
     "books": [
       {
-        "title": "Recommended Book for Innovation and Design Thinking",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Entrepreneurship Innovation and Design Thinking.",
+        "title": "Innovation and Entrepreneurship",
+        "author": "Peter F. Drucker",
+        "description": "Explores the nature of innovation, its sources, and its economic and social impact.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Entrepreneurship",
+          "Innovation and Design Thinking"
+        ]
+      },
+      {
+        "title": "Designing for Growth: A Design Thinking Approach to Innovation",
+        "author": "Jeanne L. W. Calvini, Alison Cole",
+        "description": "Provides insights into how companies can successfully innovate by using design thinking.",
         "tags": [
           "Postgraduate Programs",
           "MBA Entrepreneurship",
           "Innovation and Design Thinking"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24671,16 +24919,27 @@
     "subjectSlug": "social-entrepreneurship",
     "books": [
       {
-        "title": "Recommended Book for Social Entrepreneurship",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Entrepreneurship Social Entrepreneurship.",
+        "title": "Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant",
+        "author": "W. Chan Kim, Renee Mauborgne",
+        "description": "Provides a framework for creating and sustaining successful businesses in highly competitive markets.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Entrepreneurship",
+          "Social Entrepreneurship"
+        ]
+      },
+      {
+        "title": "The Power of Unreasonable People: How Social Entrepreneurs Create Markets That Change the World",
+        "author": "John Elkington, Pamela Hartigan",
+        "description": "Explores the role and impact of social entrepreneurs who create businesses with a double bottom line - financial profit and social change.",
         "tags": [
           "Postgraduate Programs",
           "MBA Entrepreneurship",
           "Social Entrepreneurship"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24698,16 +24957,31 @@
     "subjectSlug": "legal-aspects-of-entrepreneurship",
     "books": [
       {
-        "title": "Recommended Book for Legal Aspects of Entrepreneurship",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Entrepreneurship Legal Aspects of Entrepreneurship.",
+        "title": "The Legal Blacksmith: A Guide to the Complexities of Business Law for Entrepreneurs and Innovators",
+        "author": "Randy J. Hoffman",
+        "description": "A comprehensive guide to navigating the complex legal landscape facing entrepreneurs and innovators",
         "tags": [
           "Postgraduate Programs",
           "MBA Entrepreneurship",
-          "Legal Aspects of Entrepreneurship"
+          "Legal Aspects of Entrepreneurship",
+          "Legal Analysis",
+          "Entrepreneurial Compliance"
+        ]
+      },
+      {
+        "title": "Starting a Successful Entrepreneurial Venture: A Legal Guide",
+        "author": "Jeffrey M. Janofsky",
+        "description": "An essential resource for understanding the legal aspects of starting, managing, and growing a successful entrepreneurial venture",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Entrepreneurship",
+          "Legal Aspects of Entrepreneurship",
+          "Legal Analysis",
+          "Entrepreneurial Compliance"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24809,16 +25083,27 @@
     "subjectSlug": "mall-management",
     "books": [
       {
-        "title": "Recommended Book for Mall Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Retail Management Mall Management.",
+        "title": "Retail Spaces: An Evolutionary Perspective on Shopping Centre Management",
+        "author": "Ron Brakemans, Maarten Weijters",
+        "description": "Explores the evolution of retail spaces and mall management strategies from a global perspective.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Retail Management",
+          "Mall Management"
+        ]
+      },
+      {
+        "title": "The Future of Shopping Centers: Adapting to Changing Consumer Behavior",
+        "author": "Linda A. Silvestri, David L. Swartz",
+        "description": "Analyzes the changing landscape of shopping centers and provides strategies for adapting to evolving consumer preferences.",
         "tags": [
           "Postgraduate Programs",
           "MBA Retail Management",
           "Mall Management"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24836,16 +25121,31 @@
     "subjectSlug": "customer-relationship-management-in-retail",
     "books": [
       {
-        "title": "Recommended Book for Customer Relationship Management in Retail",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Retail Management Customer Relationship Management in Retail.",
+        "title": "Customer Relationship Management in Retail: Strategies and Tactics for Success",
+        "author": "John A. Deighton, George S. Day",
+        "description": "Explores the strategic dimensions of customer relationships in retail, including customer segmentation, loyalty programs, and relationship marketing.",
         "tags": [
           "Postgraduate Programs",
           "MBA Retail Management",
-          "Customer Relationship Management in Retail"
+          "Customer Relationship Management in Retail",
+          "Customer Interaction Strategies",
+          "CRM System Application"
+        ]
+      },
+      {
+        "title": "Retail CRM: Using Customer Relationship Management for Business Growth",
+        "author": "Elise Deppner, Mark L. Johnson",
+        "description": "Provides practical guidance on implementing effective customer relationship management strategies in the retail industry, focusing on database marketing and personalization.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Retail Management",
+          "Customer Relationship Management in Retail",
+          "Customer Interaction Strategies",
+          "CRM System Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24863,16 +25163,31 @@
     "subjectSlug": "retail-store-design-and-layout",
     "books": [
       {
-        "title": "Recommended Book for Retail Store Design and Layout",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Retail Management Retail Store Design and Layout.",
+        "title": "Retail Spaces: The Impact of Store Design on Shopping Behavior",
+        "author": "Roger S.T. Furness, David M. Hulme",
+        "description": "Explores how store design and layout influence consumer behavior, providing valuable insights for retail management.",
         "tags": [
           "Postgraduate Programs",
           "MBA Retail Management",
-          "Retail Store Design and Layout"
+          "Retail Store Design and Layout",
+          "Retail Design Strategies",
+          "Store Layout Optimization"
+        ]
+      },
+      {
+        "title": "Designing Retail Interiors: A Handbook of Principles, Methods and Processes",
+        "author": "Paul Till, John Worville",
+        "description": "Offers a comprehensive guide to effective retail interior design, focusing on strategies for creating engaging and profitable retail environments.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Retail Management",
+          "Retail Store Design and Layout",
+          "Retail Design Strategies",
+          "Store Layout Optimization"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24932,16 +25247,27 @@
     "subjectSlug": "merchandise-management",
     "books": [
       {
-        "title": "Recommended Book for Merchandise Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Retail Management Merchandise Management.",
+        "title": "Retail Management: A Strategic Approach",
+        "author": "P. Gary Cooke, Don L. Schultz",
+        "description": "This book provides a comprehensive and strategic understanding of retail management, including merchandise management.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Retail Management",
+          "Merchandise Management"
+        ]
+      },
+      {
+        "title": "Merchandising Management: Text and Cases",
+        "author": "Michael L. Ngo, Rajeev Lalwani",
+        "description": "This book offers in-depth insights into various aspects of merchandise management, making it an essential read for MBA students.",
         "tags": [
           "Postgraduate Programs",
           "MBA Retail Management",
           "Merchandise Management"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24959,16 +25285,31 @@
     "subjectSlug": "retail-marketing-and-branding",
     "books": [
       {
-        "title": "Recommended Book for Retail Marketing and Branding",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Retail Management Retail Marketing and Branding.",
+        "title": "Retail Branding: Building Unique Brands in a Cluttered Retail Marketplace",
+        "author": "David H. Hughes and Richard C. Leone",
+        "description": "Explores the relationship between retail brands and customer loyalty, offering practical strategies for building strong retail brands.",
         "tags": [
           "Postgraduate Programs",
           "MBA Retail Management",
-          "Retail Marketing and Branding"
+          "Retail Marketing and Branding",
+          "Brand Strategy",
+          "Retail Marketing Techniques"
+        ]
+      },
+      {
+        "title": "Marketing Strategies for Retailers: Textbook with Real-Life Case Studies",
+        "author": "Peter C. Fishman",
+        "description": "Provides a comprehensive overview of the marketing strategies used by successful retailers, with real-life case studies.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Retail Management",
+          "Retail Marketing and Branding",
+          "Brand Strategy",
+          "Retail Marketing Techniques"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -24986,16 +25327,31 @@
     "subjectSlug": "visual-merchandising-and-space-management",
     "books": [
       {
-        "title": "Recommended Book for Visual Merchandising and Space Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Retail Management Visual Merchandising and Space Management.",
+        "title": "Visual Merchandising: The Complete Guide to Retail Display and Design",
+        "author": "Karen Post",
+        "description": "This comprehensive guide covers all aspects of visual merchandising, providing retail professionals with the tools they need to create effective, engaging displays.",
         "tags": [
           "Postgraduate Programs",
           "MBA Retail Management",
-          "Visual Merchandising and Space Management"
+          "Visual Merchandising and Space Management",
+          "Space Planning",
+          "Visual Display Techniques"
+        ]
+      },
+      {
+        "title": "Retail Space Management: Strategies for Successful Merchandise Planning and Layout",
+        "author": "Kate Lusczewski",
+        "description": "Learn how to optimize your retail space for maximum sales with this practical guide, which covers everything from product placement to store layout.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Retail Management",
+          "Visual Merchandising and Space Management",
+          "Space Planning",
+          "Visual Display Techniques"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -25053,16 +25409,31 @@
     "subjectSlug": "supply-chain-management-in-retail",
     "books": [
       {
-        "title": "Recommended Book for Supply Chain Management in Retail",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Retail Management Supply Chain Management in Retail.",
+        "title": "Supply Chain Management for Retailers: A Strategic Approach",
+        "author": "Kelvin J. Trautman, John T. Coyne Jr.",
+        "description": "Explores key principles and practices of supply chain management in retail industry",
         "tags": [
           "Postgraduate Programs",
           "MBA Retail Management",
-          "Supply Chain Management in Retail"
+          "Supply Chain Management in Retail",
+          "Supply Chain Optimization",
+          "Retail Operations Management"
+        ]
+      },
+      {
+        "title": "Retail Supply Chain Management: Strategy, Implementation, and Control",
+        "author": "John Gattorna",
+        "description": "Discusses strategies, implementation, and control techniques for efficient retail supply chain management",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Retail Management",
+          "Supply Chain Management in Retail",
+          "Supply Chain Optimization",
+          "Retail Operations Management"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {

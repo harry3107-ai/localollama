@@ -131,12 +131,13 @@ Output ONLY valid JSON array. No extra text:
         "model": MODEL,
         "prompt": prompt,
         "stream": False,
-        "temperature": 0.3,
-        "top_p": 0.9,
+        "temperature": 0.7,
+        "top_p": 0.7,
+        "num_predict": 300
     }
 
     try:
-        response = requests.post(API_URL, json=payload, timeout=60)
+        response = requests.post(API_URL, json=payload, timeout=20)
         response.raise_for_status()
         result = response.json()
         quiz_text = result.get("response", "")
@@ -240,12 +241,13 @@ Output ONLY valid JSON array. No extra text:
         "model": MODEL,
         "prompt": prompt,
         "stream": False,
-        "temperature": 0.3,
-        "top_p": 0.9,
+        "temperature": 0.7,
+        "top_p": 0.7,
+        "num_predict": 300
     }
 
     try:
-        response = requests.post(API_URL, json=payload, timeout=60)
+        response = requests.post(API_URL, json=payload, timeout=20)
         response.raise_for_status()
         result = response.json()
         quiz_text = result.get("response", "")
