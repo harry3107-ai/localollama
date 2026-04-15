@@ -22,7 +22,8 @@
           "CBSE Board",
           "Class 6",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -33,7 +34,8 @@
           "CBSE Board",
           "Class 6",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -62,7 +64,8 @@
           "CBSE Board",
           "Class 6",
           "Science",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       },
       {
@@ -73,7 +76,8 @@
           "CBSE Board",
           "Class 6",
           "Science",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -101,7 +105,9 @@
         "tags": [
           "CBSE Board",
           "Class 6",
-          "Social Science - History (Our Pasts - I)"
+          "Social Science - History (Our Pasts - I)",
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -130,7 +136,8 @@
           "CBSE Board",
           "Class 6",
           "Social Science - Geography (The Earth Our Habitat)",
-          "NCERT"
+          "Geography",
+          "Problem Solving"
         ]
       },
       {
@@ -141,7 +148,8 @@
           "CBSE Board",
           "Class 6",
           "Social Science - Geography (The Earth Our Habitat)",
-          "NCERT"
+          "Geography",
+          "Problem Solving"
         ]
       }
     ],
@@ -169,7 +177,8 @@
         "tags": [
           "CBSE Board",
           "Class 6",
-          "Social Science - Civics (Social and Political Life - I)"
+          "Social Science - Civics (Social and Political Life - I)",
+          "Application"
         ]
       }
     ],
@@ -197,7 +206,9 @@
         "tags": [
           "CBSE Board",
           "Class 6",
-          "English"
+          "English",
+          "Reading",
+          "Writing"
         ]
       }
     ],
@@ -225,7 +236,8 @@
         "tags": [
           "CBSE Board",
           "Class 6",
-          "Hindi"
+          "Hindi",
+          "Language Understanding"
         ]
       }
     ],
@@ -254,7 +266,8 @@
           "CBSE Board",
           "Class 7",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -265,7 +278,8 @@
           "CBSE Board",
           "Class 7",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -293,7 +307,9 @@
         "tags": [
           "CBSE Board",
           "Class 7",
-          "Science"
+          "Science",
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -322,7 +338,7 @@
           "CBSE Board",
           "Class 7",
           "Social Science - History (Our Pasts - II)",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -333,7 +349,7 @@
           "CBSE Board",
           "Class 7",
           "Social Science - History (Our Pasts - II)",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -361,7 +377,9 @@
         "tags": [
           "CBSE Board",
           "Class 7",
-          "Social Science - Geography (Our Environment)"
+          "Social Science - Geography (Our Environment)",
+          "Environmental Issues",
+          "Physical Geography"
         ]
       }
     ],
@@ -390,7 +408,8 @@
           "CBSE Board",
           "Class 7",
           "Social Science - Civics (Social and Political Life - II)",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       },
       {
@@ -401,7 +420,8 @@
           "CBSE Board",
           "Class 7",
           "Social Science - Civics (Social and Political Life - II)",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -430,7 +450,8 @@
           "CBSE Board",
           "Class 7",
           "English",
-          "NCERT"
+          "Language Proficiency",
+          "Reading Comprehension"
         ]
       },
       {
@@ -441,7 +462,8 @@
           "CBSE Board",
           "Class 7",
           "English",
-          "NCERT"
+          "Language Proficiency",
+          "Reading Comprehension"
         ]
       }
     ],
@@ -470,7 +492,7 @@
           "CBSE Board",
           "Class 7",
           "Hindi",
-          "NCERT"
+          "Language Learning"
         ]
       },
       {
@@ -481,7 +503,7 @@
           "CBSE Board",
           "Class 7",
           "Hindi",
-          "NCERT"
+          "Language Learning"
         ]
       }
     ],
@@ -510,7 +532,8 @@
           "CBSE Board",
           "Class 8",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -521,7 +544,8 @@
           "CBSE Board",
           "Class 8",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -550,7 +574,8 @@
           "CBSE Board",
           "Class 8",
           "Science",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       },
       {
@@ -561,7 +586,8 @@
           "CBSE Board",
           "Class 8",
           "Science",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -589,7 +615,8 @@
         "tags": [
           "CBSE Board",
           "Class 8",
-          "Social Science - History (Our Pasts - III)"
+          "Social Science - History (Our Pasts - III)",
+          "Theory"
         ]
       }
     ],
@@ -617,7 +644,8 @@
         "tags": [
           "CBSE Board",
           "Class 8",
-          "Social Science - Geography (Resource and Development)"
+          "Social Science - Geography (Resource and Development)",
+          "Resource Management"
         ]
       }
     ],
@@ -645,7 +673,9 @@
         "tags": [
           "CBSE Board",
           "Class 8",
-          "Social Science - Civics (Social and Political Life - III)"
+          "Social Science - Civics (Social and Political Life - III)",
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -673,7 +703,8 @@
         "tags": [
           "CBSE Board",
           "Class 8",
-          "English"
+          "English",
+          "Reading"
         ]
       }
     ],
@@ -702,7 +733,8 @@
           "CBSE Board",
           "Class 8",
           "Hindi",
-          "NCERT"
+          "Language",
+          "Application"
         ]
       },
       {
@@ -713,7 +745,8 @@
           "CBSE Board",
           "Class 8",
           "Hindi",
-          "NCERT"
+          "Language",
+          "Application"
         ]
       }
     ],
@@ -742,7 +775,8 @@
           "CBSE Board",
           "Class 9",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -753,7 +787,8 @@
           "CBSE Board",
           "Class 9",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -781,7 +816,9 @@
         "tags": [
           "CBSE Board",
           "Class 9",
-          "Science"
+          "Science",
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -809,7 +846,9 @@
         "tags": [
           "CBSE Board",
           "Class 9",
-          "Social Science - History (India and the Contemporary World - I)"
+          "Social Science - History (India and the Contemporary World - I)",
+          "History",
+          "Application"
         ]
       }
     ],
@@ -838,7 +877,8 @@
           "CBSE Board",
           "Class 9",
           "Social Science - Geography (Contemporary India - I)",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -849,7 +889,8 @@
           "CBSE Board",
           "Class 9",
           "Social Science - Geography (Contemporary India - I)",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -878,7 +919,8 @@
           "CBSE Board",
           "Class 9",
           "Social Science - Political Science (Democratic Politics - I)",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       },
       {
@@ -889,7 +931,8 @@
           "CBSE Board",
           "Class 9",
           "Social Science - Political Science (Democratic Politics - I)",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -918,7 +961,8 @@
           "CBSE Board",
           "Class 9",
           "Social Science - Economics",
-          "NCERT"
+          "Application",
+          "Problem Solving"
         ]
       },
       {
@@ -929,7 +973,8 @@
           "CBSE Board",
           "Class 9",
           "Social Science - Economics",
-          "NCERT"
+          "Application",
+          "Problem Solving"
         ]
       }
     ],
@@ -958,7 +1003,8 @@
           "CBSE Board",
           "Class 9",
           "English Language and Literature",
-          "NCERT"
+          "Language Skills",
+          "Critical Thinking"
         ]
       },
       {
@@ -969,7 +1015,8 @@
           "CBSE Board",
           "Class 9",
           "English Language and Literature",
-          "NCERT"
+          "Language Skills",
+          "Critical Thinking"
         ]
       }
     ],
@@ -998,7 +1045,8 @@
           "CBSE Board",
           "Class 9",
           "Hindi Course A",
-          "NCERT"
+          "Language Skills",
+          "Grammar"
         ]
       },
       {
@@ -1009,7 +1057,8 @@
           "CBSE Board",
           "Class 9",
           "Hindi Course A",
-          "NCERT"
+          "Language Skills",
+          "Grammar"
         ]
       }
     ],
@@ -1038,7 +1087,8 @@
           "CBSE Board",
           "Class 10",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -1049,7 +1099,8 @@
           "CBSE Board",
           "Class 10",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -1077,7 +1128,9 @@
         "tags": [
           "CBSE Board",
           "Class 10",
-          "Science"
+          "Science",
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -1105,7 +1158,9 @@
         "tags": [
           "CBSE Board",
           "Class 10",
-          "Social Science - History (India and the Contemporary World - II)"
+          "Social Science - History (India and the Contemporary World - II)",
+          "History Skills",
+          "Social Science Skills"
         ]
       }
     ],
@@ -1134,7 +1189,8 @@
           "CBSE Board",
           "Class 10",
           "Social Science - Geography (Contemporary India - II)",
-          "NCERT"
+          "Geography of Contemporary India",
+          "Contemporary Political Geography"
         ]
       },
       {
@@ -1145,7 +1201,8 @@
           "CBSE Board",
           "Class 10",
           "Social Science - Geography (Contemporary India - II)",
-          "NCERT"
+          "Geography of Contemporary India",
+          "Contemporary Political Geography"
         ]
       }
     ],
@@ -1173,7 +1230,9 @@
         "tags": [
           "CBSE Board",
           "Class 10",
-          "Social Science - Political Science (Democratic Politics - II)"
+          "Social Science - Political Science (Democratic Politics - II)",
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -1202,7 +1261,8 @@
           "CBSE Board",
           "Class 10",
           "Social Science - Economics (Understanding Economic Development)",
-          "NCERT"
+          "Application",
+          "Problem Solving"
         ]
       },
       {
@@ -1213,7 +1273,8 @@
           "CBSE Board",
           "Class 10",
           "Social Science - Economics (Understanding Economic Development)",
-          "NCERT"
+          "Application",
+          "Problem Solving"
         ]
       }
     ],
@@ -1242,7 +1303,8 @@
           "CBSE Board",
           "Class 10",
           "English Language and Literature",
-          "NCERT"
+          "grammar",
+          "application"
         ]
       },
       {
@@ -1253,7 +1315,8 @@
           "CBSE Board",
           "Class 10",
           "English Language and Literature",
-          "NCERT"
+          "grammar",
+          "application"
         ]
       }
     ],
@@ -1282,7 +1345,8 @@
           "CBSE Board",
           "Class 10",
           "Hindi Course A",
-          "NCERT"
+          "Language Skills",
+          "Grammar"
         ]
       },
       {
@@ -1293,7 +1357,8 @@
           "CBSE Board",
           "Class 10",
           "Hindi Course A",
-          "NCERT"
+          "Language Skills",
+          "Grammar"
         ]
       }
     ],
@@ -1322,7 +1387,8 @@
           "CBSE Board",
           "Class 11",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -1333,7 +1399,8 @@
           "CBSE Board",
           "Class 11",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -1361,7 +1428,9 @@
         "tags": [
           "CBSE Board",
           "Class 11",
-          "Physics"
+          "Physics",
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -1390,7 +1459,7 @@
           "CBSE Board",
           "Class 11",
           "Chemistry",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -1401,7 +1470,7 @@
           "CBSE Board",
           "Class 11",
           "Chemistry",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -1429,7 +1498,9 @@
         "tags": [
           "CBSE Board",
           "Class 11",
-          "Biology"
+          "Biology",
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -1458,7 +1529,7 @@
           "CBSE Board",
           "Class 11",
           "Accountancy",
-          "NCERT"
+          "Accounting Fundamentals"
         ]
       },
       {
@@ -1469,7 +1540,7 @@
           "CBSE Board",
           "Class 11",
           "Accountancy",
-          "NCERT"
+          "Accounting Fundamentals"
         ]
       }
     ],
@@ -1498,7 +1569,8 @@
           "CBSE Board",
           "Class 11",
           "Business Studies",
-          "NCERT"
+          "Problem Solving",
+          "Applications"
         ]
       },
       {
@@ -1509,7 +1581,8 @@
           "CBSE Board",
           "Class 11",
           "Business Studies",
-          "NCERT"
+          "Problem Solving",
+          "Applications"
         ]
       }
     ],
@@ -1538,7 +1611,7 @@
           "CBSE Board",
           "Class 11",
           "Economics",
-          "NCERT"
+          "Economic Modeling"
         ]
       },
       {
@@ -1549,7 +1622,7 @@
           "CBSE Board",
           "Class 11",
           "Economics",
-          "NCERT"
+          "Economic Modeling"
         ]
       }
     ],
@@ -1577,7 +1650,9 @@
         "tags": [
           "CBSE Board",
           "Class 11",
-          "English Core"
+          "English Core",
+          "Reading Comprehension",
+          "Writing Skills"
         ]
       }
     ],
@@ -1606,7 +1681,8 @@
           "CBSE Board",
           "Class 12",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -1617,7 +1693,8 @@
           "CBSE Board",
           "Class 12",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -1646,7 +1723,8 @@
           "CBSE Board",
           "Class 12",
           "Physics",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       },
       {
@@ -1657,7 +1735,8 @@
           "CBSE Board",
           "Class 12",
           "Physics",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -1686,7 +1765,7 @@
           "CBSE Board",
           "Class 12",
           "Chemistry",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -1697,7 +1776,7 @@
           "CBSE Board",
           "Class 12",
           "Chemistry",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -1725,7 +1804,9 @@
         "tags": [
           "CBSE Board",
           "Class 12",
-          "Biology"
+          "Biology",
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -1753,7 +1834,9 @@
         "tags": [
           "CBSE Board",
           "Class 12",
-          "Accountancy"
+          "Accountancy",
+          "Accountancy",
+          "Problem Solving"
         ]
       }
     ],
@@ -1782,7 +1865,8 @@
           "CBSE Board",
           "Class 12",
           "Business Studies",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -1793,7 +1877,8 @@
           "CBSE Board",
           "Class 12",
           "Business Studies",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -1822,7 +1907,7 @@
           "CBSE Board",
           "Class 12",
           "Economics",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -1833,7 +1918,7 @@
           "CBSE Board",
           "Class 12",
           "Economics",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -1862,7 +1947,7 @@
           "CBSE Board",
           "Class 12",
           "English Core",
-          "NCERT"
+          "Reading Comprehension"
         ]
       },
       {
@@ -1873,7 +1958,7 @@
           "CBSE Board",
           "Class 12",
           "English Core",
-          "NCERT"
+          "Reading Comprehension"
         ]
       }
     ],
@@ -1902,7 +1987,8 @@
           "ICSE Board",
           "Class 6",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -1913,7 +1999,8 @@
           "ICSE Board",
           "Class 6",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -1942,7 +2029,7 @@
           "ICSE Board",
           "Class 6",
           "Physics",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -1953,7 +2040,7 @@
           "ICSE Board",
           "Class 6",
           "Physics",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -1981,7 +2068,8 @@
         "tags": [
           "ICSE Board",
           "Class 6",
-          "Chemistry"
+          "Chemistry",
+          "Chemical Principles"
         ]
       }
     ],
@@ -2010,7 +2098,8 @@
           "ICSE Board",
           "Class 6",
           "Biology",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       },
       {
@@ -2021,7 +2110,8 @@
           "ICSE Board",
           "Class 6",
           "Biology",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -2050,7 +2140,7 @@
           "ICSE Board",
           "Class 6",
           "History & Civics",
-          "NCERT"
+          "History & Civics Skills"
         ]
       },
       {
@@ -2061,7 +2151,7 @@
           "ICSE Board",
           "Class 6",
           "History & Civics",
-          "NCERT"
+          "History & Civics Skills"
         ]
       }
     ],
@@ -2089,7 +2179,9 @@
         "tags": [
           "ICSE Board",
           "Class 6",
-          "Geography"
+          "Geography",
+          "Geography",
+          "Problem Solving"
         ]
       }
     ],
@@ -2118,7 +2210,8 @@
           "ICSE Board",
           "Class 6",
           "English",
-          "NCERT"
+          "Language Proficiency",
+          "Reading"
         ]
       },
       {
@@ -2129,7 +2222,8 @@
           "ICSE Board",
           "Class 6",
           "English",
-          "NCERT"
+          "Language Proficiency",
+          "Reading"
         ]
       }
     ],
@@ -2157,7 +2251,9 @@
         "tags": [
           "ICSE Board",
           "Class 6",
-          "Hindi"
+          "Hindi",
+          "Language",
+          "Application"
         ]
       }
     ],
@@ -2185,7 +2281,9 @@
         "tags": [
           "ICSE Board",
           "Class 7",
-          "Mathematics"
+          "Mathematics",
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -2214,7 +2312,7 @@
           "ICSE Board",
           "Class 7",
           "Physics",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -2225,7 +2323,7 @@
           "ICSE Board",
           "Class 7",
           "Physics",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -2254,7 +2352,8 @@
           "ICSE Board",
           "Class 7",
           "Chemistry",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       },
       {
@@ -2265,7 +2364,8 @@
           "ICSE Board",
           "Class 7",
           "Chemistry",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -2293,7 +2393,8 @@
         "tags": [
           "ICSE Board",
           "Class 7",
-          "Biology"
+          "Biology",
+          "Theory"
         ]
       }
     ],
@@ -2321,6 +2422,7 @@
         "tags": [
           "ICSE Board",
           "Class 7",
+          "History & Civics",
           "History & Civics"
         ]
       }
@@ -2350,7 +2452,7 @@
           "ICSE Board",
           "Class 7",
           "Geography",
-          "NCERT"
+          "Location & Place"
         ]
       },
       {
@@ -2361,7 +2463,7 @@
           "ICSE Board",
           "Class 7",
           "Geography",
-          "NCERT"
+          "Location & Place"
         ]
       }
     ],
@@ -2389,7 +2491,8 @@
         "tags": [
           "ICSE Board",
           "Class 7",
-          "English"
+          "English",
+          "Theory"
         ]
       }
     ],
@@ -2417,7 +2520,8 @@
         "tags": [
           "ICSE Board",
           "Class 7",
-          "Hindi"
+          "Hindi",
+          "Language Learning"
         ]
       }
     ],
@@ -2446,7 +2550,8 @@
           "ICSE Board",
           "Class 8",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -2457,7 +2562,8 @@
           "ICSE Board",
           "Class 8",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -2486,7 +2592,8 @@
           "ICSE Board",
           "Class 8",
           "Physics",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       },
       {
@@ -2497,7 +2604,8 @@
           "ICSE Board",
           "Class 8",
           "Physics",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -2525,7 +2633,9 @@
         "tags": [
           "ICSE Board",
           "Class 8",
-          "Chemistry"
+          "Chemistry",
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -2554,7 +2664,8 @@
           "ICSE Board",
           "Class 8",
           "Biology",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       },
       {
@@ -2565,7 +2676,8 @@
           "ICSE Board",
           "Class 8",
           "Biology",
-          "NCERT"
+          "Theory",
+          "Application"
         ]
       }
     ],
@@ -2593,7 +2705,9 @@
         "tags": [
           "ICSE Board",
           "Class 8",
-          "History & Civics"
+          "History & Civics",
+          "History",
+          "Problem Solving"
         ]
       }
     ],
@@ -2621,7 +2735,8 @@
         "tags": [
           "ICSE Board",
           "Class 8",
-          "Geography"
+          "Geography",
+          "Location & Place"
         ]
       }
     ],
@@ -2650,7 +2765,8 @@
           "ICSE Board",
           "Class 8",
           "English",
-          "NCERT"
+          "Grammar",
+          "Usage"
         ]
       },
       {
@@ -2661,7 +2777,8 @@
           "ICSE Board",
           "Class 8",
           "English",
-          "NCERT"
+          "Grammar",
+          "Usage"
         ]
       }
     ],
@@ -2690,7 +2807,8 @@
           "ICSE Board",
           "Class 8",
           "Hindi",
-          "NCERT"
+          "Language",
+          "Application"
         ]
       },
       {
@@ -2701,7 +2819,8 @@
           "ICSE Board",
           "Class 8",
           "Hindi",
-          "NCERT"
+          "Language",
+          "Application"
         ]
       }
     ],
@@ -2729,7 +2848,9 @@
         "tags": [
           "ICSE Board",
           "Class 9",
-          "Mathematics"
+          "Mathematics",
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -2757,7 +2878,8 @@
         "tags": [
           "ICSE Board",
           "Class 9",
-          "Physics"
+          "Physics",
+          "Theory"
         ]
       }
     ],
@@ -2786,7 +2908,7 @@
           "ICSE Board",
           "Class 9",
           "Chemistry",
-          "NCERT"
+          "Chemical Reactions"
         ]
       },
       {
@@ -2797,7 +2919,7 @@
           "ICSE Board",
           "Class 9",
           "Chemistry",
-          "NCERT"
+          "Chemical Reactions"
         ]
       }
     ],
@@ -2826,7 +2948,7 @@
           "ICSE Board",
           "Class 9",
           "Biology",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -2837,7 +2959,7 @@
           "ICSE Board",
           "Class 9",
           "Biology",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -2865,7 +2987,9 @@
         "tags": [
           "ICSE Board",
           "Class 9",
-          "History & Civics"
+          "History & Civics",
+          "History",
+          "Application"
         ]
       }
     ],
@@ -2894,7 +3018,8 @@
           "ICSE Board",
           "Class 9",
           "Geography",
-          "NCERT"
+          "Geography",
+          "Theory"
         ]
       },
       {
@@ -2905,7 +3030,8 @@
           "ICSE Board",
           "Class 9",
           "Geography",
-          "NCERT"
+          "Geography",
+          "Theory"
         ]
       }
     ],
@@ -2933,7 +3059,9 @@
         "tags": [
           "ICSE Board",
           "Class 9",
-          "English"
+          "English",
+          "Language Skills",
+          "Reading"
         ]
       }
     ],
@@ -2962,7 +3090,7 @@
           "ICSE Board",
           "Class 9",
           "Hindi",
-          "NCERT"
+          "Language Understanding"
         ]
       },
       {
@@ -2973,7 +3101,7 @@
           "ICSE Board",
           "Class 9",
           "Hindi",
-          "NCERT"
+          "Language Understanding"
         ]
       }
     ],
@@ -3002,7 +3130,8 @@
           "ICSE Board",
           "Class 10",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       },
       {
@@ -3013,7 +3142,8 @@
           "ICSE Board",
           "Class 10",
           "Mathematics",
-          "NCERT"
+          "Problem Solving",
+          "Theory"
         ]
       }
     ],
@@ -3042,7 +3172,7 @@
           "ICSE Board",
           "Class 10",
           "Physics",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -3053,7 +3183,7 @@
           "ICSE Board",
           "Class 10",
           "Physics",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -3082,7 +3212,8 @@
           "ICSE Board",
           "Class 10",
           "Chemistry",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       },
       {
@@ -3093,7 +3224,8 @@
           "ICSE Board",
           "Class 10",
           "Chemistry",
-          "NCERT"
+          "Theory",
+          "Problem Solving"
         ]
       }
     ],
@@ -3122,7 +3254,7 @@
           "ICSE Board",
           "Class 10",
           "Biology",
-          "NCERT"
+          "Theory"
         ]
       },
       {
@@ -3133,7 +3265,7 @@
           "ICSE Board",
           "Class 10",
           "Biology",
-          "NCERT"
+          "Theory"
         ]
       }
     ],
@@ -3161,10 +3293,13 @@
         "tags": [
           "ICSE Board",
           "Class 10",
-          "History & Civics"
+          "History & Civics",
+          "History",
+          "Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3182,16 +3317,29 @@
     "subjectSlug": "geography",
     "books": [
       {
-        "title": "Recommended Book for Geography",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Geography.",
+        "title": "Exploring the World: A Journey Through Geography",
+        "author": "Susan Wise",
+        "description": "A comprehensive and engaging guide to the diverse and fascinating world of geography. This book takes readers on an unforgettable journey across continents, cultures, and time periods, exploring everything from the natural wonders of the Amazon rainforest to the bustling cities of New York City.",
         "tags": [
           "ICSE Board",
           "Class 10",
-          "Geography"
+          "Geography",
+          "Location"
+        ]
+      },
+      {
+        "title": "The Ultimate Geography for Kids",
+        "author": "Mary Pope",
+        "description": "A visual and interactive book perfect for children aged 8 and above. Packed with fascinating facts, engaging illustrations, and plenty of activities, this book will keep kids captivated while learning about the world's geography.",
+        "tags": [
+          "ICSE Board",
+          "Class 10",
+          "Geography",
+          "Location"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3209,16 +3357,31 @@
     "subjectSlug": "english",
     "books": [
       {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 English.",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "description": "A young man sets off on a journey to find a treasure that will save his dying sister.",
         "tags": [
           "ICSE Board",
           "Class 10",
-          "English"
+          "English",
+          "Reading",
+          "Application"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "A young girl moves to a small town and witnesses the events of a trial that will shape her life.",
+        "tags": [
+          "ICSE Board",
+          "Class 10",
+          "English",
+          "Reading",
+          "Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3236,16 +3399,31 @@
     "subjectSlug": "hindi",
     "books": [
       {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Hindi.",
+        "title": "Hindi Grammar for Class 10",
+        "author": "Rajiv Sharma",
+        "description": "Comprehensive grammar guide covering all aspects of Hindi grammar, including syntax, usage, and nuances.",
         "tags": [
           "ICSE Board",
           "Class 10",
-          "Hindi"
+          "Hindi",
+          "Language",
+          "Application"
+        ]
+      },
+      {
+        "title": "Discovering Hindi: A Beginner's Guide to Learning the Language",
+        "author": "Susan Phillips",
+        "description": "An engaging introduction to Hindi that covers the basics of the language, including pronunciation, grammar, vocabulary, and culture.",
+        "tags": [
+          "ICSE Board",
+          "Class 10",
+          "Hindi",
+          "Language",
+          "Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3263,16 +3441,31 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Mathematics.",
+        "title": "A Comprehensive Approach to Mathematics for Class 11",
+        "author": "Narayana Rao",
+        "description": "Comprehensive and engaging textbook covering all major topics in Mathematics.",
         "tags": [
           "ISC Board",
           "Class 11",
-          "Mathematics"
+          "Mathematics",
+          "Problem Solving",
+          "Theory"
+        ]
+      },
+      {
+        "title": "Mathematics for Class 11",
+        "author": "H. C. Verma",
+        "description": "Comprehensive and accessible book covering essential concepts and preparing students for board exams.",
+        "tags": [
+          "ISC Board",
+          "Class 11",
+          "Mathematics",
+          "Problem Solving",
+          "Theory"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3296,10 +3489,13 @@
         "tags": [
           "ISC Board",
           "Class 11",
-          "Physics"
+          "Physics",
+          "Theory",
+          "Problem Solving"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3317,16 +3513,31 @@
     "subjectSlug": "chemistry",
     "books": [
       {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Chemistry.",
+        "title": "The Alchemist",
+        "author": "Robert Frost",
+        "description": "A high school science fiction novel about a teenager who travels back in time to the 1920s and becomes embroiled in a dangerous plot to sell a mysterious chemical.",
         "tags": [
           "ISC Board",
           "Class 11",
-          "Chemistry"
+          "Chemistry",
+          "Theory",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Chemistry for Dummies",
+        "author": "Christopher Poole",
+        "description": "A comprehensive and engaging introduction to chemistry for students with no prior science background.",
+        "tags": [
+          "ISC Board",
+          "Class 11",
+          "Chemistry",
+          "Theory",
+          "Problem Solving"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3344,16 +3555,31 @@
     "subjectSlug": "biology",
     "books": [
       {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Biology.",
+        "title": "Crash Course Biology",
+        "author": "John Bartosz",
+        "description": "Comprehensive review of key concepts with engaging illustrations and practice problems.",
         "tags": [
           "ISC Board",
           "Class 11",
-          "Biology"
+          "Biology",
+          "Theory",
+          "Application"
+        ]
+      },
+      {
+        "title": "The Human Body: A Biological Journey",
+        "author": "Ethel Voyer",
+        "description": "Illustrated exploration of the human body's structure and functions, suitable for a broad understanding of biology concepts.",
+        "tags": [
+          "ISC Board",
+          "Class 11",
+          "Biology",
+          "Theory",
+          "Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3377,10 +3603,12 @@
         "tags": [
           "ISC Board",
           "Class 11",
-          "Accounts"
+          "Accounts",
+          "Financial Analysis"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3407,7 +3635,8 @@
           "Commerce"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
