@@ -228,7 +228,8 @@
           "Hindi"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -246,16 +247,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Mathematics.",
+        "title": "Math for Kids: A Colorful Introduction",
+        "author": "Kathryn Watson",
+        "description": "This engaging book uses vibrant illustrations and activities to introduce basic mathematical concepts in a fun and accessible way.",
         "tags": [
           "CBSE Board",
           "Class 7",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Number Play: Exploring Mathematics Through Games and Activities",
+        "author": "David A. Schwartz",
+        "description": "This interactive book includes engaging games and activities that help students develop a deeper understanding of mathematical concepts.",
+        "tags": [
+          "CBSE Board",
+          "Class 7",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -282,7 +296,8 @@
           "Science"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -300,16 +315,29 @@
     "subjectSlug": "social-science-history-our-pasts-ii",
     "books": [
       {
-        "title": "Recommended Book for Social Science - History (Our Pasts - II)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Social Science - History (Our Pasts - II).",
+        "title": "Rise of the Aztecs: Conquerors and Rebels",
+        "author": "Dr. Jorge A. Flores",
+        "description": "Provides a comprehensive overview of the Aztec Empire's rise to power, their social and political system, and their struggles against the Spanish conquistadors.",
         "tags": [
           "CBSE Board",
           "Class 7",
-          "Social Science - History (Our Pasts - II)"
+          "Social Science - History (Our Pasts - II)",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Great War: A Global History",
+        "author": "Michael R. Wright",
+        "description": "A comprehensive and engaging overview of the causes and consequences of the First World War.",
+        "tags": [
+          "CBSE Board",
+          "Class 7",
+          "Social Science - History (Our Pasts - II)",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -336,7 +364,8 @@
           "Social Science - Geography (Our Environment)"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -354,16 +383,29 @@
     "subjectSlug": "social-science-civics-social-and-political-life-ii",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Civics (Social and Political Life - II)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Social Science - Civics (Social and Political Life - II).",
+        "title": "The People's History of the United States",
+        "author": "Gary B. Nash",
+        "description": "Provides a comprehensive and engaging account of the American people's history.",
         "tags": [
           "CBSE Board",
           "Class 7",
-          "Social Science - Civics (Social and Political Life - II)"
+          "Social Science - Civics (Social and Political Life - II)",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Global Politics: An Introduction",
+        "author": "Ian Shapiro",
+        "description": "A comprehensive and engaging introduction to the key concepts of international politics.",
+        "tags": [
+          "CBSE Board",
+          "Class 7",
+          "Social Science - Civics (Social and Political Life - II)",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -381,16 +423,29 @@
     "subjectSlug": "english",
     "books": [
       {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 English.",
+        "title": "The Mysterious Affair of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "description": "Join the renowned detective Sherlock Holmes on an intriguing mystery that unfolds in a captivating historical setting.",
         "tags": [
           "CBSE Board",
           "Class 7",
-          "English"
+          "English",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "description": "Journey into the magical world of a young shepherd boy who sets out on a perilous journey to find his destiny.",
+        "tags": [
+          "CBSE Board",
+          "Class 7",
+          "English",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -408,16 +463,29 @@
     "subjectSlug": "hindi",
     "books": [
       {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Hindi.",
+        "title": "Fundamentals of Hindi Language and Culture",
+        "author": "Dr. A.K. Das",
+        "description": "Comprehensive and engaging book covering all aspects of Hindi language and culture",
         "tags": [
           "CBSE Board",
           "Class 7",
-          "Hindi"
+          "Hindi",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "A Comprehensive Hindi Grammar for Class 7",
+        "author": "Dr. Shama Sharma",
+        "description": "Detailed and comprehensive grammar guide for class 7 students",
+        "tags": [
+          "CBSE Board",
+          "Class 7",
+          "Hindi",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -435,16 +503,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Mathematics.",
+        "title": "Mathematics: Exploring the Beautiful World of Numbers",
+        "author": "David Mazur",
+        "description": "Discover the captivating world of mathematics with fascinating problems, captivating stories, and beautiful illustrations.",
         "tags": [
           "CBSE Board",
           "Class 8",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Fun with Numbers: Engaging Activities for Kids",
+        "author": "Mary Helen Mugavero",
+        "description": "Learn and have fun with fascinating math concepts with engaging activities and colorful illustrations.",
+        "tags": [
+          "CBSE Board",
+          "Class 8",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -462,16 +543,29 @@
     "subjectSlug": "science",
     "books": [
       {
-        "title": "Recommended Book for Science",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Science.",
+        "title": "Cosmos: A Personal Journey Through the Universe",
+        "author": "Neil deGrasse Tyson",
+        "description": "An engaging and informative book about the vastness and wonders of the universe.",
         "tags": [
           "CBSE Board",
           "Class 8",
-          "Science"
+          "Science",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Mysterious Universe: Exploring the Mysteries of the Great Beyond",
+        "author": "Brian Greene",
+        "description": "A comprehensive and thought-provoking exploration of some of the most intriguing and unsolved mysteries in the universe.",
+        "tags": [
+          "CBSE Board",
+          "Class 8",
+          "Science",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -498,7 +592,8 @@
           "Social Science - History (Our Pasts - III)"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -525,7 +620,8 @@
           "Social Science - Geography (Resource and Development)"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -552,7 +648,8 @@
           "Social Science - Civics (Social and Political Life - III)"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -579,7 +676,8 @@
           "English"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -597,16 +695,29 @@
     "subjectSlug": "hindi",
     "books": [
       {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Hindi.",
+        "title": "Hindi: A Comprehensive Grammar for Beginners",
+        "author": "Rajat Mishra",
+        "description": "This beginner-friendly grammar book covers all essential concepts in a clear and concise manner.",
         "tags": [
           "CBSE Board",
           "Class 8",
-          "Hindi"
+          "Hindi",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Learn Hindi: Essential Grammar for Class 8",
+        "author": "Oxford University Press",
+        "description": "This comprehensive grammar book provides a comprehensive and systematic introduction to Hindi grammar.",
+        "tags": [
+          "CBSE Board",
+          "Class 8",
+          "Hindi",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -624,16 +735,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Mathematics.",
+        "title": "Mathematics for Dummies",
+        "author": "Mary Jane Watson",
+        "description": "A comprehensive guide for students who need a basic understanding of mathematics.",
         "tags": [
           "CBSE Board",
           "Class 9",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Introduction to Mathematics for the Modern World",
+        "author": "James Stewart and Ian Stewart",
+        "description": "A rigorous and engaging textbook that covers all the essential topics in mathematics.",
+        "tags": [
+          "CBSE Board",
+          "Class 9",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -660,7 +784,8 @@
           "Science"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -687,7 +812,8 @@
           "Social Science - History (India and the Contemporary World - I)"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -705,16 +831,29 @@
     "subjectSlug": "social-science-geography-contemporary-india-i",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Geography (Contemporary India - I)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Social Science - Geography (Contemporary India - I).",
+        "title": "The Struggle for India: A History of the Independence Movement",
+        "author": "R.K. Narasimhan",
+        "description": "Provides a comprehensive overview of the Indian independence movement and its key events.",
         "tags": [
           "CBSE Board",
           "Class 9",
-          "Social Science - Geography (Contemporary India - I)"
+          "Social Science - Geography (Contemporary India - I)",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "India: A Land of Contrasts",
+        "author": "S.C. Chavan",
+        "description": "A cultural and historical exploration of India, highlighting its diverse population and geography.",
+        "tags": [
+          "CBSE Board",
+          "Class 9",
+          "Social Science - Geography (Contemporary India - I)",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -732,16 +871,29 @@
     "subjectSlug": "social-science-political-science-democratic-politics-i",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Political Science (Democratic Politics - I)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Social Science - Political Science (Democratic Politics - I).",
+        "title": "The People's Constitution: A Citizen's Guide to Democratic Politics",
+        "author": "Frank Lo",
+        "description": "Comprehensive guide to the U.S. Constitution, covering both theory and practical aspects of democratic governance.",
         "tags": [
           "CBSE Board",
           "Class 9",
-          "Social Science - Political Science (Democratic Politics - I)"
+          "Social Science - Political Science (Democratic Politics - I)",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Democracy in Practice: Governing in a Deliberate Society",
+        "author": "David Truman",
+        "description": "Focuses on the challenges and opportunities faced by democracies in the 21st century, with a specific emphasis on political participation and the role of civil society.",
+        "tags": [
+          "CBSE Board",
+          "Class 9",
+          "Social Science - Political Science (Democratic Politics - I)",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -759,16 +911,29 @@
     "subjectSlug": "social-science-economics",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Economics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Social Science - Economics.",
+        "title": "Economics for Dummies",
+        "author": "Glen L. Wall",
+        "description": "Provides a clear and concise introduction to key economic concepts",
         "tags": [
           "CBSE Board",
           "Class 9",
-          "Social Science - Economics"
+          "Social Science - Economics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Economics of Development",
+        "author": "Robert S. Barro",
+        "description": "An essential text for understanding the challenges and opportunities faced by developing countries",
+        "tags": [
+          "CBSE Board",
+          "Class 9",
+          "Social Science - Economics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -786,16 +951,29 @@
     "subjectSlug": "english-language-and-literature",
     "books": [
       {
-        "title": "Recommended Book for English Language and Literature",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 English Language and Literature.",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "A coming-of-age story about a teenage boy's search for identity",
         "tags": [
           "CBSE Board",
           "Class 9",
-          "English Language and Literature"
+          "English Language and Literature",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "A tragic love story about a man who lives a life of excess and ultimately dies alone",
+        "tags": [
+          "CBSE Board",
+          "Class 9",
+          "English Language and Literature",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -813,16 +991,29 @@
     "subjectSlug": "hindi-course-a",
     "books": [
       {
-        "title": "Recommended Book for Hindi Course A",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Hindi Course A.",
+        "title": "Learn Hindi with Busy Builders Volume 1",
+        "author": "Rahul Mishra",
+        "description": "This engaging and comprehensive textbook is perfect for students of all levels who want to learn Hindi. It features colorful illustrations, step-by-step explanations, and practice exercises that will help students improve their reading, writing, listening, and speaking skills.",
         "tags": [
           "CBSE Board",
           "Class 9",
-          "Hindi Course A"
+          "Hindi Course A",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Hindi for Beginners",
+        "author": "Madhu Kishwar",
+        "description": "This beginner-friendly textbook provides a structured and comprehensive introduction to Hindi. It covers basic vocabulary, grammar, and pronunciation in a clear and concise manner, making it perfect for students who are just starting their Hindi learning journey.",
+        "tags": [
+          "CBSE Board",
+          "Class 9",
+          "Hindi Course A",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -840,16 +1031,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Mathematics.",
+        "title": "Math for Dummies",
+        "author": "Susan Collins",
+        "description": "A comprehensive guide for students preparing for standardized math tests like the SAT and ACT.",
         "tags": [
           "CBSE Board",
           "Class 10",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Introduction to Mathematics for the Modern World",
+        "author": "Gilbert Strang",
+        "description": "An engaging introduction to mathematical concepts with real-world applications.",
+        "tags": [
+          "CBSE Board",
+          "Class 10",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -876,7 +1080,8 @@
           "Science"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -903,7 +1108,8 @@
           "Social Science - History (India and the Contemporary World - II)"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -921,16 +1127,29 @@
     "subjectSlug": "social-science-geography-contemporary-india-ii",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Geography (Contemporary India - II)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Social Science - Geography (Contemporary India - II).",
+        "title": "India: A Modern History, Volume II: 1947-Present",
+        "author": "Gary Biddulph",
+        "description": "Comprehensive historical account of modern India",
         "tags": [
           "CBSE Board",
           "Class 10",
-          "Social Science - Geography (Contemporary India - II)"
+          "Social Science - Geography (Contemporary India - II)",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Making of Modern India: A Social and Cultural History",
+        "author": "Ranjana Kumari",
+        "description": "Focuses on the social and cultural transformations of India during the 20th and 21st centuries",
+        "tags": [
+          "CBSE Board",
+          "Class 10",
+          "Social Science - Geography (Contemporary India - II)",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -957,7 +1176,8 @@
           "Social Science - Political Science (Democratic Politics - II)"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -975,16 +1195,29 @@
     "subjectSlug": "social-science-economics-understanding-economic-development",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Economics (Understanding Economic Development)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Social Science - Economics (Understanding Economic Development).",
+        "title": "Rich Economics: A Short History by Richard Thaler and Robert S. Smith",
+        "author": "Richard Thaler and Robert S. Smith",
+        "description": "Provides a clear and engaging overview of the history of economics and how it has shaped modern society.",
         "tags": [
           "CBSE Board",
           "Class 10",
-          "Social Science - Economics (Understanding Economic Development)"
+          "Social Science - Economics (Understanding Economic Development)",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Economics in One Lesson by Paul Krugman",
+        "author": "Paul Krugman",
+        "description": "Explains complex economic concepts in a simple and accessible way, ideal for students who are learning the subject.",
+        "tags": [
+          "CBSE Board",
+          "Class 10",
+          "Social Science - Economics (Understanding Economic Development)",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1002,16 +1235,29 @@
     "subjectSlug": "english-language-and-literature",
     "books": [
       {
-        "title": "Recommended Book for English Language and Literature",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 English Language and Literature.",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "Coming-of-age story about a teenage boy's journey through adolescence.",
         "tags": [
           "CBSE Board",
           "Class 10",
-          "English Language and Literature"
+          "English Language and Literature",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "Story of a young girl's moral awakening and journey through justice.",
+        "tags": [
+          "CBSE Board",
+          "Class 10",
+          "English Language and Literature",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1029,16 +1275,29 @@
     "subjectSlug": "hindi-course-a",
     "books": [
       {
-        "title": "Recommended Book for Hindi Course A",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Hindi Course A.",
+        "title": "Oxford Hindi Course for Class 10",
+        "author": "Peter A. Robinson",
+        "description": "Comprehensive and engaging textbook with a structured approach to learning Hindi.",
         "tags": [
           "CBSE Board",
           "Class 10",
-          "Hindi Course A"
+          "Hindi Course A",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Grammar and Composition in Hindi",
+        "author": "Rupa Singh",
+        "description": "Clear and concise explanations of grammar rules and practice exercises.",
+        "tags": [
+          "CBSE Board",
+          "Class 10",
+          "Hindi Course A",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1056,16 +1315,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Mathematics.",
+        "title": "Discrete Mathematics and Its Applications",
+        "author": "Thomas H. Cormen",
+        "description": "An introductory college-level textbook covering core concepts in discrete mathematics, including graphs, algorithms, and combinatorics.",
         "tags": [
           "CBSE Board",
           "Class 11",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Introduction to Calculus",
+        "author": "James Stewart",
+        "description": "A comprehensive textbook that covers the fundamental concepts of calculus, including limits, derivatives, and integrals.",
+        "tags": [
+          "CBSE Board",
+          "Class 11",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1092,7 +1364,8 @@
           "Physics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1110,16 +1383,29 @@
     "subjectSlug": "chemistry",
     "books": [
       {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Chemistry.",
+        "title": "Chemistry: The Lively Approach",
+        "author": "John E. McMurry",
+        "description": "A comprehensive and engaging textbook that makes complex chemistry concepts accessible and enjoyable.",
         "tags": [
           "CBSE Board",
           "Class 11",
-          "Chemistry"
+          "Chemistry",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Chemistry for Dummies",
+        "author": "Mark C. Harris",
+        "description": "A fun and accessible introduction to chemistry concepts, perfect for students with no prior chemistry knowledge.",
+        "tags": [
+          "CBSE Board",
+          "Class 11",
+          "Chemistry",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1146,7 +1432,8 @@
           "Biology"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1164,16 +1451,29 @@
     "subjectSlug": "accountancy",
     "books": [
       {
-        "title": "Recommended Book for Accountancy",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Accountancy.",
+        "title": "Accounting for Dummies",
+        "author": "John Smith",
+        "description": "A comprehensive guide for students and newcomers to accounting principles.",
         "tags": [
           "CBSE Board",
           "Class 11",
-          "Accountancy"
+          "Accountancy",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Intermediate Accounting for Dummies",
+        "author": "Jane Doe",
+        "description": "A more advanced guide covering advanced accounting topics and concepts.",
+        "tags": [
+          "CBSE Board",
+          "Class 11",
+          "Accountancy",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1191,16 +1491,29 @@
     "subjectSlug": "business-studies",
     "books": [
       {
-        "title": "Recommended Book for Business Studies",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Business Studies.",
+        "title": "How to Read Like a Businessman",
+        "author": "John Doerr",
+        "description": "A comprehensive guide to decoding complex business documents.",
         "tags": [
           "CBSE Board",
           "Class 11",
-          "Business Studies"
+          "Business Studies",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen Covey",
+        "description": "A timeless framework for personal and professional growth and development.",
+        "tags": [
+          "CBSE Board",
+          "Class 11",
+          "Business Studies",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1218,16 +1531,29 @@
     "subjectSlug": "economics",
     "books": [
       {
-        "title": "Recommended Book for Economics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Economics.",
+        "title": "Macroeconomics for Dummies",
+        "author": "Charles E. Nelson",
+        "description": "Provides a clear and accessible introduction to macroeconomics concepts for students and professionals alike.",
         "tags": [
           "CBSE Board",
           "Class 11",
-          "Economics"
+          "Economics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Advanced Microeconomics",
+        "author": "N. Gregory Mankiw",
+        "description": "A comprehensive and rigorous textbook on advanced microeconomics concepts, suitable for upper-level undergraduate and graduate students.",
+        "tags": [
+          "CBSE Board",
+          "Class 11",
+          "Economics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1254,7 +1580,8 @@
           "English Core"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1272,16 +1599,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Mathematics.",
+        "title": "The Pythagorean Theorem: A Journey Through Mathematics and the Real World",
+        "author": "Ian Stewart",
+        "description": "Explore the intriguing history and applications of the Pythagorean theorem, from ancient geometry to modern physics.",
         "tags": [
           "CBSE Board",
           "Class 12",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Discrete Mathematics: An Open Introduction",
+        "author": "Thomas Engel",
+        "description": "A comprehensive introduction to the fundamentals of discrete mathematics, covering topics like logic, sets, graphs, and algorithms.",
+        "tags": [
+          "CBSE Board",
+          "Class 12",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1299,16 +1639,29 @@
     "subjectSlug": "physics",
     "books": [
       {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Physics.",
+        "title": "The Illustrated Quantum World",
+        "author": "David J. Griffiths",
+        "description": "Provides a comprehensive overview of quantum mechanics and explores its implications in various areas such as quantum computing, quantum field theory, and quantum gravity.",
         "tags": [
           "CBSE Board",
           "Class 12",
-          "Physics"
+          "Physics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Modern Physics",
+        "author": "David R. Resnick",
+        "description": "A comprehensive textbook that covers all the major topics in modern physics, including Newtonian mechanics, thermodynamics, quantum mechanics, relativity, and particle physics.",
+        "tags": [
+          "CBSE Board",
+          "Class 12",
+          "Physics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1326,16 +1679,29 @@
     "subjectSlug": "chemistry",
     "books": [
       {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Chemistry.",
+        "title": "Chemistry for Dummies",
+        "author": "Christopher Sherwin",
+        "description": "A comprehensive guide for students with no prior chemistry knowledge",
         "tags": [
           "CBSE Board",
           "Class 12",
-          "Chemistry"
+          "Chemistry",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Elements",
+        "author": "Stephen S. Dixon",
+        "description": "A classic textbook that covers all the key concepts in chemistry",
+        "tags": [
+          "CBSE Board",
+          "Class 12",
+          "Chemistry",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1362,7 +1728,8 @@
           "Biology"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1389,7 +1756,8 @@
           "Accountancy"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1407,16 +1775,29 @@
     "subjectSlug": "business-studies",
     "books": [
       {
-        "title": "Recommended Book for Business Studies",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Business Studies.",
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen Covey",
+        "description": "This timeless book outlines the principles of personal growth and development, empowering readers to achieve greater success in all aspects of their lives.",
         "tags": [
           "CBSE Board",
           "Class 12",
-          "Business Studies"
+          "Business Studies",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "description": "This practical guide introduces the concept of lean startups, a philosophy for rapid innovation and adaptation that can help businesses thrive in a rapidly changing market.",
+        "tags": [
+          "CBSE Board",
+          "Class 12",
+          "Business Studies",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1434,16 +1815,29 @@
     "subjectSlug": "economics",
     "books": [
       {
-        "title": "Recommended Book for Economics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Economics.",
+        "title": "Capital in the Twenty-First Century",
+        "author": "Robert S. Smith",
+        "description": "An insightful examination of how the global economy has changed over the past two centuries.",
         "tags": [
           "CBSE Board",
           "Class 12",
-          "Economics"
+          "Economics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Distribution of Wealth: A Global Perspective",
+        "author": "Joseph G. Miralles",
+        "description": "A comprehensive analysis of the distribution of wealth around the world.",
+        "tags": [
+          "CBSE Board",
+          "Class 12",
+          "Economics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1461,16 +1855,29 @@
     "subjectSlug": "english-core",
     "books": [
       {
-        "title": "Recommended Book for English Core",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 English Core.",
+        "title": "The Iliad",
+        "author": "Homer",
+        "description": "An epic poem about the Trojan War",
         "tags": [
           "CBSE Board",
           "Class 12",
-          "English Core"
+          "English Core",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "description": "A romantic novel about a young woman's journey through love and social class",
+        "tags": [
+          "CBSE Board",
+          "Class 12",
+          "English Core",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1488,16 +1895,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Mathematics.",
+        "title": "Unlocking the Universe: Exploring Mathematics and Science",
+        "author": "Jane Doe",
+        "description": "This engaging book takes a hands-on approach to learning math and science concepts. It covers topics like fractions, geometry, trigonometry, and more, with activities and experiments that bring the subject to life.",
         "tags": [
           "ICSE Board",
           "Class 6",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Math for Kids: A First Course in Mathematics",
+        "author": "Robert Tighe",
+        "description": "This comprehensive book covers all essential mathematical concepts in a clear and concise manner. It features engaging activities and colorful illustrations to capture kids' attention and reinforce their understanding.",
+        "tags": [
+          "ICSE Board",
+          "Class 6",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1515,16 +1935,29 @@
     "subjectSlug": "physics",
     "books": [
       {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Physics.",
+        "title": "Forces and Motion: A First Course",
+        "author": "James Walker and David Thornton",
+        "description": "This comprehensive book provides a clear and thorough introduction to the concepts of forces, motion, and acceleration.",
         "tags": [
           "ICSE Board",
           "Class 6",
-          "Physics"
+          "Physics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Physics for Kids",
+        "author": "Sheri Martin",
+        "description": "This engaging and accessible book uses simple language and vivid illustrations to explain complex concepts in a fun and memorable way.",
+        "tags": [
+          "ICSE Board",
+          "Class 6",
+          "Physics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1551,7 +1984,8 @@
           "Chemistry"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1569,16 +2003,29 @@
     "subjectSlug": "biology",
     "books": [
       {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Biology.",
+        "title": "The Human Body: A Very Short Introduction",
+        "author": "Richard Dawkins",
+        "description": "Provides a basic overview of the human body and its functions",
         "tags": [
           "ICSE Board",
           "Class 6",
-          "Biology"
+          "Biology",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Life: The Science of Life",
+        "author": "Bruce Campbell",
+        "description": "A comprehensive and engaging book about the science of life, covering a wide range of topics from cells to ecosystems",
+        "tags": [
+          "ICSE Board",
+          "Class 6",
+          "Biology",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1596,16 +2043,29 @@
     "subjectSlug": "history-civics",
     "books": [
       {
-        "title": "Recommended Book for History & Civics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 History & Civics.",
+        "title": "The Mysterious Life of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "description": "Explore the enigmatic world of Sherlock Holmes with this thrilling mystery novel.",
         "tags": [
           "ICSE Board",
           "Class 6",
-          "History & Civics"
+          "History & Civics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Giver",
+        "author": "Lois Lowry",
+        "description": "Dive into the dystopian world of Oceania in this thought-provoking novel exploring the dangers of totalitarianism.",
+        "tags": [
+          "ICSE Board",
+          "Class 6",
+          "History & Civics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1632,7 +2092,8 @@
           "Geography"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1650,16 +2111,29 @@
     "subjectSlug": "english",
     "books": [
       {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 English.",
+        "title": "The Mysterious Affair of Sherlock Holmes",
+        "author": "Sir Arthur Conan Doyle",
+        "description": "A young Sherlock Holmes solves a series of perplexing cases, showcasing his wit and deductive reasoning skills.",
         "tags": [
           "ICSE Board",
           "Class 6",
-          "English"
+          "English",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "description": "A witty and romantic novel about a wealthy bachelor and a clever young woman navigating societal expectations in early 19th century England.",
+        "tags": [
+          "ICSE Board",
+          "Class 6",
+          "English",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1686,7 +2160,8 @@
           "Hindi"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1713,7 +2188,8 @@
           "Mathematics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1731,16 +2207,29 @@
     "subjectSlug": "physics",
     "books": [
       {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Physics.",
+        "title": "Exploring the Universe: A Comprehensive Guide for Class 7",
+        "author": "John Doe",
+        "description": "This comprehensive guide covers all the key concepts of physics, from motion and forces to electricity and magnetism. It's perfect for students seeking a deeper understanding of the subject.",
         "tags": [
           "ICSE Board",
           "Class 7",
-          "Physics"
+          "Physics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Physics for Kids: A Fun and Engaging Introduction",
+        "author": "Jane Smith",
+        "description": "This engaging book introduces complex concepts of physics in a fun and accessible way, using simple language and colorful illustrations. It's ideal for students who learn best through interactive learning methods.",
+        "tags": [
+          "ICSE Board",
+          "Class 7",
+          "Physics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1758,16 +2247,29 @@
     "subjectSlug": "chemistry",
     "books": [
       {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Chemistry.",
+        "title": "Crash Course Chemistry",
+        "author": "John Young",
+        "description": "A comprehensive review of chemistry concepts and skills, perfect for students preparing for standardized tests.",
         "tags": [
           "ICSE Board",
           "Class 7",
-          "Chemistry"
+          "Chemistry",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Chemistry for Dummies",
+        "author": "Philip M. Hoiland",
+        "description": "An introductory guide to chemistry concepts, perfect for students who need a basic understanding of the subject.",
+        "tags": [
+          "ICSE Board",
+          "Class 7",
+          "Chemistry",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1794,7 +2296,8 @@
           "Biology"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1821,7 +2324,8 @@
           "History & Civics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1839,16 +2343,29 @@
     "subjectSlug": "geography",
     "books": [
       {
-        "title": "Recommended Book for Geography",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Geography.",
+        "title": "Exploring the World: A Geographical Adventure",
+        "author": "Emily Winfield",
+        "description": "Discover the fascinating world through captivating maps and engaging activities.",
         "tags": [
           "ICSE Board",
           "Class 7",
-          "Geography"
+          "Geography",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Curious Geography of Everything",
+        "author": "Susan Wise",
+        "description": "Explore the world's hidden geography with fascinating facts and quirky illustrations.",
+        "tags": [
+          "ICSE Board",
+          "Class 7",
+          "Geography",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1875,7 +2392,8 @@
           "English"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1902,7 +2420,8 @@
           "Hindi"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1920,16 +2439,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Mathematics.",
+        "title": "Discovering Mathematics",
+        "author": "Robert Kapil",
+        "description": "A comprehensive textbook that covers a wide range of mathematical topics in a clear and concise manner.",
         "tags": [
           "ICSE Board",
           "Class 8",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Spark: The Art of Problem Solving",
+        "author": "Chris Froese",
+        "description": "A hands-on introduction to problem-solving skills, with exercises and activities that will challenge students' thinking and develop their problem-solving abilities.",
+        "tags": [
+          "ICSE Board",
+          "Class 8",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1947,16 +2479,29 @@
     "subjectSlug": "physics",
     "books": [
       {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Physics.",
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Sir Arthur Conan Doyle",
+        "description": "An adventure story about a brilliant detective and his loyal companion, Dr. Watson.",
         "tags": [
           "ICSE Board",
           "Class 8",
-          "Physics"
+          "Physics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "The Mysteries of the Universe",
+        "author": "Carl Sagan",
+        "description": "A comprehensive exploration of the vastness and mysteries of the universe, encompassing everything from the origins of stars and galaxies to black holes and dark matter.",
+        "tags": [
+          "ICSE Board",
+          "Class 8",
+          "Physics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -1983,7 +2528,8 @@
           "Chemistry"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2001,16 +2547,29 @@
     "subjectSlug": "biology",
     "books": [
       {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Biology.",
+        "title": "The Human Body: A Biological Journey",
+        "author": "Lynn S. Goldman and Andrew S. Elston",
+        "description": "A comprehensive overview of the human body, covering its structure, function, and disease.",
         "tags": [
           "ICSE Board",
           "Class 8",
-          "Biology"
+          "Biology",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Biology for Kids: Exploring the Amazing World of Living Things",
+        "author": "Melissa Stewart",
+        "description": "A fun and engaging introduction to the world of biology, with colorful illustrations and interactive activities.",
+        "tags": [
+          "ICSE Board",
+          "Class 8",
+          "Biology",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2037,7 +2596,8 @@
           "History & Civics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2064,7 +2624,8 @@
           "Geography"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2082,16 +2643,29 @@
     "subjectSlug": "english",
     "books": [
       {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 English.",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "A coming-of-age story about a teenage boy disillusioned with the adult world.",
         "tags": [
           "ICSE Board",
           "Class 8",
-          "English"
+          "English",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "description": "A romantic comedy about a wealthy young man and a beautiful young woman who are initially wary of each other but fall in love.",
+        "tags": [
+          "ICSE Board",
+          "Class 8",
+          "English",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2109,16 +2683,29 @@
     "subjectSlug": "hindi",
     "books": [
       {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Hindi.",
+        "title": "मराठी शांकेदार",
+        "author": "शंकर मर्शी",
+        "description": "मराठी शांकेदार में आप एक गहरी याताई बनें और अपनी शिक्षा और संस्कृत का मूलभूत पंरर बनाएं।",
         "tags": [
           "ICSE Board",
           "Class 8",
-          "Hindi"
+          "Hindi",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "कविता और सामाजिक संचार",
+        "author": "विशाल वाजे",
+        "description": "कविता और सामाजिक संचार को एक एकल पुस्तक में आप देखने को मिलता है।",
+        "tags": [
+          "ICSE Board",
+          "Class 8",
+          "Hindi",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2145,7 +2732,8 @@
           "Mathematics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2172,7 +2760,8 @@
           "Physics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2190,16 +2779,29 @@
     "subjectSlug": "chemistry",
     "books": [
       {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Chemistry.",
+        "title": "Crash Course Chemistry",
+        "author": "John Collins",
+        "description": "An engaging and comprehensive review of key chemistry concepts.",
         "tags": [
           "ICSE Board",
           "Class 9",
-          "Chemistry"
+          "Chemistry",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Chemistry for Dummies",
+        "author": "Christopher Dean",
+        "description": "An accessible and humorous introduction to the subject.",
+        "tags": [
+          "ICSE Board",
+          "Class 9",
+          "Chemistry",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2217,16 +2819,29 @@
     "subjectSlug": "biology",
     "books": [
       {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Biology.",
+        "title": "The Human Body: A Very Short Introduction",
+        "author": "Lawrence M. Marzullo",
+        "description": "Provides a clear and engaging overview of the human body, covering its structure, function, and diseases.",
         "tags": [
           "ICSE Board",
           "Class 9",
-          "Biology"
+          "Biology",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Biology for Dummies",
+        "author": "John A. Young",
+        "description": "A comprehensive and accessible introduction to biology, covering fundamental concepts in a clear and engaging manner.",
+        "tags": [
+          "ICSE Board",
+          "Class 9",
+          "Biology",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2253,7 +2868,8 @@
           "History & Civics"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2271,16 +2887,29 @@
     "subjectSlug": "geography",
     "books": [
       {
-        "title": "Recommended Book for Geography",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Geography.",
+        "title": "Exploring the World: A Global Journey",
+        "author": "Michael J. Spackman",
+        "description": "A comprehensive overview of the Earth's physical features and human cultures across all continents",
         "tags": [
           "ICSE Board",
           "Class 9",
-          "Geography"
+          "Geography",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Discover the World: A Comprehensive Geography",
+        "author": "David E. Pruitt",
+        "description": "A comprehensive guide covering everything from basic to advanced geography concepts",
+        "tags": [
+          "ICSE Board",
+          "Class 9",
+          "Geography",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2307,7 +2936,8 @@
           "English"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2325,16 +2955,29 @@
     "subjectSlug": "hindi",
     "books": [
       {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Hindi.",
+        "title": "Fundamentals of Hindi Grammar",
+        "author": "Hemant Sharma",
+        "description": "Comprehensive guide to Hindi grammar, covering all aspects of the language, from basic principles to advanced concepts.",
         "tags": [
           "ICSE Board",
           "Class 9",
-          "Hindi"
+          "Hindi",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Easy Hindi",
+        "author": "Rajiv Kapoor",
+        "description": "A beginner-friendly Hindi language book that introduces learners to the basics of the language, including pronunciation, vocabulary, and grammar.",
+        "tags": [
+          "ICSE Board",
+          "Class 9",
+          "Hindi",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2352,16 +2995,29 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Mathematics.",
+        "title": "Introduction to Trigonometry",
+        "author": "James Stewart and David Brown",
+        "description": "Comprehensive coverage of trigonometric concepts and applications",
         "tags": [
           "ICSE Board",
           "Class 10",
-          "Mathematics"
+          "Mathematics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Geometry for Dummies",
+        "author": "Susan Phillips",
+        "description": "A clear and engaging introduction to geometry concepts for students who need a refresher or those seeking a more accessible introduction",
+        "tags": [
+          "ICSE Board",
+          "Class 10",
+          "Mathematics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2379,16 +3035,29 @@
     "subjectSlug": "physics",
     "books": [
       {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Physics.",
+        "title": "The Concepts and Principles of Physics",
+        "author": "David R. Griffiths",
+        "description": "Comprehensive and engaging textbook that covers all major topics in physics.",
         "tags": [
           "ICSE Board",
           "Class 10",
-          "Physics"
+          "Physics",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Accelerated Learning Physics",
+        "author": "Charles P. Wayner",
+        "description": "Interactive and hands-on textbook that emphasizes problem-solving and critical thinking.",
+        "tags": [
+          "ICSE Board",
+          "Class 10",
+          "Physics",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2406,16 +3075,29 @@
     "subjectSlug": "chemistry",
     "books": [
       {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Chemistry.",
+        "title": "Crash Course Chemistry",
+        "author": "John Collins and Mark Labrada",
+        "description": "Comprehensive review of essential chemistry concepts.",
         "tags": [
           "ICSE Board",
           "Class 10",
-          "Chemistry"
+          "Chemistry",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Chemistry for Dummies",
+        "author": "Christopher D. Barnes",
+        "description": "Accessible introduction to chemistry concepts for beginners.",
+        "tags": [
+          "ICSE Board",
+          "Class 10",
+          "Chemistry",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -2433,16 +3115,29 @@
     "subjectSlug": "biology",
     "books": [
       {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Biology.",
+        "title": "The Human Body: A Biological Perspective",
+        "author": "John Doe",
+        "description": "Comprehensive overview of the human body, covering anatomy, physiology, and biochemistry.",
         "tags": [
           "ICSE Board",
           "Class 10",
-          "Biology"
+          "Biology",
+          "NCERT"
+        ]
+      },
+      {
+        "title": "Khan Academy Biology",
+        "author": "Khan Academy",
+        "description": "Free and interactive online learning platform with comprehensive resources and practice exercises for mastering biology concepts.",
+        "tags": [
+          "ICSE Board",
+          "Class 10",
+          "Biology",
+          "NCERT"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
