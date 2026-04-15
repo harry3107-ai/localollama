@@ -99,15 +99,25 @@
     "subjectSlug": "social-science-history-our-pasts-i",
     "books": [
       {
-        "title": "Recommended Book for Social Science - History (Our Pasts - I)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Social Science - History (Our Pasts - I).",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "A poignant story about the American Dream and social inequality during the Jazz Age",
         "tags": [
           "CBSE Board",
           "Class 6",
           "Social Science - History (Our Pasts - I)",
-          "Theory",
-          "Application"
+          "History Comprehension"
+        ]
+      },
+      {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "description": "A heartbreaking diary detailing the horrors of the Holocaust and the resilience of the human spirit",
+        "tags": [
+          "CBSE Board",
+          "Class 6",
+          "Social Science - History (Our Pasts - I)",
+          "History Comprehension"
         ]
       }
     ],
@@ -171,14 +181,27 @@
     "subjectSlug": "social-science-civics-social-and-political-life-i",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Civics (Social and Political Life - I)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Social Science - Civics (Social and Political Life - I).",
+        "title": "The Story of Parliament",
+        "author": "Christopher Meyer",
+        "description": "This book tells the story of how the British Parliament was formed and has operated since 1945.",
         "tags": [
           "CBSE Board",
           "Class 6",
           "Social Science - Civics (Social and Political Life - I)",
-          "Application"
+          "Application",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "The People's History of the United States",
+        "author": "Gary Ferguson",
+        "description": "This book provides a comprehensive and engaging history of the United States, covering the country's history from the founding to the present.",
+        "tags": [
+          "CBSE Board",
+          "Class 6",
+          "Social Science - Civics (Social and Political Life - I)",
+          "Application",
+          "Problem Solving"
         ]
       }
     ],
@@ -198,21 +221,8 @@
       "en": "English"
     },
     "subjectSlug": "english",
-    "books": [
-      {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 English.",
-        "tags": [
-          "CBSE Board",
-          "Class 6",
-          "English",
-          "Reading",
-          "Writing"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -230,14 +240,27 @@
     "subjectSlug": "hindi",
     "books": [
       {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Hindi.",
+        "title": "Learn Hindi: A Comprehensive Grammar Book for Class 6",
+        "author": "Oxford University Press",
+        "description": "This comprehensive grammar book covers everything students need to know to confidently read, write, and speak Hindi. It includes clear explanations, exercises, and practice tests to help students master the language.",
         "tags": [
           "CBSE Board",
           "Class 6",
           "Hindi",
-          "Language Understanding"
+          "Language",
+          "Application"
+        ]
+      },
+      {
+        "title": "Hindi for Beginners: Learn Hindi with Simple English Words and Stories",
+        "author": "Mango Languages",
+        "description": "This engaging book introduces Hindi vocabulary and grammar concepts using simple, relatable language. It features interactive exercises, stories, and activities that make learning fun and effective.",
+        "tags": [
+          "CBSE Board",
+          "Class 6",
+          "Hindi",
+          "Language",
+          "Application"
         ]
       }
     ],
@@ -299,21 +322,8 @@
       "en": "Science"
     },
     "subjectSlug": "science",
-    "books": [
-      {
-        "title": "Recommended Book for Science",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Science.",
-        "tags": [
-          "CBSE Board",
-          "Class 7",
-          "Science",
-          "Theory",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -371,15 +381,25 @@
     "subjectSlug": "social-science-geography-our-environment",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Geography (Our Environment)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Social Science - Geography (Our Environment).",
+        "title": "The Story of the World: Exploring Our Environment",
+        "author": "National Geographic",
+        "description": "This comprehensive book takes a global approach to introducing students to the wonders of our planet. It covers a wide range of topics, including geography, climate, ecosystems, and more.",
         "tags": [
           "CBSE Board",
           "Class 7",
           "Social Science - Geography (Our Environment)",
-          "Environmental Issues",
-          "Physical Geography"
+          "Geography and Environment"
+        ]
+      },
+      {
+        "title": "Exploring Our World: The Physical Environment",
+        "author": "National Geographic",
+        "description": "This book offers an engaging introduction to the physical world, covering topics such as weather, climate, oceans, and landforms.",
+        "tags": [
+          "CBSE Board",
+          "Class 7",
+          "Social Science - Geography (Our Environment)",
+          "Geography and Environment"
         ]
       }
     ],
@@ -609,9 +629,20 @@
     "subjectSlug": "social-science-history-our-pasts-iii",
     "books": [
       {
-        "title": "Recommended Book for Social Science - History (Our Pasts - III)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Social Science - History (Our Pasts - III).",
+        "title": "The Story of Ancient Egypt: Rise of a Civilization",
+        "author": "Ian Shaw",
+        "description": "Uncover the fascinating history of ancient Egypt, from its humble beginnings to its dramatic decline.",
+        "tags": [
+          "CBSE Board",
+          "Class 8",
+          "Social Science - History (Our Pasts - III)",
+          "Theory"
+        ]
+      },
+      {
+        "title": "The World's First Cities: From Mesopotamia to the Silk Road",
+        "author": "Timothy May",
+        "description": "Explore the emergence of cities across the globe, tracing their evolution and impact on human history.",
         "tags": [
           "CBSE Board",
           "Class 8",
@@ -636,20 +667,8 @@
       "en": "Social Science - Geography (Resource and Development)"
     },
     "subjectSlug": "social-science-geography-resource-and-development",
-    "books": [
-      {
-        "title": "Recommended Book for Social Science - Geography (Resource and Development)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Social Science - Geography (Resource and Development).",
-        "tags": [
-          "CBSE Board",
-          "Class 8",
-          "Social Science - Geography (Resource and Development)",
-          "Resource Management"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -667,15 +686,27 @@
     "subjectSlug": "social-science-civics-social-and-political-life-iii",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Civics (Social and Political Life - III)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Social Science - Civics (Social and Political Life - III).",
+        "title": "Democracy in the People's Republic of China",
+        "author": "Zhao Ziyang",
+        "description": "Comprehensive and insightful analysis of the Chinese Communist Party's philosophy of democracy and its implications for the country's social and political development.",
         "tags": [
           "CBSE Board",
           "Class 8",
           "Social Science - Civics (Social and Political Life - III)",
-          "Theory",
-          "Application"
+          "Application",
+          "Theory"
+        ]
+      },
+      {
+        "title": "The Great Society: A History of the World's Social Systems",
+        "author": "Michael Harrington",
+        "description": "Provides a comprehensive and accessible overview of the history and evolution of social systems across the globe, including a chapter on the social structure and organization of ancient civilizations.",
+        "tags": [
+          "CBSE Board",
+          "Class 8",
+          "Social Science - Civics (Social and Political Life - III)",
+          "Application",
+          "Theory"
         ]
       }
     ],
@@ -697,14 +728,25 @@
     "subjectSlug": "english",
     "books": [
       {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 English.",
+        "title": "The Mysterious Life of Sherlock Holmes",
+        "author": "Sir Arthur Conan Doyle",
+        "description": "A classic detective novel with a captivating story and brilliant characters.",
         "tags": [
           "CBSE Board",
           "Class 8",
           "English",
-          "Reading"
+          "Theory"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "A timeless tale about prejudice, justice, and the human condition.",
+        "tags": [
+          "CBSE Board",
+          "Class 8",
+          "English",
+          "Theory"
         ]
       }
     ],
@@ -808,21 +850,8 @@
       "en": "Science"
     },
     "subjectSlug": "science",
-    "books": [
-      {
-        "title": "Recommended Book for Science",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Science.",
-        "tags": [
-          "CBSE Board",
-          "Class 9",
-          "Science",
-          "Theory",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -838,21 +867,8 @@
       "en": "Social Science - History (India and the Contemporary World - I)"
     },
     "subjectSlug": "social-science-history-india-and-the-contemporary-world-i",
-    "books": [
-      {
-        "title": "Recommended Book for Social Science - History (India and the Contemporary World - I)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Social Science - History (India and the Contemporary World - I).",
-        "tags": [
-          "CBSE Board",
-          "Class 9",
-          "Social Science - History (India and the Contemporary World - I)",
-          "History",
-          "Application"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1120,21 +1136,8 @@
       "en": "Science"
     },
     "subjectSlug": "science",
-    "books": [
-      {
-        "title": "Recommended Book for Science",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Science.",
-        "tags": [
-          "CBSE Board",
-          "Class 10",
-          "Science",
-          "Theory",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1150,21 +1153,8 @@
       "en": "Social Science - History (India and the Contemporary World - II)"
     },
     "subjectSlug": "social-science-history-india-and-the-contemporary-world-ii",
-    "books": [
-      {
-        "title": "Recommended Book for Social Science - History (India and the Contemporary World - II)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Social Science - History (India and the Contemporary World - II).",
-        "tags": [
-          "CBSE Board",
-          "Class 10",
-          "Social Science - History (India and the Contemporary World - II)",
-          "History Skills",
-          "Social Science Skills"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1222,21 +1212,8 @@
       "en": "Social Science - Political Science (Democratic Politics - II)"
     },
     "subjectSlug": "social-science-political-science-democratic-politics-ii",
-    "books": [
-      {
-        "title": "Recommended Book for Social Science - Political Science (Democratic Politics - II)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Social Science - Political Science (Democratic Politics - II).",
-        "tags": [
-          "CBSE Board",
-          "Class 10",
-          "Social Science - Political Science (Democratic Politics - II)",
-          "Theory",
-          "Application"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1420,21 +1397,8 @@
       "en": "Physics"
     },
     "subjectSlug": "physics",
-    "books": [
-      {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Physics.",
-        "tags": [
-          "CBSE Board",
-          "Class 11",
-          "Physics",
-          "Theory",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1490,21 +1454,8 @@
       "en": "Biology"
     },
     "subjectSlug": "biology",
-    "books": [
-      {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Biology.",
-        "tags": [
-          "CBSE Board",
-          "Class 11",
-          "Biology",
-          "Theory",
-          "Application"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1642,21 +1593,8 @@
       "en": "English Core"
     },
     "subjectSlug": "english-core",
-    "books": [
-      {
-        "title": "Recommended Book for English Core",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 English Core.",
-        "tags": [
-          "CBSE Board",
-          "Class 11",
-          "English Core",
-          "Reading Comprehension",
-          "Writing Skills"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1796,21 +1734,8 @@
       "en": "Biology"
     },
     "subjectSlug": "biology",
-    "books": [
-      {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Biology.",
-        "tags": [
-          "CBSE Board",
-          "Class 12",
-          "Biology",
-          "Theory",
-          "Application"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -1826,21 +1751,8 @@
       "en": "Accountancy"
     },
     "subjectSlug": "accountancy",
-    "books": [
-      {
-        "title": "Recommended Book for Accountancy",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Accountancy.",
-        "tags": [
-          "CBSE Board",
-          "Class 12",
-          "Accountancy",
-          "Accountancy",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2060,20 +1972,8 @@
       "en": "Chemistry"
     },
     "subjectSlug": "chemistry",
-    "books": [
-      {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Chemistry.",
-        "tags": [
-          "ICSE Board",
-          "Class 6",
-          "Chemistry",
-          "Chemical Principles"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2171,21 +2071,8 @@
       "en": "Geography"
     },
     "subjectSlug": "geography",
-    "books": [
-      {
-        "title": "Recommended Book for Geography",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Geography.",
-        "tags": [
-          "ICSE Board",
-          "Class 6",
-          "Geography",
-          "Geography",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2243,21 +2130,8 @@
       "en": "Hindi"
     },
     "subjectSlug": "hindi",
-    "books": [
-      {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Hindi.",
-        "tags": [
-          "ICSE Board",
-          "Class 6",
-          "Hindi",
-          "Language",
-          "Application"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2273,21 +2147,8 @@
       "en": "Mathematics"
     },
     "subjectSlug": "mathematics",
-    "books": [
-      {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Mathematics.",
-        "tags": [
-          "ICSE Board",
-          "Class 7",
-          "Mathematics",
-          "Theory",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2385,20 +2246,8 @@
       "en": "Biology"
     },
     "subjectSlug": "biology",
-    "books": [
-      {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Biology.",
-        "tags": [
-          "ICSE Board",
-          "Class 7",
-          "Biology",
-          "Theory"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2414,20 +2263,8 @@
       "en": "History & Civics"
     },
     "subjectSlug": "history-civics",
-    "books": [
-      {
-        "title": "Recommended Book for History & Civics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 History & Civics.",
-        "tags": [
-          "ICSE Board",
-          "Class 7",
-          "History & Civics",
-          "History & Civics"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2483,20 +2320,8 @@
       "en": "English"
     },
     "subjectSlug": "english",
-    "books": [
-      {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 English.",
-        "tags": [
-          "ICSE Board",
-          "Class 7",
-          "English",
-          "Theory"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2512,20 +2337,8 @@
       "en": "Hindi"
     },
     "subjectSlug": "hindi",
-    "books": [
-      {
-        "title": "Recommended Book for Hindi",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 Hindi.",
-        "tags": [
-          "ICSE Board",
-          "Class 7",
-          "Hindi",
-          "Language Learning"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2625,21 +2438,8 @@
       "en": "Chemistry"
     },
     "subjectSlug": "chemistry",
-    "books": [
-      {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Chemistry.",
-        "tags": [
-          "ICSE Board",
-          "Class 8",
-          "Chemistry",
-          "Theory",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2697,21 +2497,8 @@
       "en": "History & Civics"
     },
     "subjectSlug": "history-civics",
-    "books": [
-      {
-        "title": "Recommended Book for History & Civics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 History & Civics.",
-        "tags": [
-          "ICSE Board",
-          "Class 8",
-          "History & Civics",
-          "History",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2727,20 +2514,8 @@
       "en": "Geography"
     },
     "subjectSlug": "geography",
-    "books": [
-      {
-        "title": "Recommended Book for Geography",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Geography.",
-        "tags": [
-          "ICSE Board",
-          "Class 8",
-          "Geography",
-          "Location & Place"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2840,21 +2615,8 @@
       "en": "Mathematics"
     },
     "subjectSlug": "mathematics",
-    "books": [
-      {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Mathematics.",
-        "tags": [
-          "ICSE Board",
-          "Class 9",
-          "Mathematics",
-          "Problem Solving",
-          "Theory"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2870,20 +2632,8 @@
       "en": "Physics"
     },
     "subjectSlug": "physics",
-    "books": [
-      {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 Physics.",
-        "tags": [
-          "ICSE Board",
-          "Class 9",
-          "Physics",
-          "Theory"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -2979,21 +2729,8 @@
       "en": "History & Civics"
     },
     "subjectSlug": "history-civics",
-    "books": [
-      {
-        "title": "Recommended Book for History & Civics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 History & Civics.",
-        "tags": [
-          "ICSE Board",
-          "Class 9",
-          "History & Civics",
-          "History",
-          "Application"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3051,21 +2788,8 @@
       "en": "English"
     },
     "subjectSlug": "english",
-    "books": [
-      {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 9 English.",
-        "tags": [
-          "ICSE Board",
-          "Class 9",
-          "English",
-          "Language Skills",
-          "Reading"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3285,21 +3009,8 @@
       "en": "History & Civics"
     },
     "subjectSlug": "history-civics",
-    "books": [
-      {
-        "title": "Recommended Book for History & Civics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 History & Civics.",
-        "tags": [
-          "ICSE Board",
-          "Class 10",
-          "History & Civics",
-          "History",
-          "Application"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3481,21 +3192,8 @@
       "en": "Physics"
     },
     "subjectSlug": "physics",
-    "books": [
-      {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Physics.",
-        "tags": [
-          "ISC Board",
-          "Class 11",
-          "Physics",
-          "Theory",
-          "Problem Solving"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3595,20 +3293,8 @@
       "en": "Accounts"
     },
     "subjectSlug": "accounts",
-    "books": [
-      {
-        "title": "Recommended Book for Accounts",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Accounts.",
-        "tags": [
-          "ISC Board",
-          "Class 11",
-          "Accounts",
-          "Financial Analysis"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3624,19 +3310,8 @@
       "en": "Commerce"
     },
     "subjectSlug": "commerce",
-    "books": [
-      {
-        "title": "Recommended Book for Commerce",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Commerce.",
-        "tags": [
-          "ISC Board",
-          "Class 11",
-          "Commerce"
-        ]
-      }
-    ],
-    "done": true
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3652,18 +3327,8 @@
       "en": "Economics"
     },
     "subjectSlug": "economics",
-    "books": [
-      {
-        "title": "Recommended Book for Economics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 Economics.",
-        "tags": [
-          "ISC Board",
-          "Class 11",
-          "Economics"
-        ]
-      }
-    ]
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3681,16 +3346,31 @@
     "subjectSlug": "english",
     "books": [
       {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 11 English.",
+        "title": "Hamlet: A tragedy by William Shakespeare",
+        "author": "William Shakespeare",
+        "description": "One of the greatest plays ever written, Hamlet explores themes of revenge, madness, and mortality.",
         "tags": [
           "ISC Board",
           "Class 11",
-          "English"
+          "English",
+          "Grammar",
+          "Writing"
+        ]
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "A coming-of-age novel about a teenage boy searching for identity and belonging in the suburbs.",
+        "tags": [
+          "ISC Board",
+          "Class 11",
+          "English",
+          "Grammar",
+          "Writing"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3708,16 +3388,31 @@
     "subjectSlug": "mathematics",
     "books": [
       {
-        "title": "Recommended Book for Mathematics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Mathematics.",
+        "title": "Mathematics: A Comprehensive Guide for Class 12",
+        "author": "Ramesh Singh, et al.",
+        "description": "This comprehensive book covers all the key concepts and topics covered in Class 12 mathematics. It includes numerous examples and exercises to help students improve their understanding of the subject.",
         "tags": [
           "ISC Board",
           "Class 12",
-          "Mathematics"
+          "Mathematics",
+          "Problem Solving",
+          "Theory"
+        ]
+      },
+      {
+        "title": "The Brilliant World of Mathematics",
+        "author": "G.H. Hardy, E.M. Wright",
+        "description": "A classic introduction to mathematics that introduces fundamental concepts and explores various mathematical puzzles and problems.",
+        "tags": [
+          "ISC Board",
+          "Class 12",
+          "Mathematics",
+          "Problem Solving",
+          "Theory"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3733,18 +3428,8 @@
       "en": "Physics"
     },
     "subjectSlug": "physics",
-    "books": [
-      {
-        "title": "Recommended Book for Physics",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Physics.",
-        "tags": [
-          "ISC Board",
-          "Class 12",
-          "Physics"
-        ]
-      }
-    ]
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3760,18 +3445,8 @@
       "en": "Chemistry"
     },
     "subjectSlug": "chemistry",
-    "books": [
-      {
-        "title": "Recommended Book for Chemistry",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Chemistry.",
-        "tags": [
-          "ISC Board",
-          "Class 12",
-          "Chemistry"
-        ]
-      }
-    ]
+    "books": [],
+    "done": false
   },
   {
     "examName": {
@@ -3789,16 +3464,31 @@
     "subjectSlug": "biology",
     "books": [
       {
-        "title": "Recommended Book for Biology",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Biology.",
+        "title": "The Human Body: A Very Short Introduction",
+        "author": "Michael C. Khoury",
+        "description": "A concise and engaging overview of the human body",
         "tags": [
           "ISC Board",
           "Class 12",
-          "Biology"
+          "Biology",
+          "Theory",
+          "Application"
+        ]
+      },
+      {
+        "title": "Biology for Dummies",
+        "author": "Paul Anderson",
+        "description": "A comprehensive and accessible introduction to the basics of biology",
+        "tags": [
+          "ISC Board",
+          "Class 12",
+          "Biology",
+          "Theory",
+          "Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -3843,16 +3533,31 @@
     "subjectSlug": "commerce",
     "books": [
       {
-        "title": "Recommended Book for Commerce",
-        "author": "Author Name",
-        "description": "Best reference material for Class 12 Commerce.",
+        "title": "The Art of Business",
+        "author": "Richard Branson",
+        "description": "Comprehensive guide to business principles and practices",
         "tags": [
           "ISC Board",
           "Class 12",
-          "Commerce"
+          "Commerce",
+          "Problem Solving",
+          "Application"
+        ]
+      },
+      {
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen Covey",
+        "description": "Practical guide to personal and professional development",
+        "tags": [
+          "ISC Board",
+          "Class 12",
+          "Commerce",
+          "Problem Solving",
+          "Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {

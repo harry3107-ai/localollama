@@ -224,7 +224,7 @@ def update_books_with_api(books_data, output_path):
     - Replacement 2: Author (from API)
     - Replacement 3: Description (from API)
     - Append: Add 3+ contextual tags (Exam, Class, Subject + 1-2 contextual)
-    - Mark: Set "done": true
+    - Mark: Set "done": true (ONLY if API succeeds)
     """
     updated_data = books_data
     total_subjects = len(updated_data)
@@ -251,42 +251,45 @@ def update_books_with_api(books_data, output_path):
         print(f"  → Calling API for 2 book recommendations...")
         books_info = generate_book_info(subject_name, sub_exam_name)
         
-        # Generate contextual tags
+        if not books_info:
+            print(f"  ❌ FAILED: Could not generate book information from API")
+            print(f"  ⏭️  SKIPPED: Will retry on next run (not marked as done)")
+            failed_count += 1
+            # DON'T mark as done - allow retry later
+            continue
+        
+        # Generate contextual tags only if books generated successfully
         print(f"  → Generating contextual tags...")
         contextual_tags = generate_contextual_tags(subject_name)
         
-        if books_info:
-            # Create base tags with exam, class, subject + contextual tags
-            base_tags = [exam_name, sub_exam_name, subject_name]
-            all_tags = base_tags + contextual_tags
-            
-            # Clear existing books and add 2 new ones
-            entry["books"] = []
-            
-            for book_idx, book_info in enumerate(books_info, 1):
-                book = {
-                    "title": book_info["title"],
-                    "author": book_info["author"],
-                    "description": book_info["description"],
-                    "tags": all_tags.copy()
-                }
-                entry["books"].append(book)
-                print(f"  ✓ [REPLACEMENT {(book_idx-1)*3 + 1}] Book {book_idx} Title: {book_info['title'][:50]}...")
-                print(f"  ✓ [REPLACEMENT {(book_idx-1)*3 + 2}] Book {book_idx} Author: {book_info['author']}")
-                print(f"  ✓ [REPLACEMENT {(book_idx-1)*3 + 3}] Book {book_idx} Description updated")
-                replacements_count += 3
-            
-            # Show tags for both books
-            for book_idx, book in enumerate(entry["books"], 1):
-                if "tags" in book and isinstance(book["tags"], list):
-                    tag_display = ", ".join(book["tags"])
-                    print(f"  ✓ [APPEND] Book {book_idx} Tags ({len(book['tags'])}): {tag_display}")
-                    append_count += 1
-        else:
-            print(f"  ❌ FAILED: Could not generate book information from API")
-            failed_count += 1
+        # Create base tags with exam, class, subject + contextual tags
+        base_tags = [exam_name, sub_exam_name, subject_name]
+        all_tags = base_tags + contextual_tags
         
-        # Mark as done
+        # Clear existing books and add 2 new ones
+        entry["books"] = []
+        
+        for book_idx, book_info in enumerate(books_info, 1):
+            book = {
+                "title": book_info["title"],
+                "author": book_info["author"],
+                "description": book_info["description"],
+                "tags": all_tags.copy()
+            }
+            entry["books"].append(book)
+            print(f"  ✓ [REPLACEMENT {(book_idx-1)*3 + 1}] Book {book_idx} Title: {book_info['title'][:50]}...")
+            print(f"  ✓ [REPLACEMENT {(book_idx-1)*3 + 2}] Book {book_idx} Author: {book_info['author']}")
+            print(f"  ✓ [REPLACEMENT {(book_idx-1)*3 + 3}] Book {book_idx} Description updated")
+            replacements_count += 3
+        
+        # Show tags for both books
+        for book_idx, book in enumerate(entry["books"], 1):
+            if "tags" in book and isinstance(book["tags"], list):
+                tag_display = ", ".join(book["tags"])
+                print(f"  ✓ [APPEND] Book {book_idx} Tags ({len(book['tags'])}): {tag_display}")
+                append_count += 1
+        
+        # Mark as done ONLY if API succeeded
         entry["done"] = True
         print(f"  ✓ [DONE] Marked as completed")
         
@@ -303,7 +306,7 @@ def update_books_with_api(books_data, output_path):
     print(f"✓ Skipped (already done): {skipped_count}")
     print(f"✓ Newly Processed: {total_subjects - skipped_count}")
     print(f"✓ Successfully Generated: {total_subjects - skipped_count - failed_count}")
-    print(f"✓ Failed: {failed_count}")
+    print(f"✓ Failed (will retry): {failed_count}")
     print(f"✓ Total Replacements Applied: {replacements_count}")
     print(f"✓ Total Appends Applied: {append_count}")
     print(f"{'='*60}\n")
@@ -316,6 +319,71 @@ def save_updated_books(books_data, output_path):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(books_data, f, indent=2, ensure_ascii=False)
     print(f"✓ Updated books saved to: {output_path}")
+
+
+def validate_and_fix_corrupted(books_data, output_path):
+    """
+    Validate all subjects marked as done=true.
+    If books array doesn't have exactly 2 items, mark as done=false to retry.
+    """
+    print("\n" + "="*60)
+    print("VALIDATING DATA INTEGRITY")
+    print("="*60 + "\n")
+    
+    fixed_count = 0
+    corrupted_count = 0
+    valid_count = 0
+    
+    for idx, entry in enumerate(books_data, 1):
+        is_done = entry.get("done", False)
+        
+        # Only check subjects marked as done
+        if not is_done:
+            continue
+        
+        subject_name = entry.get("subjectName", {}).get("en", "Unknown")
+        books = entry.get("books", [])
+        books_count = len(books)
+        
+        print(f"[{idx}] {subject_name}: books = {books_count}", end=" ")
+        
+        # Check if books array has exactly 2 items
+        if books_count != 2:
+            print(f"❌ CORRUPTED (expected 2, got {books_count})")
+            # Reset to allow reprocessing
+            entry["done"] = False
+            entry["books"] = []  # Clear invalid books
+            corrupted_count += 1
+            fixed_count += 1
+        else:
+            # Validate that each book has required fields
+            all_valid = True
+            for book_idx, book in enumerate(books, 1):
+                if not all(key in book for key in ["title", "author", "description", "tags"]):
+                    print(f"❌ CORRUPTED (Book {book_idx} missing fields)")
+                    entry["done"] = False
+                    entry["books"] = []
+                    corrupted_count += 1
+                    fixed_count += 1
+                    all_valid = False
+                    break
+            
+            if all_valid:
+                print(f"✓ VALID")
+                valid_count += 1
+    
+    # Save after validation
+    if fixed_count > 0:
+        print(f"\n💾 Saving fixed data...")
+        save_updated_books(books_data, output_path)
+    
+    print(f"\n{'='*60}")
+    print(f"✓ Valid entries (done=true, books=2): {valid_count}")
+    print(f"✓ Corrupted entries fixed: {corrupted_count}")
+    print(f"✓ Total fixed: {fixed_count}")
+    print(f"{'='*60}\n")
+    
+    return books_data
 
 
 def main():
@@ -336,14 +404,15 @@ def main():
             print("\n[MENU] Choose an option:")
             print("1. Process new subjects (skip done=true)")
             print("2. Fix existing subjects (re-generate tags for all done=true)")
-            choice = input("Enter 1 or 2: ").strip()
+            print("3. Validate data integrity (check done=true with books!=2)")
+            choice = input("Enter 1, 2, or 3: ").strip()
         else:
             choice = "1"
             print("\n[INFO] No existing output file found. Starting fresh.\n")
         
         # Step 1: Load template or output file
         print("[STEP 1] Loading data...")
-        if choice == "2" and has_existing:
+        if choice in ["2", "3"] and has_existing:
             print(f"✓ Loading existing file: {OUTPUT_FILE}")
             books_data = load_template(OUTPUT_FILE)
         elif has_existing:
@@ -355,8 +424,11 @@ def main():
         
         print(f"✓ Loaded {len(books_data)} subject entries\n")
         
-        # Step 2: Process or fix subjects
-        if choice == "2" and has_existing:
+        # Step 2: Process, fix, or validate
+        if choice == "3":
+            print("[STEP 2] Validating data integrity...")
+            updated_data = validate_and_fix_corrupted(books_data, OUTPUT_FILE)
+        elif choice == "2" and has_existing:
             print("[STEP 2] Fixing existing subjects (removing NCERT, adding contextual tags)...")
             updated_data = fix_existing_tags(books_data, OUTPUT_FILE)
         else:
